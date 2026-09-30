@@ -39,8 +39,8 @@ const MAX = 60;
 const JARGON = [
   [/\b(HR|RR|OR|CI|RCT)\b/, 'viết tắt thống kê'],
   [/đoàn hệ|tổng quan|tổng hợp|ngẫu nhiên|nhóm đối chứng|giả dược|mù đôi|cỡ mẫu|meta[- ]?analysis/i, 'thiết kế nghiên cứu'],
-  [/\d[\d.,]*\s*(ca|người tham gia|bệnh viện|nghiên cứu|quốc gia)/, 'cỡ mẫu'],
-  [/nhóm đó|hai nhóm|mỗi nhóm/, 'nhóm'],
+  [/\d[\d.,]*\s*(ca|người tham gia|bệnh viện|nghiên cứu|quốc gia)/i, 'cỡ mẫu'],
+  [/nhóm đó|hai nhóm|mỗi nhóm/i, 'nhóm'],
 ];
 const VAGUE = ['đầu kia', 'phía kia', 'đầu ra', 'nói chung là'];
 
@@ -92,7 +92,7 @@ for (const f of files) {
       const fresh = [...new Set(numbers(plain))].filter(n => !pool.some(p => derived(n, p)));
       if (fresh.length) { problems.push(`số không có trong tiêu đề/Chi phí/Lợi ích: ${fresh.join(', ')}`); count['số mới']++; }
     }
-    const vague = VAGUE.filter(w => plain.includes(w));
+    const vague = VAGUE.filter(w => plain.toLowerCase().includes(w));
     if (vague.length) { problems.push(`cách nói mơ hồ "${vague.join('", "')}"`); count['mơ hồ']++; }
     if (problems.length) bad.push(`${f}  ${where}: ${problems.join('; ')}`);
   };
