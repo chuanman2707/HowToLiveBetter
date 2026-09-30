@@ -713,34 +713,45 @@ function highlightInto(el, s, terms){
 const ITEMS = new Map();          // '9-15' -> entry
 const SECS = new Map();           // '9' -> section, cho kiểu chỉ cả phần "xem phần 9"
 let CUR_SEC = '';                 // phần đang render, để định vị "mục X" trần không kèm số phần
-// Số mục có thể viết "mục 13", "mục 12, 13", "mục 12 và 13", hoặc khoảng "mục 8 đến 10".
-const NUMS = '\\d+(?:\\s*(?:,|và|đến)\\s*\\d+)*';
-// Nhánh cuối nhận kiểu chỉ cả phần không kèm số mục như "xem phần 9" hay "phần 8, 9".
-// Nó phải đứng cuối: các nhánh trước ăn "phần 9, mục 3" trước, phần còn lại mới tới lượt nó.
+// Dạng viết của đoạn số mục — đồng bộ với tools/check-refs.mjs: "3", "3, 10",
+// "3, 10 và 11", "4 và mục 5" ("mục" được lặng lại sau ,/và), "11 đến 14",
+// "5 đến mục 10", "5 đến phần 10". Sau `,`/`và` CHỈ cho "mục" lặng lại, KHÔNG
+// cho "phần" — nếu cho, "phần 3, mục 4, phần 5, mục 6" sẽ bị nhánh chéo gộp NUMS
+// thành "4, phần 5, mục 6", gán sai phần và nuốt mất trích "phần 5, mục 6".
+// Sau "đến" mới cho cả hai. "mục lục"/"mục tiêu" không khớp vì NUMS đòi số.
+const NUMS = '\\d+(?:\\s*(?:,|và)\\s*(?:mục\\s*)?\\d+|\\s*đến\\s*(?:(?:mục|phần)\\s*)?\\d+)*';
+// Thứ tự nhánh giữ lý do bản gốc + check-refs: chéo phần trước (ăn "phần 9, mục 3"),
+// cùng phần, rồi cả phần cuối ("phần 9", "phần 8 và 9", "phần 5 đến phần 10") —
+// NUMS cũng cho "phần 7, mục 3" khớp nhánh cả phần, nên nhánh đó phải đứng sau.
 const XREF_RE = new RegExp(
   `phần\\s*(\\d+)\\s*,?\\s*mục\\s*(${NUMS})` +
   `|mục\\s*(${NUMS})` +
-  `|phần\\s*([\\d,\\s]+)`, 'g');
-// "8 đến 10" bung ra 8, 9, 10; giới hạn 40 là đề phòng bung một khoảng lớn kiểu số điều luật thành vài trăm key
-const xrefKeys = (sec, spec) => {
+  `|phần\\s*(${NUMS})`, 'g');
+// Bung một spec NUMS thành danh sách số, cùng logic nums() của check-refs:
+// tách ",|và"; mỗi phần thử khoảng "X đến (mục|phần) Y" bung ra; còn lại strip
+// prefix "mục"/"phần" rồi Number. Giới hạn 40 đề phòng bung một khoảng lớn
+// kiểu số điều luật thành vài trăm key.
+const numList = (spec) => {
   const ns = [];
   for (const part of String(spec).split(/,|và/)){
-    const r = /^\s*(\d+)\s*đến\s*(\d+)\s*$/.exec(part);
+    const r = /^\s*(?:(?:mục|phần)\s+)?(\d+)\s*đến\s*(?:(?:mục|phần)\s+)?(\d+)\s*$/.exec(part);
     if (r){
       const a = +r[1], b = +r[2];
       if (b >= a && b - a <= 40) for (let i = a; i <= b; i++) ns.push(i);
       continue;
     }
-    const n = part.trim(); if (n) ns.push(n);
+    const n = Number(part.trim().replace(/^(?:mục|phần)\s+/, ''));
+    if (Number.isFinite(n)) ns.push(n);
   }
-  return ns.map(n => `${sec}-${n}`).filter(k => ITEMS.has(k));
+  return ns;
 };
+const xrefKeys = (sec, spec) => numList(spec).map(n => `${sec}-${n}`).filter(k => ITEMS.has(k));
 function xrefInto(el, s, terms){
   XREF_RE.lastIndex = 0; let m, last = 0, any = false;
   while ((m = XREF_RE.exec(s))){
     // Key chỉ cả phần viết dạng 's9', tách biệt với key mục '9-15'
     const keys = m[4] != null
-      ? String(m[4]).split(',').map(x => x.trim()).filter(x => SECS.has(x)).map(x => 's' + x)
+      ? numList(m[4]).filter(x => SECS.has(String(x))).map(x => 's' + x)
       : xrefKeys(m[1] ?? CUR_SEC, m[2] ?? m[3] ?? '');
     if (!keys.length) continue;
     highlightInto(el, s.slice(last, m.index), terms);
