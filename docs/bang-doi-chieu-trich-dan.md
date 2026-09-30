@@ -41,5 +41,5 @@ Tổng cộng 6 trích dẫn.
 | Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
 | mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | … Đòi bồi thường thế nào xem … |
 | mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
-| mục 4 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách tính giống bộ tính việc nhà ở … |
+| mục 4 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách tính giống cách tính việc nhà ở … |
 | mục 6 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách xét giống … |

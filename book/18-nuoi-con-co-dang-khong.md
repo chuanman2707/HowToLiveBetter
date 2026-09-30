@@ -26,7 +26,7 @@ Phần này tính hai khoản: tiền và thời gian. Giống như phần 10 t�
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=lon quy-mo=tien -->
 - Chi phí: Không tốn tiền
 - Nói dễ hiểu: Mang thai, sinh con, cho con bú mà đơn vị giảm lương hay đuổi việc đều là phạm luật, phạt 1.000 đến 5.000 nhân dân tệ một người. Con chưa đủ 1 tuổi thì mỗi ngày có 1 giờ cho con bú, không bị xếp tăng ca hay ca đêm. Đòi bồi thường thế nào xem phần 19.
-- Lợi ích: Quốc vụ viện quy định: "Đơn vị sử dụng lao động không được vì nữ công nhân viên mang thai, sinh con, cho con bú mà giảm lương của họ, đuổi việc, chấm dứt hợp đồng lao động hoặc hợp đồng thuê với họ." Trong ba khoảng thời gian này đơn vị không được trừ tiền của bạn, cũng không được đuổi việc hay hủy hợp đồng. Em bé chưa đủ 1 tuổi thì mỗi ngày bạn có 1 giờ cho con bú. Đơn vị cũng không được xếp bạn kéo dài giờ làm, không được xếp ca đêm. Đơn vị vi phạm những điều trên bị phạt từ 1.000 đến 5.000 nhân dân tệ một người
+- Lợi ích: Quốc vụ viện quy định: "Đơn vị sử dụng lao động không được vì nữ công nhân viên mang thai, sinh con, cho con bú mà giảm lương của họ, đuổi việc, chấm dứt hợp đồng lao động hoặc hợp đồng tuyển dụng với họ." Trong ba khoảng thời gian này đơn vị không được trừ tiền của bạn, cũng không được đuổi việc hay hủy hợp đồng. Em bé chưa đủ 1 tuổi thì mỗi ngày bạn có 1 giờ cho con bú. Đơn vị cũng không được xếp bạn kéo dài giờ làm, không được xếp ca đêm. Đơn vị vi phạm những điều trên bị phạt từ 1.000 đến 5.000 nhân dân tệ một người
 - Mức chứng cứ: A
 - Nguồn: 国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第五条、第九条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
 - Ghi chú: Chỉ tham khảo TQ: Nếu thật sự bị đuổi việc trái luật, đường đòi bồi thường xem phần 19. Trọng điểm lấy chứng cứ là giấy thông báo đổi vị trí, giảm lương và tin nhắn trao đổi, hai thứ này phải giữ lại
@@ -35,7 +35,7 @@ Phần này tính hai khoản: tiền và thời gian. Giống như phần 10 t�
 <!-- nhan-chi-phi: tien=0 thoi-gian=nhieu y-chi=nhieu loi-ich=lon quy-mo=thoi-gian -->
 - Chi phí: Không tốn tiền, tốn thời gian. Con dưới 3 tuổi về cơ bản chiếm trọn cả ngày của bạn. Khó ở chỗ ngày nào cũng vậy, không thể cắn răng vài ngày là qua
 - Nói dễ hiểu: Cộng số giờ trông con mỗi ngày và số lần bị đánh thức giữa đêm, đổi hết ra giờ. Rồi nhân với tiền công một giờ của người làm mấy việc đó. Con số ra được thường lớn hơn xa tiền sữa tã. Vì vậy phân chia việc nên bàn trước khi sinh.
-- Lợi ích: Quy số giờ chăm con mỗi ngày và số lần bị đánh thức giữa đêm ra giờ. Rồi nhân với tiền công một giờ của người làm những việc đó. Con số thu được thường lớn hơn xa tiền sữa tã. Trông nom, nấu cơm, dậy đêm tuy không ai trả tiền cũng ghi vào chi phí theo cách này. Cách tính giống bộ tính việc nhà ở phần 10. Bàn rõ phân chia việc trước, rồi mới quyết định có sinh hay không
+- Lợi ích: Quy số giờ chăm con mỗi ngày và số lần bị đánh thức giữa đêm ra giờ. Rồi nhân với tiền công một giờ của người làm những việc đó. Con số thu được thường lớn hơn xa tiền sữa tã. Trông nom, nấu cơm, dậy đêm tuy không ai trả tiền cũng ghi vào chi phí theo cách này. Cách tính giống cách tính việc nhà ở phần 10. Bàn rõ phân chia việc trước, rồi mới quyết định có sinh hay không
 - Mức chứng cứ: C
 - Nguồn: 作者经验，无直接文献；口径见第 10 节
 - Ghi chú: Con số không cần tính quá chuẩn. Cái có ích là hai người ngồi trước cùng một tờ bảng để bàn phân chia việc trước khi sinh, khỏi sinh xong lại cãi nhau
@@ -47,9 +47,9 @@ Phần này tính hai khoản: tiền và thời gian. Giống như phần 10 t�
 - Lợi ích: Khoản lớn từ 0 đến 3 tuổi là cách chăm sóc: tự chăm, ông bà chăm hay thuê người chăm. Khoản lớn của giai đoạn giáo dục bắt buộc (tiểu học đến trung học cơ sở) là nhà ở và chi học ngoài giờ. Khoản lớn sau đó là con đường học lên cấp. Ba khoản tiền này tiêu ở đâu hoàn toàn khác nhau, tính trộn chung chỉ được một tổng số dọa người
 - Mức chứng cứ: C
 - Nguồn: 作者经验，无直接文献
-- Ghi chú: Chỉ tham khảo TQ: Trước hết tính vào những khoản chắc chắn lấy được như trợ cấp nuôi con, trợ cấp sinh con, khoản bảo hiểm y tế chi trả, rồi xem còn thiếu bao nhiêu. Đừng lấy con số "nuôi lớn một đứa con hết bao nhiêu vạn" truyền trên mạng mà quyết định, loại số đó không rõ cách tính, bạn không biết nó đã tính gì và bỏ sót gì
+- Ghi chú: Chỉ tham khảo TQ: Trước hết tính vào những khoản chắc chắn lấy được như trợ cấp nuôi con, trợ cấp sinh con, khoản bảo hiểm y tế thanh toán, rồi xem còn thiếu bao nhiêu. Đừng lấy con số "nuôi lớn một đứa con hết bao nhiêu vạn" truyền trên mạng mà quyết định, loại số đó không rõ cách tính, bạn không biết nó đã tính gì và bỏ sót gì
 
-### 6. Sinh vì người lớn trong nhà, sinh vì hôn nhân, sinh để phòng tuổi già, mỗi lý do ghi một khoản
+### 6. Sinh vì bậc trên trong nhà, sinh vì hôn nhân, sinh để phòng tuổi già, mỗi lý do ghi một khoản
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=chut loi-ich=vua quy-mo=tien -->
 - Chi phí: Không tốn tiền, tốn một cuộc nói chuyện nghiêm túc. Khó ở chỗ phải nói thẳng ra, không lảng đi
 - Nói dễ hiểu: Người khác mong bạn sinh cũng là một yếu tố cân nhắc. Nhưng thời gian và tiền ghi vào sổ của bạn. "Nuôi con phòng già" tính riêng, vì nó đặt cược vào tiền và ý muốn của một người khác hai mươi năm sau. Ghi cả hệ quả của việc không sinh ra để so với bên kia.
