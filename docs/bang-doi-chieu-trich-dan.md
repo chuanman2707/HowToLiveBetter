@@ -31,4 +31,15 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 0 trích dẫn.
+Tổng cộng 6 trích dẫn.
+
+## 18-nuoi-con-co-dang-khong
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Giống như … |
+| Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
+| mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | … Đòi bồi thường thế nào xem … |
+| mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
+| mục 4 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách tính giống bộ tính việc nhà ở … |
+| mục 6 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách xét giống … |
