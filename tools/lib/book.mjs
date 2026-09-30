@@ -1,19 +1,23 @@
-// README 的结构解析和文件清单：EPUB（tools/epub）和 PDF（tools/pdf）两套构建共用。
-// 只认 README 里的结构，不维护文件名单——新增一节或一篇长文，两套构建都自动跟上。
+// Phân tích cấu trúc README và lấy danh sách file: dùng chung cho hai bộ build
+// EPUB (tools/epub) và PDF (tools/pdf). Chỉ đọc cấu trúc trong README, không
+// duy trì danh sách file riêng — thêm một phần hay một bài dài, cả hai bộ
+// build tự động theo kịp.
 import { readFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
 
 export const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '../..');
-export const REPO = 'https://github.com/eternity4719/HowToLiveBetter';
-export const SITE = 'https://eternity4719.github.io/HowToLiveBetter/';
-export const TITLE = '高性价比人生指南';
+export const REPO = 'https://github.com/chuanman2707/HowToLiveBetter';
+export const SITE = 'https://chuanman2707.github.io/HowToLiveBetter/';
+export const TITLE = 'Cẩm nang sống đáng giá';
 export const RELEASE = `${REPO}/releases/download/epub-latest`;
 
-// 一律按 LF 交给各套构建：Windows 上 core.autocrlf=true 检出的是 CRLF，离线版脚本
-// 拿 '\n' 写的 needle 去 index.html 里找锚点就一个都找不着，本地构建直接报「找不到
-// 主脚本的开头」（CI 是 Linux，从没碰到过）。正文解析也不必各自处理 \r。
+// Luôn chuẩn hóa về LF trước khi đưa cho các bộ build: trên Windows với
+// core.autocrlf=true thì checkout ra CRLF, script bản offline đem needle viết
+// bằng '\n' đi tìm trong index.html sẽ không trúng neo nào, build local báo
+// lỗi «không tìm thấy điểm đầu của script chính» (CI chạy Linux nên chưa từng
+// gặp). Phần parse nội dung cũng khỏi phải tự xử \r.
 export const read = p => readFileSync(resolve(ROOT, p), 'utf8').replace(/\r\n/g, '\n');
 export const unique = arr => [...new Set(arr)];
 
@@ -25,33 +29,34 @@ export function gitCommit() {
   }
 }
 
-// 正文一天可能改好几轮，只给日期分不出是哪一版，所以精确到分钟。
-// CI 跑在 UTC 上，统一按北京时间显示，免得下载的人按自己那边的日期对不上。
+// Nội dung một ngày có thể sửa nhiều lần, chỉ ghi ngày không phân biệt được là
+// bản nào, nên chính xác tới phút. CI chạy trên UTC, quy về giờ Việt Nam hết
+// để người tải không lệch ngày theo múi giờ của mình.
 export function buildStamp() {
-  return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'short' }).format(new Date());
+  return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Ho_Chi_Minh', dateStyle: 'short', timeStyle: 'short' }).format(new Date());
 }
 
 export function stripBackLink(md) {
-  return md.replace(/^\[← 回总目录\]\([^)]*\)\s*\n/, '');
+  return md.replace(/^\[← Mục lục\]\([^)]*\)\s*\n/, '');
 }
 
-// README 里从某个标题到下一个标题之间的一段
+// Đoạn trong README nằm giữa một heading và heading kế tiếp
 export function readBook() {
   const readme = read('README.md');
   const lines = readme.split('\n');
   const between = (from, to) => {
     const a = lines.findIndex(l => l.startsWith(from));
     const b = lines.findIndex((l, i) => i > a && l.startsWith(to));
-    if (a < 0 || b < 0) throw new Error(`README 里找不到 ${from} 到 ${to} 这一段`);
+    if (a < 0 || b < 0) throw new Error(`không tìm thấy đoạn từ ${from} tới ${to} trong README`);
     return lines.slice(a, b).join('\n');
   };
-  const description = between('# 高性价比人生指南', '[![')
+  const description = between('# Cẩm nang sống đáng giá', '[![')
     .split('\n').slice(1).map(l => l.replace(/<[^>]+>/g, '').trim()).filter(Boolean).join('');
-  const frontMd = between('## 这本书想回答的问题', '## 目录');
-  const contentsMd = between('## 目录', '## 正文')
+  const frontMd = between('## Cuốn sách này trả lời những câu hỏi nào', '## Mục lục');
+  const contentsMd = between('## Mục lục', '## Nội dung')
     .split('\n\n').filter(p => !p.includes('index.html')).join('\n\n');
   const bookFiles = unique([...contentsMd.matchAll(/\]\((book\/[^)#]+\.md)\)/g)].map(m => m[1]));
   const docFiles = unique([...readme.matchAll(/\]\((docs\/[^)#/]+\.md)\)/g)].map(m => m[1]));
-  if (bookFiles.length === 0) throw new Error('README 目录里没找到 book/ 文件');
+  if (bookFiles.length === 0) throw new Error('mục lục README không có file book/ nào');
   return { readme, description, frontMd, contentsMd, bookFiles, docFiles };
 }
