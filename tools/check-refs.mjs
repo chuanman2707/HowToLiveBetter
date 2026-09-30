@@ -61,7 +61,7 @@ for (const f of files) {
 // Một trích có thể viết "mục 3, 10 và 11" — tách ra nhiều số mục. Cũng nhận
 // viết khoảng "mục 11 đến 14", "mục 5 đến mục 10": bản TQ từng không khớp cả
 // cụm khoảng (coi như không quét), toàn sách có 5 chỗ viết kiểu đó.
-const RANGE = /^\s*(\d+)\s*đến\s*(?:(?:mục|phần)\s+)?(\d+)\s*$/;
+const RANGE = /^\s*(?:(?:mục|phần)\s+)?(\d+)\s*đến\s*(?:(?:mục|phần)\s+)?(\d+)\s*$/;
 // Trả về [số mục, có phải bung từ khoảng không]. Khoảng trỏ cả một khối mục
 // ("mấy mục về ..."), không gán anchor riêng cho từng mục trong khối được, nên
 // số bung ra miễn kiểm anchor — chúng vẫn vào bảng, bị dồn lệch thì nhìn diff
@@ -85,7 +85,11 @@ const nums = s => {
 // Dạng viết của đoạn số mục: "3", "3, 10", "3, 10 và 11", "11 đến 14",
 // "5 đến mục 10". "phần"/"mục" không khớp khi không kèm số, nên "mục lục",
 // "mục tiêu" tự an toàn.
-const NUMS = '\\d+(?:\\s*(?:,|và|đến)\\s*(?:(?:mục|phần)\\s*)?\\d+)*';
+const NUMS = '\\d+(?:\\s*(?:,|và)\\s*(?:mục\\s*)?\\d+|\\s*đến\\s*(?:(?:mục|phần)\\s*)?\\d+)*';
+// Lưu ý: sau `,`/`và` chỉ cho "mục" lặng lại, KHÔNG cho "phần" — nếu cho,
+// "phần 3, mục 4, phần 5, mục 6" sẽ bị CROSS gộp NUMS thành "4, phần 5,
+// mục 6", sinh row gán sai cho phần 3 và nuốt mất trích "phần 5, mục 6".
+// Sau "đến" mới cho cả hai ("mục 5 đến mục 10", "phần 5 đến phần 10").
 // Chéo phần: "phần X, mục Y" — cũng chấp nhận không phẩy "phần X mục Y".
 const CROSS = new RegExp(`phần\\s*(\\d+)\\s*,?\\s*mục\\s*(${NUMS})`, 'g');
 // Cả phần: "phần X", "phần 8, 9". Phải đứng SAU CROSS trong thứ tự strip: NUMS
@@ -137,7 +141,7 @@ for (const { f, dir, isDoc } of targets) {
   // anchor thành giả — bản TQ có sự cố 2026-09-20: phần 31 chèn mục, một trích
   // cũ bị dồn sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng từ
   // trong tiêu đề mới khiến --check báo đạt dù trích đã lệch.
-  // Cụm quá ngắt ("..., xem mục 11" — cửa sổ chỉ còn chữ "xem") thì lùi lấy
+  // Cụm quá ngắn ("..., xem mục 11" — cửa sổ chỉ còn chữ "xem") thì lùi lấy
   // thêm cụm trước, nếu không trích đúng cũng bị xử như trích trần.
   // Ngoặc kép/ngoặc đơn không tính là ranh giới cụm: anchor có thể nằm trong
   // ngoặc ("... (mục 3 phần này)" hay ghi chú dạng '... xem mục 24'), cắt theo
