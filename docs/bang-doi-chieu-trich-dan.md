@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 162 trích dẫn.
+Tổng cộng 220 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -100,7 +100,7 @@ Tổng cộng 162 trích dẫn.
 | mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … lớn với nước ngọt có đường, thịt chế biến (… |
 | mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Nên làm được … |
 | mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … Nên làm được … |
-| mục 33 | phần 6, mục 26 | 不要指望吃早餐或 16:8 轻断食帮你控制体重，吃饭时间挑你能长期坚持的 | …8 đều không có lợi thêm, xem … |
+| mục 33 | phần 6, mục 26 | Đừng trông ăn sáng hay nhịn ăn kiểu 16:8 giúp kiểm soát cân nặng, giờ ăn chọn kiểu bạn giữ được lâu dài | …8 đều không có lợi thêm, xem … |
 | mục 38 | phần 3, mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … Cách chợp ngắn để tỉnh táo xem … |
 | mục 38 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … Đêm ngủ bao lâu xem … |
 | mục 39 | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … Mục cuối tuần cũng dậy cố định xem … |
@@ -131,8 +131,8 @@ Tổng cộng 162 trích dẫn.
 | mục 20 | phần 8, mục 40 | 别给办案、执法的人送钱送卡：行贿自己也判，对监察、执法、司法人员行贿还要从重 | …ối lộ, và là tội văn bản ghi tăng nặng, xem … |
 | mục 21 | phần 4, mục 15 | Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích | … Sổ thời gian màn hình tổng xem … |
 | mục 21 | phần 4, mục 16 | Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định | … Sổ thời gian màn hình tổng xem … |
-| mục 21 | phần 6, mục 23 | 不要指望买东西改善心情或身份感 | …a vào mua sắm lấy lại cảm giác căn tính xem … |
-| mục 21 | phần 6, mục 24 | 不要为了「在周围人里往上挪一档」多花钱换房、换车、换圈子 | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
+| mục 21 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …a vào mua sắm lấy lại cảm giác căn tính xem … |
+| mục 21 | phần 6, mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
 | mục 21 | mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
 | mục 23 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …356 trước, đem thủ đoạn gây chết ra xa, xem … |
 | mục 23 | phần 8, mục 15 | 身边人说出「谁也别想好过」「带着孩子一起走」，别当气话：近亲属可以直接送诊，公安接到报警也必须管 | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
@@ -190,7 +190,7 @@ Tổng cộng 162 trích dẫn.
 | mục 34 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … Cách tra chung lúc mua đồ lớn xem … |
 | mục 34 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … Livestream có chuyện nên tìm ai, xem … |
 | mục 34 | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … Livestream có chuyện nên tìm ai, xem … |
-| mục 35 | phần 6, mục 23 | 不要指望买东西改善心情或身份感 | …òng lặp "mua về rồi phai, rồi mua tiếp" xem … |
+| mục 35 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …òng lặp "mua về rồi phai, rồi mua tiếp" xem … |
 | mục 35 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …ại nạp tiền tặng quà hoàn tiền thế nào, xem … |
 | mục 35 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | …lại 24 giờ cho mua đắt không cần thiết, xem … |
 | mục 36 | phần 12, mục 9 | 装袋卖就是预包装食品：标签上生产日期、保质期、配料表一样都不能少 | …hực phẩm đóng gói sẵn phải ghi thế nào, xem … |
@@ -213,6 +213,69 @@ Tổng cộng 162 trích dẫn.
 | mục 44 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
 | mục 45 | phần 25, mục 9 | 分散在各处的钱要逐个去取：公积金余额、社保待遇、工伤待遇 | … đi rồi từng chỗ đi lĩnh tiền khắp nơi, xem … |
 | mục 45 | phần 29, mục 13 | 别拿死当还债的办法：两年内的寿险不赔，工伤不认，债照样先从遗产里扣 | …n đường lấy chết trả nợ đi không thông, xem … |
+
+## 06-danh-sach-nen-tranh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 5 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …ho viêm khớp gối là giảm cân và tập cơ, xem … |
+| mục 7 | phần 1 | 01-dung-chet-som (cả phần) | …CT lồng ngực liều thấp, là chuyện khác, xem … |
+| mục 8 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Bản thân vận động có hiệu quả, xem … |
+| mục 10 | phần 1, mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … người già đi tiêm vaccine cúm mỗi năm, xem … |
+| mục 10 | phần 1, mục 21 | Sau 50 tuổi tiêm vaccine zona thần kinh (giời leo) | … Vaccine zona thần kinh sau 50 tuổi xem … |
+| mục 10 | phần 1, mục 22 | Trên 65 tuổi tiêm vaccine phế cầu | … Vaccine phế cầu trên 65 tuổi xem … |
+| mục 10 | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | …heo chỉ định, hạ huyết áp về đạt chuẩn, xem … |
+| mục 10 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …p thăng bằng và sức mạnh chân cùng ông, xem … |
+| mục 10 | phần 1, mục 17 | Phụ nữ từ 40 tuổi tầm soát ung thư vú, cứ hai năm chụp nhũ ảnh một lần | …g thư đến tuổi, đưa ông đi làm một lần, xem … |
+| mục 10 | phần 1, mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | …g thư đến tuổi, đưa ông đi làm một lần, xem … |
+| mục 10 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | …g thư đến tuổi, đưa ông đi làm một lần, xem … |
+| mục 10 | phần 17, mục 7 | 家里老人长期卧床或重度失能，去参保地医保部门申请长期护理保险；它不是只发给老人 | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
+| mục 10 | phần 17, mục 8 | 家里有人长期卧床，把压疮当头号敌人：上电动气垫床、定时翻身、每天看一遍骨头突出的地方 | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
+| mục 10 | phần 17, mục 5 | 凡是让老人先交钱的「投资养老」都别碰：办卡、买床位、买养老公寓、旅居养老、买老年产品是同一套非法集资 | …ột loại là sẽ thay thế thuốc đang uống, xem … |
+| mục 16 | phần 19, mục 11 | 粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝 | …, không phải tròng chống ánh sáng xanh, xem … |
+| mục 16 | phần 13, mục 6 | 一只眼又胀又痛、发红，看灯有一圈彩虹，还头痛恶心想吐，当天去眼科急诊 | … giác, ngay hôm đó phải đi cấp cứu mắt, xem … |
+| mục 16 | phần 30, mục 4 | 让孩子每天在户外待够 2 小时，这是目前唯一有随机试验支持的防近视办法 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 12 | 查出视力不良，去医院做散瞳验光，之后按医生给的间隔复查 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 9 | 不买号称能「治愈近视」「降低度数」的产品和服务 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 18 | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … Huyết áp, đường huyết, viêm gan B xem … |
+| mục 18 | phần 1, mục 8 | Sau 35 tuổi chỉ cần thừa cân thì đi xét nghiệm đường huyết lúc đói một lần, bình thường cũng cứ ba năm xét lại | … Huyết áp, đường huyết, viêm gan B xem … |
+| mục 18 | phần 1, mục 14 | Xét nghiệm năm chỉ số viêm gan B, không có kháng thể thì đi tiêm vaccine | … Huyết áp, đường huyết, viêm gan B xem … |
+| mục 18 | phần 1, mục 17 | Phụ nữ từ 40 tuổi tầm soát ung thư vú, cứ hai năm chụp nhũ ảnh một lần | … Vú, cổ tử cung, đại trực tràng xem … |
+| mục 18 | phần 1, mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | … Vú, cổ tử cung, đại trực tràng xem … |
+| mục 18 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | … Vú, cổ tử cung, đại trực tràng xem … |
+| mục 18 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | …uẩn Helicobacter pylori và CT liều thấp xem … |
+| mục 18 | phần 1, mục 24 | Người hút thuốc nặng mỗi năm chụp CT lồng ngực liều thấp một lần | …uẩn Helicobacter pylori và CT liều thấp xem … |
+| mục 18 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …Từng có hành vi nguy cơ cao thì đi xét, xem … |
+| mục 18 | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | …à dấu ấn ung thư và chụp ảnh toàn thân, xem … |
+| mục 18 | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …i túi mật mà chưa từng đau thì làm sao, xem … |
+| mục 18 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …mục 19 (acid uric cao không triệu chứng) và … |
+| mục 19 | phần 16, mục 9 | 确诊痛风就长期吃降尿酸药，把血尿酸压到 360 µmol/L 以下并一直维持 | … Chi tiết xem … |
+| mục 19 | phần 16, mục 9 | 确诊痛风就长期吃降尿酸药，把血尿酸压到 360 µmol/L 以下并一直维持 | … bị uống thì trước đi xét kiểu gen này, xem … |
+| mục 21 | phần 16, mục 8 | 得过肾结石就把水喝到每天 2.5–3 升，盐降到 6 克以内 | … Mục uống nhiều nước xem … |
+| mục 22 | phần 5, mục 33 | Chuỗi hạt, ngọc thạch, đồng hồ hiệu, đồ chơi thời thượng tính theo "tiền tiêu đi", không tính theo "tiền cất lại" | …ào, coi nó là đầu tư vì sao không đáng, xem … |
+| mục 22 | phần 5, mục 34 | Ngọc đá trang sức chỉ nhận báo cáo kiểm định có dấu CMA, rồi lên trang chính thức cơ quan cấp kiểm lại cơ quan đó | …ạt, đồng hồ hiệu tính theo tiền tiêu đi) và … |
+| mục 22 | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … Tiêu tiền xem bói xem … |
+| mục 23 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Động tác tiết kiệm cụ thể xem … |
+| mục 23 | phần 22 | 22-怎么放松 (cả phần) | …chứng cứ thật lúc tâm trạng xấu xem nửa sau … |
+| mục 23 | phần 29 | 29-遭遇重大打击之后 (cả phần) | …ật lúc tâm trạng xấu xem nửa sau phần 22 và … |
+| mục 23 | mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … thêm vì "muốn hơn người khác một bậc", xem … |
+| mục 24 | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Chỗ ở nên xếp theo gì xem … |
+| mục 24 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | … Trên mạng cứ so lên trên xem … |
+| mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … Mức lợi ích định "vừa", là theo quy mô của … |
+| mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … Mua sắm điều tiết cảm xúc xem … |
+| mục 25 | phần 4, mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | …hật là đổi môi trường và đổi cách viết, xem … |
+| mục 25 | phần 4, mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | … 4, mục 10 (xo đồ không muốn đụng ra xa) và … |
+| mục 25 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | …khác, xử theo mấy mục giấc ngủ và giờ làm ở … |
+| mục 26 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | …à uống thuốc giảm đau dài ngày, cần xét xem … |
+| mục 26 | phần 2, mục 28 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …chứng cứ thật là ăn gì và ăn bao nhiêu, xem … |
+| mục 26 | phần 2, mục 29 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | … mục 28 (mỗi ngày ăn đủ 5 phần rau củ quả), … |
+| mục 26 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …, mục 29 (ăn ít thực phẩm siêu chế biến) và … |
+| mục 26 | phần 28, mục 1 | 不要用极端节食、断食或催吐来控制体重，要减就从运动那一侧减 | … ăn cực đoan và gây nôn là chuyện khác, xem … |
+| mục 26 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …i túi mật mà chưa từng đau thì làm sao, xem … |
+| mục 27 | phần 3, mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | … Thức khuya xem … |
+| mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …m khiêu dâm xem ra vấn đề cương, trước theo … |
+| mục 27 | phần 9, mục 4 | 黄色视频自己看归自己，别往群里发、别卖「资源」、别建群 | … luật của phát vào nhóm, bán tài nguyên xem … |
+| mục 28 | phần 30, mục 15 | 孩子说自己喜欢同性，别骂、别赶出家门、别送去「矫正」：家里的态度和他会不会自杀有关 | … Sau khi con nói ra nhà làm sao, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
