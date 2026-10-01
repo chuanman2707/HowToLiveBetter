@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 112 trích dẫn.
+Tổng cộng 162 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -158,6 +158,61 @@ Tổng cộng 112 trích dẫn.
 | mục 13 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ạng sa sút hoặc lo âu rõ thì trước làm theo … |
 | mục 13 | mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … Thứ kiểm soát kích thích đó ở … |
 | mục 15 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …lại bao nhiêu, tâm trạng đổi bao nhiêu, xem … |
+
+## 05-dung-lang-phi-tien
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 8 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …5 Bộ luật dân sự đã được trích nguyên chữ ở … |
+| mục 9 | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | …ính bạn tặng quà nạp tiền theo cảm xúc, xem … |
+| mục 10 | phần 8, mục 2 | 发现被骗，立刻打 110 或 96110 要求止付，别先自己查 | … đó, chỉ có thể báo cảnh sát đông tiền theo … |
+| mục 10 | phần 8, mục 3 | 记住反诈硬规则：来电不轻信、信息不透露、链接不点击、转账多核实，七种最常见的骗局都是这个形状 | …hiêu giả người quen, còn có AI đổi mặt, xem … |
+| mục 10 | phần 8, mục 4 | 视频里看见脸、电话里听见声音都不算核实，涉及转账先挂断，用自己通讯录里的旧号码打回去 | …hiêu giả người quen, còn có AI đổi mặt, xem … |
+| mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Phải phân biệt rõ với … |
+| mục 12 | phần 16, mục 3 | 复查按医生给的间隔做，把每次的指标记在同一个本子上 | …ổi thuốc xong đừng phán theo cảm giác, theo … |
+| mục 14 | phần 9 | 09-普通人容易踩的法律红线 (cả phần) | … giả tạo, người đăng đã bị giữ hình sự (xem … |
+| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | … đòn bẩy biến tướng, lãi suất của chúng xem … |
+| mục 19 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua quỹ chỉ số gối rộng (xem … |
+| mục 20 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | …óa quỹ dự phòng vào trong (quỹ dự phòng xem … |
+| mục 20 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Luật chọn sản phẩm giống … |
+| mục 20 | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … Luật chọn sản phẩm giống … |
+| mục 20 | mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … quyết toán năm sau mới trừ (quyết toán xem … |
+| mục 22 | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … Nên trước hết theo … |
+| mục 27 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …iêu dùng và trả tối thiểu thẻ tín dụng, xem … |
+| mục 29 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … được chỉ có kết quả rút kiểm tổng thể (xem … |
+| mục 29 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … Trả hàng bảy ngày không cần lý do xem … |
+| mục 31 | phần 8, mục 22 | 网购、二手交易被骗，先平台投诉，再报警，再算值不值得起诉 | …ỉ còn đường kiện, kiện nhỏ tính thế nào xem … |
+| mục 31 | phần 12, mục 8 | 做食品先看自己落在哪一档：生产和做餐饮要许可，只卖预包装的改备案，卖生鲜肉菜不用证 | … Chi tiết xem … |
+| mục 31 | phần 12, mục 9 | 装袋卖就是预包装食品：标签上生产日期、保质期、配料表一样都不能少 | … Chi tiết xem … |
+| mục 31 | phần 12, mục 10 | 普通食品不许说能治病：标签、说明书、广告和直播话术都算 | … Chi tiết xem … |
+| mục 31 | phần 12, mục 11 | 食品这一行有刑事线：卖病死肉、超标货就够罪，掺了有毒有害的不看金额、起刑五年 | … Chi tiết xem … |
+| mục 31 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … ba lần, dưới 500 nhân dân tệ tính 500, xem … |
+| mục 34 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … Cách tra chung lúc mua đồ lớn xem … |
+| mục 34 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … Livestream có chuyện nên tìm ai, xem … |
+| mục 34 | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … Livestream có chuyện nên tìm ai, xem … |
+| mục 35 | phần 6, mục 23 | 不要指望买东西改善心情或身份感 | …òng lặp "mua về rồi phai, rồi mua tiếp" xem … |
+| mục 35 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …ại nạp tiền tặng quà hoàn tiền thế nào, xem … |
+| mục 35 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | …lại 24 giờ cho mua đắt không cần thiết, xem … |
+| mục 36 | phần 12, mục 9 | 装袋卖就是预包装食品：标签上生产日期、保质期、配料表一样都不能少 | …hực phẩm đóng gói sẵn phải ghi thế nào, xem … |
+| mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên | … Mục này quản "bán hay không", … |
+| mục 37 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …bạn đặt vào con cổ phiếu này nhiều hơn, xem … |
+| mục 38 | mục 15 | Không mua bán cổ phiếu thường xuyên | …t năm đổi gần 18 lần, tài khoản hộ Mỹ trong … |
+| mục 39 | phần 21, mục 6 | 境外取现一年不能超过 10 万元人民币，是本人名下所有卡合起来算的 | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
+| mục 39 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng theo cách của … |
+| mục 39 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …eo cách của mục 17 (quỹ chỉ số gối rộng) và … |
+| mục 40 | phần 7, mục 20 | 大病之前，基本医保之外配一份一年期医疗险或重疾险，看清「保证续保」四个字 | … Bảo hiểm y tế một năm xem … |
+| mục 40 | phần 21, mục 4 | 买一份含境外医疗和医疗转运的保险，别只买航班延误险 | … Người ra nước ngoài xem … |
+| mục 40 | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Người có xe xem … |
+| mục 40 | mục 41 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Nhà có người sống nhờ thu nhập của bạn xem … |
+| mục 40 | phần 7, mục 9 | 居民医保每年 400 元不要断，困难户可减免 | … theo cách này chọn lựa, vẫn phải đóng, xem … |
+| mục 40 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Tổn thất nhỏ dựa vào gì lo, xem … |
+| mục 41 | phần 7, mục 20 | 大病之前，基本医保之外配一份一年期医疗险或重疾险，看清「保证续保」四个字 | …i thật và bảo đảm tiếp tục xem thế nào, xem … |
+| mục 42 | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | …iều, thời gian cân nhắc đáng dùng nhất, xem … |
+| mục 43 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Đã ký rồi thì trong 15 ngày theo … |
+| mục 43 | mục 44 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … Thấy bị lừa khiếu nại thế nào, xem … |
+| mục 44 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
+| mục 45 | phần 25, mục 9 | 分散在各处的钱要逐个去取：公积金余额、社保待遇、工伤待遇 | … đi rồi từng chỗ đi lĩnh tiền khắp nơi, xem … |
+| mục 45 | phần 29, mục 13 | 别拿死当还债的办法：两年内的寿险不赔，工伤不认，债照样先从遗产里扣 | …n đường lấy chết trả nợ đi không thông, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
