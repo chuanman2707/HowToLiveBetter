@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 220 trích dẫn.
+Tổng cộng 226 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -221,6 +221,12 @@ Tổng cộng 220 trích dẫn.
 | mục 5 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …ho viêm khớp gối là giảm cân và tập cơ, xem … |
 | mục 7 | phần 1 | 01-dung-chet-som (cả phần) | …CT lồng ngực liều thấp, là chuyện khác, xem … |
 | mục 8 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Bản thân vận động có hiệu quả, xem … |
+| mục 10 | mục 1 | Đừng uống vitamin tổng hợp để sống lâu hay phòng bệnh tim mạch | … … |
+| mục 10 | mục 2 | Đừng uống dầu cá thường để phòng bệnh tim mạch | … … |
+| mục 10 | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | … … |
+| mục 10 | mục 4 | Đừng uống viên chống oxy hóa để phòng ung thư (beta carotene, vitamin E, vitamin A) | … … |
+| mục 10 | mục 5 | Đừng trông glucosamine (đường amin đạm) / chondroitin chữa viêm khớp gối | … … |
+| mục 10 | mục 6 | Đừng trông vitamin C phòng cảm | … … |
 | mục 10 | phần 1, mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … người già đi tiêm vaccine cúm mỗi năm, xem … |
 | mục 10 | phần 1, mục 21 | Sau 50 tuổi tiêm vaccine zona thần kinh (giời leo) | … Vaccine zona thần kinh sau 50 tuổi xem … |
 | mục 10 | phần 1, mục 22 | Trên 65 tuổi tiêm vaccine phế cầu | … Vaccine phế cầu trên 65 tuổi xem … |

@@ -31,6 +31,21 @@ for (const [o, v] of Object.entries(OLD_FIELDS))
 eq('cost-tag', count(old, /<!--\s*成本标签/g), count(vn, /<!--\s*nhan-chi-phi/g));
 eq('link trong Nguồn/Ghi chú', links(old), links(vn));
 
+// So giá trị từng cost-tag theo thứ tự mục — chỉ đếm số tag không bắt được
+// sai giá trị (đã xảy ra ở phần 06: vua/lon, tu-do/thoi-gian bị đổi lặng).
+const TAG_MAP = {
+  '钱': { '0': 'tien=0', '少': 'tien=it', '多': 'tien=nhieu' },
+  '时间': { '少': 'thoi-gian=it', '中': 'thoi-gian=vua', '多': 'thoi-gian=nhieu' },
+  '毅力': { '否': 'y-chi=khong', '些': 'y-chi=chut', '是': 'y-chi=nhieu' },
+  '收益': { '大': 'loi-ich=lon', '中': 'loi-ich=vua', '小': 'loi-ich=nho' },
+  '口径': { '死亡率': 'quy-mo=tu-vong', '金钱': 'quy-mo=tien', '时间': 'quy-mo=thoi-gian', '自由': 'quy-mo=tu-do' },
+};
+const oldTags = [...old.matchAll(/<!--\s*成本标签:\s*([^>]+?)\s*-->/g)]
+  .map(m => m[1].split(/\s+/).map(kv => { const [k, v] = kv.split('='); return TAG_MAP[k]?.[v] ?? `?${kv}`; }).sort().join(' '));
+const vnTags = [...vn.matchAll(/<!--\s*nhan-chi-phi:\s*([^>]+?)\s*-->/g)]
+  .map(m => m[1].split(/\s+/).sort().join(' '));
+oldTags.forEach((t, i) => { if (vnTags[i] !== undefined && t !== vnTags[i]) { console.log(`LỆCH tag mục ${i + 1}: gốc [${t}] / VN [${vnTags[i]}]`); bad++; } });
+
 vn.split(/\r?\n/).forEach((l, i) => {
   if (/^- Nguồn:/.test(l)) return;
   const han = l.match(/[一-鿿]/g);
