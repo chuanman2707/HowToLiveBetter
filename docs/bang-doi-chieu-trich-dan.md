@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 226 trích dẫn.
+Tổng cộng 235 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -200,13 +200,13 @@ Tổng cộng 226 trích dẫn.
 | mục 39 | phần 21, mục 6 | 境外取现一年不能超过 10 万元人民币，是本人名下所有卡合起来算的 | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
 | mục 39 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng theo cách của … |
 | mục 39 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …eo cách của mục 17 (quỹ chỉ số gối rộng) và … |
-| mục 40 | phần 7, mục 20 | 大病之前，基本医保之外配一份一年期医疗险或重疾险，看清「保证续保」四个字 | … Bảo hiểm y tế một năm xem … |
+| mục 40 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" | … Bảo hiểm y tế một năm xem … |
 | mục 40 | phần 21, mục 4 | 买一份含境外医疗和医疗转运的保险，别只买航班延误险 | … Người ra nước ngoài xem … |
 | mục 40 | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Người có xe xem … |
 | mục 40 | mục 41 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Nhà có người sống nhờ thu nhập của bạn xem … |
-| mục 40 | phần 7, mục 9 | 居民医保每年 400 元不要断，困难户可减免 | … theo cách này chọn lựa, vẫn phải đóng, xem … |
+| mục 40 | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … theo cách này chọn lựa, vẫn phải đóng, xem … |
 | mục 40 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Tổn thất nhỏ dựa vào gì lo, xem … |
-| mục 41 | phần 7, mục 20 | 大病之前，基本医保之外配一份一年期医疗险或重疾险，看清「保证续保」四个字 | …i thật và bảo đảm tiếp tục xem thế nào, xem … |
+| mục 41 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" | …i thật và bảo đảm tiếp tục xem thế nào, xem … |
 | mục 42 | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | …iều, thời gian cân nhắc đáng dùng nhất, xem … |
 | mục 43 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Đã ký rồi thì trong 15 ngày theo … |
 | mục 43 | mục 44 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … Thấy bị lừa khiếu nại thế nào, xem … |
@@ -282,6 +282,20 @@ Tổng cộng 226 trích dẫn.
 | mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …m khiêu dâm xem ra vấn đề cương, trước theo … |
 | mục 27 | phần 9, mục 4 | 黄色视频自己看归自己，别往群里发、别卖「资源」、别建群 | … luật của phát vào nhóm, bán tài nguyên xem … |
 | mục 28 | phần 30, mục 15 | 孩子说自己喜欢同性，别骂、别赶出家门、别送去「矫正」：家里的态度和他会不会自杀有关 | … Sau khi con nói ra nhà làm sao, xem … |
+
+## 07-song-khi-khong-co-tien
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 7 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …cư dân có trợ cấp (bảo hiểm y tế cư dân xem … |
+| mục 7 | mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …khám đi được cứu trợ y tế (cứu trợ y tế xem … |
+| mục 7 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … xét khó khăn kinh tế (viện trợ pháp lý xem … |
+| mục 10 | phần 24, mục 9 | 没带钱、没带证件、说不清自己是谁，急诊也必须先救 | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
+| mục 10 | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …h 4 lần LPR một năm (không vay nặng lãi xem … |
+| mục 18 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …ám không được báo (bảo hiểm y tế cư dân xem … |
+| mục 20 | phần 5, mục 40 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
+| mục 20 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Trước hết đóng bảo hiểm y tế cư dân (… |
+| mục 21 | mục 4 | Không còn đường lui thì đến trạm cứu trợ, có lo ăn ở và vé xe về quê | … Trạm cứu trợ ở … |
 
 ## 18-nuoi-con-co-dang-khong
 
