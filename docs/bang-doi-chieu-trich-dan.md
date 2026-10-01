@@ -31,17 +31,17 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 380 trích dẫn.
+Tổng cộng 422 trích dẫn.
 
 ## 01-dung-chet-som
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| mục 4 | phần 13 | 13-紧急情况 (cả phần) | … Ngộ độc khí CO là chuyện khác, xem … |
+| mục 4 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Ngộ độc khí CO là chuyện khác, xem … |
 | mục 16 | mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | …cung, vaccine không thay được sàng lọc, xem … |
 | mục 25 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … và kết cục dài hạn sau khi chưa thành, xem … |
 | mục 25 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Được cứu về sẽ để lại gì, xem … |
-| mục 26 | phần 13, mục 12 | 大出血先用手死死压住伤口，四肢压不住就上止血带，同时打 120 | … Cách dùng garô và số cấp cứu 120 xem … |
+| mục 26 | phần 13, mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … Cách dùng garô và số cấp cứu 120 xem … |
 | mục 26 | mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Máy báo khói và máy báo khí CO xem … |
 | mục 28 | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … Thứ cần khám giống hệt … |
 | mục 28 | mục 8 | Sau 35 tuổi chỉ cần thừa cân thì đi xét nghiệm đường huyết lúc đói một lần, bình thường cũng cứ ba năm xét lại | … Thứ cần khám giống hệt … |
@@ -51,17 +51,17 @@ Tổng cộng 380 trích dẫn.
 | mục 29 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …(bỏ thuốc, càng sớm càng tốt), giảm cân xem … |
 | mục 29 | phần 28, mục 4 | 不要买承诺「快速瘦」的减肥药、减肥咖啡、瘦身糖果和酵素梅 | …ày, liều lượng không rõ, cách nhận biết xem … |
 | mục 29 | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … (giữ BMI trong khoảng 20–25), huyết áp xem … |
-| mục 30 | phần 13 | 13-紧急情况 (cả phần) | … Đã phơi nhiễm rồi thì làm sao xem … |
+| mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Đã phơi nhiễm rồi thì làm sao xem … |
 | mục 31 | phần 27 | 27-怀孕和生产 (cả phần) | …a bệnh trong thai kỳ và chặn lây mẹ-con xem … |
 | mục 32 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ng, phơi nắng, ngủ đúng giờ, gọi 12356) xem … |
 | mục 32 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … cạnh để lộ ý nghĩ này bạn làm được gì, xem … |
 | mục 32 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … đoạn gây chết ra xa và đường dây 12356 xem … |
 | mục 32 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Di chứng sau khi được cứu xem … |
-| mục 33 | phần 13, mục 19 | 一氧化碳报警器响了，或者一屋子人同时头痛恶心，先出门再打电话 | … Xử trí hiện trường khi ngộ độc khí CO xem … |
-| mục 33 | phần 13, mục 20 | 误服清洁剂、农药、药物先别催吐，带上瓶子立刻就医；溅到眼睛或皮肤用大量清水冲 15 分钟 | … gây nôn trước, mang theo chai đi khám, xem … |
+| mục 33 | phần 13, mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Xử trí hiện trường khi ngộ độc khí CO xem … |
+| mục 33 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | … gây nôn trước, mang theo chai đi khám, xem … |
 | mục 33 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ông tích trữ thuốc trừ sâu và thuốc ngủ xem … |
 | mục 34 | phần 17, mục 8 | 家里有人长期卧床，把压疮当头号敌人：上电动气垫床、定时翻身、每天看一遍骨头突出的地方 | …u mà thời gian nằm dài đáng để mắt nhất xem … |
-| mục 34 | phần 13, mục 11 | 一条腿突然肿起来、发紧、按着疼，尽快就医；再加上突然喘不上气或者胸痛，立刻打 120 | …t khối tĩnh mạch sâu và thuyên tắc phổi xem … |
+| mục 34 | phần 13, mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | …t khối tĩnh mạch sâu và thuyên tắc phổi xem … |
 | mục 34 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ nảy ra thì làm sao xem … |
 | mục 34 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Hậu quả ngộ độc xem … |
 | mục 35 | phần 9, mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | …à trách nhiệm hình sự của hiến hợp pháp xem … |
@@ -70,7 +70,7 @@ Tổng cộng 380 trích dẫn.
 | mục 37 | phần 9, mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … Ranh giới pháp luật của đánh bạc xem … |
 | mục 37 | phần 8, mục 44 | Người nhà đánh bạc mắc nợ, đừng vội trả thay: nợ bạc luật không bảo vệ, tiền vay để đánh bạc cũng không tính nợ chung vợ chồng | …nhà nợ nợ cờ bạc có nên trả thay không, xem … |
 | mục 37 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ tự tử nảy ra sau đó làm sao, xem … |
-| mục 38 | phần 13, mục 38 | 可能被 HIV 暴露了，72 小时内去拿阻断药，越早越好 | … Đã xảy ra hành vi nguy cơ, cách cứu xem … |
+| mục 38 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | … Đã xảy ra hành vi nguy cơ, cách cứu xem … |
 | mục 38 | mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | … tình dục đó, bao cao su vẫn phải dùng, xem … |
 
 ## 02-dung-chet-tu-tu
@@ -239,7 +239,7 @@ Tổng cộng 380 trích dẫn.
 | mục 10 | phần 17, mục 8 | 家里有人长期卧床，把压疮当头号敌人：上电动气垫床、定时翻身、每天看一遍骨头突出的地方 | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
 | mục 10 | phần 17, mục 5 | 凡是让老人先交钱的「投资养老」都别碰：办卡、买床位、买养老公寓、旅居养老、买老年产品是同一套非法集资 | …ột loại là sẽ thay thế thuốc đang uống, xem … |
 | mục 16 | phần 19, mục 11 | 粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝 | …, không phải tròng chống ánh sáng xanh, xem … |
-| mục 16 | phần 13, mục 6 | 一只眼又胀又痛、发红，看灯有一圈彩虹，还头痛恶心想吐，当天去眼科急诊 | … giác, ngay hôm đó phải đi cấp cứu mắt, xem … |
+| mục 16 | phần 13, mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | … giác, ngay hôm đó phải đi cấp cứu mắt, xem … |
 | mục 16 | phần 30, mục 4 | 让孩子每天在户外待够 2 小时，这是目前唯一有随机试验支持的防近视办法 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
 | mục 16 | phần 30, mục 12 | 查出视力不良，去医院做散瞳验光，之后按医生给的间隔复查 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
 | mục 16 | phần 30, mục 9 | 不买号称能「治愈近视」「降低度数」的产品和服务 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
@@ -309,7 +309,7 @@ Tổng cộng 380 trích dẫn.
 | mục 5 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …phải tuyên vô tội và khiếu nại xét xử lại), … |
 | mục 6 | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | … làm thế nào xem … |
 | mục 6 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | … sư trước và khai thật không mâu thuẫn, xem … |
-| mục 11 | phần 13, mục 37 | 撞见一群人打架，退开走人，别上去拉架、别围观、别捡地上的家伙；要报警就退到安全距离打 110 | … giữa người lạ, rủi ro phải tính riêng, xem … |
+| mục 11 | phần 13, mục 37 | Bắt gặp một đám đánh nhau: lùi ra đi, đừng lên can, đừng đứng xem, đừng nhặt hung khí dưới đất; muốn báo thì lùi tới khoảng an toàn gọi 110 | … giữa người lạ, rủi ro phải tính riêng, xem … |
 | mục 11 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | …tác mặc định vẫn là lùi ra báo cảnh sát như … |
 | mục 11 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | …t chính thức hỏi thì mời luật sư trước, xem … |
 | mục 11 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | … thể xin bồi thường nhà nước theo ngày, xem … |
@@ -328,9 +328,9 @@ Tổng cộng 380 trích dẫn.
 | mục 20 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …àm xong nghĩa vụ rồi khôi phục thế nào, xem … |
 | mục 20 | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | …sách, bị hạn chế tiêu dùng rồi làm sao, xem … |
 | mục 21 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | … xóa khỏi danh sách không sửa tín dụng, xem … |
-| mục 30 | phần 13 | 13-紧急情况 (cả phần) | … Bị cắn rồi xử thế nào xem … |
+| mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bị cắn rồi xử thế nào xem … |
 | mục 31 | phần 9, mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … ấu nữ nhận thế nào xem … |
-| mục 31 | phần 13, mục 42 | 被性侵之后，先到安全的地方打 110；验伤之前别洗澡、别洗衣服、别收拾房间，72 小时内去医院 | … Mình là bên bị hại, làm gì trước xem … |
+| mục 31 | phần 13, mục 42 | Sau khi bị xâm hại tình dục: trước tới chỗ an toàn gọi 110; trước khi khám thương đừng tắm, đừng giặt áo, đừng dọn phòng, trong 72 giờ đi viện | … Mình là bên bị hại, làm gì trước xem … |
 | mục 31 | mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | … buộc tội và bị tống tiền cùng tồn tại, xem … |
 | mục 32 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | …ong — đó là xóa luôn chứng cứ của mình, xem … |
 | mục 32 | mục 36 | Mình là nạn nhân đi đòi đền: đi đường 12315 (tổng đài tiêu dùng TQ), khởi kiện hoặc mời luật sư; đừng một mình đi gặp bên kia, đừng buộc "trả tiền" và "tôi không phơi bày" thành một câu | …uyền, số cao cũng không bằng tống tiền, xem … |
@@ -394,7 +394,7 @@ Tổng cộng 380 trích dẫn.
 | mục 22 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …i tạng thì trước hết xem các kênh cứu trợ ở … |
 | mục 22 | mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | …ái bẫy vay mạng và vay "đóng gói hồ sơ" xem … |
 | mục 23 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | … Nguy cơ nhiễm bệnh tình dục và AIDS xem … |
-| mục 23 | phần 13, mục 38 | 可能被 HIV 暴露了，72 小时内去拿阻断药，越早越好 | …tình dục dùng bao cao su suốt quá trình) và … |
+| mục 23 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …tình dục dùng bao cao su suốt quá trình) và … |
 | mục 23 | phần 22 | 22-怎么放松 (cả phần) | …vui chơi giải trí bản thân cần chú ý gì xem … |
 | mục 23 | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | …ực tiếp xử theo tội hiếp dâm phạt nặng, xem … |
 
@@ -466,6 +466,53 @@ Tổng cộng 380 trích dẫn.
 | mục 19 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | …ỏ dùng nhãn hiệu và hình của người khác xem … |
 | mục 20 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | … Dùng hình của người khác xem … |
 | mục 21 | mục 19 | Mẫu làm xong trước hết qua một vòng danh mục sản xuất hàng loạt rồi mới bàn mở xưởng | …Tra nhãn hiệu trước khi đổ vào sản xuất xem … |
+
+## 13-tinh-huong-khan-cap
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …lừa và bảy loại lừa đảo thường gặp nhất xem … |
+| Mở đầu phần | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …nh riêng tư, video chat sex ra đòi tiền xem … |
+| Mở đầu phần | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …dây chống lừa đảo TQ) yêu cầu chặn chi, xem … |
+| mục 2 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | …em có thở không, không thở thì ấn ngực theo … |
+| mục 2 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Bản thân phòng té ngã xem … |
+| mục 2 | phần 8, mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …mạng thì giữ chứng báo cảnh sát thế nào xem … |
+| mục 2 | mục 10 | Người già va đầu xong vài tuần đến vài tháng sau mà đi không vững, chậm chạp, buồn ngủ hoặc yếu một bên người thì đi chụp CT sọ não | …iệu chứng muộn sau khi người già va đầu xem … |
+| mục 2 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … Tiền khi cứu người mà bị thương xem … |
+| mục 4 | mục 3 | Đột nhiên méo miệng, một bên cánh tay mất lực, nói không rõ lời — gọi ngay 120, đừng chờ, đừng tự lái xe đi | … động tác "méo miệng, giơ tay, nói chuyện" (… |
+| mục 6 | phần 6, mục 16 | Đừng mua kính chống ánh sáng xanh để "bảo vệ thị lực", cũng đừng tin "nhìn màn hình vài tháng là hỏng mắt", nhưng mắt đau căng đỏ phải xem là cấp cứu | … Kính chống ánh sáng xanh có ích không xem … |
+| mục 6 | mục 5 | Một mắt đột nhiên tối đi như rèm kéo xuống, dù vài phút tự khỏi, cũng phải đi cấp cứu trong ngày theo hướng đột quỵ | …y mà không đau không đỏ là chuyện khác, xem … |
+| mục 10 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Phòng té ngã xem … |
+| mục 16 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …u trách nhiệm (Điều 184 Bộ luật Dân sự, xem … |
+| mục 18 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Thoát điện rồi không thở thì ấn theo … |
+| mục 18 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | …rồi không thở thì làm hồi sức tim phổi theo … |
+| mục 19 | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Cách lắp máy báo xem … |
+| mục 20 | mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Khí CO xem … |
+| mục 20 | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …máy báo khí CO kêu), bỏng và bỏng nhiệt xem … |
+| mục 21 | phần 19, mục 10 | 进有粉尘、噪声、化学品的岗位之前，先看合同里写没写危害；三次职业健康检查由单位安排并掏钱 | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
+| mục 21 | phần 19, mục 11 | 粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝 | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
+| mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
+| mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ứu phần lớn là con nhà mình, cách phòng xem … |
+| mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử theo … |
+| mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Bị chó cắn xử lý theo … |
+| mục 36 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …n thì ngược lại, một xu cũng không đưa, xem … |
+| mục 37 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Bản thân bị cuốn vào xung đột xem … |
+| mục 37 | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ớc, không ra tay), bị người lạ đòi tiền xem … |
+| mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | …mục 36, tiền khi cứu người mà bị thương xem … |
+| mục 38 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …ữa lỗi, phòng thường ngày và xét nghiệm xem … |
+| mục 38 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …ữa lỗi, phòng thường ngày và xét nghiệm xem … |
+| mục 39 | phần 19, mục 15 | 伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱 | … và cách quy đổi cấp thương tật ra tiền xem … |
+| mục 39 | phần 19, mục 16 | 工亡的三笔钱要分清：丧葬补助金、供养亲属抚恤金、一次性工亡补助金 | … và cách quy đổi cấp thương tật ra tiền xem … |
+| mục 39 | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Cách xin viện trợ pháp lý xem … |
+| mục 40 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ng cứu ngay, đừng xếp hàng cửa đăng ký (xem … |
+| mục 40 | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … ấn và cách lên garô khi chảy máu nhiều xem … |
+| mục 41 | phần 24, mục 10 | 伤残鉴定要等治疗终结之后再做，做早了等级会评低 | … tật không, có làm thẻ khuyết tật không xem … |
+| mục 41 | phần 24, mục 11 | 治完之后确实留下功能障碍，去户籍地县级残联申请残疾人证 | … tật không, có làm thẻ khuyết tật không xem … |
+| mục 41 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …ời già té ngã nghi gãy xương thì cấm bê xem … |
+| mục 41 | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … một chân sưng thì đề phòng huyết khối, xem … |
+| mục 42 | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …n dân tệ, có uống không do bác sĩ phán, xem … |
+| mục 42 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Ghi âm xem … |
+| mục 42 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …áo cảnh sát ra ép bạn cũng là phạm tội, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
