@@ -165,7 +165,7 @@ Tổng cộng 162 trích dẫn.
 | --- | --- | --- | --- |
 | mục 8 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …5 Bộ luật dân sự đã được trích nguyên chữ ở … |
 | mục 9 | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | …ính bạn tặng quà nạp tiền theo cảm xúc, xem … |
-| mục 10 | phần 8, mục 2 | 发现被骗，立刻打 110 或 96110 要求止付，别先自己查 | … đó, chỉ có thể báo cảnh sát đông tiền theo … |
+| mục 10 | phần 8, mục 2 | 发现被骗，立刻打 110 或 96110 要求止付，别先自己查 | …hỉ có thể báo cảnh sát chặn thanh toán theo … |
 | mục 10 | phần 8, mục 3 | 记住反诈硬规则：来电不轻信、信息不透露、链接不点击、转账多核实，七种最常见的骗局都是这个形状 | …hiêu giả người quen, còn có AI đổi mặt, xem … |
 | mục 10 | phần 8, mục 4 | 视频里看见脸、电话里听见声音都不算核实，涉及转账先挂断，用自己通讯录里的旧号码打回去 | …hiêu giả người quen, còn có AI đổi mặt, xem … |
 | mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Phải phân biệt rõ với … |
