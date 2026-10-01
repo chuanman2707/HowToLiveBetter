@@ -536,7 +536,7 @@ function parseReadme(md){
   }
   flush();
   for (const s of sections) for (const e of s.entries){
-    e.dispute = /^\s*Tranh cãi/.test(e.note);
+    e.dispute = /^\s*(?:Chỉ tham khảo TQ[:：]\s*)?Tranh cãi/.test(e.note);
     e.todo = /Cần xác minh|TODO/.test(e.src + e.gain + e.note + e.cost);
     e.tq = /^\s*Chỉ tham khảo TQ[:：]/.test(e.note);
     e.cs = (COST_W.money[e.money] ?? 0) + (COST_W.time[e.time] ?? 0) + (COST_W.will[e.will] ?? 0);

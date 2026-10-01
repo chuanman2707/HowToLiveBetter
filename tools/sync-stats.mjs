@@ -66,7 +66,7 @@ for (const f of bookFiles) {
     if (line.startsWith('### ')) entries++;
     const g = line.match(/^- Mức chứng cứ:\s*([ABC])/);
     if (g) grade[g[1]]++;
-    if (/^- Ghi chú:\s*Tranh cãi/.test(line)) dispute++;
+    if (/^- Ghi chú:\s*(?:Chỉ tham khảo TQ[:：]\s*)?Tranh cãi/.test(line)) dispute++;
     if (/Cần xác minh|TODO/.test(line)) todo++;
     if (/^- (Nguồn|Ghi chú):\s*/.test(line)) links += (line.match(/https?:\/\//g) ?? []).length;
     if (/^- Ghi chú:\s*Chỉ tham khảo TQ/.test(line)) tqCount++;
