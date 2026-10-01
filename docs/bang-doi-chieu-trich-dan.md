@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 350 trích dẫn.
+Tổng cộng 358 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -366,12 +366,12 @@ Tổng cộng 350 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| mục 3 | phần 11, mục 11 | 不卖翻墙工具、VPN 账号，不替人搭这类节点 | … Công cụ vượt tường bị phạt thế nào, xem … |
+| mục 3 | phần 11, mục 11 | Không bán công cụ vượt tường, tài khoản VPN, không dựng node loại đó thay người | … Công cụ vượt tường bị phạt thế nào, xem … |
 | mục 3 | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …ng chắc thật giả càng đừng chuyển theo, xem … |
 | mục 5 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | …hạy điểm" (chuyển tiền hộ ăn hoa hồng), xem … |
 | mục 6 | phần 8, mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | …hác mạo danh vay thì phát hiện thế nào, xem … |
 | mục 6 | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | … Rút tiền, chuyển khoản thay người xem … |
-| mục 8 | phần 11, mục 3 | 不写、不卖抢票、秒杀、刷单、薅羊毛脚本，哪怕只是「自动化点按钮」 | … Tự viết script, bán script xem … |
+| mục 8 | phần 11, mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Tự viết script, bán script xem … |
 | mục 8 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … bán thẻ, bán tài khoản xem … |
 | mục 8 | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | …hoản xem  (không cho mượn thẻ ngân hàng) và … |
 | mục 15 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Viết giấy nợ thế nào xem … |
@@ -426,6 +426,19 @@ Tổng cộng 350 trích dẫn.
 | mục 19 | phần 17, mục 1 | 趁老人清醒，书面指定将来的监护人 | … Giám hộ tự định làm thế nào, xem … |
 | mục 20 | mục 19 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | …hân bảo vệ, tài sản phải viết rõ riêng, xem … |
 | mục 20 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … thời gian bình tĩnh 30 ngày hoặc kiện, xem … |
+
+## 11-lan-san-do-cua-dan-ky-thuat
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 2 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Nhưng vụ săn vé ở … |
+| mục 4 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … lấy dữ liệu trong hệ thống, mức phán giống … |
+| mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ại, đừng tự tay làm (trọng tài lao động xem … |
+| mục 7 | mục 13 | Code viết trong giờ làm, bằng tài nguyên công ty thuộc về công ty; dự án mã nguồn mở của riêng mình làm bằng thời gian và thiết bị của mình, không trộn code công ty | …h viết" cũng thuộc về công ty, điểm này xem … |
+| mục 9 | mục 8 | Không chạy chương trình của mình trên máy tính, máy chủ, camera của người khác; máy công ty không mang đi đào coin | … số tiền phạt và số năm giống … |
+| mục 9 | mục 10 | Lỗ hổng báo theo đúng quy định; trước khi vá không công khai chi tiết, không phát công cụ khai thác, không giao cho phía nước ngoài | … Phát hiện lỗ hổng xong xử lý thế nào, xem … |
+| mục 10 | mục 9 | Không có ủy quyền bằng văn bản thì không test hệ thống của người khác; "xuất phát từ thiện ý" và "báo cáo sau khi làm" đều không phải lý do thoát tội | … Có tư cách đi test hay không xem … |
+| mục 15 | mục 4 | Crawler chỉ cào trang công khai không cần đăng nhập, không né chống cào, không đụng thông tin cá nhân, dữ liệu cào được không đem bán | …cấp thông tin cá nhân cấu thành tội thì xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
