@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 102 trích dẫn.
+Tổng cộng 112 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -129,8 +129,8 @@ Tổng cộng 102 trích dẫn.
 | mục 20 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ức theo bệnh tình, không theo ai đến trước (… |
 | mục 20 | phần 24, mục 12 | 谢救过你的医生，走感谢信、锦旗和满意度评价，别走红包：准则禁的是财物，不是谢意 | … đường thư cảm ơn và đánh giá hài lòng, xem … |
 | mục 20 | phần 8, mục 40 | 别给办案、执法的人送钱送卡：行贿自己也判，对监察、执法、司法人员行贿还要从重 | …ối lộ, và là tội văn bản ghi tăng nặng, xem … |
-| mục 21 | phần 4, mục 15 | 给短视频和无目的刷屏设硬上限 | … Sổ thời gian màn hình tổng xem … |
-| mục 21 | phần 4, mục 16 | 不看电视和滚动新闻，需要的信息定时集中看 | … Sổ thời gian màn hình tổng xem … |
+| mục 21 | phần 4, mục 15 | Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích | … Sổ thời gian màn hình tổng xem … |
+| mục 21 | phần 4, mục 16 | Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định | … Sổ thời gian màn hình tổng xem … |
 | mục 21 | phần 6, mục 23 | 不要指望买东西改善心情或身份感 | …a vào mua sắm lấy lại cảm giác căn tính xem … |
 | mục 21 | phần 6, mục 24 | 不要为了「在周围人里往上挪一档」多花钱换房、换车、换圈子 | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
 | mục 21 | mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
@@ -143,6 +143,21 @@ Tổng cộng 102 trích dẫn.
 | mục 24 | phần 8, mục 43 | 被家暴了：先报警留下出警记录，再去法院申请人身安全保护令，不用先离婚，也不收费 | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
 | mục 24 | mục 18 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
 | mục 25 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … chịu thì dừng lại, đổi sang gọi 12356, xem … |
+
+## 04-dung-lang-phi-thoi-gian
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 2 | mục 3 | Quyết định có tiếp tục không thì chỉ nhìn đầu tư tương lai và hồi báo tương lai, đừng nhìn đã đổ vào bao nhiêu | … đầu tư tương lai và hồi báo tương lai, xem … |
+| mục 9 | mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | … Động tác cụ thể ở … |
+| mục 9 | mục 7 | Chia việc lớn thành việc con rồi mới ước thời gian, mới bắt tay | …thành "mấy giờ, ở đâu, gặp gì thì làm gì"), … |
+| mục 9 | mục 8 | Việc không có hạn chót bên ngoài thì tự đặt cho nó một ngày | …gì"), mục 7 (chia việc lớn thành việc con), … |
+| mục 10 | phần 3, mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | …goài tầm nhìn đã có người đo trực tiếp, xem … |
+| mục 11 | phần 2, mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Cai thuốc bản thân cai thế nào xem … |
+| mục 12 | mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | …buộc động tác vào một bối cảnh cố định, xem … |
+| mục 13 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ạng sa sút hoặc lo âu rõ thì trước làm theo … |
+| mục 13 | mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … Thứ kiểm soát kích thích đó ở … |
+| mục 15 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …lại bao nhiêu, tâm trạng đổi bao nhiêu, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
