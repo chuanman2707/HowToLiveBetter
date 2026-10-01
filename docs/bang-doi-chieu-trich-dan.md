@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 295 trích dẫn.
+Tổng cộng 326 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -64,10 +64,10 @@ Tổng cộng 295 trích dẫn.
 | mục 34 | phần 13, mục 11 | 一条腿突然肿起来、发紧、按着疼，尽快就医；再加上突然喘不上气或者胸痛，立刻打 120 | …t khối tĩnh mạch sâu và thuyên tắc phổi xem … |
 | mục 34 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ nảy ra thì làm sao xem … |
 | mục 34 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Hậu quả ngộ độc xem … |
-| mục 35 | phần 9, mục 22 | 不卖自己的器官，也别帮人找供体：肾到手 2 万多，同一枚转手卖 20 万，钱要被没收还要按交易额罚 10 到 20 倍 | …à trách nhiệm hình sự của hiến hợp pháp xem … |
+| mục 35 | phần 9, mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | …à trách nhiệm hình sự của hiến hợp pháp xem … |
 | mục 35 | phần 16, mục 1 | 药按医嘱吃满，别感觉好了就停 | …, quyết toán liên tỉnh và thuốc dài hạn xem … |
 | mục 35 | phần 16, mục 2 | 先办门诊慢特病认定再办异地备案，高血压、糖尿病、放化疗、透析、抗排异就能异地直接结算 | …, quyết toán liên tỉnh và thuốc dài hạn xem … |
-| mục 37 | phần 9, mục 13 | 麻将、扑克可以打，不抽头、不当庄、不组局收钱，不玩网络赌博 | … Ranh giới pháp luật của đánh bạc xem … |
+| mục 37 | phần 9, mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … Ranh giới pháp luật của đánh bạc xem … |
 | mục 37 | phần 8, mục 44 | Người nhà đánh bạc mắc nợ, đừng vội trả thay: nợ bạc luật không bảo vệ, tiền vay để đánh bạc cũng không tính nợ chung vợ chồng | …nhà nợ nợ cờ bạc có nên trả thay không, xem … |
 | mục 37 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ tự tử nảy ra sau đó làm sao, xem … |
 | mục 38 | phần 13, mục 38 | 可能被 HIV 暴露了，72 小时内去拿阻断药，越早越好 | … Đã xảy ra hành vi nguy cơ, cách cứu xem … |
@@ -123,7 +123,7 @@ Tổng cộng 295 trích dẫn.
 | mục 9 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … Cái giá của bản thân việc thức khuya xem … |
 | mục 11 | phần 2, mục 38 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | … và nguy cơ bệnh tim mạch vành cao hơn, xem … |
 | mục 18 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …hật sự có tổn thất thì đi đường pháp lý của … |
-| mục 18 | phần 9 | 09-普通人容易踩的法律红线 (cả phần) | …tổn thất thì đi đường pháp lý của phần 8 và … |
+| mục 18 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …tổn thất thì đi đường pháp lý của phần 8 và … |
 | mục 19 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ĩ tự sát phải đi khám, gọi 12356 trước (xem … |
 | mục 20 | phần 8, mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ày trích đến từ hai quy chương Bộ Công an ở … |
 | mục 20 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ức theo bệnh tình, không theo ai đến trước (… |
@@ -170,7 +170,7 @@ Tổng cộng 295 trích dẫn.
 | mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …hiêu giả người quen, còn có AI đổi mặt, xem … |
 | mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Phải phân biệt rõ với … |
 | mục 12 | phần 16, mục 3 | 复查按医生给的间隔做，把每次的指标记在同一个本子上 | …ổi thuốc xong đừng phán theo cảm giác, theo … |
-| mục 14 | phần 9 | 09-普通人容易踩的法律红线 (cả phần) | … giả tạo, người đăng đã bị giữ hình sự (xem … |
+| mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | … giả tạo, người đăng đã bị giữ hình sự (xem … |
 | mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | … đòn bẩy biến tướng, lãi suất của chúng xem … |
 | mục 19 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua quỹ chỉ số gối rộng (xem … |
 | mục 20 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | …óa quỹ dự phòng vào trong (quỹ dự phòng xem … |
@@ -280,7 +280,7 @@ Tổng cộng 295 trích dẫn.
 | mục 26 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …i túi mật mà chưa từng đau thì làm sao, xem … |
 | mục 27 | phần 3, mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | … Thức khuya xem … |
 | mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …m khiêu dâm xem ra vấn đề cương, trước theo … |
-| mục 27 | phần 9, mục 4 | 黄色视频自己看归自己，别往群里发、别卖「资源」、别建群 | … luật của phát vào nhóm, bán tài nguyên xem … |
+| mục 27 | phần 9, mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … luật của phát vào nhóm, bán tài nguyên xem … |
 | mục 28 | phần 30, mục 15 | 孩子说自己喜欢同性，别骂、别赶出家门、别送去「矫正」：家里的态度和他会不会自杀有关 | … Sau khi con nói ra nhà làm sao, xem … |
 
 ## 07-song-khi-khong-co-tien
@@ -315,7 +315,7 @@ Tổng cộng 295 trích dẫn.
 | mục 11 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | … thể xin bồi thường nhà nước theo ngày, xem … |
 | mục 12 | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …hế nào, xin trọng tài lao động thế nào, xem … |
 | mục 12 | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …ể khiếu nại thế nào, trọng tài thế nào, xem … |
-| mục 12 | phần 9, mục 15 | 要债不扣人、不关人、不跟到家里赖着不让走 | … Vạch đỏ đòi nợ xem … |
+| mục 12 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Vạch đỏ đòi nợ xem … |
 | mục 13 | mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | … Ý nghĩ đã đi tới bước này thì xem … |
 | mục 14 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Muốn tự làm tổn thương mình, xem … |
 | mục 14 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …Lúc tinh thần suy sụp trước hết làm gì, xem … |
@@ -329,7 +329,7 @@ Tổng cộng 295 trích dẫn.
 | mục 20 | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | …sách, bị hạn chế tiêu dùng rồi làm sao, xem … |
 | mục 21 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | … xóa khỏi danh sách không sửa tín dụng, xem … |
 | mục 30 | phần 13 | 13-紧急情况 (cả phần) | … Bị cắn rồi xử thế nào xem … |
-| mục 31 | phần 9, mục 18 | 对方不满 14 岁就不能发生关系，「她同意」不是理由 | … ấu nữ nhận thế nào xem … |
+| mục 31 | phần 9, mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … ấu nữ nhận thế nào xem … |
 | mục 31 | phần 13, mục 42 | 被性侵之后，先到安全的地方打 110；验伤之前别洗澡、别洗衣服、别收拾房间，72 小时内去医院 | … Mình là bên bị hại, làm gì trước xem … |
 | mục 31 | mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | … buộc tội và bị tống tiền cùng tồn tại, xem … |
 | mục 32 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | …ong — đó là xóa luôn chứng cứ của mình, xem … |
@@ -346,7 +346,7 @@ Tổng cộng 295 trích dẫn.
 | mục 37 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Chịu không nổi thì gọi 12356, xem … |
 | mục 37 | phần 14, mục 8 | 你有权查看、复制、更正和删除自己的个人信息，被拒绝可以起诉 | …nền tảng xóa thông tin cá nhân của bạn, xem … |
 | mục 37 | mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …lại sẽ biến chính bạn thành người bị phạt ở … |
-| mục 38 | phần 9, mục 21 | 别伪造事故、别夸大损失骗理赔：这是保险诈骗罪，帮你作证、帮你修车、帮你鉴定的人一起算 | …tội, cả người giúp làm chứng cùng tính, xem … |
+| mục 38 | phần 9, mục 21 | Đừng làm giả sự cố, đừng phóng đại tổn thất lừa đền bảo hiểm: đó là tội lừa đảo bảo hiểm, người giúp làm chứng, giúp sửa xe, giúp định giá đều tính chung | …tội, cả người giúp làm chứng cùng tính, xem … |
 | mục 38 | mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | …động muốn hại người nhà xử như cấp cứu, xem … |
 | mục 38 | mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …động muốn hại người nhà xử như cấp cứu, xem … |
 | mục 39 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Tiến trình chặn chi sau khi bị lừa, xem … |
@@ -359,8 +359,44 @@ Tổng cộng 295 trích dẫn.
 | mục 43 | mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Ghi âm xem … |
 | mục 43 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Đừng tự lao vào can đánh nhau, lý do xem … |
 | mục 44 | phần 10, mục 12 | 配偶一方大额借的钱，你没签字也没追认，不自动变成你的债 | …nh, nhận định nợ chung vợ chồng thế nào xem … |
-| mục 44 | phần 9, mục 15 | 要债不扣人、不关人、不跟到家里赖着不让走 | … Chủ nợ đến chặn người, giữ người, xem … |
+| mục 44 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Chủ nợ đến chặn người, giữ người, xem … |
 | mục 44 | phần 1, mục 37 | Khi đánh bạc đến mức vay tiền đánh tiếp, tâm trạng tụt dốc kéo dài, hãy gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà giữ | …hân họ đã đánh bạc đến không muốn sống, xem … |
+
+## 09-lan-san-do-phap-luat-de-vi-pham
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 3 | phần 11, mục 11 | 不卖翻墙工具、VPN 账号，不替人搭这类节点 | … Công cụ vượt tường bị phạt thế nào, xem … |
+| mục 3 | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …ng chắc thật giả càng đừng chuyển theo, xem … |
+| mục 5 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | …hạy điểm" (chuyển tiền hộ ăn hoa hồng), xem … |
+| mục 6 | phần 8, mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | …hác mạo danh vay thì phát hiện thế nào, xem … |
+| mục 6 | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | … Rút tiền, chuyển khoản thay người xem … |
+| mục 8 | phần 11, mục 3 | 不写、不卖抢票、秒杀、刷单、薅羊毛脚本，哪怕只是「自动化点按钮」 | … Tự viết script, bán script xem … |
+| mục 8 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … bán thẻ, bán tài khoản xem … |
+| mục 8 | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | …hoản xem  (không cho mượn thẻ ngân hàng) và … |
+| mục 15 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Viết giấy nợ thế nào xem … |
+| mục 16 | phần 8, mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | … hậu quả hai việc đó xem … |
+| mục 16 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … hậu quả hai việc đó xem … |
+| mục 19 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | …t, ranh giới phòng vệ chính đáng ở đâu, xem … |
+| mục 19 | phần 8, mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | … Khoản ra tay với người vì xả giận, xem … |
+| mục 19 | phần 8, mục 12 | Kết thù với ai — bị nợ lương, bị đuổi việc, bị chơi xỏ tiền — đi đường khiếu nại, trọng tài, khởi kiện, đừng đi tìm người tính sổ | … Khoản ra tay với người vì xả giận, xem … |
+| mục 19 | phần 8, mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết là tử hình | … Khoản ra tay với người vì xả giận, xem … |
+| mục 19 | phần 8, mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | … Khoản ra tay với người vì xả giận, xem … |
+| mục 20 | phần 27, mục 7 | 背下这张「立刻去医院」的清单，孕期和产后一年内都算数 | …i kỳ và sau sinh phải đi bệnh viện ngay xem … |
+| mục 20 | phần 27, mục 16 | 产后 42 天那次复查别跳过，它同时是产后抑郁的筛查 | …ồng thời là sàng lọc trầm cảm sau sinh, xem … |
+| mục 20 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …tử thì gọi 12356 (đường dây tâm lý TQ), xem … |
+| mục 20 | phần 27 | 27-怀孕和生产 (cả phần) | …ở bệnh viện, khám thai và nằm viện sinh xem … |
+| mục 21 | phần 5, mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Bảo hiểm xe mua thế nào xem … |
+| mục 21 | phần 8, mục 38 | Đường "mua bảo hiểm cho người trước rồi ra tay" luật bít từ đầu: tiền một xu không lấy được, tội tính cố ý giết người cộng lừa đảo bảo hiểm, phạt tổng hợp nhiều tội | …t viết rõ phải phạt tổng hợp nhiều tội, xem … |
+| mục 21 | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | … hiểm y tế xử theo lừa đảo, xem ghi chú của … |
+| mục 22 | phần 1, mục 35 | Đừng lấy "thiếu một quả thận không sao" đổi tiền: quả còn lại phải làm việc thay hai quả, người bán thận sau đó 86% nói sức khỏe xấu đi | … Sau mổ xem … |
+| mục 22 | phần 1, mục 35 | Đừng lấy "thiếu một quả thận không sao" đổi tiền: quả còn lại phải làm việc thay hai quả, người bán thận sau đó 86% nói sức khỏe xấu đi | … một quả thận sau đó cơ thể trả giá gì, xem … |
+| mục 22 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …i tạng thì trước hết xem các kênh cứu trợ ở … |
+| mục 22 | mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | …ái bẫy vay mạng và vay "đóng gói hồ sơ" xem … |
+| mục 23 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | … Nguy cơ nhiễm bệnh tình dục và AIDS xem … |
+| mục 23 | phần 13, mục 38 | 可能被 HIV 暴露了，72 小时内去拿阻断药，越早越好 | …tình dục dùng bao cao su suốt quá trình) và … |
+| mục 23 | phần 22 | 22-怎么放松 (cả phần) | …vui chơi giải trí bản thân cần chú ý gì xem … |
+| mục 23 | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | …ực tiếp xử theo tội hiếp dâm phạt nặng, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
