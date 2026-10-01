@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 358 trích dẫn.
+Tổng cộng 380 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -182,10 +182,10 @@ Tổng cộng 358 trích dẫn.
 | mục 29 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … được chỉ có kết quả rút kiểm tổng thể (xem … |
 | mục 29 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … Trả hàng bảy ngày không cần lý do xem … |
 | mục 31 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | …ỉ còn đường kiện, kiện nhỏ tính thế nào xem … |
-| mục 31 | phần 12, mục 8 | 做食品先看自己落在哪一档：生产和做餐饮要许可，只卖预包装的改备案，卖生鲜肉菜不用证 | … Chi tiết xem … |
-| mục 31 | phần 12, mục 9 | 装袋卖就是预包装食品：标签上生产日期、保质期、配料表一样都不能少 | … Chi tiết xem … |
-| mục 31 | phần 12, mục 10 | 普通食品不许说能治病：标签、说明书、广告和直播话术都算 | … Chi tiết xem … |
-| mục 31 | phần 12, mục 11 | 食品这一行有刑事线：卖病死肉、超标货就够罪，掺了有毒有害的不看金额、起刑五年 | … Chi tiết xem … |
+| mục 31 | phần 12, mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Chi tiết xem … |
+| mục 31 | phần 12, mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … Chi tiết xem … |
+| mục 31 | phần 12, mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … Chi tiết xem … |
+| mục 31 | phần 12, mục 11 | Nghề thực phẩm có vạch hình sự: bán thịt chết bệnh, hàng vượt chuẩn đã đủ tội; trộn chất độc hại thì không nhìn số tiền, khung khởi đầu đã là dưới 5 năm tù | … Chi tiết xem … |
 | mục 31 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … ba lần, dưới 500 nhân dân tệ tính 500, xem … |
 | mục 34 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … Cách tra chung lúc mua đồ lớn xem … |
 | mục 34 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … Livestream có chuyện nên tìm ai, xem … |
@@ -193,7 +193,7 @@ Tổng cộng 358 trích dẫn.
 | mục 35 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …òng lặp "mua về rồi phai, rồi mua tiếp" xem … |
 | mục 35 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …ại nạp tiền tặng quà hoàn tiền thế nào, xem … |
 | mục 35 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | …lại 24 giờ cho mua đắt không cần thiết, xem … |
-| mục 36 | phần 12, mục 9 | 装袋卖就是预包装食品：标签上生产日期、保质期、配料表一样都不能少 | …hực phẩm đóng gói sẵn phải ghi thế nào, xem … |
+| mục 36 | phần 12, mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | …hực phẩm đóng gói sẵn phải ghi thế nào, xem … |
 | mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên | … Mục này quản "bán hay không", … |
 | mục 37 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …bạn đặt vào con cổ phiếu này nhiều hơn, xem … |
 | mục 38 | mục 15 | Không mua bán cổ phiếu thường xuyên | …t năm đổi gần 18 lần, tài khoản hộ Mỹ trong … |
@@ -439,6 +439,33 @@ Tổng cộng 358 trích dẫn.
 | mục 9 | mục 10 | Lỗ hổng báo theo đúng quy định; trước khi vá không công khai chi tiết, không phát công cụ khai thác, không giao cho phía nước ngoài | … Phát hiện lỗ hổng xong xử lý thế nào, xem … |
 | mục 10 | mục 9 | Không có ủy quyền bằng văn bản thì không test hệ thống của người khác; "xuất phát từ thiện ý" và "báo cáo sau khi làm" đều không phải lý do thoát tội | … Có tư cách đi test hay không xem … |
 | mục 15 | mục 4 | Crawler chỉ cào trang công khai không cần đăng nhập, không né chống cào, không đụng thông tin cá nhân, dữ liệu cào được không đem bán | …cấp thông tin cá nhân cấu thành tội thì xem … |
+
+## 12-khoi-nghiep-va-lam-an
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 2 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …tắc chung của giấy vay và giấy bảo lãnh xem … |
+| mục 2 | mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … tiền bảo lãnh nằm trong con số "lỗ được" ở … |
+| mục 4 | phần 8, mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | …ủa việc đứng tên làm pháp nhân treo tên xem … |
+| mục 6 | mục 3 | Trước khi khai trương chọn đúng chủ thể: hộ cá thể và thành viên hợp danh phải trả đến cùng, công ty TNHH mới "hữu hạn" | …ệm của bạn, và trong 5 năm phải nộp đủ, xem … |
+| mục 6 | mục 7 | Nghề cần giấy phép thì giấy chưa cấp không khai trương | …ì giấy chưa cấp không được khai trương, xem … |
+| mục 7 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | …óm, bán thịt rau tươi có cần giấy không xem … |
+| mục 8 | phần 5, mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | … Người mua đòi được bao nhiêu xem … |
+| mục 8 | mục 6 | Trước khi đăng ký chốt tên gọi, địa điểm kinh doanh, ngành nghề và vốn điều lệ: đủ giấy tờ lĩnh giấy phép ngay tại chỗ | … chủ thể và giấy phép xem … |
+| mục 8 | mục 7 | Nghề cần giấy phép thì giấy chưa cấp không khai trương | …gành nghề), nghề khác có cần giấy không xem … |
+| mục 9 | phần 5, mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | …000 (xem … |
+| mục 10 | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …ời mua nhận ra loại lời nói này thế nào xem … |
+| mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Làm theo cả bộ ở … |
+| mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Ranh giới với … |
+| mục 11 | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … Ranh giới với … |
+| mục 11 | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … Ranh giới với … |
+| mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | …iết kiệm công nhất vẫn là bộ động tác trong … |
+| mục 12 | mục 23 | Lỗ thì rút lui theo đúng thủ tục: xóa đăng ký đơn giản được thì xóa, nợ nhiều hơn tài sản thì đi đường phá sản, đừng bỏ mặc | …g ký cũng không đi đường đơn giản được, xem … |
+| mục 14 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Đã trả tiền hoặc chuyển khoản rồi thì theo … |
+| mục 19 | mục 20 | Nhập mẻ nào giữ chứng từ và thông tin nhà cung cấp của mẻ đó, giá nhập thấp hơn hẳn giá thị trường thì không nhập: hàng giả do nhân viên nhập, người bị phán là chủ | …ỏ dùng nhãn hiệu và hình của người khác xem … |
+| mục 19 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | …ỏ dùng nhãn hiệu và hình của người khác xem … |
+| mục 20 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | … Dùng hình của người khác xem … |
+| mục 21 | mục 19 | Mẫu làm xong trước hết qua một vòng danh mục sản xuất hàng loạt rồi mới bàn mở xưởng | …Tra nhãn hiệu trước khi đổ vào sản xuất xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
