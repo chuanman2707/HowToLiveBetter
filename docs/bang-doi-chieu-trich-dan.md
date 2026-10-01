@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 326 trích dẫn.
+Tổng cộng 350 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -358,7 +358,7 @@ Tổng cộng 326 trích dẫn.
 | mục 42 | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | …iệc phải làm tại hiện trường giao thông xem … |
 | mục 43 | mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Ghi âm xem … |
 | mục 43 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Đừng tự lao vào can đánh nhau, lý do xem … |
-| mục 44 | phần 10, mục 12 | 配偶一方大额借的钱，你没签字也没追认，不自动变成你的债 | …nh, nhận định nợ chung vợ chồng thế nào xem … |
+| mục 44 | phần 10, mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …nh, nhận định nợ chung vợ chồng thế nào xem … |
 | mục 44 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Chủ nợ đến chặn người, giữ người, xem … |
 | mục 44 | phần 1, mục 37 | Khi đánh bạc đến mức vay tiền đánh tiếp, tâm trạng tụt dốc kéo dài, hãy gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà giữ | …hân họ đã đánh bạc đến không muốn sống, xem … |
 
@@ -398,13 +398,42 @@ Tổng cộng 326 trích dẫn.
 | mục 23 | phần 22 | 22-怎么放松 (cả phần) | …vui chơi giải trí bản thân cần chú ý gì xem … |
 | mục 23 | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | …ực tiếp xử theo tội hiếp dâm phạt nặng, xem … |
 
+## 10-yeu-va-cuoi-co-dang-khong
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 4 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | … … |
+| mục 12 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Nên cái hữu dụng hơn vẫn là bước ở … |
+| mục 12 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …y tắc chung về giấy nợ và giấy bảo lãnh xem … |
+| mục 13 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …an bình tĩnh 30 ngày của đăng ký ly hôn xem … |
+| mục 17 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …động chuyển thành lợi ích sức khỏe của bạn (… |
+| mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …hỏe của bạn (mục 8) hay chất lượng quan hệ (… |
+| mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | … Còn khoản thời gian (… |
+| mục 17 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | … Còn khoản thời gian (mục 9), khoản tiền (… |
+| mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Còn khoản thời gian (mục 9), khoản tiền (… |
+| mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … Còn khoản thời gian (mục 9), khoản tiền (… |
+| mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền (mục 10 đến 12) và chi phí rút lui (… |
+| mục 18 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …vấn đề giao tiếp, là bạo hành gia đình, xem … |
+| mục 18 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ghĩ kỹ có nên đi không, chi phí rút lui xem … |
+| mục 19 | phần 17, mục 2 | 把遗嘱立了，记住后立的推翻先立的，公证遗嘱不再优先 | … Lập mấy bản di chúc thì lấy bản cuối, xem … |
+| mục 19 | phần 17, mục 1 | 趁老人清醒，书面指定将来的监护人 | … Giám hộ tự định làm thế nào, xem … |
+| mục 20 | mục 19 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | …hân bảo vệ, tài sản phải viết rõ riêng, xem … |
+| mục 20 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … thời gian bình tĩnh 30 ngày hoặc kiện, xem … |
+
 ## 18-nuoi-con-co-dang-khong
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Giống như … |
+| Mở đầu phần | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Giống như … |
 | Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
 | mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | … Đòi bồi thường thế nào xem … |
 | mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
-| mục 4 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách tính giống cách tính việc nhà ở … |
-| mục 6 | phần 10 | 10-恋爱和结婚划不划算 (cả phần) | … Cách xét giống … |
+| mục 4 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách tính giống cách tính việc nhà ở … |
+| mục 6 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách xét giống … |
