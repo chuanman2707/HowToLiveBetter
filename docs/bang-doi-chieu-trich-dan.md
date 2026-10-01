@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 72 trích dẫn.
+Tổng cộng 102 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -53,7 +53,7 @@ Tổng cộng 72 trích dẫn.
 | mục 29 | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … (giữ BMI trong khoảng 20–25), huyết áp xem … |
 | mục 30 | phần 13 | 13-紧急情况 (cả phần) | … Đã phơi nhiễm rồi thì làm sao xem … |
 | mục 31 | phần 27 | 27-怀孕和生产 (cả phần) | …a bệnh trong thai kỳ và chặn lây mẹ-con xem … |
-| mục 32 | phần 3, mục 19 | 情绪低落时先做性价比最高的几件事：动起来、晒太阳、按时睡、找人说、打 12356 | …ng, phơi nắng, ngủ đúng giờ, gọi 12356) xem … |
+| mục 32 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc hiệu quả trên giá cao nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ng, phơi nắng, ngủ đúng giờ, gọi 12356) xem … |
 | mục 32 | phần 8, mục 15 | 身边人说出「谁也别想好过」「带着孩子一起走」，别当气话：近亲属可以直接送诊，公安接到报警也必须管 | … cạnh để lộ ý nghĩ này bạn làm được gì, xem … |
 | mục 32 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … đoạn gây chết ra xa và đường dây 12356 xem … |
 | mục 32 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Di chứng sau khi được cứu xem … |
@@ -101,13 +101,48 @@ Tổng cộng 72 trích dẫn.
 | mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Nên làm được … |
 | mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … Nên làm được … |
 | mục 33 | phần 6, mục 26 | 不要指望吃早餐或 16:8 轻断食帮你控制体重，吃饭时间挑你能长期坚持的 | …8 đều không có lợi thêm, xem … |
-| mục 38 | phần 3, mục 11 | 下午困了就睡 10 分钟，不要睡半小时 | … Cách chợp ngắn để tỉnh táo xem … |
+| mục 38 | phần 3, mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … Cách chợp ngắn để tỉnh táo xem … |
 | mục 38 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … Đêm ngủ bao lâu xem … |
-| mục 39 | phần 3, mục 2 | 固定起床时间，周末也一样 | … Mục cuối tuần cũng dậy cố định xem … |
+| mục 39 | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … Mục cuối tuần cũng dậy cố định xem … |
 | mục 39 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | …i, bản thân nó liên quan bệnh tim mạch, xem … |
 | mục 40 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
 | mục 40 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | …lá, càng sớm càng tốt), huyết áp mỡ máu xem … |
 | mục 40 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …eo chỉ định), sau ca đêm ngủ bù thế nào xem … |
+
+## 03-dung-lang-phi-suc-luc
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | mục 20 | Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy định, đừng coi như nhân vật: thứ đẩy việc tới trước là giấy tờ và thời hạn, không phải cảm xúc | … Riêng … |
+| Mở đầu phần | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Trong đó … |
+| Mở đầu phần | mục 23 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | … 15 (coi ý nghĩ bi quan như triệu chứng) và … |
+| mục 2 | phần 2, mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉnh thoảng thức khuya xong bù thế nào, xem … |
+| mục 4 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | …ine đổi lại là thời lượng ngủ, cộng dồn với … |
+| mục 6 | mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … Loại sau phải phối hợp … |
+| mục 6 | mục 5 | Đổi email và tin nhắn sang xử lý theo đợt, vài lần cố định mỗi ngày | …ợp mục 1 (tắt thông báo không cần thiết) và … |
+| mục 9 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … Cái giá của bản thân việc thức khuya xem … |
+| mục 11 | phần 2, mục 38 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | … và nguy cơ bệnh tim mạch vành cao hơn, xem … |
+| mục 18 | phần 8 | 08-别把自己搭进去 (cả phần) | …hật sự có tổn thất thì đi đường pháp lý của … |
+| mục 18 | phần 9 | 09-普通人容易踩的法律红线 (cả phần) | …tổn thất thì đi đường pháp lý của phần 8 và … |
+| mục 19 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ĩ tự sát phải đi khám, gọi 12356 trước (xem … |
+| mục 20 | phần 8, mục 39 | 报警当场要受案回执，不立案要书面通知：7 日内可申请复议，再 7 日可申请复核，检察院能通知公安立案 | …ày trích đến từ hai quy chương Bộ Công an ở … |
+| mục 20 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ức theo bệnh tình, không theo ai đến trước (… |
+| mục 20 | phần 24, mục 12 | 谢救过你的医生，走感谢信、锦旗和满意度评价，别走红包：准则禁的是财物，不是谢意 | … đường thư cảm ơn và đánh giá hài lòng, xem … |
+| mục 20 | phần 8, mục 40 | 别给办案、执法的人送钱送卡：行贿自己也判，对监察、执法、司法人员行贿还要从重 | …ối lộ, và là tội văn bản ghi tăng nặng, xem … |
+| mục 21 | phần 4, mục 15 | 给短视频和无目的刷屏设硬上限 | … Sổ thời gian màn hình tổng xem … |
+| mục 21 | phần 4, mục 16 | 不看电视和滚动新闻，需要的信息定时集中看 | … Sổ thời gian màn hình tổng xem … |
+| mục 21 | phần 6, mục 23 | 不要指望买东西改善心情或身份感 | …a vào mua sắm lấy lại cảm giác căn tính xem … |
+| mục 21 | phần 6, mục 24 | 不要为了「在周围人里往上挪一档」多花钱换房、换车、换圈子 | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
+| mục 21 | mục 19 | Lúc tinh thần suy sụp làm trước mấy việc hiệu quả trên giá cao nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
+| mục 23 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …356 trước, đem thủ đoạn gây chết ra xa, xem … |
+| mục 23 | phần 8, mục 15 | 身边人说出「谁也别想好过」「带着孩子一起走」，别当气话：近亲属可以直接送诊，公安接到报警也必须管 | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
+| mục 23 | phần 30, mục 8 | 12 到 18 岁的孩子做一次抑郁筛查，别拿学校的心理测评当诊断 | … Sàng lọc trầm cảm cho trẻ xem … |
+| mục 23 | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Nó giống kỳ vọng bi quan trong … |
+| mục 24 | phần 22, mục 9 | 当场想缓过来，用 5 分钟「循环叹息」：吸气两段，呼气拉长 | … Cách dùng ngay tại chỗ xem … |
+| mục 24 | phần 22, mục 7 | 心情差就去走或者跑，抗抑郁的效应量（效果大小）跟强度成正比 | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
+| mục 24 | phần 8, mục 43 | 被家暴了：先报警留下出警记录，再去法院申请人身安全保护令，不用先离婚，也不收费 | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
+| mục 24 | mục 18 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
+| mục 25 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … chịu thì dừng lại, đổi sang gọi 12356, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
