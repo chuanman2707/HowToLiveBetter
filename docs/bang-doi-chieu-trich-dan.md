@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 724 trích dẫn.
+Tổng cộng 731 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -921,3 +921,15 @@ Tổng cộng 724 trích dẫn.
 | mục 18 | mục 19 | Người giám hộ của người lớn định theo thứ tự định pháp; người bị giám hộ làm đau người khác, do người giám hộ đền | … Người giám hộ định thế nào xem … |
 | mục 19 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | …ranh nghị phía sau, viết cụ thể thế nào xem … |
 | mục 20 | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ộng đi trọng tài, lưu chứng và hiệu hạn xem … |
+
+## 34-thuoc-san-trong-nha-dung-de-uong-thanh-hoa
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | …huốc hay chất tẩy rửa trước hết làm gì, xem … |
+| Mở đầu phần | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | …ốc bệnh mạn tính uống đủ theo chỉ định, xem … |
+| Mở đầu phần | phần 28, mục 6 | Muốn ăn thuốc giảm cân thì tới bệnh viện lấy đơn, đừng mua ở cửa hàng mạng không cần đơn đã giao hàng | …ê đơn trên mạng phải qua xét đơn trước, xem … |
+| mục 2 | phần 20, mục 8 | Em bé chưa đủ 3 tháng sốt tới 38 °C là đi thẳng viện, không theo dõi ở nhà | … Con chưa đủ 3 tháng sốt đi thẳng viện, xem … |
+| mục 4 | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | … chưa đủ 1 tuổi không mớm mật ong được, xem … |
+| mục 4 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …mol, lại ăn cùng thuốc hạ sốt là trùng, xem … |
+| mục 5 | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | … Aspirin liều nhỏ phòng tiền sản giật, xem … |
