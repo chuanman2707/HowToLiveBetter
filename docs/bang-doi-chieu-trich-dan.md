@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 568 trích dẫn.
+Tổng cộng 573 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -49,7 +49,7 @@ Tổng cộng 568 trích dẫn.
 | mục 28 | mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | … loại tín hiệu như … |
 | mục 29 | phần 2, mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
 | mục 29 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …(bỏ thuốc, càng sớm càng tốt), giảm cân xem … |
-| mục 29 | phần 28, mục 4 | 不要买承诺「快速瘦」的减肥药、减肥咖啡、瘦身糖果和酵素梅 | …ày, liều lượng không rõ, cách nhận biết xem … |
+| mục 29 | phần 28, mục 4 | Đừng mua thuốc giảm cân, cà phê giảm cân, kẹo gầy và mơ enzyme hứa "gầy nhanh" | …ày, liều lượng không rõ, cách nhận biết xem … |
 | mục 29 | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … (giữ BMI trong khoảng 20–25), huyết áp xem … |
 | mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Đã phơi nhiễm rồi thì làm sao xem … |
 | mục 31 | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …a bệnh trong thai kỳ và chặn lây mẹ-con xem … |
@@ -276,7 +276,7 @@ Tổng cộng 568 trích dẫn.
 | mục 26 | phần 2, mục 28 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …chứng cứ thật là ăn gì và ăn bao nhiêu, xem … |
 | mục 26 | phần 2, mục 29 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | … mục 28 (mỗi ngày ăn đủ 5 phần rau củ quả), … |
 | mục 26 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …, mục 29 (ăn ít thực phẩm siêu chế biến) và … |
-| mục 26 | phần 28, mục 1 | 不要用极端节食、断食或催吐来控制体重，要减就从运动那一侧减 | … ăn cực đoan và gây nôn là chuyện khác, xem … |
+| mục 26 | phần 28, mục 1 | Đừng dùng kiêng cữ cực đoan, nhịn ăn hoặc gây nôn để kiểm soát cân, muốn giảm thì giảm từ phía vận động | … ăn cực đoan và gây nôn là chuyện khác, xem … |
 | mục 26 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …i túi mật mà chưa từng đau thì làm sao, xem … |
 | mục 27 | phần 3, mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | … Thức khuya xem … |
 | mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …m khiêu dâm xem ra vấn đề cương, trước theo … |
@@ -735,3 +735,13 @@ Tổng cộng 568 trích dẫn.
 | mục 16 | mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Trong danh sách "đi bệnh viện ngay" ở … |
 | mục 16 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Có ý nghĩ tự tử lúc xử thế nào xem … |
 | mục 16 | phần 9, mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | …ật nuôi không nổi lúc đường ra hợp pháp xem … |
+
+## 28-dung-vi-ngoai-hinh-pha-hong-suc-khoe
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 1 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | … Quan hệ BMI và tỷ lệ chết xem … |
+| mục 3 | mục 2 | Trước khi tiêm kim, cấy chỉ, mở dao tra hai thứ: trên giấy phép cơ sở có "thẩm mỹ y khoa" không, người động tay có phải bác sĩ chủ chẩn không | … Trước khi làm trước theo … |
+| mục 5 | mục 4 | Đừng mua thuốc giảm cân, cà phê giảm cân, kẹo gầy và mơ enzyme hứa "gầy nhanh" | … Cách phán như mục thuốc giảm cân kia (… |
+| mục 6 | mục 5 | Đừng dùng steroid đồng hóa ("kim tăng cơ" "thuốc uống") để lên cơ | … Steroid và hormone giới tính … |
+| mục 6 | mục 7 | Thuốc loại hormone giới tính chỉ dùng khi bác sĩ kê và định kỳ tái xét, đừng mua mạng, đừng tự tăng liều | … Steroid và hormone giới tính … |
