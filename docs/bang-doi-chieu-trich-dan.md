@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 470 trích dẫn.
+Tổng cộng 481 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -597,3 +597,19 @@ Tổng cộng 470 trích dẫn.
 | mục 17 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …ông đóng bảo hiểm xã hội bị ép đi, làm theo … |
 | mục 17 | mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ý "tự nguyện xin nghỉ vì lý do cá nhân") và … |
 | mục 17 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường kinh tế tính thế nào, xem … |
+
+## 20-cham-tre-so-sinh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …i làm trước khi sinh và ngày xuất viện, xem … |
+| mục 2 | phần 1 | 01-dung-chet-som (cả phần) | … Sàng lọc mẹ tự phải làm xem … |
+| mục 3 | mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Mũi viêm gan B đầu tiên xem … |
+| mục 4 | mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | …ng trứng, đậu phộng có nên tránh không, xem … |
+| mục 9 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Xử lý cảm xúc của mình thế nào, xem … |
+| mục 10 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Cách tra thông báo kiểm tra xem … |
+| mục 11 | phần 1 | 01-dung-chet-som (cả phần) | … chứng cứ của ghế an toàn xem … |
+| mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … an toàn xem phần 1, tiêu xài xung động xem … |
+| mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | …ể không, áp dụng quy tắc bình tĩnh 24 tiếng … |
+| mục 12 | phần 13, mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … Bị nghẹn xử lý thế nào xem … |
+| mục 12 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | …ủ 6 tháng mới bắt đầu thêm thức ăn phụ, xem … |
