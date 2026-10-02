@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 542 trích dẫn.
+Tổng cộng 551 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -211,7 +211,7 @@ Tổng cộng 542 trích dẫn.
 | mục 43 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Đã ký rồi thì trong 15 ngày theo … |
 | mục 43 | mục 44 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … Thấy bị lừa khiếu nại thế nào, xem … |
 | mục 44 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
-| mục 45 | phần 25, mục 9 | 分散在各处的钱要逐个去取：公积金余额、社保待遇、工伤待遇 | … đi rồi từng chỗ đi lĩnh tiền khắp nơi, xem … |
+| mục 45 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … đi rồi từng chỗ đi lĩnh tiền khắp nơi, xem … |
 | mục 45 | phần 29, mục 13 | 别拿死当还债的办法：两年内的寿险不赔，工伤不认，债照样先从遗产里扣 | …n đường lấy chết trả nợ đi không thông, xem … |
 
 ## 06-danh-sach-nen-tranh
@@ -694,3 +694,17 @@ Tổng cộng 542 trích dẫn.
 | mục 12 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ình, hai việc không cùng lượng, cái sau xem … |
 | mục 12 | mục 7 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …hữa, tại chỗ yêu cầu phong tỏa bệnh án (xem … |
 | mục 12 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …a bệnh án), và lưu giữ bệnh án và phim ảnh (… |
+
+## 25-viec-phai-lam-khi-nguoi-than-qua-doi
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 17 | 17-nha-co-nguoi-gia (cả phần) | … dụ giám hộ ý định, di chúc, tài khoản, xem … |
+| Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Ba khoản chế độ chết vì lao động xem … |
+| mục 1 | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | …iấy chứng tử ai điều trị người đó khai, xem … |
+| mục 3 | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | …hân thuộc hạng mục cơ bản, có giá định, xem … |
+| mục 4 | phần 24 | 24-di-kham-benh (cả phần) | … Bệnh án phong tỏa thế nào xem … |
+| mục 5 | mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … Mấy khoản tiền đó xem … |
+| mục 9 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …êu cầu hình thức của di chúc và thừa kế xem … |
+| mục 10 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …ết ra chỗ tài khoản và mật khẩu đi đâu, xem … |
+| mục 10 | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | …n và xóa thông tin cá nhân là hai việc, xem … |
