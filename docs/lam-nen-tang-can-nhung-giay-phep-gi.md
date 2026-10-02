@@ -23,7 +23,7 @@ Phát trực tiếp chia ba loại. Có streamer biểu diễn, làm 《Giấy p
 
 ### Ba điểm dễ nhầm
 
-**Thân phận cá nhân làm không được giấy phép viễn thông gia tăng.** Điều kiện xin viết ngay mục đầu "người kinh doanh là công ty thành lập theo pháp". Bạn phải có một công ty trước, cá nhân cầm thẻ căn cước đi xin làm không xong. Chỉ kinh doanh trong tỉnh mình, vốn đăng ký công ty không được thấp hơn 1 triệu tệ; kinh doanh qua tỉnh, không được thấp hơn 10 triệu tệ. Tài liệu nộp lên sau, hạn kỳ thẩm tra là 60 ngày, giấy phép hiệu hạn 5 năm. Muốn làm nghiệp vụ thu phí, phải mở công ty lên trước. Mở công ty thế nào xem phần 12 (khởi nghiệp và làm ăn).
+**Thân phận cá nhân làm không được giấy phép viễn thông gia tăng.** Điều kiện xin ghi ngay khoản thứ nhất "người kinh doanh là công ty thành lập theo pháp". Bạn phải có một công ty trước, cá nhân cầm thẻ căn cước đi xin làm không xong. Chỉ kinh doanh trong tỉnh mình, vốn đăng ký công ty không được thấp hơn 1 triệu tệ; kinh doanh qua tỉnh, không được thấp hơn 10 triệu tệ. Tài liệu nộp lên sau, hạn kỳ thẩm tra là 60 ngày, giấy phép hiệu hạn 5 năm. Muốn làm nghiệp vụ thu phí, phải mở công ty lên trước. Mở công ty thế nào xem phần 12 (khởi nghiệp và làm ăn).
 
 **Tấm giấy chương trình nghe nhìn đó, công ty dân doanh cơ bản không lấy được.** Điều kiện xin viết là "có tư cách pháp nhân, là đơn vị độc tư quốc hữu hay quốc hữu khống cổ". Ý là tấm giấy này chỉ phát cho đơn vị quốc gia xuất tư hay quốc gia khống cổ. Nên người khởi nghiệp cá nhân làm video dài, làm chương trình tự chế, không lấy được tấm này. Muốn làm phát trực tiếp, phải làm giấy phép kinh doanh văn hóa mạng.
 
