@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 446 trích dẫn.
+Tổng cộng 470 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -238,7 +238,7 @@ Tổng cộng 446 trích dẫn.
 | mục 10 | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
 | mục 10 | phần 17, mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
 | mục 10 | phần 17, mục 5 | Đừng đụng các kiểu "đầu tư hưu trí" bắt người già nộp tiền trước: làm thẻ, mua giường, mua căn hộ dưỡng lão, dưỡng lão lưu trú, mua sản phẩm cho người già đều là cùng một kiểu huy động vốn trái phép | …ột loại là sẽ thay thế thuốc đang uống, xem … |
-| mục 16 | phần 19, mục 11 | 粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝 | …, không phải tròng chống ánh sáng xanh, xem … |
+| mục 16 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …, không phải tròng chống ánh sáng xanh, xem … |
 | mục 16 | phần 13, mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | … giác, ngay hôm đó phải đi cấp cứu mắt, xem … |
 | mục 16 | phần 30, mục 4 | 让孩子每天在户外待够 2 小时，这是目前唯一有随机试验支持的防近视办法 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
 | mục 16 | phần 30, mục 12 | 查出视力不良，去医院做散瞳验光，之后按医生给的间隔复查 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
@@ -321,8 +321,8 @@ Tổng cộng 446 trích dẫn.
 | mục 14 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …Lúc tinh thần suy sụp trước hết làm gì, xem … |
 | mục 16 | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | … Bị bạo lực mạng rồi xử thế nào, xem … |
 | mục 18 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ho vay thị trường TQ) tòa không bảo vệ, xem … |
-| mục 19 | phần 19, mục 1 | 加班费按 1.5 倍、2 倍、3 倍三档算，不给就投诉劳动监察，逾期不付还要加付 50% 到 100% | …hưa nghỉ đi theo bộ trọng tài lao động, xem … |
-| mục 19 | phần 19, mục 2 | 年休假按累计工龄算 5、10、15 天，没休成的按日工资 300% 折钱 | …hưa nghỉ đi theo bộ trọng tài lao động, xem … |
+| mục 19 | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | …hưa nghỉ đi theo bộ trọng tài lao động, xem … |
+| mục 19 | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | …hưa nghỉ đi theo bộ trọng tài lao động, xem … |
 | mục 19 | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Giấy nợ và bảo lãnh xem … |
 | mục 19 | mục 20 | Bị kiện, bị thi hành án thì khai thật tài sản, trả được bao nhiêu trả bấy nhiêu; đừng chuyển nhà và tiền cho người thân hay công ty | … Giai đoạn bị thi hành xem … |
 | mục 20 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …àm xong nghĩa vụ rồi khôi phục thế nào, xem … |
@@ -353,7 +353,7 @@ Tổng cộng 446 trích dẫn.
 | mục 39 | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | … Bị bạo lực mạng xem … |
 | mục 40 | phần 24, mục 12 | 谢救过你的医生，走感谢信、锦旗和满意度评价，别走红包：准则禁的是财物，不是谢意 | … trong bệnh viện thuộc bộ quy tắc khác, xem … |
 | mục 40 | mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | … Thật gặp bên kia đòi lợi thì đi theo kênh … |
-| mục 41 | phần 19, mục 8 | 离职前把工资条、考勤、劳动合同、社保记录和聊天记录先存下来 | … Tư liệu nên lưu trước khi nghỉ việc xem … |
+| mục 41 | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Tư liệu nên lưu trước khi nghỉ việc xem … |
 | mục 41 | mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …hể động tranh chấp riêng tư và danh dự, xem … |
 | mục 42 | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | …iệc phải làm tại hiện trường giao thông xem … |
 | mục 43 | mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Ghi âm xem … |
@@ -489,8 +489,8 @@ Tổng cộng 446 trích dẫn.
 | mục 19 | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Cách lắp máy báo xem … |
 | mục 20 | mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Khí CO xem … |
 | mục 20 | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …máy báo khí CO kêu), bỏng và bỏng nhiệt xem … |
-| mục 21 | phần 19, mục 10 | 进有粉尘、噪声、化学品的岗位之前，先看合同里写没写危害；三次职业健康检查由单位安排并掏钱 | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
-| mục 21 | phần 19, mục 11 | 粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝 | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
+| mục 21 | phần 19, mục 10 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
+| mục 21 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
 | mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
 | mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ứu phần lớn là con nhà mình, cách phòng xem … |
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử theo … |
@@ -501,8 +501,8 @@ Tổng cộng 446 trích dẫn.
 | mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | …mục 36, tiền khi cứu người mà bị thương xem … |
 | mục 38 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …ữa lỗi, phòng thường ngày và xét nghiệm xem … |
 | mục 38 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …ữa lỗi, phòng thường ngày và xét nghiệm xem … |
-| mục 39 | phần 19, mục 15 | 伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱 | … và cách quy đổi cấp thương tật ra tiền xem … |
-| mục 39 | phần 19, mục 16 | 工亡的三笔钱要分清：丧葬补助金、供养亲属抚恤金、一次性工亡补助金 | … và cách quy đổi cấp thương tật ra tiền xem … |
+| mục 39 | phần 19, mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | … và cách quy đổi cấp thương tật ra tiền xem … |
+| mục 39 | phần 19, mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … và cách quy đổi cấp thương tật ra tiền xem … |
 | mục 39 | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Cách xin viện trợ pháp lý xem … |
 | mục 40 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ng cứu ngay, đừng xếp hàng cửa đăng ký (xem … |
 | mục 40 | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … ấn và cách lên garô khi chảy máu nhiều xem … |
@@ -564,7 +564,36 @@ Tổng cộng 446 trích dẫn.
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Giống như … |
 | Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
-| mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | … Đòi bồi thường thế nào xem … |
-| mục 3 | phần 19 | 19-在职离职和工伤 (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
+| mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Đòi bồi thường thế nào xem … |
+| mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
 | mục 4 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách tính giống cách tính việc nhà ở … |
 | mục 6 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách xét giống … |
+
+## 19-di-lam-nghi-viec-va-tai-nan-lao-dong
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 1 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hạn trọng tài của tranh chấp xem … |
+| mục 3 | phần 12, mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | … hay không, nghĩa vụ phía dùng lao động xem … |
+| mục 3 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Bị giải trừ trái luật tính theo … |
+| mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …yết đàm phán hay đi trọng tài, đường đi xem … |
+| mục 8 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … đường bảo vệ quyền xem … |
+| mục 8 | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …ệu kỹ thuật của công ty, rủi ro mang đi xem … |
+| mục 9 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …phải ý mình mới lĩnh, đây là lý do khác của … |
+| mục 9 | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xin qua mạng thế nào xem … |
+| mục 9 | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | …ạn mới được yêu cầu hủy thỏa thuận này, xem … |
+| mục 9 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Tư liệu xin và cổng qua mạng xem … |
+| mục 9 | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …ờng và điều kiện hủy của cấm cạnh tranh xem … |
+| mục 9 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …iền bảo hiểm thất nghiệp cũng mất cùng, xem … |
+| mục 10 | mục 12 | Bị thương khi đi làm, trên đường đi làm về bị đâm, việc đầu tiên là làm nhận định tai nạn lao động, đơn vị không báo thì bạn tự báo | …ghiệp đi theo tai nạn lao động, đãi ngộ xem … |
+| mục 10 | mục 13 | Đừng tin "cố lết đến chỗ làm là tính tai nạn lao động": khó chịu đột ngột trước hết gọi 120, không phải vội đi chấm thẻ | …ghiệp đi theo tai nạn lao động, đãi ngộ xem … |
+| mục 10 | mục 14 | Đơn vị không đóng bảo hiểm tai nạn lao động cho bạn, đãi ngộ tai nạn lao động vẫn có y, đơn vị trả đủ theo cùng chuẩn | …ghiệp đi theo tai nạn lao động, đãi ngộ xem … |
+| mục 10 | mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …ghiệp đi theo tai nạn lao động, đãi ngộ xem … |
+| mục 10 | mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | …ghiệp đi theo tai nạn lao động, đãi ngộ xem … |
+| mục 11 | phần 13, mục 21 | Hóa chất axit kiềm bắn lên người: lập tức cởi áo quần dính hóa chất, xả nhiều nước chảy, mắt phải mở mi mắt xả, xả đủ giờ rồi mới đi | …ử lý tại chỗ khi hóa chất bắn lên người xem … |
+| mục 11 | mục 10 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Nên khám rời ca đặc biệt quan trọng (xem … |
+| mục 17 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Bước một, từ hôm nay ghi chép, ghi âm xem … |
+| mục 17 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Đã chịu không nổi, trước gọi 12356, xem … |
+| mục 17 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …ông đóng bảo hiểm xã hội bị ép đi, làm theo … |
+| mục 17 | mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ý "tự nguyện xin nghỉ vì lý do cá nhân") và … |
+| mục 17 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường kinh tế tính thế nào, xem … |
