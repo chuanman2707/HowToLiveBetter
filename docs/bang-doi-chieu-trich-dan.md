@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 425 trích dẫn.
+Tổng cộng 427 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -521,6 +521,13 @@ Tổng cộng 425 trích dẫn.
 | mục 5 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …ừa tự chuyển đi phải đi theo cách khác, xem … |
 | mục 5 | mục 1 | Email, thanh toán, tài khoản mạng xã hội đều bật xác minh hai bước; ưu tiên xác nhận bằng cửa sổ bật trên điện thoại, mã xác minh SMS chỉ đứng sau | …ho ai, mã xác minh không chuyển cho ai (xem … |
 | mục 9 | mục 8 | Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; bị từ chối có thể khởi kiện | …em, sửa, xóa thông tin cá nhân của mình xem … |
+
+## 15-thue-va-mua-nha
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 1 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …ền không lớn thì đi đường kiện rút gọn, xem … |
+| mục 7 | mục 6 | Trước khi ký hợp đồng đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp, mọi khoản tiền đều chuyển khoản và ghi chú mục đích | …n đều chuyển khoản và ghi chú mục đích, xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
