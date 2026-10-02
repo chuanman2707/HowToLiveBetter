@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 556 trích dẫn.
+Tổng cộng 568 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -52,7 +52,7 @@ Tổng cộng 556 trích dẫn.
 | mục 29 | phần 28, mục 4 | 不要买承诺「快速瘦」的减肥药、减肥咖啡、瘦身糖果和酵素梅 | …ày, liều lượng không rõ, cách nhận biết xem … |
 | mục 29 | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … (giữ BMI trong khoảng 20–25), huyết áp xem … |
 | mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Đã phơi nhiễm rồi thì làm sao xem … |
-| mục 31 | phần 27 | 27-怀孕和生产 (cả phần) | …a bệnh trong thai kỳ và chặn lây mẹ-con xem … |
+| mục 31 | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …a bệnh trong thai kỳ và chặn lây mẹ-con xem … |
 | mục 32 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ng, phơi nắng, ngủ đúng giờ, gọi 12356) xem … |
 | mục 32 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … cạnh để lộ ý nghĩ này bạn làm được gì, xem … |
 | mục 32 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … đoạn gây chết ra xa và đường dây 12356 xem … |
@@ -382,10 +382,10 @@ Tổng cộng 556 trích dẫn.
 | mục 19 | phần 8, mục 12 | Kết thù với ai — bị nợ lương, bị đuổi việc, bị chơi xỏ tiền — đi đường khiếu nại, trọng tài, khởi kiện, đừng đi tìm người tính sổ | … Khoản ra tay với người vì xả giận, xem … |
 | mục 19 | phần 8, mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết là tử hình | … Khoản ra tay với người vì xả giận, xem … |
 | mục 19 | phần 8, mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | … Khoản ra tay với người vì xả giận, xem … |
-| mục 20 | phần 27, mục 7 | 背下这张「立刻去医院」的清单，孕期和产后一年内都算数 | …i kỳ và sau sinh phải đi bệnh viện ngay xem … |
-| mục 20 | phần 27, mục 16 | 产后 42 天那次复查别跳过，它同时是产后抑郁的筛查 | …ồng thời là sàng lọc trầm cảm sau sinh, xem … |
+| mục 20 | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | …i kỳ và sau sinh phải đi bệnh viện ngay xem … |
+| mục 20 | phần 27, mục 16 | Lần tái khám 42 ngày sau sinh đừng nhảy, nó đồng thời là sàng lọc trầm cảm sau sinh | …ồng thời là sàng lọc trầm cảm sau sinh, xem … |
 | mục 20 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …tử thì gọi 12356 (đường dây tâm lý TQ), xem … |
-| mục 20 | phần 27 | 27-怀孕和生产 (cả phần) | …ở bệnh viện, khám thai và nằm viện sinh xem … |
+| mục 20 | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …ở bệnh viện, khám thai và nằm viện sinh xem … |
 | mục 21 | phần 5, mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Bảo hiểm xe mua thế nào xem … |
 | mục 21 | phần 8, mục 38 | Đường "mua bảo hiểm cho người trước rồi ra tay" luật bít từ đầu: tiền một xu không lấy được, tội tính cố ý giết người cộng lừa đảo bảo hiểm, phạt tổng hợp nhiều tội | …t viết rõ phải phạt tổng hợp nhiều tội, xem … |
 | mục 21 | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | … hiểm y tế xử theo lừa đảo, xem ghi chú của … |
@@ -563,7 +563,7 @@ Tổng cộng 556 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Giống như … |
-| Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
+| Mở đầu phần | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
 | mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Đòi bồi thường thế nào xem … |
 | mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
 | mục 4 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách tính giống cách tính việc nhà ở … |
@@ -602,7 +602,7 @@ Tổng cộng 556 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 27 | 27-怀孕和生产 (cả phần) | …i làm trước khi sinh và ngày xuất viện, xem … |
+| Mở đầu phần | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …i làm trước khi sinh và ngày xuất viện, xem … |
 | mục 2 | phần 1 | 01-dung-chet-som (cả phần) | … Sàng lọc mẹ tự phải làm xem … |
 | mục 3 | mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Mũi viêm gan B đầu tiên xem … |
 | mục 4 | mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | …ng trứng, đậu phộng có nên tránh không, xem … |
@@ -718,3 +718,20 @@ Tổng cộng 556 trích dẫn.
 | Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | …ếp là việc nền tảng ngày nào cũng phải làm, … |
 | mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …g nội địa, tiền trong nội địa, mấy nghĩa vụ … |
 | mục 11 | phần 11, mục 16 | Website, app phải đăng ký ICP trước khi lên kệ; theo yêu cầu bảo vệ cấp độ giữ log ít nhất 6 tháng | …hĩa vụ lưu log 6 tháng và bảo vệ cấp độ xem … |
+
+## 27-mang-thai-va-sinh-con
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | …inh con, nghỉ thai sản và tiền nuôi con xem … |
+| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | …ó đáng không), con sinh ra chăm thế nào xem … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …em phần 20 (chăm trẻ sơ sinh), bệnh cấp xem … |
+| mục 3 | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | …gan B và globulin miễn dịch viêm gan B (xem … |
+| mục 3 | phần 1 | 01-dung-chet-som (cả phần) | … Phòng và xét nghiệm thường ngày xem … |
+| mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ơi nhiễm khi xảy ra hành vi nguy cơ cao xem … |
+| mục 4 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …Tiền của thuốc rượu với chính người lớn xem … |
+| mục 7 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … chỉ hướng là huyết khối tĩnh mạch sâu (xem … |
+| mục 11 | phần 18, mục 2 | Nghỉ thai sản 98 ngày, trợ cấp sinh con do quỹ bảo hiểm sinh sản chi trả theo lương bình quân tháng năm trước của người lao động trong đơn vị | …ai sản và trợ cấp sinh con tính thế nào xem … |
+| mục 16 | mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Trong danh sách "đi bệnh viện ngay" ở … |
+| mục 16 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Có ý nghĩ tự tử lúc xử thế nào xem … |
+| mục 16 | phần 9, mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | …ật nuôi không nổi lúc đường ra hợp pháp xem … |
