@@ -108,7 +108,7 @@ const EDITS = [
   ['README.md', 'câu phân hạng chứng cứ', /Trong (\d+) mục[^.]*A [\d,]+[^.]*B [\d,]+[^.]*C [\d,]+[^.]*/g,
     `Trong ${entries} mục: A ${grade.A} · B ${grade.B} · C ${grade.C}, có ${dispute} mục đánh dấu tranh cãi, ${todo} chỗ cần xác minh`], // khớp sau khi Task 42 viết README — Task 42 bắt buộc viết đúng mẫu này
   ['README.md', 'câu hiệu quả chi phí', /Trong (\d+) mục[^.]*hiệu quả[^.]*/g,
-    `Trong ${entries} mục: cực cao ${ratio['Cực cao']} (${pct['Cực cao']}%), cao ${ratio['Cao']} (${pct['Cao']}%), trung bình ${ratio['Trung bình']} (${pct['Trung bình']}%)`], // khớp sau khi Task 42 viết README — Task 42 bắt buộc viết đúng mẫu này
+    `Trong ${entries} mục theo hiệu quả chi phí: cực cao ${ratio['Cực cao']} (${pct['Cực cao']}%), cao ${ratio['Cao']} (${pct['Cao']}%), trung bình ${ratio['Trung bình']} (${pct['Trung bình']}%)`], // khớp sau khi Task 42 viết README — chuỗi thay phải chứa "hiệu quả" để --check lần sau vẫn khớp
   ['README.md', 'số file markdown', /(\d+) file markdown/g, `${sections} file markdown`], // khớp sau khi Task 42 viết README (nếu README VN có câu này)
   ['index.html', 'meta/JSON-LD mô tả', /(\d+) mục lời khuyên/g, `${entries} mục lời khuyên`],
   ['index.html', 'numberOfPages', /numberOfPages":(\d+)/g, `numberOfPages":${entries}`],
