@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 731 trích dẫn.
+Tổng cộng 738 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -933,3 +933,15 @@ Tổng cộng 731 trích dẫn.
 | mục 4 | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | … chưa đủ 1 tuổi không mớm mật ong được, xem … |
 | mục 4 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …mol, lại ăn cùng thuốc hạ sốt là trùng, xem … |
 | mục 5 | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | … Aspirin liều nhỏ phòng tiền sản giật, xem … |
+
+## docs/lam-nen-tang-can-nhung-giay-phep-gi
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Làm nền tảng cần những g | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …Bài dài này tương ứng … |
+| Làm nền tảng cần những g | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … Đăng ký công ty, khai thuế thế nào, xem … |
+| Làm nền tảng cần những g | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …uật đi làm thuê đừng đạp những vạch đó, xem … |
+| Ba điểm dễ nhầm | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … Mở công ty thế nào xem … |
+| II. Nghĩa vụ hàng ngày c | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …ược phạt bao nhiêu tiền, viết trong các mục … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | … Những nghĩa vụ nền tảng … |
+| IV. Ranh giới của tài li | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …điều khoản viết trên đây, lấy cột Nguồn của … |
