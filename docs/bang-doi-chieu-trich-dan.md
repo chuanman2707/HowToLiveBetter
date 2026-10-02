@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 684 trích dẫn.
+Tổng cộng 689 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -852,7 +852,7 @@ Tổng cộng 684 trích dẫn.
 | Mở đầu phần | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | …huê tính thế nào, kỹ năng chọn thế nào, xem … |
 | Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …i nạn lao động và bồi thường nghỉ việc, xem … |
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …Vốn mở tiệm làm công ty và thoái tràng, xem … |
-| Mở đầu phần | phần 32 | 32-出国留学 (cả phần) | … Du học xem … |
+| Mở đầu phần | phần 32 | 32-du-hoc-nuoc-ngoai (cả phần) | … Du học xem … |
 | Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Bảo đảm sau thất nghiệp xem … |
 | mục 1 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
 | mục 1 | mục 12 | Giao đồ ăn, chạy xe gọi trên mạng, kéo hàng đồng thành, nền tảng theo đơn đóng phí bảo đảm tổn thương nghề cho bạn, mình không đóng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
@@ -871,3 +871,13 @@ Tổng cộng 684 trích dẫn.
 | mục 16 | phần 12, mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … Lập trường của sách này ở … |
 | mục 16 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …thực tập việc làm trong kỳ thất nghiệp, xem … |
 | mục 16 | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …giấy phép khả, báo thuế và thoái tràng, xem … |
+
+## 32-du-hoc-nuoc-ngoai
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …ế và vận chuyển ngoại cảnh mua thế nào, xem … |
+| Mở đầu phần | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … Bút toán đọc sách hay làm thuê, xem … |
+| Mở đầu phần | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | … Tài khoản bị đánh cắp xem … |
+| Mở đầu phần | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … đánh cắp xem phần 14, lừa đảo điện tín xem … |
+| mục 6 | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …thân người ngoại cảnh và bảo hộ lãnh sự xem … |
