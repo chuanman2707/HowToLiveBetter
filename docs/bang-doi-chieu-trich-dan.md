@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 758 trích dẫn.
+Tổng cộng 765 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -952,6 +952,18 @@ Tổng cộng 758 trích dẫn.
 | VI. Không cần mua | phần 13, mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … AED ở trường sở công cộng gần nhất về, xem … |
 | VI. Không cần mua | phần 5, mục 24 | Không tích trữ vì "giá gạch ngang" và đợt khuyến mãi lớn | …hêm, cuối cùng đa số để tới hết hạn bỏ, xem … |
 | VII. Mấy đồ này rốt cuộc | phần 1 | 01-dung-chet-som (cả phần) | …Chứng cứ của mục này yếu hơn các mục khác … |
+
+## docs/gap-nguoi-la-bi-nan-co-nen-dung-lai
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Đường gặp người lạ xảy c | phần 13, mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …Đây là bản bài dài của … |
+| Chi phí sau khi dừng lại | phần 19, mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | …động vi pháp, tiền bồi thường tính theo 2N (… |
+| Chi phí sau khi dừng lại | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …lưu chứng cứ thế nào, báo cảnh thế nào, xem … |
+| Chi phí sau khi dừng lại | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … tổng đài viện trợ tâm lý 12356, xem … |
+| Hai tình huống để "đi lu | phần 8, mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | …o thông và gây tai bỏ chạy làm thế nào, xem … |
+| Lúc quyết dừng lại, cách | phần 13, mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | …ông hô hấp thì dùng sức ấn lồng ngực y, xem … |
+| Lúc quyết dừng lại, cách | phần 13, mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … Muốn đòi khoản tiền này lại, xem … |
 
 ## docs/lam-nen-tang-can-nhung-giay-phep-gi
 
