@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 427 trích dẫn.
+Tổng cộng 433 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -65,8 +65,8 @@ Tổng cộng 427 trích dẫn.
 | mục 34 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ nảy ra thì làm sao xem … |
 | mục 34 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Hậu quả ngộ độc xem … |
 | mục 35 | phần 9, mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | …à trách nhiệm hình sự của hiến hợp pháp xem … |
-| mục 35 | phần 16, mục 1 | 药按医嘱吃满，别感觉好了就停 | …, quyết toán liên tỉnh và thuốc dài hạn xem … |
-| mục 35 | phần 16, mục 2 | 先办门诊慢特病认定再办异地备案，高血压、糖尿病、放化疗、透析、抗排异就能异地直接结算 | …, quyết toán liên tỉnh và thuốc dài hạn xem … |
+| mục 35 | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | …, quyết toán liên tỉnh và thuốc dài hạn xem … |
+| mục 35 | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | …, quyết toán liên tỉnh và thuốc dài hạn xem … |
 | mục 37 | phần 9, mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … Ranh giới pháp luật của đánh bạc xem … |
 | mục 37 | phần 8, mục 44 | Người nhà đánh bạc mắc nợ, đừng vội trả thay: nợ bạc luật không bảo vệ, tiền vay để đánh bạc cũng không tính nợ chung vợ chồng | …nhà nợ nợ cờ bạc có nên trả thay không, xem … |
 | mục 37 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ tự tử nảy ra sau đó làm sao, xem … |
@@ -169,7 +169,7 @@ Tổng cộng 427 trích dẫn.
 | mục 10 | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …hiêu giả người quen, còn có AI đổi mặt, xem … |
 | mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …hiêu giả người quen, còn có AI đổi mặt, xem … |
 | mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Phải phân biệt rõ với … |
-| mục 12 | phần 16, mục 3 | 复查按医生给的间隔做，把每次的指标记在同一个本子上 | …ổi thuốc xong đừng phán theo cảm giác, theo … |
+| mục 12 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ổi thuốc xong đừng phán theo cảm giác, theo … |
 | mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | … giả tạo, người đăng đã bị giữ hình sự (xem … |
 | mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | … đòn bẩy biến tướng, lãi suất của chúng xem … |
 | mục 19 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua quỹ chỉ số gối rộng (xem … |
@@ -255,9 +255,9 @@ Tổng cộng 427 trích dẫn.
 | mục 18 | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | …à dấu ấn ung thư và chụp ảnh toàn thân, xem … |
 | mục 18 | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …i túi mật mà chưa từng đau thì làm sao, xem … |
 | mục 18 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …mục 19 (acid uric cao không triệu chứng) và … |
-| mục 19 | phần 16, mục 9 | 确诊痛风就长期吃降尿酸药，把血尿酸压到 360 µmol/L 以下并一直维持 | … Chi tiết xem … |
-| mục 19 | phần 16, mục 9 | 确诊痛风就长期吃降尿酸药，把血尿酸压到 360 µmol/L 以下并一直维持 | … bị uống thì trước đi xét kiểu gen này, xem … |
-| mục 21 | phần 16, mục 8 | 得过肾结石就把水喝到每天 2.5–3 升，盐降到 6 克以内 | … Mục uống nhiều nước xem … |
+| mục 19 | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Chi tiết xem … |
+| mục 19 | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … bị uống thì trước đi xét kiểu gen này, xem … |
+| mục 21 | phần 16, mục 8 | Từng mọc sỏi thận thì uống nước đến 2,5–3 lít mỗi ngày, muối hạ xuống dưới 6 gam | … Mục uống nhiều nước xem … |
 | mục 22 | phần 5, mục 33 | Chuỗi hạt, ngọc thạch, đồng hồ hiệu, đồ chơi thời thượng tính theo "tiền tiêu đi", không tính theo "tiền cất lại" | …ào, coi nó là đầu tư vì sao không đáng, xem … |
 | mục 22 | phần 5, mục 34 | Ngọc đá trang sức chỉ nhận báo cáo kiểm định có dấu CMA, rồi lên trang chính thức cơ quan cấp kiểm lại cơ quan đó | …ạt, đồng hồ hiệu tính theo tiền tiêu đi) và … |
 | mục 22 | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … Tiêu tiền xem bói xem … |
@@ -528,6 +528,17 @@ Tổng cộng 427 trích dẫn.
 | --- | --- | --- | --- |
 | mục 1 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …thì đi đường kiện theo thủ tục rút gọn, xem … |
 | mục 7 | mục 6 | Trước khi ký hợp đồng đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp, mọi khoản tiền đều chuyển khoản và ghi chú mục đích | …n đều chuyển khoản và ghi chú mục đích, xem … |
+
+## 16-song-sau-khi-mac-benh-man-tinh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 4 | phần 6 | 06-danh-sach-nen-tranh (cả phần) | … Những loại vô hiệu thường gặp, … |
+| mục 8 | phần 6, mục 21 | Đừng kiêng canxi để phòng sỏi thận | … Đừng vì phòng sỏi mà kiêng hẳn canxi, xem … |
+| mục 8 | phần 1, mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …máu không đau lại có thứ khác cần khám, xem … |
+| mục 9 | phần 6, mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …c cao mà chưa từng phát là chuyện khác, xem … |
+| mục 9 | phần 2, mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Đồ uống có đường và rượu xem … |
+| mục 9 | phần 2, mục 20 | Uống ít rượu hoặc không uống | … Đồ uống có đường và rượu xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
