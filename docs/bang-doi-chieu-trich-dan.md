@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 491 trích dẫn.
+Tổng cộng 524 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -633,3 +633,41 @@ Tổng cộng 491 trích dẫn.
 | mục 5 | phần 9, mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | … Đây và "không cho mượn căn cước" ở … |
 | mục 7 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ủa "lúc tinh thần suy sụp động lên trước" ở … |
 | mục 10 | phần 3, mục 16 | Giảm bớt những quan hệ khiến bạn hao mòn, học cách từ chối yêu cầu không muốn nhận | …y và "giảm bớt những quan hệ hao mòn bạn" ở … |
+
+## 23-hoc-ky-nang-gi-dang
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …Phần này tính tiền và thời gian, … |
+| Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …1 nói trước luật gạch đi đoạn lựa chọn nào, … |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học | …mục 2 tính quan hệ giữa đi học và tuổi thọ, … |
+| Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … nói học không nổi thì có những trợ cấp gì, … |
+| Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …gì, mục 5 nói không đậu THPT còn đường nào, … |
+| mục 1 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … ca, nghỉ phép năm, chế độ tai nạn lao động … |
+| mục 1 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | …t đứa 16 tuổi, không học vấn, vừa đúng loại … |
+| mục 2 | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | … lực của mấy năm học thêm, phần học phí xem … |
+| mục 3 | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …ụ thể đi học đáng không, phải theo cách của … |
+| mục 4 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | … thời thời gian thất nghiệp phần 7 đã viết (… |
+| mục 4 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …o và cứu trợ tạm thời thời gian thất nghiệp … |
+| mục 4 | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …hất nghiệp  đã viết ( trợ cấp đào tạo nghề, … |
+| mục 5 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | … Chọn chuyên ngành trung cấp, lấy chiều của … |
+| mục 5 | mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | … Chứng chỉ nó phát lại theo ba bước của … |
+| mục 6 | mục 7 | Nhớ vạch chuẩn trước: mỗi thêm một năm học, lợi tức tư trung bình toàn cầu (phần rơi vào thu nhập mình) khoảng 9% một năm | … Trung bình toàn cầu xem … |
+| mục 6 | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …ừ trước mấy khoản miễn học phí và trợ cấp ở … |
+| mục 6 | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …ấp và trợ cấp học tập), ngoài ra còn sổ của … |
+| mục 6 | mục 7 | Nhớ vạch chuẩn trước: mỗi thêm một năm học, lợi tức tư trung bình toàn cầu (phần rơi vào thu nhập mình) khoảng 9% một năm | … Trung bình toàn cầu 9% của … |
+| mục 6 | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … cửa học vấn pháp định, xem … |
+| mục 6 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | … sức chống thay thế, xem … |
+| mục 9 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …trợ cấp đào tạo nghề thời gian thất nghiệp (… |
+| mục 9 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …đa hưởng 3 lần) và trợ cấp bảo hiểm xã hội (… |
+| mục 13 | phần 4 | 04-dung-lang-phi-thoi-gian (cả phần) | … Điều kiện rút … |
+| mục 14 | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | … Tự kiểm và … |
+| mục 15 | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … Chồng dùng với … |
+| mục 16 | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … Động tác thay thế xem … |
+| mục 16 | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | …c thay thế xem mục 14 (gấp sách tự kiểm) và … |
+| mục 17 | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | … Tổng quan mà … |
+| mục 18 | mục 9 | Đào tạo ưu tiên đi kênh trợ cấp chính quyền, đừng vừa lên đã tự trả báo lớp thương mại | … Chuẩn chọn đào tạo xem … |
+| mục 18 | mục 13 | Cùng tiền cùng thời gian, ưu tiên chọn hạng mục chu kỳ ngắn ra trường làm được ngay | …tạo ưu tiên đi kênh trợ cấp chính quyền) và … |
+| mục 19 | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | …c đánh giá thấp nhất, muốn xem đánh giá xem … |
+| mục 19 | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … gấp sách chủ động nhớ lại, cụ thể xem … |
+| mục 19 | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | …ch tự kiểm), và phải chia mấy ngày làm, xem … |
