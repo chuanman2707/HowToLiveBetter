@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 738 trích dẫn.
+Tổng cộng 752 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -933,6 +933,25 @@ Tổng cộng 738 trích dẫn.
 | mục 4 | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | … chưa đủ 1 tuổi không mớm mật ong được, xem … |
 | mục 4 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …mol, lại ăn cùng thuốc hạ sốt là trùng, xem … |
 | mục 5 | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | … Aspirin liều nhỏ phòng tiền sản giật, xem … |
+
+## docs/danh-muc-do-dung-khan-cap-gia-dinh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Danh mục đồ dùng khẩn cấ | phần 1, mục 26 | Chuẩn bị đủ bình chữa cháy, chăn chữa cháy, mặt nạ thoát hiểm và túi sơ cứu, mỗi năm kiểm tra một lần | …Tương ứng … |
+| Danh mục đồ dùng khẩn cấ | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | …uông báo khí cacbonic chọn lắp thế nào, xem … |
+| Danh mục đồ dùng khẩn cấ | phần 1, mục 4 | Ống mềm dẫn gas và bếp gas hết hạn thì thay, không tự sửa đường ống, người công ty gas đến nhà chào hàng có thể từ chối thẳng | … Ống dẫn gas và bếp xem … |
+| Danh mục đồ dùng khẩn cấ | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … độc khí cacbonic lúc đó làm gì, đều viết ở … |
+| II. Bộ ba phòng cháy | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ài Thoát hiểm Tránh nạn Đám cháy Kiến trúc, … |
+| II. Bộ ba phòng cháy | phần 13, mục 24 | Cháy thì bò sát đất, sờ cửa rồi mới mở, cửa nóng thì đừng mở; đi cầu thang bộ không đi thang máy, ra rồi đừng quay lại | …mở, đi cầu thang không ngồi thang máy), xem … |
+| II. Bộ ba phòng cháy | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Chuông báo khói xem … |
+| III. Trong túi cấp cứu đ | phần 13, mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | …dùng được, vì sao "đừng nới ra xả máu", xem … |
+| III. Trong túi cấp cứu đ | phần 13, mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …làm một việc, xối nước máy mát 20 phút, xem … |
+| III. Trong túi cấp cứu đ | phần 13, mục 15 | Đột nhiên nổi mẩn toàn thân, không thở nổi hoặc chóng mặt — xử lý theo sốc phản vệ, gọi ngay 120 và nói rõ | …Nó là thuốc kê đơn, phải tìm bác sĩ kê, xem … |
+| V. Mỗi năm kiểm tra một  | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Pin mỗi năm thay một lần, xem … |
+| VI. Không cần mua | phần 13, mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … AED ở trường sở công cộng gần nhất về, xem … |
+| VI. Không cần mua | phần 5, mục 24 | Không tích trữ vì "giá gạch ngang" và đợt khuyến mãi lớn | …hêm, cuối cùng đa số để tới hết hạn bỏ, xem … |
+| VII. Mấy đồ này rốt cuộc | phần 1 | 01-dung-chet-som (cả phần) | …Chứng cứ của mục này yếu hơn các mục khác … |
 
 ## docs/lam-nen-tang-can-nhung-giay-phep-gi
 
