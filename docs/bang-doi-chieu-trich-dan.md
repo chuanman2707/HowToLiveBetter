@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 481 trích dẫn.
+Tổng cộng 485 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -197,11 +197,11 @@ Tổng cộng 481 trích dẫn.
 | mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên | … Mục này quản "bán hay không", … |
 | mục 37 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …bạn đặt vào con cổ phiếu này nhiều hơn, xem … |
 | mục 38 | mục 15 | Không mua bán cổ phiếu thường xuyên | …t năm đổi gần 18 lần, tài khoản hộ Mỹ trong … |
-| mục 39 | phần 21, mục 6 | 境外取现一年不能超过 10 万元人民币，是本人名下所有卡合起来算的 | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
+| mục 39 | phần 21, mục 6 | Rút tiền mặt ở nước ngoài một năm không quá 10 vạn tệ, tính gộp tất cả thẻ đứng tên mình | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
 | mục 39 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng theo cách của … |
 | mục 39 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …eo cách của mục 17 (quỹ chỉ số gối rộng) và … |
 | mục 40 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" | … Bảo hiểm y tế một năm xem … |
-| mục 40 | phần 21, mục 4 | 买一份含境外医疗和医疗转运的保险，别只买航班延误险 | … Người ra nước ngoài xem … |
+| mục 40 | phần 21, mục 4 | Mua một phần bảo hiểm có y tế nước ngoài và chuyển viện y tế, đừng chỉ mua bảo hiểm trễ chuyến bay | … Người ra nước ngoài xem … |
 | mục 40 | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Người có xe xem … |
 | mục 40 | mục 41 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Nhà có người sống nhờ thu nhập của bạn xem … |
 | mục 40 | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … theo cách này chọn lựa, vẫn phải đóng, xem … |
@@ -613,3 +613,12 @@ Tổng cộng 481 trích dẫn.
 | mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | …ể không, áp dụng quy tắc bình tĩnh 24 tiếng … |
 | mục 12 | phần 13, mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … Bị nghẹn xử lý thế nào xem … |
 | mục 12 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | …ủ 6 tháng mới bắt đầu thêm thức ăn phụ, xem … |
+
+## 21-du-lich-va-an-toan-nuoc-ngoai
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| mục 4 | mục 3 | Biết bảo hộ lãnh sự làm được gì, không làm được gì: thăm được, không cõng người ra được, phí tổn vẫn tự trả | …ảo hộ lãnh sự cũng không ứng khoản này (xem … |
+| mục 6 | phần 14, mục 5 | Thẻ bị gạt trộm: báo mất đóng băng trước rồi báo cảnh sát, sau đó đòi ngân hàng bồi thường, vì chứng minh "chính bạn quẹt" là việc của ngân hàng | …ẻ mất, bị nuốt hay bị gạt trộm làm sao, xem … |
+| mục 7 | mục 2 | Lưu 12308 và điện thoại bảo hộ lãnh sự của sứ quán nơi đến vào điện thoại, chép thêm một bản để ví, đừng đợi có chuyện mới đi tìm | …à hai số điện thoại bảo hộ lãnh sự đã lưu ở … |
+| mục 10 | phần 8, mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | …ại rủi ro với "không mang đồ hộ người lạ" ở … |
