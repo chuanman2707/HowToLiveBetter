@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 485 trích dẫn.
+Tổng cộng 491 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -85,7 +85,7 @@ Tổng cộng 485 trích dẫn.
 | mục 3 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | …ải quyết dịp "thèm hút", nên phải dùng cùng … |
 | mục 3 | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …dùng cùng mục 4 (đặt một ngày cai thuốc) và … |
 | mục 5 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Thuốc cần phối hợp xem … |
-| mục 6 | phần 22, mục 4 | 不吃陌生人给的糖和零食，不喝离开过视线的饮料，不接别人递的烟弹 | …abinoid tổng hợp chảy ra theo đường đó, xem … |
+| mục 6 | phần 22, mục 4 | Đừng ăn kẹo và đồ ăn vặt người lạ đưa, đồ uống rời khỏi tầm mắt đừng uống, đừng nhận đầu hút người khác đưa | …abinoid tổng hợp chảy ra theo đường đó, xem … |
 | mục 6 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Về thứ tự thử trước … |
 | mục 11 | mục 14 | Mỗi tuần cộng đủ 150–300 phút vận động cường độ vừa, đi bộ nhanh là được | … Mục này và … |
 | mục 13 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Sau thức khuya bù thế nào xem … |
@@ -138,8 +138,8 @@ Tổng cộng 485 trích dẫn.
 | mục 23 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
 | mục 23 | phần 30, mục 8 | 12 到 18 岁的孩子做一次抑郁筛查，别拿学校的心理测评当诊断 | … Sàng lọc trầm cảm cho trẻ xem … |
 | mục 23 | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Nó giống kỳ vọng bi quan trong … |
-| mục 24 | phần 22, mục 9 | 当场想缓过来，用 5 分钟「循环叹息」：吸气两段，呼气拉长 | … Cách dùng ngay tại chỗ xem … |
-| mục 24 | phần 22, mục 7 | 心情差就去走或者跑，抗抑郁的效应量（效果大小）跟强度成正比 | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
+| mục 24 | phần 22, mục 9 | Muốn dịu lại ngay tại chỗ, dùng 5 phút "thở dài vòng": hít hai đoạn, thở kéo dài | … Cách dùng ngay tại chỗ xem … |
+| mục 24 | phần 22, mục 7 | Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
 | mục 24 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
 | mục 24 | mục 18 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
 | mục 25 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … chịu thì dừng lại, đổi sang gọi 12356, xem … |
@@ -262,7 +262,7 @@ Tổng cộng 485 trích dẫn.
 | mục 22 | phần 5, mục 34 | Ngọc đá trang sức chỉ nhận báo cáo kiểm định có dấu CMA, rồi lên trang chính thức cơ quan cấp kiểm lại cơ quan đó | …ạt, đồng hồ hiệu tính theo tiền tiêu đi) và … |
 | mục 22 | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … Tiêu tiền xem bói xem … |
 | mục 23 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Động tác tiết kiệm cụ thể xem … |
-| mục 23 | phần 22 | 22-怎么放松 (cả phần) | …chứng cứ thật lúc tâm trạng xấu xem nửa sau … |
+| mục 23 | phần 22 | 22-thu-gian-the-nao (cả phần) | …chứng cứ thật lúc tâm trạng xấu xem nửa sau … |
 | mục 23 | phần 29 | 29-遭遇重大打击之后 (cả phần) | …ật lúc tâm trạng xấu xem nửa sau phần 22 và … |
 | mục 23 | mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … thêm vì "muốn hơn người khác một bậc", xem … |
 | mục 24 | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Chỗ ở nên xếp theo gì xem … |
@@ -395,7 +395,7 @@ Tổng cộng 485 trích dẫn.
 | mục 22 | mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | …ái bẫy vay mạng và vay "đóng gói hồ sơ" xem … |
 | mục 23 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | … Nguy cơ nhiễm bệnh tình dục và AIDS xem … |
 | mục 23 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …tình dục dùng bao cao su suốt quá trình) và … |
-| mục 23 | phần 22 | 22-怎么放松 (cả phần) | …vui chơi giải trí bản thân cần chú ý gì xem … |
+| mục 23 | phần 22 | 22-thu-gian-the-nao (cả phần) | …vui chơi giải trí bản thân cần chú ý gì xem … |
 | mục 23 | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | …ực tiếp xử theo tội hiếp dâm phạt nặng, xem … |
 
 ## 10-yeu-va-cuoi-co-dang-khong
@@ -622,3 +622,14 @@ Tổng cộng 485 trích dẫn.
 | mục 6 | phần 14, mục 5 | Thẻ bị gạt trộm: báo mất đóng băng trước rồi báo cảnh sát, sau đó đòi ngân hàng bồi thường, vì chứng minh "chính bạn quẹt" là việc của ngân hàng | …ẻ mất, bị nuốt hay bị gạt trộm làm sao, xem … |
 | mục 7 | mục 2 | Lưu 12308 và điện thoại bảo hộ lãnh sự của sứ quán nơi đến vào điện thoại, chép thêm một bản để ví, đừng đợi có chuyện mới đi tìm | …à hai số điện thoại bảo hộ lãnh sự đã lưu ở … |
 | mục 10 | phần 8, mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | …ại rủi ro với "không mang đồ hộ người lạ" ở … |
+
+## 22-thu-gian-the-nao
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …inh thần suy sụp làm trước mấy việc gì, xem … |
+| mục 4 | phần 8, mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | … Mang đồ hộ người khác xem … |
+| mục 4 | mục 3 | Trong chỗ có người đưa "đồ" thì đi ngay, chứa người dùng và cung cấp đều không phải "giúp bạn bè" | …ột không rõ, viên, đầu pod thì làm sao, xem … |
+| mục 5 | phần 9, mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | … Đây và "không cho mượn căn cước" ở … |
+| mục 7 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ủa "lúc tinh thần suy sụp động lên trước" ở … |
+| mục 10 | phần 3, mục 16 | Giảm bớt những quan hệ khiến bạn hao mòn, học cách từ chối yêu cầu không muốn nhận | …y và "giảm bớt những quan hệ hao mòn bạn" ở … |
