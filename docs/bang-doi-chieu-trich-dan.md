@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 524 trích dẫn.
+Tổng cộng 542 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -126,8 +126,8 @@ Tổng cộng 524 trích dẫn.
 | mục 18 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …tổn thất thì đi đường pháp lý của phần 8 và … |
 | mục 19 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ĩ tự sát phải đi khám, gọi 12356 trước (xem … |
 | mục 20 | phần 8, mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ày trích đến từ hai quy chương Bộ Công an ở … |
-| mục 20 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ức theo bệnh tình, không theo ai đến trước (… |
-| mục 20 | phần 24, mục 12 | 谢救过你的医生，走感谢信、锦旗和满意度评价，别走红包：准则禁的是财物，不是谢意 | … đường thư cảm ơn và đánh giá hài lòng, xem … |
+| mục 20 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …ức theo bệnh tình, không theo ai đến trước (… |
+| mục 20 | phần 24, mục 12 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | … đường thư cảm ơn và đánh giá hài lòng, xem … |
 | mục 20 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ối lộ, và là tội văn bản ghi tăng nặng, xem … |
 | mục 21 | phần 4, mục 15 | Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích | … Sổ thời gian màn hình tổng xem … |
 | mục 21 | phần 4, mục 16 | Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định | … Sổ thời gian màn hình tổng xem … |
@@ -290,7 +290,7 @@ Tổng cộng 524 trích dẫn.
 | mục 7 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …cư dân có trợ cấp (bảo hiểm y tế cư dân xem … |
 | mục 7 | mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …khám đi được cứu trợ y tế (cứu trợ y tế xem … |
 | mục 7 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … xét khó khăn kinh tế (viện trợ pháp lý xem … |
-| mục 10 | phần 24, mục 9 | 没带钱、没带证件、说不清自己是谁，急诊也必须先救 | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
+| mục 10 | phần 24, mục 9 | Không mang tiền, không mang giấy tờ, nói không rõ mình là ai, cấp cứu cũng phải cứu trước | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
 | mục 10 | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …h 4 lần LPR một năm (không vay nặng lãi xem … |
 | mục 18 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …ám không được báo (bảo hiểm y tế cư dân xem … |
 | mục 20 | phần 5, mục 40 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
@@ -351,7 +351,7 @@ Tổng cộng 524 trích dẫn.
 | mục 38 | mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …động muốn hại người nhà xử như cấp cứu, xem … |
 | mục 39 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Tiến trình chặn chi sau khi bị lừa, xem … |
 | mục 39 | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | … Bị bạo lực mạng xem … |
-| mục 40 | phần 24, mục 12 | 谢救过你的医生，走感谢信、锦旗和满意度评价，别走红包：准则禁的是财物，不是谢意 | … trong bệnh viện thuộc bộ quy tắc khác, xem … |
+| mục 40 | phần 24, mục 12 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | … trong bệnh viện thuộc bộ quy tắc khác, xem … |
 | mục 40 | mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | … Thật gặp bên kia đòi lợi thì đi theo kênh … |
 | mục 41 | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Tư liệu nên lưu trước khi nghỉ việc xem … |
 | mục 41 | mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …hể động tranh chấp riêng tư và danh dự, xem … |
@@ -504,10 +504,10 @@ Tổng cộng 524 trích dẫn.
 | mục 39 | phần 19, mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | … và cách quy đổi cấp thương tật ra tiền xem … |
 | mục 39 | phần 19, mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … và cách quy đổi cấp thương tật ra tiền xem … |
 | mục 39 | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Cách xin viện trợ pháp lý xem … |
-| mục 40 | phần 24, mục 8 | 急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | …ng cứu ngay, đừng xếp hàng cửa đăng ký (xem … |
+| mục 40 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …ng cứu ngay, đừng xếp hàng cửa đăng ký (xem … |
 | mục 40 | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … ấn và cách lên garô khi chảy máu nhiều xem … |
-| mục 41 | phần 24, mục 10 | 伤残鉴定要等治疗终结之后再做，做早了等级会评低 | … tật không, có làm thẻ khuyết tật không xem … |
-| mục 41 | phần 24, mục 11 | 治完之后确实留下功能障碍，去户籍地县级残联申请残疾人证 | … tật không, có làm thẻ khuyết tật không xem … |
+| mục 41 | phần 24, mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | … tật không, có làm thẻ khuyết tật không xem … |
+| mục 41 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | … tật không, có làm thẻ khuyết tật không xem … |
 | mục 41 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …ời già té ngã nghi gãy xương thì cấm bê xem … |
 | mục 41 | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … một chân sưng thì đề phòng huyết khối, xem … |
 | mục 42 | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …n dân tệ, có uống không do bác sĩ phán, xem … |
@@ -671,3 +671,26 @@ Tổng cộng 524 trích dẫn.
 | mục 19 | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | …c đánh giá thấp nhất, muốn xem đánh giá xem … |
 | mục 19 | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … gấp sách chủ động nhớ lại, cụ thể xem … |
 | mục 19 | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | …ch tự kiểm), và phải chia mấy ngày làm, xem … |
+
+## 24-di-kham-benh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Lĩnh được chế độ gì xem … |
+| Mở đầu phần | phần 16 | 16-song-sau-khi-mac-benh-man-tinh (cả phần) | … Bệnh mạn tính dài hạn quản lý thế nào xem … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Tại chỗ cấp cứu làm gì trước xem … |
+| mục 4 | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | …oại bệnh nào quyết toán trực tiếp được, xem … |
+| mục 5 | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | … ở cơ sở một lần kê được 12 tuần thuốc, xem … |
+| mục 6 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ệnh mạn tính ghi vào cùng một quyển sổ, xem … |
+| mục 7 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Sao chép là việc thường ngày nên làm, xem … |
+| mục 8 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …báo trước bệnh viện chuẩn bị tiếp khám (xem … |
+| mục 9 | phần 7, mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …rả vẫn quá nặng, đi đường cứu trợ y tế, xem … |
+| mục 10 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …, dùng tính tiền bồi thường khuyết tật (xem … |
+| mục 10 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ật khác, lo là chế độ tai nạn lao động (xem … |
+| mục 10 | mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …uyết tật, phải làm thêm thẻ khuyết tật (xem … |
+| mục 10 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …ủ bệnh án, hồ sơ mổ, phim ảnh khám lại (xem … |
+| mục 11 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …chăm sóc dài hạn lĩnh trợ cấp chăm sóc, xem … |
+| mục 11 | mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …o động là ba thứ, không thay nhau được (xem … |
+| mục 12 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ình, hai việc không cùng lượng, cái sau xem … |
+| mục 12 | mục 7 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …hữa, tại chỗ yêu cầu phong tỏa bệnh án (xem … |
+| mục 12 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …a bệnh án), và lưu giữ bệnh án và phim ảnh (… |
