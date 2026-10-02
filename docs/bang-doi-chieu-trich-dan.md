@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 625 trích dẫn.
+Tổng cộng 662 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -136,7 +136,7 @@ Tổng cộng 625 trích dẫn.
 | mục 21 | mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
 | mục 23 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …356 trước, đem thủ đoạn gây chết ra xa, xem … |
 | mục 23 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
-| mục 23 | phần 30, mục 8 | 12 到 18 岁的孩子做一次抑郁筛查，别拿学校的心理测评当诊断 | … Sàng lọc trầm cảm cho trẻ xem … |
+| mục 23 | phần 30, mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Sàng lọc trầm cảm cho trẻ xem … |
 | mục 23 | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Nó giống kỳ vọng bi quan trong … |
 | mục 24 | phần 22, mục 9 | Muốn dịu lại ngay tại chỗ, dùng 5 phút "thở dài vòng": hít hai đoạn, thở kéo dài | … Cách dùng ngay tại chỗ xem … |
 | mục 24 | phần 22, mục 7 | Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
@@ -240,9 +240,9 @@ Tổng cộng 625 trích dẫn.
 | mục 10 | phần 17, mục 5 | Đừng đụng các kiểu "đầu tư hưu trí" bắt người già nộp tiền trước: làm thẻ, mua giường, mua căn hộ dưỡng lão, dưỡng lão lưu trú, mua sản phẩm cho người già đều là cùng một kiểu huy động vốn trái phép | …ột loại là sẽ thay thế thuốc đang uống, xem … |
 | mục 16 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …, không phải tròng chống ánh sáng xanh, xem … |
 | mục 16 | phần 13, mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | … giác, ngay hôm đó phải đi cấp cứu mắt, xem … |
-| mục 16 | phần 30, mục 4 | 让孩子每天在户外待够 2 小时，这是目前唯一有随机试验支持的防近视办法 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
-| mục 16 | phần 30, mục 12 | 查出视力不良，去医院做散瞳验光，之后按医生给的间隔复查 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
-| mục 16 | phần 30, mục 9 | 不买号称能「治愈近视」「降低度数」的产品和服务 | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
 | mục 18 | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … Huyết áp, đường huyết, viêm gan B xem … |
 | mục 18 | phần 1, mục 8 | Sau 35 tuổi chỉ cần thừa cân thì đi xét nghiệm đường huyết lúc đói một lần, bình thường cũng cứ ba năm xét lại | … Huyết áp, đường huyết, viêm gan B xem … |
 | mục 18 | phần 1, mục 14 | Xét nghiệm năm chỉ số viêm gan B, không có kháng thể thì đi tiêm vaccine | … Huyết áp, đường huyết, viêm gan B xem … |
@@ -281,7 +281,7 @@ Tổng cộng 625 trích dẫn.
 | mục 27 | phần 3, mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | … Thức khuya xem … |
 | mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …m khiêu dâm xem ra vấn đề cương, trước theo … |
 | mục 27 | phần 9, mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … luật của phát vào nhóm, bán tài nguyên xem … |
-| mục 28 | phần 30, mục 15 | 孩子说自己喜欢同性，别骂、别赶出家门、别送去「矫正」：家里的态度和他会不会自杀有关 | … Sau khi con nói ra nhà làm sao, xem … |
+| mục 28 | phần 30, mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | … Sau khi con nói ra nhà làm sao, xem … |
 
 ## 07-song-khi-khong-co-tien
 
@@ -802,3 +802,45 @@ Tổng cộng 625 trích dẫn.
 | mục 13 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … Thủ tục cụ thể di sản và nợ xem … |
 | mục 13 | phần 1 | 01-dung-chet-som (cả phần) | … Các mục khác của phần này và … |
 | mục 13 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | … Giá sức khỏe của người nhà xem … |
+
+## 30-con-cai-tuoi-di-hoc
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | …c, giao thông, mũ bảo hiểm, vắc xin HPV xem … |
+| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Trẻ nhỏ sơ sinh xem … |
+| Mở đầu phần | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Con bị lừa và nạp tiền game xem … |
+| Mở đầu phần | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …n đỏ người chưa thành niên tự không đạp xem … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ệnh cấp nhận ra thế nào, gọi xe thế nào xem … |
+| Mở đầu phần | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Con sau khi cha mẹ qua đời xem … |
+| Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …Mục 1 tới … |
+| Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …Mục 1 tới … |
+| Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …Mục 1 tới … |
+| Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …h rõ về ngủ, bài tập, thể dục, xếp hạng) và … |
+| mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ệnh cấp nhận ra thế nào, gọi xe thế nào xem … |
+| mục 2 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | … hạng mục trọng điểm khám thể học sinh (xem … |
+| mục 2 | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …ỉ học, dài nhất 1 năm, chỗ học giữ lại, xem … |
+| mục 5 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … Thật sự có thử nghiệm rút quẻ đỡ là … |
+| mục 5 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …dự trữ viễn thị còn bao nhiêu, cách tra xem … |
+| mục 6 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …Bản thân không phải làm gì, việc phải làm ở … |
+| mục 6 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …Bản thân không phải làm gì, việc phải làm ở … |
+| mục 6 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | … Sau chẩn đoán tái khám thế nào xem … |
+| mục 6 | mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | … Đừng mua sản phẩm tự xưng chữa khỏi, xem … |
+| mục 7 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …đi nhãn khoa làm khám khúc xạ có giãn đồng (… |
+| mục 7 | mục 2 | Trị liệu đáng làm đừng vì "đợi thi xong" mà kéo sau, có cửa sổ đi theo tuổi xương, không đi theo lịch thi | …phải đi khoa xương hay ngoại khoa cột sống (… |
+| mục 8 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Có ý tự tử lúc xử thế nào xem … |
+| mục 8 | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Đối phó trong nhà xem … |
+| mục 9 | phần 6 | 06-danh-sach-nen-tranh (cả phần) | … Kính chống ánh xanh xem … |
+| mục 9 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … Thật sự có chứng cứ là hai việc ở … |
+| mục 9 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …hứng cứ là hai việc ở mục 4 (ngoài trời) và … |
+| mục 10 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Tiền ngủ của người lớn xem … |
+| mục 10 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Tiền ngủ của người lớn xem … |
+| mục 12 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | … viện làm một lần tra nhãn khoa đầy đủ, xem … |
+| mục 13 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …điểm hướng dẫn trong khám thể học sinh, xem … |
+| mục 14 | phần 5, mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Nạp tiền và hoàn tiền xem … |
+| mục 14 | mục 10 | Ngủ, bài tập, thể dục và xếp hạng đều có quy định rõ, trường làm không tới có thể đề nghị | … Yêu cầu rõ về ngủ xem … |
+| mục 14 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …này (ngủ, bài tập, thể dục), ngoài trời xem … |
+| mục 14 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …ngoài trời 2 tiếng), thời gian màn hình xem … |
+| mục 15 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …, nói không muốn sống, trước gọi 12356, xem … |
+| mục 15 | phần 6, mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | … "Chỉnh chuyển" vì sao đừng đụng, xem … |
+| mục 15 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Cũng có thể theo … |
