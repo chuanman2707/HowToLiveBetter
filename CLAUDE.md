@@ -1,144 +1,135 @@
-# 高性价比人生指南 · 项目规则
+# Cẩm nang sống đáng giá · Quy tắc dự án
 
-以下规则适用于本仓库的所有工作，必须遵守。
+Các quy tắc dưới đây áp dụng cho mọi công việc trong kho này, bắt buộc tuân thủ.
 
-## 项目定位
-- 这是一本按「性价比」排序的人生指南。参考 geekan/HowToLiveLonger 的量化风格，但范围更大：优化的不只是寿命，而是四种资源——寿命、时间与精力、金钱、人身自由；覆盖的也不只是活着，还包括钱、法律、工作、家庭和育儿。
-- 每一条建议都必须回答两个问题：花掉什么（钱/时间/精力/毅力），换回什么（总死亡率变化 / 特定死因下降 / 时间与精力节省 / 金钱节省 / 保障与人身自由）。
-- 排序原则：性价比优先，不按类别优先。「成本接近零、收益大」的条目放最前面。
+Kho này là **bản tiếng Việt** của cuốn sách gốc tiếng Trung HowToLiveBetter (upstream eternity4719/HowToLiveBetter). Nội dung pháp luật, trợ cấp, thủ tục trong sách chủ yếu là của Trung Quốc — đây là bản chuyển thể giữ nguyên dữ kiện, không phải bản viết lại cho luật Việt Nam. Toàn bộ quy tắc viết của bản gốc được chuyển sang và vẫn áp dụng, chỉ đổi những chi tiết kỹ thuật ghi rõ dưới đây.
 
-## 收益算给谁（受益人口径）
-- 全书按性价比算账，受益人分四档，按「这份好处将来回到你身上的期望」从高到低排：① **你自己**；② **配偶和直系亲属**（父母、子女、祖父母外祖父母、孙子女外孙子女）；③ **朋友、同事和其他亲属**——互惠关系，帮出去的将来可能回来；④ **陌生人**——档次最低，但不是零：回报的概率小，而且你不了解对方性格，另有被讹、被反咬、被报复的一面。
-- 不同档的收益不合并计算。写到第 ④ 档时必须把风险面和好处一起写清（被讹、被卷进案子、被报复），不能只写好处，也不能写成「陌生人一律不管」。
-- 涉及别人的条目按这个顺序写：① 先写这件事落在自己或家人身上时该怎么做，这是主线，也是「收益」栏的主体；② 再写对朋友同事和对陌生人时的差别，重点是自保动作和免责条款（不下水、不上手拉架、不随便搬动、不报警也不违法）；③ 在备注里点明这条的受益人主要落在哪一档。
-- 受益人档次不改变收益量级（量级仍从条目自己的「收益」栏机械套），它影响的是这条值不值得你花那份成本，写在备注里就够。
+## Định vị dự án
+- Đây là một cẩm nang sống sắp theo "hiệu quả chi phí". Tham khảo phong cách lượng hóa của geekan/HowToLiveLonger, nhưng phạm vi lớn hơn: thứ được tối ưu không chỉ là tuổi thọ, mà là bốn loại tài nguyên — tuổi thọ, thời gian và sức lực, tiền, tự do thân người; thứ được phủ cũng không chỉ là sống, mà còn tiền, pháp luật, công việc, gia đình và nuôi con.
+- Mỗi mục lời khuyên phải trả lời hai câu hỏi: tiêu gì (tiền/thời gian/sức lực/ý chí), đổi về gì (biến hóa tử suất tổng / nguyên nhân chết định điểm xuống / thời gian và sức lực tỉnh / tiền tỉnh / bảo đảm và tự do thân người).
+- Nguyên tắc sắp xếp: hiệu quả chi phí trước, không theo loại trước. Mục "chi phí gần không, lợi ích lớn" để trước nhất.
 
-## 写「法律支持你」的条目时必须写过程成本
-- 凡是落到「法律支持你」「你可以要求」「最终会判你赢」的条目，只写结果不写过程等于把胜诉率当成收益。必须同时交代：要不要打官司、大概多久（一审普通程序 6 个月起、可延长，简易程序 3 个月）、谁掏律师费（律师费不在《诉讼费用交纳办法》第六条列的诉讼费用里，第二十九条的「败诉方负担」不包括它）。
-- 同理，引一条免责或者举证规则来安抚读者时，要说清它到底管哪一段：管判决结果的，不等于管「被卷进去」；管民事的，不等于管行政或刑事。写之前先问一句「这条法管的风险，和读者真正怕的风险，是不是同一个」。
+## Lợi ích tính cho ai (quy mô người hưởng lợi)
+- Toàn sách tính sổ theo hiệu quả chi phí, người hưởng lợi chia bốn bậc, theo "kỳ vọng phần lợi này sau này quay lại trên bạn" từ cao tới thấp: ① **chính bạn**; ② **vợ/chồng và thân thuộc trực hệ** (cha mẹ, con cái, ông bà nội ngoại, cháu nội ngoại); ③ **bạn bè, đồng nghiệp và thân thích khác** — quan hệ hỗ hỗ, giúp ra đi sau này có thể quay lại; ④ **người lạ** — bậc thấp nhất, nhưng không phải không: xác suất hồi báo nhỏ, hơn nữa bạn không hiểu tính cách đối phương, còn có mặt bị ăn oan, bị cắn ngược, bị trả thù.
+- Lợi ích của các bậc không hợp nhất tính. Viết tới bậc ④ phải viết rõ cả mặt nguy cơ lẫn lợi (bị ăn oan, bị cuốn vào vụ án, bị trả thù), không chỉ viết lợi, cũng không viết thành "người lạ nhất loạt không quản".
+- Mục liên quan tới người khác viết theo thứ tự: ① trước viết việc này rơi lên mình hay người nhà thì làm thế nào — đây là tuyến chính, cũng là thân của cột "Lợi ích"; ② rồi viết khác biệt khi đối tượng là bạn đồng nghiệp hay người lạ, trọng điểm là động tác tự bảo và điều miễn trách (không xuống nước, không thượng thủ can, không tùy tiện khiêng đỡ, không báo cảnh cũng không vi pháp); ③ trong Ghi chú chỉ rõ người hưởng lợi của mục này chủ yếu rơi vào bậc nào.
+- Bậc người hưởng lợi không đổi đại lượng lợi ích (đại lượng vẫn máy móc lấy từ cột "Lợi ích" của chính mục), nó ảnh hưởng mục này có đáng bạn bỏ phần chi phí đó không — viết trong Ghi chú là đủ.
 
-## 证据分级（每条必须标注）
-- A 级：有可量化证据，来自荟萃分析、大型队列或 RCT，能给出具体数字（如 HR、RR、下降百分比）
-- B 级：有研究支撑但难以量化，或证据来自小样本/单一研究
-- C 级：作者经验或普遍共识，没有直接文献
-- 有争议的 A/B 级条目必须标注「争议」并列出反方证据
+## Viết mục "pháp luật ủng hộ bạn" phải viết cả chi phí quá trình
+- Mục nào rơi vào "pháp luật ủng hộ bạn" "bạn có thể đòi" "cuối cùng sẽ phán bạn thắng", chỉ viết kết quả không viết quá trình tức đem tỷ lệ thắng tố thành lợi ích. Phải đồng thời khai rõ: có phải đánh kiện không, đại khái bao lâu (sơ thẩm trình tự thường 6 tháng khởi bước, gia hạn được, trình tự giản dịch 3 tháng), ai trả tiền luật sư (tiền luật sư không nằm trong phí dụng kiện tụng mà Điều 6 《Cách Giao nộp Phí dụng Kiện tụng》 liệt, "bên bại tố gánh" của Điều 29 không bao gồm nó).
+- Tương tự, dẫn một quy tắc miễn trách hay gánh chứng để trấn an người đọc, phải nói rõ nó quản đoạn nào: quản kết quả phán không bằng quản "bị cuốn vào"; quản dân sự không bằng quản hành chính hay hình sự. Trước khi viết tự hỏi "điều luật này quản nguy cơ gì, và người đọc thật sự sợ nguy cơ gì, có phải cùng một cái không".
 
-## 引用规则
-- 只引原始文献：期刊论文（附 DOI 或 PubMed 链接）、WHO/CDC/国家统计局等官方机构报告
-- 禁止引用知乎、微信公众号、搜狐、网易、百家号等二手转述
-- 数字必须能在原文中找到，不确定的数字宁可不写，写「待核实」
-- 不要凭记忆编造 DOI 或文献标题；找不到原文就标 TODO，不要瞎填
+## Phân hạng chứng cứ (mỗi mục bắt buộc đánh dấu)
+- Cấp A: có chứng cứ lượng hóa được, từ tổng hợp phân tích, đoàn hệ lớn hay RCT, cho được số cụ thể (như HR, RR, phần trăm xuống)
+- Cấp B: có nghiên cứu chống lưng nhưng khó lượng hóa, hay chứng cứ từ cỡ mẫu nhỏ/nghiên cứu đơn lẻ
+- Cấp C: kinh nghiệm tác giả hay cách làm công nhận chung, không có văn hiến trực tiếp
+- Mục cấp A/B có tranh cãi phải đánh dấu "Tranh cãi" và liệt chứng cứ phản phương
 
-## 条目格式
-每条统一用：
-- **建议**（一句话，动词开头）
-- 成本：
-- 说人话：
-- 收益：
-- 证据等级：A / B / C
-- 来源：
-- 备注：（争议、适用人群、注意事项）
-- 标题行下紧跟一行 HTML 注释 `<!-- 成本标签: 钱=0|少|多 时间=少|中|多 毅力=否|些|是 收益=大|中|小 口径=死亡率|金钱|时间|自由 -->`，GitHub 渲染不可见，供 index.html 在线检索按成本维度筛选；新增或改动条目时同步维护。含义：钱 0=不花钱或省钱、少=几十到几百元或每月几十元内、多=上千元或长期显著支出；时间 少=一次几分钟内或顺手、中=一次性数小时或每周小时级、多=每天持续占用；毅力 否=做一次就完、些=改一个习惯或忍一点不适、是=长期对抗惯性
-- **文献链接一律放「来源」栏，别堆在备注里**（2026-09-21 用户看着检索页上的卡片问「这个备注里面怎么一堆链接」）。起因是同一条目分三轮追加，每轮顺手在备注里带一个 DOI，攒到 3 个、备注也涨到近千字。补充证据、反方证据、出路证据的**文献一样进「来源」栏**，备注只写结论和数字，不带括号引文；备注里至多留一个链接，而且只留指向 docs/ 长文的那个。判据：`grep -c http` 扫全书备注，正常条目是 0 到 1 个，2 个就该看一眼，3 个一定是堆出来的。备注超过 700 字同样是信号，按「长解释放到 docs/」把细节挪进长文或并进来源栏。
-- 「说人话」是把「收益」栏的统计量翻成日常说法的一到两句：HR/RR/OR 一律换算成「高约几成 / 低约百分之几」，人群和研究设计不写，只留读者关心的方向和量级；不许出现 HR、RR、OR、CI、队列、荟萃这些词，也不许出现「收益」栏里没有的数字。**不能新增的不只是数字**：收益栏没写的症状、事实断言、机制解读一样不许加（2026-09-19 用户抓出两处——献血条写「『脸色差、怕冷』不是瞎编」，可「脸色差」全条目没有任何来源提过；冷水澡条把「病假次数少了但总天数没变」解读成「病了也照样去上班」，原研究没这么说。两处都已改）。**说人话还必须自足**：读者多半只看这一行，不看来源也不看核实记录，所以不能引一句他没见过的说法再去评价它——「『XX』不是瞎编」「『XX』是真的」这类写法直接禁掉，要么把那个说法连同出处在这一行里交代清楚，要么改成正面陈述（献血那句最后改成「反过来，献得太勤确实会让人没力气、怕冷，机制是铁」）。写「说人话」时不要顺手去改「收益」栏。金钱与自由口径的条目同样写，翻成「能拿回多少钱 / 会摊上什么后果」。检索页把它渲染成卡片里最显眼的一段，缺这一行就不显示，可以逐节补。
-- **全书一律写成没受过专业训练的成年人能一遍读懂的中文**（2026-09-20 用户定：「我有点看不懂，通俗点」「不然门槛太高了」）。覆盖条目标题、成本、说人话、收益、备注，以及 docs/ 下的长文；**来源栏除外**，文献题录和条款号照原样留着才能核对。做法：专业名词当场用日常话解释一句、名词本身保留（「辅料，也就是有效成分之外的填充和包衣」）；研究行话翻成动作（「观察性队列」→「只是跟踪记录、没有分组对照」）；法言法语落到「会摊上什么后果、该怎么做」。**收益栏的数字、置信区间、人群与年份说明一个都不许删改**，HR/RR/OR 在旁边就地补「低约 28%」这类换算并保留原值——这一栏是全书可核对性的底座，只加译文、不动原值。**条目标题只许加字解释，不许删字换词**：别节的引用靠标题里的词做锚点匹配（tools/check-refs.mjs 取任意两个连续汉字比对），删一个词就可能让那处引用从「带锚点」退化成裸条号。
-- **句子层面的硬标准**（2026-09-21 用户定：「有些人说是 AI 生成的垃圾看不懂」「改成尽量通俗、简单，单看一整句不需要看其他地方引用、不需要任何额外思考就能明白」，并点名要照顾读得慢、逐字逐句看的老年人和残障读者）。当天按这套标准把全书 552 条和四篇长文逐条改了一遍，句子平均长度从 66 字降到 29 字，超过 70 字的句子从 1385 句降到 64 句（剩下的全是不可拆的法条引文和英文文献题录）。以后新增和修改条目照这个标准写：
-  - **一句话只说一件事**，句子控制在 30 字上下，最长不超过 50 字。原来用分号并列的一律改成一句一个句号，破折号尽量不用。
-  - **每句有明确主语**（你、医生、警察、公司、法院），少用被动句和「其」「该」「之」「予以」「系」。书面语换口语：及→和，若→如果，应当→要（来源栏不动），自……之日起→从……那天算起。
-  - **括号套括号一律拆开**，括号里超过十个字的补充拿出来单独成句；术语解释要短，写「95% CI 0.50–0.63（可信范围）」而不是整句解释，同一条里同一个术语只解释一次。
-  - **每句话要能单独读懂**：交叉引用前面那句必须把意思说完，引用只是「想细看去哪」。
-  - **说人话 2 到 4 句、120 字以内**，只留方向和量级，其余留在收益栏。不写样本量、分组和研究设计（「257 例」「那组」「随机」），不写「另一头」「产出」这类要读者自己翻译的比喻。`node tools/check-plain.mjs` 机器查这三样，CI 里是「说人话检查」job，sync-stats.mjs 也会跑（2026-09-28 issue #42 读者嫌 AI 味重，当天查出 173 条不合格，全部改掉）。它查不出的是电报体：句句十来个字、一句一个句号，读着像念提纲。有因果、转折的两句可以用「因为」「所以」「但」连成一句，结尾别加总结升华句。
-  - **备注里有争议的仍必须以「争议」开头**：sync-stats.mjs 按「备注行以争议开头」计数，把争议挪到备注中段，README 的争议条数就会掉（2026-09-21 通俗化时有 9 条这么掉过，已改回）。
-- **别写出 AI 腔**（2026-09-28 issue #42：读者说全书「AI 味太重」「读起来蛋疼」，当天改了全书成本、收益、备注、节首引言和长文）。下面几种是本书实际出现过的：
-  - **元叙述**：「这条只解决一件事」「这条不劝你去或不去」「这条算的是……不是钱」。
-  - **段尾升华句**：「从报名那一刻起，这个决定就反悔不了了」「免签不等于免责」。
-  - **连用「也就是」**：一段里连着用好几次。改写前全书有 306 处。
-  - **要读者自己翻译的比喻**：「那一侧」「另一头」「产出」「换了张皮」「挡箭牌」。
-  - **电报体**：一个列举拆成一串碎句，一句一个句号。
-  - **空转加强词**：「值得注意的是」「本质上」。
-- **改法以保真为先**，规则取自读者推荐的 skill shuorenhua（github.com/MrGeDiao/shuorenhua，SKILL.md 和 references/editing-guide.md）：
-  - **否定、范围、条件、立场、主次判断都是内容，不是包装**。「这条不是禁止划线」「不主张谁都该离开夜班岗位」这类句子，只去掉「这条」「本条」的自指，限定本身必须留下。当天第一轮把这类句子当元叙述删了，事后逐句核对 199 句，放回了 23 句。
-  - **段尾句在下结论、定主次、说该怎么做的，留下意思，只删修辞**。只有和前文完整重复的才删。
-  - **法条原文后面紧跟的白话翻译要保留**，读者靠它看懂法条。
-  - **别拿公文腔去换 AI 腔**：不写「一是……二是……」「即」「意思是」「具体而言」。能删的「也就是」直接删，删不掉的换成「比如」或十字以内的括号短注。
-  - **不许把意思说得更具体或更绝对**，拿不准就保留原句。
-  - **句式本身不是错**，不按命中次数替换。「不是 X，而是 Y」在排除一种误读时就是内容。
-  - **有因果、转折关系的相邻短句用「因为」「所以」「但」连起来**，单句仍不超过 50 字。
-- 收益与口径是后加的两个字段，用来回答「值不值得做」（证据等级只回答「数字可不可信」，两者正交）。口径按这条主要换回什么定：死亡率（含健康终点、存活率）、金钱（含保障待遇）、时间（含精力）、自由（含法律责任、个人信息）。**不同口径之间不做比较**。
-- 收益量级尽量按阈值从条目自己的「收益」栏机械套，不凭感觉：死亡率口径看相对降幅（≥20% 大 / 10–20% 中 / <10% 或只有替代终点 小）；金钱看金额（万元级 大 / 数百到数千 中 / 几十元 小）；自由看后果（避免刑责 大 / 避免拘留或行政处罚 中 / 避免民事纠纷 小）；时间看节省量（每天小时级 大 / 每周小时级 中 / 一次性 小）。数字不足以判定时才用判断，并在核实记录里写明凭什么定的。
-- 条目数、A 级条数变了要同步四处：README（正文数字与两个徽章）、index.html（五处描述、numberOfPages、页头条目数）、CLAUDE.md 的目录简介，以及 **tools/og.html + 重新截图 og.png**（命令写在 og.html 文件头注释里，链接数的口径是 book/ 下所有「- 来源：」和「- 备注：」行里的 http(s) 总数）。跑 `node tools/sync-stats.mjs` 一键完成（2026-09-29 起全部用 node，原来的 sync-stats.ps1 已删，Linux、macOS 上照样跑）：它重算条目数、节数、A/B/C 数、争议数、TODO 数、链接数和性价比三档，回写 README 的九处（含「拆成 N 个文件」）、index.html 的四类位置（含页脚「N 个文件」）、tools/og.html 的三个数字，再用全新的 user-data-dir 重出 og.png（`--no-screenshot` 可只改数字；Chrome 不在常见位置就设环境变量 `CHROME`）。**新增要随统计变的数字，就往 sync-stats.mjs 的 EDITS 表里加一行**，别在正文里另写死一处。CI 的「统计数字检查」job 跑 `node tools/sync-stats.mjs --check`，数字过时就红（2026-09-29 加，此前网页上直接合并的 PR 完全不经过这个脚本）；它只查不改，og.png 仍要本地重出。**CLAUDE.md 的目录简介脚本不碰，仍要手工改。**性价比档的规则和 index.html 的 COST_W、e.ratio 两行绑定，那两行改了脚本会直接报错要求同步。**每次改完条目就跑一次，和正文改动一起提交**（2026-09-18 用户定；当天早些时候的「等我说改完了再改」已作废——脚本把一次同步的开销压到几百 token，不必再攒着）。跑完不用打开 og.png：脚本自己校验图是本次写入、大小在 120KB 到 400KB，只有改过 tools/og.html 版式时才值得看一眼。汇报里也不必再写「待同步」，直接给同步后的数字。
+## Quy tắc trích nguồn
+- Bản gốc chỉ trích văn hiến sơ cấp: luận văn tạp chí (kèm DOI hay liên kết PubMed), báo cáo cơ cấu chính thức như WHO/CDC/Tổng cục Thống kê. **Bản tiếng Việt cho phép giữ nguồn tiếng Trung** — vì nội dung là chuyển thể, luật và văn kiện viện dẫn vốn là của Trung Quốc. Nguyên văn tiếng Trung giữ trong cột `Nguồn:` (tên điều luật, số văn hiệu, tiêu đề tài liệu), không dịch; phần thân mục dùng tên dịch/phát âm Hán-Việt.
+- Cấm trích các chuyển thuật thứ cấp kiểu trả lời mạng, bài đăng công chúng.
+- Số phải tìm được trong nguyên văn, số không xác định thà không viết, viết "cần xác minh".
+- Đừng theo trí nhớ biên DOI hay tựa văn hiến; không tìm được nguyên văn thì đánh dấu cần xác minh, đừng bịa điền.
 
-- **插入或删除条目之后，必须扫一眼 `docs/引用对照.md` 的 diff**（2026-09-19 用户问「怎么防范引用错位」时定的）。正文里 257 处「第 X 条」引用只记条号不记内容，插一条进去后面的条号集体顺延，引用却留在原地——而顺延后的条号通常**仍在范围内**，查越界一条也抓不到（第 7 节曾有 6 处指错：医疗救助指到低保、救助站指错条，全是这么来的）。`sync-stats.mjs` 会自动跑 `tools/check-refs.mjs`，把每处引用**实际指向的条目标题**连同引用处的上下文写进 `docs/引用对照.md`，该文件入库。**判据：条号没变而「指向的条目」那列变了，就是被撞歪的引用**；表里还带着引用处前十几个字，和标题一对就知道指没指对。CI 用 `node tools/check-refs.mjs --check`（有问题则退出码 1），它是 `book.yml` 里名为「交叉引用检查」的独立 job，**故意不挂在 build 里**：锚点没补好不该连累 EPUB、PDF 和离线单文件的发布，PR 上照样红、main 上该发的还是发出去。这个 job 是 2026-09-21 补的——在那之前 CLAUDE.md 写着「CI 用」但 workflow 里其实没有这一步，全靠本地 `sync-stats.ps1`，而那条链路只在 Windows 上跑、找不到 node 时还会静默跳过（脚本里就是打一句「跳过引用对照表」然后继续），外部 PR 更是完全跑不到。
+## Marker "Chỉ tham khảo TQ:" (quy tắc riêng của bản VN)
+- Mục nào nội dung dựa trên luật/chính sách/thủ tục Trung Quốc mà người đọc Việt Nam không trực tiếp áp dụng được (hotline TQ, trang tra TQ, điều luật TQ), Ghi chú phải **mở đầu bằng** `Chỉ tham khảo TQ:`. sync-stats.mjs đếm marker này riêng.
+- Nếu mục đó đồng thời tranh cãi, viết `Chỉ tham khảo TQ: Tranh cãi. ...` — "Tranh cãi" vẫn phải nằm ngay sau marker để bộ đếm tranh cãi không rớt (checker nhận cả hai dạng, nhưng "Tranh cãi" phải đứng đầu phần ghi chú còn lại).
+- Không lạm dụng: mục thuần y học/chứng cứ quốc tế (WHO, CDC, RCT không phân biệt quốc gia) không đánh marker này.
 
-- **每处引用都要带锚点**（2026-09-19 同一轮定的）：引用的前后文里必须有一个词和目标条目标题对得上——「医疗救助见第 11 条」里的「医疗救助」就是锚点；实在没有就显式写成「见第 16 条（借条和担保）」，括号里的词从目标标题里取。**裸条号一律不允许**（「实际算法可以看第 34 条」「和第 4 条二选一」这种），因为它被顺延撞歪之后，连对照表的 diff 都看不出异常——条号没变、指向的标题变了，可那处引用本来就没说自己要指什么。`--check` 会把裸条号判为失败并列出位置，`--suspect` 看完整清单。**相对指路同样禁用**（2026-09-20 加）：「见下一条」「罚则见上一条」「按前一条的渠道走」这类不带条号，插条目时跟着整体平移，撞歪了对照表 diff 也看不出来，裸条号检查更扫不到它。当天一次扫描就查出三处早就指错的——HPV 疫苗条的「见下一条」指到乳腺癌筛查（该指宫颈癌筛查）、扬言条的「罚则见上一条」指到自己冒出念头那条、失业登记条的「上一条不签主动辞职」指到存证据条，全书 19 处已逐一改成「第 N 条（锚点词）」，`--check` 现在把它判为失败。当天把全书 309 处引用逐一补齐锚点，从 75 处裸条号清到 0；补的过程中又揪出两处错位（第 9 节第 6 条把「替人取现转账」指到了「黄色视频自己看归自己」，第 2 节两条互指的运动条各自指错）。写正文时顺手带上锚点即可，读者也不用跳转就知道指的是什么。
+## Định dạng mục
+Mỗi mục thống nhất dùng:
+- **Tiêu đề mục** (`### N. `, một câu, động từ mở đầu)
+- Chi phí:
+- Nói dễ hiểu:
+- Lợi ích:
+- Mức chứng cứ: A / B / C
+- Nguồn:
+- Ghi chú: (tranh cãi, đối tượng áp dụng, lưu ý)
+- Ngay dưới dòng tiêu đề kèm một dòng HTML comment `<!-- nhan-chi-phi: tien=0|it|nhieu thoi-gian=it|vua|nhieu y-chi=khong|chut|nhieu loi-ich=lon|vua|nho quy-mo=tu-su|tien|thoi-gian|tu-do -->`, GitHub render không thấy, cung cấp cho index.html tra cứu trực tuyến lọc theo chiều chi phí; thêm hay đổi mục thì đồng bộ bảo trì. Nghĩa: tien 0=không tốn tiền hoặc tỉnh tiền, it=vài chục tới vài trăm nghìn hay mỗi tháng trong khoảng nhỏ, nhieu=hàng triệu trở lên hay chi lâu dài đáng kể; thoi-gian it=một lần vài phút hay tiện tay, vua=một lần vài giờ hay mỗi tuần cấp giờ, nhieu=mỗi ngày chiếm liên tục; y-chi khong=làm một lần xong, chut=đổi một thói quen hay nhịn chút khó chịu, nhieu=dài hạn đối kháng quán tính
+- **Liên kết văn hiến nhất loạt để cột "Nguồn", đừng chất đống trong Ghi chú** (bản gốc 2026-09-21: người dùng nhìn thẻ trên trang tra cứu hỏi "sao ghi chú này một đống link"). Chứng cứ bổ sung, chứng cứ phản phương, chứng cứ con đường ra đều vào "Nguồn"; Ghi chú chỉ viết kết luận và số, không kèm trích dẫn ngoặc; Ghi chú nhiều nhất giữ một link, và chỉ giữ link trỏ tới bài dài docs/. Phán cứ: `grep -c http` quét toàn sách Ghi chú, mục bình thường 0 tới 1 cái, 2 cái thì nên xem, 3 cái chắc chắn là chất ra. Ghi chú quá dài (bản gốc ngưỡng 700 chữ) cũng là tín hiệu, theo "giải thích dài để docs/" đem chi tiết vào bài dài hay nhập vào cột Nguồn.
+- "Nói dễ hiểu" là đem lượng thống kê của cột "Lợi ích" dịch thành cách nói ngày thường một tới hai câu: HR/RR/OR nhất loạt quy tính thành "cao khoảng mấy phần mười / thấp khoảng bao nhiêu phần trăm", quần thể và thiết kế nghiên cứu không viết, chỉ giữ phương hướng và đại lượng người đọc quan tâm; không được xuất hiện các từ HR, RR, OR, CI, đoàn hệ, tổng hợp phân tích, cũng không được có số mà cột "Lợi ích" không có. **Không được thêm mới không chỉ số**: triệu chứng, khẳng định sự thật, giải thích cơ chế mà cột Lợi ích không viết cũng không được thêm (bản gốc 2026-09-19 bắt ra hai chỗ — mục hiến máu viết "'sắc mặt kém, sợ lạnh' không phải bịa", nhưng "sắc mặt kém" cả mục không nguồn nào nhắc; mục tắm nước lạnh đem "số lần nghỉ ốm ít đi nhưng tổng số ngày không đổi" giải thích thành "bệnh cũng vẫn đi làm", nghiên cứu gốc không nói vậy. Hai chỗ đều đã sửa). **Nói dễ hiểu còn phải tự đủ**: người đọc đa số chỉ xem dòng này, không xem nguồn cũng không xem ghi chép kiểm chứng, nên không được trích một cách nói họ chưa từng thấy rồi đi bình nó — kiểu "'XX' không phải bịa" "'XX' là thật" trực tiếp cấm, hoặc đem cách nói đó cùng xuất xứ khai rõ trong dòng này, hoặc đổi thành khẳng định thuận. Viết "Nói dễ hiểu" lúc đừng tiện tay sửa cột "Lợi ích". Mục quy mô tiền và tự do cũng viết, dịch thành "lấy lại được bao nhiêu tiền / sẽ dính hậu quả gì". Trang tra cứu render nó thành đoạn đậm nhất trong thẻ, thiếu dòng này thì không hiển thị.
+- **Toàn sách nhất loạt viết thành tiếng Việt mà người trưởng thành không qua đào tạo chuyên môn đọc một lượt hiểu được** (bản gốc 2026-09-20 người dùng định: "đọc không hiểu lắm, thông tục chút"). Phủ cả tiêu đề mục, Chi phí, Nói dễ hiểu, Lợi ích, Ghi chú, và bài dài dưới docs/; **trừ cột Nguồn** — mục lục văn hiến và số điều khoản giữ nguyên dạng mới đối chiếu được. Cách làm: danh từ chuyên môn tại chỗ dùng lời ngày thường giải thích một câu, bản thân danh từ giữ lại; hành nghề nghiên cứu dịch thành động tác; ngôn luật rơi xuống "sẽ dính hậu quả gì, nên làm thế nào". **Số, khoảng tin cậy, giải thích quần thể và năm trong cột Lợi ích một cái cũng không được xóa sửa**, HR/RR/OR bên cạnh tại chỗ bổ "thấp khoảng 28%" kiểu quy tính và giữ giá trị gốc — cột này là đế có thể đối chiếu của toàn sách, chỉ thêm bản dịch không động giá trị gốc. **Tiêu đề mục chỉ được thêm chữ giải thích, không được bớt chữ đổi từ**: trích dẫn của phần khác dựa vào từ trong tiêu đề làm anchor (tools/check-refs.mjs lấy cụm từ đối chiếu), bớt một từ có thể để chỗ trích dẫn đó từ "có anchor" thoái hóa thành số mục trần.
+- **Chuẩn cứng tầng câu** (bản gốc 2026-09-21 người dùng định, chỉ đích chăm sóc người đọc chậm, đọc từng chữ một như người già và người khuyết tật). Bản VN theo ngưỡng tương ứng: **một câu chỉ nói một việc, khống trong khoảng 30 từ, dài nhất không quá 50 từ** (tiếng Việt đếm theo từ, tương đương ngưỡng chữ của bản gốc).
+  - **Mỗi câu có chủ ngữ rõ** (bạn, bác sĩ, cảnh sát, công ty, tòa án), ít dùng thể bị động. Văn thư đổi khẩu ngữ: "nếu", "phải", "từ ngày ... tính".
+  - **Ngoặc lồng ngoặc nhất loạt tách**, bổ sung trong ngoặc quá mười từ lấy ra thành câu riêng; giải thích thuật ngữ phải ngắn, viết "95% CI 0.50–0.63 (phạm vi tin cậy)" chứ không cả câu giải thích, cùng một mục cùng một thuật ngữ chỉ giải thích một lần.
+  - **Mỗi câu phải đọc riêng hiểu được**: trích chéo câu trước phải nói hết ý, trích dẫn chỉ là "muốn xem kỹ đi đâu".
+  - **Nói dễ hiểu 2 tới 4 câu, trong 60 từ**, chỉ giữ phương hướng và đại lượng, phần còn lại để cột Lợi ích. Không viết cỡ mẫu, phân nhóm và thiết kế nghiên cứu, không viết loại ẩn dụ để người đọc tự dịch. `node tools/check-plain.mjs` máy kiểm ba thứ này, trong CI là job "Kiểm tra Nói dễ hiểu", sync-stats.mjs cũng chạy. Nó kiểm không ra là thể điện báo: câu câu mười mấy chữ, đọc giống đọc đề cương. Hai câu có nhân quả, chuyển chiết dùng "vì" "nên" "nhưng" nối thành một câu, cuối đừng thêm câu tổng kết thăng hoa.
+  - **Ghi chú có tranh cãi vẫn phải lấy "Tranh cãi" mở đầu**: sync-stats.mjs đếm theo "dòng Ghi chú mở đầu bằng Tranh cãi", đem nó dời tới giữa Ghi chú thì số mục tranh cãi trong README sẽ rớt (bản gốc 2026-09-21 có 9 mục rớt như vậy, đã đổi lại). Có marker `Chỉ tham khảo TQ:` thì marker đứng trước, "Tranh cãi" đứng ngay sau.
+- **Đừng viết ra giọng AI**. Với bản VN, thêm ba loại lỗi hay gặp lúc dịch: **câu dài ngập ngừng** dịch từ câu Trung Quốc giữ nguyên kết cấu ngoặc phụ — bắt buộc tách câu; **thuật ngữ để nguyên chữ Hán** ngoài cột Nguồn — tên riêng phiên âm hoặc dịch, chỉ văn hiệu trong `Nguồn:` mới giữ nguyên văn; **chỉ đường mơ hồ** kiểu "mục đầu", "mục cuối", "đầu kia" — bản dịch phải ghi rõ "phần X, mục Y (từ khóa)". Các dạng của bản gốc vẫn cấm: tự thuật ("mục này chỉ giải quyết một việc"), câu thăng hoa cuối đoạn, dùng liên tiếp "tức là", ẩn dụ để người đọc tự dịch, thể điện báo, từ tăng cường rỗng ("đáng chú ý là", "bản chất là").
+- **Cách sửa lấy bảo chân làm trước**: phủ định, phạm vi, điều kiện, lập trường, phán đoán chính thứ đều là nội dung không phải bao bì; câu kết đoạn đang hạ kết luận, định chính thứ, nói nên làm gì thì giữ ý chỉ xóa tu từ; bản dịch bạch thoại ngay sau nguyên văn điều luật phải giữ; đừng cầm văn công thư đổi giọng AI; không được nói ý cụ thể hơn hay tuyệt đối hơn bản gốc, nắm không chắc thì giữ câu gốc; kiểu câu bản thân không phải lỗi; hai câu ngắn liền nhau có nhân quả chuyển chiết dùng "vì" "nên" "nhưng" nối lại, một câu vẫn không quá 50 từ.
+- Lợi ích và quy mô là hai trường thêm sau, dùng trả lời "đáng làm không" (hạng chứng cứ chỉ trả lời "số đáng tin không", hai thứ trực giao). Quy mô theo mục này chủ yếu đổi về gì định: tu-su (gồm điểm cuối sức khỏe, tỷ lệ sống), tien (gồm đãi ngộ bảo đảm), thoi-gian (gồm tinh lực), tu-do (gồm trách nhiệm pháp luật, tin tức cá nhân). **Quy mô khác nhau không so sánh**.
+- Đại lượng lợi ích cố theo ngưỡng máy móc lấy từ cột "Lợi ích" của chính mục, không theo cảm giác: quy mô tu-su xem biên độ xuống tương đối (≥20% lớn / 10–20% vừa / <10% hay chỉ có điểm cuối thay thế nhỏ); tien xem kim ngạch (cấp vạn tệ lớn / trăm tới ngàn tệ vừa / chục tệ nhỏ); tu-do xem hậu quả (tránh trách nhiệm hình sự lớn / tránh giam hay phạt hành chính vừa / tránh tranh nghị dân sự nhỏ); thoi-gian xem lượng tỉnh (mỗi ngày cấp giờ lớn / mỗi tuần cấp giờ vừa / một lần nhỏ). Số không đủ phán mới dùng phán đoán, và ghi trong nhật ký kiểm chứng cứ cái gì định.
+- Số mục, số mục cấp A đổi phải đồng bộ bốn chỗ: README (số chính văn và hai badge), index.html (mấy chỗ mô tả, numberOfPages, số mục đầu trang), giới thiệu mục lục của CLAUDE.md, và **tools/og.html + chụp lại og.png** (lệnh viết trong comment đầu file og.html, quy mô số link là tổng http(s) trong mọi dòng "- Nguồn:" và "- Ghi chú:" dưới book/). Chạy `node tools/sync-stats.mjs` một phím xong hết (2026-09-29 lên toàn node): nó tính lại số mục, số phần, số A/B/C, số tranh cãi, số chỗ cần xác minh, số link và ba mức hiệu quả chi phí, viết lại các chỗ README, index.html, ba số của tools/og.html, rồi dùng user-data-dir mới tinh xuất lại og.png (`--no-screenshot` chỉ đổi số; Chrome không ở chỗ thường thì đặt biến môi trường `CHROME`). **Thêm số mới cần theo thống kê biến, cứ thêm một dòng vào bảng EDITS của sync-stats.mjs**, đừng viết chết riêng một chỗ. Job "Kiểm tra số liệu" của CI chạy `node tools/sync-stats.mjs --check`, số quá hạn thì đỏ; nó chỉ kiểm không đổi, og.png vẫn phải xuất lại ở máy. **Giới thiệu mục lục trong CLAUDE.md script không đụng, vẫn sửa tay.** Quy tắc mức hiệu quả chi phí buộc với hai dòng COST_W, e.ratio của index.html, hai dòng đó đổi script sẽ trực tiếp báo lỗi đòi đồng bộ. **Mỗi lần đổi mục xong chạy một lần, commit cùng chính văn.** Chạy xong không cần mở og.png: script tự nghiệm ảnh là lần này ghi, cỡ trong 120KB tới 400KB, chỉ khi đổi bản thức tools/og.html mới đáng xem.
 
-- **法条条款号和条目引用要能分开，判据是「紧挨着有没有引文标记」**（2026-09-21 用户让扫类似错误时定的）。`check-refs` 靠这个判断一处「第 N 条」是法条还是条目引用：紧挨在它前面的是 `《…》`、`〔…〕`、「14 号」、「该解释／该意见」，或者以法规名收尾（「治安管理处罚法第 26 条」），就当法条跳过。由此两条要求：① **法条引文必须自带文件名**，一句一条往下列时写「该解释第 11 条讲的是取证」，不要写「……的法院命令。第 11 条讲的是取证」靠上一句撑着（这本来也是「每句能单独读懂」的要求）；② 条目引用前面别紧跟法规名。**这类错误的判据不是 `--check` 绿不绿，是引用总数对不对**：新增 N 处引用，`docs/引用对照.md` 的总数就该涨 N。涨少了说明有引用被当成法条跳过——它压根不进对照表，`--check` 没有可查的引用反而显示「通过」，是静默失效。2026-09-21 全量扫描查出 12 处这样的引用（「具体办法在后面四条：第 3 条」「法律援助见第 3 条」「被违法解除的按第 6 条」「查法见第 12 条」这种，旧判据是看前 16 个字里有没有「法」字，「办法」「查法」「违法」全被连累），判据改掉后 423 处恢复到 435 处。
-  **扫描范围是 book/ 的条目正文 + 节首引言 + docs/ 长文**（2026-09-21 扩的，此前只扫条目正文）。节首引言和长文里的条号一样会被顺延撞歪，此前一处都没查过，`--check` 照常显示通过——和上面那条法条过滤一样是静默失效，只是成因是压根没扫。扩完当天补了 15 处锚点，**基线从 454 处涨到 533 处**，「新增 N 处、总数涨 N」这条判据从 533 起算。三件事随之定下来：① 长文里没有「本节」，裸的「第 N 条」一律当法条不扫，长文引用必须写全「第 X 节第 Y 条」；② 对照表的「出处」列，条目写「第 N 条」、节首写「节首」、长文写最近的小标题；③ **区间引用（「见第 8 节第 11 到 14 条」「第 5 到第 10 条」）免验锚点**——它指的是一整块条目，没法给块里每条都配锚点，只靠对照表 diff 兜；这种写法此前整处匹配不上，等于没扫，全书有 5 处。
-  **锚点要够长、够近**（2026-09-20 加严）：整句里连着三个汉字和目标标题对上，或者引用所在的那个逗号分句里有两个汉字对上，才算数；只在分句之外撞上「自己」「公司」这类两字常见词的，`--check` 判为失败，修法和裸条号一样是补「（锚点词）」。起因是 PR #18 在第 31 节插条目，第 1 条备注里「……的贷款见本节第 15 条」被顺延撞到新条目「在家给境外公司远程干活……个税自己报」上，隔着两个逗号的「你自己还」冒充了锚点，`--check` 当时报通过，是靠对照表 diff 才发现的。加严后全书补了 8 处显式标注；`tools/check-refs.mjs` 的注释里记着灵敏度实测——把节内引用整体顺延一条，能当场拦下约七成，剩下的（相邻两条讲同一件事、标题共用词）仍然只能靠对照表的 diff，所以那一步扫 diff 不能省。
-- 性价比档不写进 README，由 index.html 按「收益量级 + 三项成本」实时合成（大且成本全零=极高，大且成本分≤2 或 中且成本全零=高，其余=一般），改档位规则只改 index.html。
+- **Sau khi chèn hay xóa mục, phải lướt qua diff của `docs/bang-doi-chieu-trich-dan.md`** (bản gốc 2026-09-19 định). Trích dẫn "phần X, mục Y" trong chính văn chỉ ghi số mục không ghi nội dung, chèn một mục vào thì số mục phía sau dồn hàng loạt, trích dẫn lại ở nguyên chỗ — mà số sau khi dồn thường **vẫn trong phạm vi**, tra vượt biên một chỗ cũng không bắt được (phần 7 từng có 6 chỗ trỏ sai đều từ đây). `sync-stats.mjs` sẽ tự chạy `tools/check-refs.mjs`, đem tiêu đề mục **thật sự trỏ tới** của mỗi trích dẫn cùng ngữ cảnh chỗ trích viết vào `docs/bang-doi-chieu-trich-dan.md`, file này vào kho. **Phán cứ: số mục không đổi mà cột "mục trỏ tới" đổi, tức trích dẫn bị dồn lệch**; trong bảng còn mang mười mấy từ đầu chỗ trích, đối với tiêu đề là biết trỏ đúng chưa. CI dùng `node tools/check-refs.mjs --check` (có vấn đề thoát mã 1), nó là job riêng tên "Kiểm tra trích dẫn chéo" trong book.yml, **cố ý không treo vào build**: anchor chưa bổ xong không nên liên lụy EPUB, PDF và file đơn offline, trên PR vẫn đỏ, main vẫn phát.
 
-## 目录结构
+- **Mỗi trích dẫn đều mang anchor**: ngữ cảnh trước sau trích dẫn phải có một cụm khớp tiêu đề mục đích; thật không có thì viết rõ thành "xem phần 8, mục 16 (giấy mượn và bảo lãnh)", từ trong ngoặc lấy từ tiêu đề đích. **Số mục trần nhất loạt không cho phép**, vì bị dồn lệch xong, ngay cả diff bảng đối chiếu cũng nhìn không ra bất thường. **Chỉ đường tương đối cũng cấm** ("xem mục sau", "phạt tắc xem mục trên", "theo con đường mục trước"): không mang số mục, chèn mục lúc theo cả khối dời, lệch rồi diff bảng cũng thấy không ra. Trong docs/ bài dài không có khái niệm "cùng phần", trích chéo phải viết đủ "phần X, mục Y".
+- **Trích dẫn khoảng ("xem phần 8, mục 11 tới 14") miễn nghiệm anchor** — nó trỏ một khối mục, không thể mỗi mục trong khối một anchor, chỉ dựa diff bảng đối chiếu chống lưng.
+- **Số điều luật và số mục trích dẫn phải tách được**: check-refs theo "sát trước nó có dấu trích dẫn không" phán — sát trước là `《…》`, `〔…〕`, "…hiệu", "điều luật đó", hay kết thúc bằng tên pháp quy, coi là điều luật bỏ qua. Từ đó hai yêu cầu: ① trích dẫn điều luật phải tự mang tên văn kiện, liệt từng câu viết "giải thích đó Điều 11 nói việc lấy chứng", đừng viết "...Điều 11 nói việc lấy chứng" dựa vào câu trước; ② trước trích dẫn mục đừng sát tên pháp quy. **Phán cứ loại lỗi này không phải `--check` xanh không, là tổng số trích dẫn đúng không**: thêm N chỗ trích dẫn, tổng số của bang-doi-chieu phải tăng N. Tăng thiếu nghĩa là có trích dẫn bị coi điều luật bỏ qua — nó căn bản không vào bảng, `--check` hiển thị qua là im lặng thất hiệu.
+- **Anchor phải đủ dài, đủ gần**: trong cả câu liên tiếp ba chữ khớp tiêu đề đích, hay trong cụm phẩy chứa trích dẫn có hai chữ khớp, mới tính. Comment trong tools/check-refs.mjs ghi độ nhạy đo thực tế — dồn trích dẫn trong phần lệch một mục, chặn ngay được khoảng bảy phần mười, phần còn lại chỉ dựa diff bảng đối chiếu, nên bước soi diff không tiết được.
+- Mức hiệu quả chi phí không viết vào README, do index.html theo "đại lượng lợi ích + ba hạng chi phí" hợp thành thời gian thực (lớn và chi phí toàn không=cực cao, lớn và điểm chi phí ≤2 hay vừa và chi phí toàn không=cao, còn lại=trung bình), đổi quy tắc bậc chỉ đổi index.html.
 
-正文按节拆成 `book/01-*.md` … `book/31-*.md`（2026-09-08 拆的，原来单文件 531 KB，超过 GitHub 渲染 Markdown 的 512 KB 上限，后面的节显示不出来也跳不了锚点）。README 只留导读、术语表和目录，新增或修改条目改对应的 book 文件；检索页 index.html 先读 README 拿目录里的文件列表，再并发读这些文件。每节文件第一行是回总目录的链接，第二行空行，第三行是 `# N. 节名`。
+## Kết cấu mục lục
 
-README 开头「这本书想回答的问题」表**一节只占一行**（2026-09-19 用户定）：同一个链接贴两遍，读者要在同一个目的地上停两次，两行之间又没有逻辑差别。一节覆盖面宽就在一行里用逗号串几个问题、一个问号收尾（第 19 节「加班费、年休假该怎么算，被裁该拿多少补偿，上班受了伤怎么认定和拿钱？」是范式），不要拆成两行。当天把第 6、8、24 节原有的两行都并掉了，现在是 32 行对 32 节。
+Chính văn theo phần tách thành `book/01-*.md` … `book/34-*.md` (file đơn vượt hạn trên GitHub render Markdown 512 KB). README chỉ giữ phần dẫn đọc, bảng thuật ngữ và mục lục, thêm hay sửa mục sửa file book tương ứng; trang tra cứu index.html trước đọc README lấy danh sách file trong mục lục, rồi song song đọc các file đó. Dòng đầu mỗi file phần là link quay về mục lục `[← Mục lục](../README.md)`, dòng hai trống, dòng ba là `# N. Tên phần`.
 
-电子版三样，全由 `.github/workflows/book.yml` 在 main 上正文改动后自动生成，挂到固定 Release `epub-latest`（下载链接不变，README 引用的就是它），PR 只生成校验不发布；产物都进 `dist/`（已 gitignore）。**产物本身不入库**，正文几乎天天改，提交二进制只会过时和撑大历史（2026-09-18 issue #12 定的方案）。README 的结构解析和文件清单收在 `tools/lib/book.mjs`，三套构建共用，新增节或长文不用改脚本。**但新增 docs 长文必须手工挂四处链接**（2026-09-21 连漏两次，两次都是用户发现的）：① README 顶部导航表格里「长文」那一格（HTML 表格，单元格里必须留空行、用 markdown 写成「[x](docs/x.md)」，写成 `<a href>` 就不被下面那个正则认；2026-09-28 导航区改成表格后不再带「（长文）」后缀）；② README 末尾「长文另见」那句；③ README 对应节的目录行（写成「长文见 [docs/x.md](docs/x.md)。」）；④ index.html 里 `class="doc-links"` 那一行，URL 要百分号编码。核对办法：`grep -c "docs/<名>.md" README.md` 应为 3，`grep -c "<名>" index.html` 应为 1。第 ① 处是硬性的——`book.mjs` 第 54 行靠正则 `\]\((docs/[^)#/]+\.md)\)` 从 README 里扒长文清单，只在 book/ 条目里链接，EPUB、PDF、离线单文件三套构建都收不到它。sync-stats.ps1 不检查这三处。
-- EPUB：`tools/epub/build.mjs`（只依赖 marked，zip 自己打），CI 里跑 epubcheck。本地 `cd tools/epub && npm ci && npm run build`。
-- 离线单文件 HTML：`tools/offline/build.mjs`（零依赖）把正文**和 docs 长文**内联进 index.html 的 `window.__CORPUS__`（`parts` 放 book/、`docs` 放长文），双击就能看、离线可用；index.html 的 `init()` 认这个变量就不发请求，改 init 的取数逻辑要同时顾到这条路。**检索页的长文是就地弹窗打开的，不跳 GitHub**：点击处统一拦「指向 `docs/*.md` 的 GitHub 链接」（页头那行长文、条目备注里 `hrefOf()` 转出来的相对链接，形状都是这一个），弹窗自带一份可点的章节目录和 scrollspy，markdown 由 index.html 里那个只认标题/段落/列表/表格的小渲染器处理，不引库。长文里如果开始用引用块、代码块这类新语法，要同步加进那个渲染器。
-- PDF：`tools/pdf/build.mjs` + `tools/pdf/template.typ`，pandoc 转 typst、typst 排版（A4、每节另起一页、页眉带节名、目录带页码、书签到条目级）。本地要 pandoc ≥ 3.1 和 typst ≥ 0.13，用环境变量 `PANDOC`、`TYPST` 指到可执行文件；CI 里按 workflow 顶部 env 里钉的版本下载。版面只改 template.typ。
+Bảng "Cuốn sách này trả lời những câu hỏi nào" đầu README **mỗi phần chỉ chiếm một dòng**: cùng một link dán hai lần, người đọc phải ở cùng một đích dừng hai lần. Phần phủ rộng thì trong một dòng dùng phẩy xâu mấy câu hỏi, một dấu hỏi kết, đừng tách hai dòng.
 
-1. 不要早死（外因：交通、火灾、燃气器具与用气安全、毒蘑菇、溺水、跌落、中毒、疫苗、体检筛查、心理危机（12356 与限制致死手段、自杀念头的时间尺度与未遂之后的长期结局、中毒被救回来之后的不可逆后遗症、高处坠落幸存之后的 ICU 与康复账、摘掉一个肾之后剩余肾的长期代价与卖肾者的随访结局，法律那一侧在第 9 节）、家庭应急装备、安全套与不共用针具、艾滋病的免费自愿咨询检测与窗口期、肉眼血尿等该去查的信号、失控放射源（不捡不拆来路不明的金属件，含源设备与通电产生射线的装置的分界，编在节末因为基础发生率极低）；第 37 条是赌博障碍的自杀风险（瑞典登记研究 SMR 自杀 15、总死亡 1.8，2023 年更正男 12.1 女 16.1；B 级，只算了专科病人），落点是 12356 加把钱交给家人管，追加在放射源之后而没插进心理危机那组，免得顺延条号；第 38 条是男男性行为者的暴露前预防药 PrEP（A：iPrEx 44%、PROUD 与 IPERGAY 86%、Fonner 2016 吃药率超七成 RR 0.30；处方药，全国免费政策没查到，按需 2-1-1 只对男男性行为者）；装备清单长文放 docs/家庭应急装备清单.md）
-2. 不要慢慢死（烟酒、运动、睡眠、饮食（含 PR #39 合并后改写的两条食用油：不买小作坊散装自榨花生油，B 级；植物油代替猪油黄油、不必换着买油、亚麻籽油不护心，A 级争议）、久坐——只收效应量大且证据硬的，不追求全；戒烟戒酒不止写收益还写具体办法：戒烟药三类与国内可及性、定戒烟日一次停并提前用尼古丁替代、戒烟门诊与 12320、电子烟（争议，含《电子烟管理办法》的口味与渠道限制）、天天大量喝酒的人不能自己硬戒（戒断与震颤谵妄）、简短干预与戒酒药；睡眠那组除夜间时长外还收午睡时长（争议，观察性说长午睡风险高、孟德尔随机化只支持血压腰围，落点是白天困到必须长睡就去查睡眠呼吸暂停等病因）、熬夜之后第二天晚上补觉（补觉指少睡后第一晚多睡，不是攒到周末，与第 3 节第 2 条固定起床不冲突）、上夜班的年数账（剂量反应，只拆账不给结论；出路两条，都写克制：① 夜班时把进食集中在白天（一项 20 人模拟夜班的随机试验 + 一篇只检索到 4 项试验的综述）；② 用强光加白天遮光把生物钟搬过去，是唯一被证明真能搬动钟的办法（Czeisler 1990：150 勒克斯六晚不动、7000–12000 勒克斯四天倒过来），但夜里够亮、白天严格遮光、下班戴墨镜三样缺一不可，休息日会打回去，终点只到代谢指标和睡眠；癌症那侧证据远弱于流传说法，IARC 2A 因官网动态加载无法逐字核对故未写；生物钟机制长文放 docs/生物钟和夜班.md））
-3. 不要浪费精力（睡眠、争吵、信息噪音、多任务、决策疲劳、人际负债、网上往上比与停用社交媒体的随机试验、聚光灯效应、社会规定型完美主义与自杀意念、把机构当成按规则上班的人而不是角色——总纲条，实操分别在第 8、24 节；节末两条情绪疏导（issue #31）：生气别靠打沙袋跑步发泄、要做降低唤醒的事（2024 年 154 项研究荟萃，A），表达性写作（争议，效果很小，B））
-4. 不要浪费时间（无收益项目、沉没成本、拖延、会议；拖延与自律的做法成组放在第 9 到 13 条：把拖延当情绪问题而不是不努力、改环境比当场忍住管用、押金式承诺装置与「你肯不肯押」、习惯自动化要 18 到 254 天而不是 21 天、认知行为自助材料）
-5. 不要浪费钱（含车险与三者险、预付式消费、直播带货维权、职工医保个人账户家庭共济、个人养老金、未成年人充值退款与针对孩子的骗局、手串玉石名表潮玩不按投资算账（消费税与典当变现成本）、珠宝玉石只认带 CMA 的检测报告并核机构、盲盒抽卡的公示义务与拆封后不适用七日无理由退货、买到不安全食品的十倍价款与一千元底线（含标签瑕疵除外与「合理生活消费需要」）；节末第 39 条（issue #41）：想买美股等海外资产走 QDII、港股通或跨境理财通，境外券商 2026-05-22 起两年集中整治、存量只许卖出转出，个人购汇不得用于境外证券投资。issue 原文「别碰 A 股、早开美股躺赢」是市场判断且无来源，没收。节末第 40 到 45 条是保险（2026-09-29 用户问「有没有必要买保险」后定的）：只给扛不住的损失买、用应急金兜小损失（C，综合赔付率披露）；家里有人靠你收入就先给挣钱的人买定期寿险（C，给孩子的死亡保额法定有限额）；一年以上人身险的犹豫期（银行渠道 15 日、扣不超过 10 元工本费，长期健康险不少于 15 天）；银行柜台不得把保险混同存款、65 岁以上原则上只卖保单利益确定的；别找代理退保（五部门 2026-02 风险提示、宁夏局 30% 到 50% 代理费），投诉打 12378；受益人写具体的人（解释三：姓名加身份关系、身份变了算未指定）和理赔诉讼时效（寿险 5 年、其他 2 年）。两年不可抗辩（保险法第十六条）并进了第 7 节第 20 条备注，没单列）
-6. 反面清单：看起来性价比高但其实不高的东西（含「意志力像肌肉会用完」这个说法——23 个实验室 2141 人的重复试验效应≈0，含通用体检套餐（Cochrane 23 万人证据说它不降死亡率，出路是第 1 节的单项筛查加国家基本公卫免费项目，编在「查出来了也别乱处理」那组之前）、转运招财物件、靠买东西调节情绪、为「在周围人里往上挪一档」加预算、早餐与进食时间（否掉的是「不吃早餐会让人后面吃更多」和「16:8 比单纯少吃更管用」两个说法，长期不吃早餐的危害写在收益栏而不是备注：心血管关联在、全因死亡不显著，胆结石与消化道癌两侧在备注）；第 27 条「手淫伤身、戒色」（争议，B：Rider 2016 射精频繁者前列腺癌低约两成、反方 Dimitropoulou 2009 二三十岁频繁者偏高；色情内容按 Grubbs 2019 的道德冲突模型只写方向，摘要无效应量；只写到「没看到伤身证据」，不劝人多做）；第 28 条性取向矫正（争议，B：APA 2009 改不了、Blosnich 2020 自杀念头 OR 1.92、反方 Sullins 2022；驻马店强制收治案走广西检察网转载，海淀电击案只有澎湃报道没收；CCMD-3 只移出了自我和谐型、原书取不到，没写））
-7. 没钱的时候怎么活（兜底：失业保险、劳动仲裁、救助站、急救、公共就业服务、临时救助、低保、医保、身份证、就业援助、求职方法、避坑、公租房、压缩住吃、社保断缴、应急过夜；口径是金钱与保障，A 级 = 官方文件/统计给出具体数字并已核实原文，B 级 = 有官方文件但数字地方定，C 级 = 经验）
-8. 别把自己搭进去：法律与财产安全（交通事故、被骗止付、被指控、自首与坦白的明码减刑幅度和立案后逃避侦查不受追诉期限限制、酒驾、两卡、AI 换脸与拟声冒充熟人、冲突、退不掉时的正当防卫（边界与被认定之前的羁押代价）、泄愤式极端暴力（找人算账、驾车冲撞人群、扬言）、伤人冲动与身边人的送诊权、给家人投保后故意致其死亡的四道门（保险法 34/39/43 条、民法典 1125 条丧失继承权、刑法 198 条第五项数罪并罚）、网络言论、被网暴之后走平台与禁令、签字、借条担保、诉讼时效与劳动仲裁时效、被执行时的财产申报与拒执罪、失信名单与限制消费、赠与、彩礼、婚前财产、骗婚、挂名法人、带东西、反诈识别、网购被骗与小额诉讼、上门维修、养犬的无过错责任、报警之后的流程（受案回执、不予立案通知书、7 日复议与 7 日复核、检察院立案监督、督察投诉）、给办案执法人员送钱就是行贿罪且明文从重；被指控后的救济链条：不在对方无法有效同意时发生关系、以举报相要挟索财按敲诈勒索（第 32 条备注含拿曝光性取向要挟的盐城案，和拿裸照胁迫发生关系按强奸罪起诉的象山案）、捏造事实诬告的治安与刑事责任及「错告、检举失实不适用」这条界线、证据不足应当判无罪与非法证据排除和申诉再审、羁押后按天算的国家赔偿（含国家赔偿法第十九条六种不赔情形，相对不起诉被关的日子不赔）；节末两条取证：自己参加的谈话可以录音、现场先全景后细节拍照；再往后是家暴：报警要出警记录、人身安全保护令（72/24 小时、不以离婚为前提、不收费不担保、违反可罚款拘留或按拒执罪）；节末第 44 条是家里人的赌债（最高法法〔2017〕48 号：赌博中所负债务和明知借去赌的借款不予保护、为赌借的钱不按夫妻共同债务处理、未经审判不得要求未举债一方担责）；口径是金钱与人身自由）
-9. 普通人容易踩的法律红线（谣言、侮辱英烈、境外内容只看不转、传播色情、兼职洗钱、伪造材料骗贷与逃到境外、伪造事故与夸大损失的保险诈骗（含作证鉴定者按共犯论处、反保险欺诈工作办法的信息平台与移送机制）、拾物、批量注册小号薅平台优惠、高空抛物、仿真枪、无人机、偷拍、养不了孩子时的合法送养与拐卖遗弃的界线、赌博、野味、讨债、身份证、袭警、幼女、不卖器官也不帮人找供体（条例的活体捐献亲属限制与交易额 10 到 20 倍罚款、组织出卖人体器官罪）；每条尽量配官方公布的真实案例）
-10. 恋爱和结婚划不划算（择偶策略与「广撒网 vs 死追」、纠缠的治安红线、兴趣信号、关系质量、异地恋、登记流程、婚检、登记数据口径、健康账、时间账、钱账、退出成本、为长辈结婚、吵架时的敌意与健康账（婚姻质量荟萃 + 伤口愈合实验，B）；节末两条性取向相关：第 19 条同性伴侣办授权委托、意定监护和遗嘱（伴侣不是近亲属也不是法定继承人，拿遗产是受遗赠人、60 天内不表示视为放弃），第 20 条隐瞒性取向结婚与形婚只能离婚（不在无效和可撤销情形里；「与他人同居」解释限定婚外异性，只能按「其他重大过错」争，民法典后无公开判例）；长文放 docs/结婚划不划算.md）
-11. 程序员和技术人容易踩的红线（外挂、抢票脚本、爬虫与个人信息、接单开发赌博诈骗 App、删库、带走源码、控制他人设备、未经授权的安全测试（善意与事后上报不是出罪事由、超出授权范围登录即侵入）、漏洞报送与发布限制（修补前不发细节、不发利用工具、未公开漏洞不给境外）、翻墙工具、竞业限制、职务作品、开源许可、App 合规、备案等保、生成式 AI；配官方案例）
-12. 创业与做生意：别把家底赔进去（本钱、个人担保、主体选择、代持、加盟、注册登记材料与费用、许可证、纳税申报与零申报、发票、冒充税务的收费代办骗局、定金违约金账期、用人社保、书面制度、先卖再造、量产清单、进货假货与图案版权的红线、做食品要办哪张证（生产许可、经营许可、预包装备案、食用农产品免证与生猪定点屠宰和检疫证明、小作坊摊贩按省定）、预包装标签的必标项与生产日期（含 GB 7718-2025 过渡期）、普通食品不得宣称疗效、食品的刑事线（病死肉与超标货「足以造成」即入罪、掺有毒有害非食品原料不看金额起刑五年、私设生猪屠宰厂按非法经营罪）、岗位规程、退场）
-13. 紧急情况：先做什么（心脏骤停、急症识别：卒中与后循环卒中、眼中风、青光眼急性发作、心梗、主动脉夹层、霹雳样头痛、老人慢性硬膜下血肿、深静脉血栓与肺栓塞、大出血、咬伤、烧烫伤、过敏性休克、癫痫、低血糖、触电、一氧化碳、误服与化学品灼伤、穿透伤异物不拔、骨折的现场固定、网络骗局、隐私威胁、中暑、火灾、溺水、气道异物、无人区迷路、失温、蛇咬、地震、野兽、被索财、雷击、高原病、蜱虫、野外饮水、艾滋病暴露后 72 小时阻断药；节末第 42 条（issue #57）被性侵之后先打 110、验伤前别洗澡洗衣收拾房间、紧急避孕药（国内说明书 72 小时、WHO 5 天）和阻断药（B，口径自由）；急救类口径是存活率）
-14. 账号与信息安全（二次验证、密码、SIM 卡、手机丢失、银行卡盗刷、登录设备、App 权限最小必要、人脸识别、查阅与删除权；口径是金钱与个人信息）
-15. 租房与买房（押金、暴力腾退、中介代收、资金监管、买卖不破租赁、产权核对、二手房交易资金专用存款账户、隔断房与最小出租单位、城镇户口不得买宅基地与农房（国办发〔2007〕71 号、中农发〔2019〕11 号），只能租、租期不超过二十年；口径是金钱）
-16. 得了慢性病之后怎么活（服药依从、门诊慢特病跨省结算、复查记录、别停药试偏方、12 周长期处方、家庭医生签约、并发症筛查、肾结石复发后的饮水与限盐、痛风的降尿酸达标治疗与 HLA-B*5801；口径是总死亡率与金钱。无症状高尿酸不吃药、无症状胆囊结石不切、结石后不戒钙三条在第 6 节）
-17. 家里有老人（意定监护、遗嘱形式、账户与话术、投资养老与以房养老骗局、长期护理保险、长期卧床的压疮防护；口径是金钱与人身自由，压疮那条按死亡率算）
-18. 养孩子划不划算（育儿补贴、产假与生育津贴、三期保护、时间账、钱账；只拆账不给结论，同第 10 节）
-19. 在职、离职和工伤（加班费与法定工时、带薪年休假、试用期上限、职业病危害告知与三次职业健康检查、粉尘噪声化学毒物的防护与拒绝权；N、代通知金、2N、别签主动辞职、留证；工伤认定时限与举证责任、单位未参保、劳动能力鉴定与伤残等级、工亡三笔钱；节末职场被欺负：心血管与自杀念头的风险账、按行为对号的法律出路（劳动合同法第八十八条、民法典第一千零一十条），单纯排挤多数无法可依；口径是金钱，职场被欺负那条按死亡率）
-20. 刚出生的孩子怎么带（安全睡眠、乙肝首针、国家免疫规划疫苗、母乳与辅食、冲奶水温、蜂蜜、维生素 K、发热就医红线、不摇晃、尿布与大件采购、高危孩子（重度湿疹或鸡蛋过敏）早引入花生防过敏（LEAP，A 级；三条安全边界缺一不可：绝不给整粒花生、必须先看医生评估不许自家试、只针对高危孩子；一般婴儿的 EAT 试验按分组算不显著；中国官方喂养文件对早引入还是回避无说法）；口径是婴儿死亡率与金钱；不给品牌推荐，只给可核查的选择依据）
-21. 出国、旅行与境外安全（外交部安全提醒级别、12308、领事保护的边界与费用自负、境外医疗与转运保险、境外高薪招聘与电诈园区、境外取现的年度额度与刷卡消费不占购汇额度、证件丢失、境外驾照与日内瓦公约、中介备案、行程报备；口径是金钱与人身自由。安全提醒名单会变，正文只写查法与截至日期，不长期维护名单）
-22. 怎么放松：娱乐场所和减压（安全出口、明码标价、涉毒红线、不接陌生人给的糖和饮料、网吧实名登记、剧本杀密室选址；运动抗抑郁的剂量与方式、正念减压、循环叹息呼吸、社会隔离、绿地；前半节口径是金钱与人身自由，后半节是精力与总死亡率，两半不做换算）
-23. 学什么技能划算（前六条回答「还要不要接着读」：不满 16 周岁不得招用与义务教育的法定义务、教育年限与成人死亡率、七普的全国学历结构、中职免学费与助学金助学贷款、职业教育法给的贯通招生与单独考试通道、怎么把读书还是打工算成一道题；后七条回答「怎么挑」：教育回报率、山寨证书与职业资格目录、政府补贴培训、抗自动化的维度、技能等级与薪酬、紧缺职业怎么查、短周期项目优先；最后六条回答「怎么学」：学完合上书自测、把时间摊到几天、别把划重点和反复读当主力、几种题型混着练、学习风格没有证据、要背的内容按将来的用法出题考自己（提取练习能迁移到应用与推理题，但对调问法和没考过的内容几乎不迁移），这六条口径为时间；节末四条是职称（issue #37，追加在末尾没插中间）：按单位性质找申报渠道（40 号令、民企职称通知，27 个系列）、会计这类初中级以考代评与报考年限、代评造假撤销职称并记诚信档案 3 年（2024 监管办法）、评上不等于聘上（事业单位按岗位比例、其余可评聘分开）。材料清单全国不统一，只指路到本省当年申报通知，不列清单。口径是金钱回报与时间成本，其中教育与死亡率那条为死亡率。中国分职业工资无公开官方逐项统计，不写具体工种月薪，不引招聘平台数字）
-24. 看病：怎么少花钱少走弯路（分级诊疗与逐级转诊、住院起付线连续计算、不同等级报销比例差、牵头医院预留号源、转诊中心、跨省异地就医必要性评估、三级医院酌减普通门诊、病历与影像留存、纠纷时封存病历、急诊预检分诊的四级顺序与分区、无力支付或身份不明时的疾病应急救助、伤残鉴定要等治疗终结、残疾人证的七类四级与申办流程、不用给医生送红包（廉洁从业九项准则第七、八项）；口径是金钱与时间。待遇资格与残疾人两项补贴见第 7 节，慢病长期管理见第 16 节，急症现场处置见第 13 节，工伤的劳动能力鉴定见第 19 节，不重复）
-25. 人走了以后要办什么（正常死亡与非正常死亡的现场处置与报警、居民死亡医学证明的签发与补办、遗体接运存放与火化凭证、死因异议的 48 小时尸检、注销户口时限、殡葬服务基础项目清单与收费、五类价格违法行为、殡葬中介备案与逝者信息、公积金余额提取、工伤与社保待遇指路、死者个人信息由近亲属行使的权利；口径是金钱。生前安排见第 17 节，工亡三笔钱见第 19 节）
-26. 做一个网站或平台：资质、备案和服务器（平台代收代付与无证支付结算的刑事红线、经营性与非经营性的划分、增值电信业务经营许可与 EDI、网络文化经营许可证与视听许可、ICP 备案与接入商资质、电商法的核验登记与涉税信息报送、内容治理与举报入口、实名、未成年人直播与打赏、通知删除、数据出境、服务器选型；口径是人身自由与金钱。技术人受雇红线见第 11 节，公司注册与报税见第 12 节，不重复。长文放 docs/做平台要办哪些证.md）
-27. 怀孕和生产：从发现怀孕到出院办证（叶酸、孕 13 周前建《母子健康手册》与免费产检次数、艾滋病梅毒乙肝三病筛查与免费母婴阻断、孕期烟酒、子痫前期高危的小剂量阿司匹林、妊娠期糖尿病筛查、孕期与产后一年内要立刻就医的信号、破水处置、无痛分娩、非医学指征剖宫产、生育保险与异地生育备案、出生医学证明、新生儿疾病筛查与听力筛查、新生儿参保与一个月内落户、产后 42 天复查与产后抑郁筛查；前半节口径是死亡率，后半节是金钱与办事时间。产假与生育津贴、养孩子的钱账见第 18 节，孩子出生后见第 20 节，不重复）
-28. 别为了外形把身体搞坏（极端节食、断食与催吐和进食障碍；医美的机构许可证与主诊医师资格、非法行医的刑责；面部填充的高危部位与失明；违法添加西布曲明的减肥产品；合成代谢类固醇增肌；减肥药与性激素只在处方和定期复查下用，不网购不自行加量；躯体变形障碍的先行评估。口径是死亡率（含失明、住院等健康终点），医美两条兼及人身自由。本节不评价任何人想改变外形的动机，只比较「有处方、有资质、有复查」与「网购、非正规机构、自行加量」两条路的风险差；BMI 区间见第 2 节，急救见第 13 节，不重复）
-29. 遭遇重大打击之后（丧亲后头 24 小时到 30 天的心梗与中风窗口、重病诊断后的第一周、失业后的死亡率与要先办的事、丧偶后半年的照看窗口、因自杀或暴力死亡丧亲的高危家属、没有亲人也没有朋友时把「那个人」拆成能进门的邻居 + 社区探访关爱名单 + 手机紧急联络、家长去世的孩子怎么安置、哀伤卡住了去精神科或临床心理科、不必人人做哀伤咨询、离婚分居、12356 与 12355 和心理门诊、应激期不做不可逆的大决定、用死还债这条路不通（寿险两年内自杀免责只退现金价值、自杀不认定工伤、债务仍先从遗产清偿）。口径以总死亡率为主，谈花钱与待遇的四条为金钱。手续与该取的钱见第 25 节，失业待遇见第 7 节，运动与光照抗抑郁见第 3、22 节，自杀念头见第 1 节，不重复）
-30. 上学以后的孩子（补 3 到 18 岁这段：按小时算的急症与睾丸扭转的时间曲线、别为了考试推迟有窗口的治疗（脊柱侧弯支具）、校园欺凌的证据与学校必须走的认定程序、每天户外 2 小时防近视、0～3 岁不给屏幕与 3～6 岁尽量不给的分龄红线（学龄前那一档写在本节，因为官方分档如此）、近视度数越深越多的并发症（黄斑变性、视网膜脱离、开角型青光眼）、每年学生体检的重点项与异常项随访、12 到 18 岁抑郁筛查与学校心理测评的区别、「治愈近视」是违法营销表述、睡眠作业体育排名的明文规定、休学保留学籍最长 1 年、散瞳验光与复查间隔、窝沟封闭、孩子打游戏先看睡觉作业户外有没有被挤掉（游戏障碍患病率 3.05% 且随问卷虚高、Vuorre 2022 游戏时长与幸福感几乎无关、国新出发〔2021〕14 号时限）、孩子说喜欢同性别骂别赶别送矫正（B：国内 15 万中学生调查自杀尝试 3 到 5.5 倍、Ryan 2009 家庭高度排斥 OR 8.4）。口径以死亡率与健康终点为主，近视产品那条是金钱，作息与休学两条是时间。新生儿见第 20 节，养孩子的账见第 18 节，溺水交通头盔与 HPV 见第 1 节，孩子被骗充值见第 5 节，急症识别见第 13 节，家长去世后的孩子见第 29 节，不重复）
-31. 十八岁之后有哪几条路（**定位是路径地图，不是当兵说明书**——2026-09-10 用户批评过初版把整节写成了当兵，当兵只是他举的例子，现在当兵占 5 条、其余 7 条写别的路。第 1 条对十二条路的法定门槛：打工 16 岁、当兵 18 到 22/24/26 岁、考公 18 到 35 岁大专以上、消防员 18 到 22 岁高中以上（大专或退役士兵放宽到 24）、军队文职年满 18 岁较低职级上限 35 岁、事业单位公开招聘、个体户只要「有经营能力的公民」、自考不限年龄和已受教育程度但在校生不能报、公费师范生提前批六所部属师范大学、定向医学生录取后入学前签三方协议、出国打工的门槛在企业的对外劳务合作经营资格、平台接单与灵活就业无学历门槛。当兵五条：兵役登记 10 月 31 日前网上办 + 义务兵两年、应征后拒服兵役的联合惩戒（只对第五十七条第一款第二项和入伍后被除名，单纯没登记不在其内）、学费补偿 20000/25000 与学籍保留两年和专项研究生计划、安置的六个条件 + 自主就业 30 日报到否则视为放弃、退役金与军龄工龄社保与创业扣税三笔账。其余十条：三支一扶等基层服务项目干满两年可报每年 10% 的定向考录、特岗教师三年期满入编、消防员与军队文职、自考成人高考开放大学的学历补救、灵活就业的社保自缴与户籍放开、骑手的职业伤害保障由平台按单缴、公费师范生与农村订单定向免费医学生的免费培养与 6 年履约（违约进信用记录、履约完成前不得被招录为其他公务人员）、出国打工只走有对外劳务合作经营资格的企业（不得收押金、300 万元备用金、书面合同 10 个工作日内备案）、在家给境外公司远程干活按境内所得自己报个税且收汇走职工报酬（年度总额 5 万美元，超额凭雇佣合同与收入证明）、创业担保贷款个人最高 30 万元期限 3 年、财政贴实际利率的 50%。口径是金钱与时间，拒服兵役那条兼及人身自由。读书还是打工见第 23 节，加班费工伤离职补偿见第 19 节，开店办公司见第 12 节，失业兜底见第 7 节，不重复。注意《退役士兵安置条例》608 号已于 2024-09-01 废止，现行是《退役军人安置条例》787 号；学费补偿现行标准是 20000/25000，网上流传的 8000/12000 和 16000/20000 都是旧值；《公务员录用规定》里没有定向考录条款，定向考录的依据是中办国办 2017 年那份基层工作意见和人社部发〔2021〕32 号）
+Ba thứ bản điện tử, toàn do `.github/workflows/book.yml` trên main sau khi chính văn đổi tự động sinh, treo vào Release cố định `epub-latest` (link tải không đổi, README trích chính nó), PR chỉ sinh nghiệm không phát; sản vật đều vào `dist/` (đã gitignore). **Bản thân sản vật không vào kho**. Phân tích kết cấu README và danh sách file gom ở `tools/lib/book.mjs`, ba bộ build dùng chung, thêm phần hay bài dài không cần sửa script. **Nhưng thêm bài dài docs phải tay treo bốn chỗ link** (bản gốc liên tiếp sót hai lần): ① ô "Bài dài" trong bảng đầu README; ② câu "bài dài riêng xem" cuối mục lục README; ③ dòng mục lục của phần tương ứng trong README ("Bài dài xem [docs/x.md](docs/x.md)."); ④ dòng `class="doc-links"` trong index.html, URL phải mã hóa phần trăm. Đối chiếu: `grep -c "docs/<tên>.md" README.md` phải là 3.
+- EPUB: `tools/epub/build.mjs` (chỉ phụ thuộc marked, zip tự đánh), trong CI chạy epubcheck. Bản địa `cd tools/epub && npm ci && npm run build`.
+- File đơn HTML offline: `tools/offline/build.mjs` (không phụ thuộc) đem chính văn **và bài dài docs** nội liên vào `window.__CORPUS__` của index.html (`parts` để book/, `docs` để bài dài), kích đúp xem được, offline dùng được; init() của index.html nhận biến này thì không phát request, đổi logic lấy số của init phải đồng thời lo con đường này. **Bài dài trên trang tra cứu mở tại chỗ bằng cửa sổ bật, không nhảy GitHub**: điểm bấm thống nhất chặn "link GitHub trỏ `docs/*.md`", cửa sổ tự mang mục lục chương bấm được và scrollspy, markdown do renderer nhỏ chỉ nhận tiêu đề/đoạn/danh sách/bảng trong index.html xử, không dẫn thư viện. Bài dài nếu bắt đầu dùng trích khối, khối mã loại ngữ pháp mới, phải đồng bộ thêm vào renderer đó.
+- PDF: `tools/pdf/build.mjs` + `tools/pdf/template.typ`, pandoc chuyển typst, typst dàn trang (A4, mỗi phần trang mới, đầu trang mang tên phần, mục lục mang số trang, đánh dấu tới cấp mục). Bản địa cần pandoc ≥ 3.1 và typst ≥ 0.13, dùng biến môi trường `PANDOC`, `TYPST` chỉ tới file thực thi; trong CI theo bản ghim ở env đầu workflow tải. Bản thức chỉ đổi template.typ. Font trong CI đổi thành `fonts-noto` (gói CJK thiếu dấu tổ hợp tiếng Việt).
 
-32. 出国留学：身份、打工、保险和回国认证（交学费前查留服中心认证院校名单、美国 F-1 固定入境期限新规（原定 2026-09-15 生效，2026-09-14 被马萨诸塞州联邦地区法院依 APA 第 705 条推迟生效，眼下仍是 D/S 与 60 天宽限期；issue #32 纠正）、美加英澳四国打工时数上限（美 20 小时/周、英学位 20 小时学位以下 10 小时、加 24 小时/周、澳 48 小时/两周）、全日制在读是打工资格的根、美国搬家 10 日内报 USCIS、教育部留学预警、澳大利亚 OSHC 全程不断、英国签证费与每年 776 英镑医疗附加费、留服认证 10 到 20 个工作日、被加强审查的院校名单。口径是金钱与人身自由。境外人身安全与 12308 见第 21 节，读书还是打工见第 23 节，不重复。**各国留学政策变动频繁，正文写明截至日期并让读者自查，不长期维护具体数字**）
+Mỗi phần tóm lược một dòng (chi tiết số mục và thảo luận tra file tương ứng):
 
-33. 残疾之后怎么活（**定位是「残疾已经发生之后」，不写怎么预防致残**——那在第 1、13 节。五块：① 身体与康复：自主神经反射异常的现场三步、轮椅减压坐垫、康复在有康复医学科的机构做且「越早越猛」不成立（AVERT）、助听器与防痴呆要拆开（ACHIEVE 主要结果为阴性）；② 钱证与办事：办证之后该一次问全的六项待遇、长期护理保险不限年龄、0—6 岁残疾儿童与孤独症儿童康复救助、家庭无障碍改造补贴、个税减征；③ 就业与教育：按比例就业 1.5% 与残保金公式（求职时的筹码）、就业歧视的救济与过程成本、高考合理便利（盲文卷加 50%、大字卷加 30%）、学校不得拒收与送教上门、C5 驾照与残疾人机动轮椅车；④ 心理与照护者：致残后十年的自杀窗口、照护者自己的死亡风险；⑤ 精神与智力残疾：住院自愿原则与两种法定例外、送诊与留院是两道门、行为能力认定要走法院特别程序、监护人的法定顺序与赔偿责任。口径是死亡率、金钱、时间与人身自由四样并行。残疾人证怎么办见第 24 节，伤残鉴定见第 24 节，两项补贴见第 7 节，工伤的劳动能力鉴定见第 19 节，长期卧床压疮与意定监护见第 17 节，不重复）
+1. Đừng chết sớm: chết ngoại nhân, gas và ngộ độc, vắc-xin, sàng lọc, nguy cơ tâm lý và tự tử (12356 là hotline TQ), hậu quả sau cứu về, đồ dùng khẩn cấp gia đình, tín hiệu cần tra; bài dài đồ khẩn cấp ở docs/.
+2. Đừng chết từ từ: thuốc rượu, vận động, ngủ, ăn uống, ngồi lâu, cách bỏ thuốc bỏ rượu cụ thể, ngủ trưa, thức khuya bù, bút sổ số năm ca đêm; bài dài nhịp sinh học ở docs/.
+3. Đừng lãng phí sức lực: ngủ, ngắt, đa nhiệm vụ, mệt quyết sách, nợ nhân tế, kỳ vọng với cơ cấu.
+4. Đừng lãng phí thời gian: việc không lợi, chi phí chìm, trì hoãn, hội nghị, thông cần.
+5. Đừng lãng phí tiền: định đọc, xổ số, lãi tức, bảo hiểm, phí cơ kim, tiêu dùng trả trước, con nạp tiền, tài sản nước ngoài đường hợp pháp, sáu mục cuối nói bảo hiểm.
+6. Danh sách nên tránh: thứ nhìn hiệu quả chi phí cao nhưng thật không cao, gồm cả "ý chí lực dùng hết".
+7. Sống khi không có tiền: cứu trợ, trợ cấp, tìm việc, ở ăn, y liệu, thiếu lương duy quyền, tránh hố (đa số chính sách TQ).
+8. Đừng tự chuốc họa vào thân: tai nạn giao thông, bị lừa chỉ phó, bị chỉ tố, tự thú, hành vi mạng, sính lễ, bảo lãnh, hiệu hạn kiện tụng, mất tín, báo cảnh lưu trình, lấy chứng, bạo hành gia đình (gần như toàn luật TQ).
+9. Làn ranh đỏ pháp luật người thường dễ vi phạm: tin đồn, truyền bá sắc tình, việc tay trái rửa tiền, ném đồ trên cao, đưa nuôi con, cờ bạc (gần như toàn luật TQ).
+10. Yêu và cưới có đáng không: chọn bạn, triền quấn, yêu xa, đăng ký, ba bút sổ, chi phí rời; bài dài ở docs/.
+11. Làn ranh đỏ dân lập trình: phần mềm ngoài, trùn dữ liệu, xóa kho, mang mã nguồn, nhận đơn, cạnh nghiệp, nguồn mở, lưu án.
+12. Khởi nghiệp và làm ăn: vốn, bảo lãnh, chủ thể, giấy phép, thuế, hóa đơn, hợp đồng, dùng người, ranh đỏ tri thức, rời trường.
+13. Tình huống khẩn cấp: tim ngừng, đột quỵ, chảy máu, bỏng, động kinh, đám cháy, chết đuối, lạc, động đất, dã ngoại; mấy mục cuối nói cứu người có sổ; bài dài "gặp người lạ bị nạn" ở docs/.
+14. Tài khoản và an toàn thông tin: hai lần nghiệm, mật mã, mất máy, đạo tẩu, quyền hạn App, quyền tra xóa.
+15. Thuê nhà và mua nhà: tiền cọc, lui thoái, giám quản tư kim, mua bán không phá thuê, đất cơ sở (luật TQ).
+16. Sống sau khi mắc bệnh mạn tính: tuân thuốc, phục tra, ký ước bác sĩ gia đình, sàng lọc chứng phát hợp, sỏi thận, gút.
+17. Nhà có người già: giám hộ ý định, di chúc, trò lừa dưỡng lão, bảo hiểm hộ lý dài hạn, loét do nằm.
+18. Nuôi con có đáng không: trợ cấp, phép sản, bảo hộ ba kỳ, bút sổ thời gian và tiền (chính sách TQ).
+19. Đang làm, nghỉ việc và tai nạn lao động: phí tăng ca, phép năm, N/2N, nhận định tai nạn lao động (luật TQ).
+20. Chăm trẻ sơ sinh: ngủ an toàn, vắc-xin, sữa mẹ và thức phụ, làn ranh đi khám, không lắc, đậu phộng phòng dị ứng.
+21. Đi nước ngoài: cấp nhắc nhở an toàn, 12308 (hotline TQ), bảo hộ lãnh sự, bảo hiểm, lừa chiêu mộ, chứng kiện mất.
+22. Thư giãn thế nào: an toàn chỗ giải trí, vận động, chánh niệm, hô hấp, giao tế, đất xanh.
+23. Học kỹ năng gì thì đáng: đọc sách hay đi làm, tỷ suất hồi báo giáo dục, chứng sơn trại, trợ cấp bồi huấn, cách học, chức xưng.
+24. Đi khám bệnh: chẩn liệu phân cấp, chuyển chẩn, báo tiêu, phân chẩn cấp cứu, giám định thương tật (hệ thống TQ).
+25. Người thân qua đời: báo cảnh, chứng minh tử vong, táng tán, tiêu hộ khẩu, tích kim, quyền tin tức người chết (thủ tục TQ).
+26. Làm website hay nền tảng: chi phó kết toán, giấy phép ICP, kiểm nghiệm nền tảng, trị nội dung, dữ liệu xuất cảnh (pháp quy TQ); bài dài giấy phép ở docs/.
+27. Mang thai và sinh con: acid folic, khám thai, sàng lọc, tín hiệu đi viện, bảo hiểm sinh dục, giấy xuất sinh.
+28. Đừng vì ngoại hình phá hỏng sức khỏe: kiêng cữ cực đoan, y mỹ, thuốc giảm cân, steroid, thể tượng.
+29. Sau khi gặp cú sốc lớn: cửa sổ tim mạch mất thân, chẩn đoán bệnh nặng, thất nghiệp, ly hôn, không quyết định không đảo ngược.
+30. Con cái tuổi đi học: cấp chứng theo giờ, khi dễ, ngoài trời phòng cận thị, trầm cảm, ngủ và tác nghiệp.
+31. Sau tuổi mười tám: mười hai con đường, đi lính, cơ tầng, chức nghiệp, học lịch, nước ngoài làm (pháp quy TQ).
+32. Du học nước ngoài: thân phận thị thực, làm thêm, bảo hiểm, chứng nhận hồi quốc (Mỹ Gia Anh Úc + TQ).
+33. Sống sau khi khuyết tật: phản xạ tự chủ, phục hồi, sáu hạng đãi ngộ, việc làm học tập, tâm lý, giám hộ (chính sách TQ).
+34. Thuốc sẵn trong nhà: paracetamol, hạ sốt trẻ em, ibuprofen, thuốc cảm hỗn hợp, omeprazol, kháng sinh, tiêu chảy, thuốc giảm đau quá dụng.
 
-34. 家里的常备药别吃出事（issue #43 读者要「非处方药使用指南」，2026-09-29 用户选了新开一节。**定位不是用药手册**，只收「一个动作就能避开重后果」的 9 条：对乙酰氨基酚别吃重复，一日最多 2 克、用药期间不喝酒（药监局 2020 年第 15 号 + 美国急性肝衰竭登记 + 21 CFR 201.326）；孩子退烧不用阿司匹林、尼美舒利、安乃近（瑞氏综合征监测、国食药监安〔2011〕209 号、药监局 2020 年第 34 号，重感灵也含安乃近）；布洛芬这类药的胃出血高危人群（CNT 2013 荟萃）；2 岁以下不自己喂复方感冒药（药监局 2021 年第 57 号 + Cochrane）；怀孕 20 周后不自己吃布洛芬这类药（FDA 2020，小剂量阿司匹林除外）；奥美拉唑自己吃最多 7 天、报警症状直接就医（药监局 2022 年第 68 号说明书范本）；感冒不要抗生素（Cochrane CD000247）；腹泻先补液、5 岁以下不给止泻药（WHO 腹泻手册）；止痛药每月 15 天、复方 10 天的过度使用门槛（ICHD-3）。口径全是死亡率（含健康终点），收益量级多数凭后果判断，理由写在各条备注。误服见第 13 节，慢性病按医嘱吃药见第 16 节，网上买处方药见第 28 节，不重复。nmpa.gov.cn 用无头 Chrome 能取正文，附件 docx 用 curl 带代理和 Referer 能下）
+## Quy tắc viết
+- **Mục viết cho người đọc, không phải trả lời người hỏi** (bản gốc 2026-09-21 người dùng bắt: câu hỏi của người dùng chỉ quyết định viết chủ đề gì, bản thân câu hỏi không vào chính văn — người đọc tay không có câu hỏi đó). Sau khi hạ bút đem tiêu đề đọc riêng một lần, qua ba cửa: ① có phải một câu khuyến nghị động từ mở đầu; ② không xem lượt đối thoại này đọc hiểu được không (xuất hiện mở đầu kiểu "hỏi sai rồi" "thật ra không phải vậy" là tín hiệu); ③ đang cho động tác, hay đang bình một cách nói. Đầu đuôi Nói dễ hiểu và Ghi chú cùng qua.
+- **Mục phủ định trước xác nhận mục tiêu là cách nói người đọc thật tin, "có hại không" phải vào cột Lợi ích không nhét Ghi chú** (bản gốc 2026-09-21): viết mục phủ định trước hỏi một câu "người đọc tin rốt cuộc câu nào", rồi xem số trong tay bác có phải câu đó không; câu hỏi người đọc muốn hỏi nhất phải vào Lợi ích, Nói dễ hiểu chỉ dùng đồ trong Lợi ích.
+- **Trước khi phán một mục "chỉ cho cấm không cho lối ra", trước xác nhận đương sự có thật không được chọn, đừng vì lựa chọn đại giới cao coi là không** (bản gốc 2026-09-21, mục ca đêm): đổi việc, xin đổi ca, lúc chọn nghề đem sổ tính vào đều là lựa chọn thật; loại đề này theo "chỉ tách sổ không cho kết luận" viết, Ghi chú viết rõ "không chủ trương ai cũng nên rời".
+- Tiếng Việt, văn nói điềm đạm, không dạy đời, không dùng dấu cảm thán
+- **Kim ngạch không thêm phẩy ngăn hàng ngàn; sáu con số trở lên viết "khoảng X vạn (giá trị chuẩn ...)"** — nửa câu trước cho đại lượng, trong ngoặc giữ giá trị chuẩn đối chiếu. Nguyên văn trích dẫn trong cột Nguồn chiếu gốc không sửa.
+- Toàn văn theo số loại tử suất, số loại tinh lực/thời gian, số loại tiền chia quy mô, không quy đổi xuyên quy mô.
+- Viết lời thường: chính văn không dùng viết tắt kiểu ACM, thống nhất viết "tử suất tổng"; viết tắt thống kê phải dùng (HR, RR, CI, RCT…) trong README "Đọc hiểu con số (bảng thuật ngữ)" giải thích, thuật ngữ mới trước thêm vào bảng thuật ngữ rồi dùng; số điều luật để cột Nguồn, chính văn trước nói làm thế nào.
+- Một mục không quá 10 dòng; giải thích dài để docs/ file riêng.
 
-## 写作规则
-- **条目是写给读者的，不是回答提问的人**（2026-09-21 用户抓的：我把「『要不要死记硬背』问错了」写成了第 23 节第 19 条的标题，他说「你这是给我写的吧，读者又没问」）。用户的提问只决定**写什么主题**，提问本身不进正文——读者手里没有那个问题，「问错了」没有指向。落笔后把标题单独读一遍，过三关：① 是不是一句动词开头的建议；② 不看这轮对话能不能读懂（出现「『XX』问错了」「其实不是这样」「很多人以为」这类回应式开头就是信号）；③ 是在给动作，还是在评价某个说法。说人话和备注的首尾句一起过——收尾时最容易顺手写成「所以该问的不是……」。那条最后改成「要背的内容按将来的用法出题考自己，别原样背一遍就算完」，说人话末尾和备注里带评价口吻的两句一并删掉。
-- **否定式条目要先确认靶子是读者真信的那个说法，「有没有危害」要进收益栏不能塞备注**（2026-09-21 用户抓的：第 6 节第 26 条初稿说人话写成「『吃早餐有助于控制体重』是反的」，他说「正常人看，吃早餐更胖是正常的吧，长期不吃早餐有没有危害这个也没写」）。两个毛病各自成立：① **靶子写丢了**——「吃早餐的人体重更高」对读者不反常识，多吃一顿当然多摄入；那篇荟萃真正否掉的是「不吃早餐会让人午饭晚饭暴食、一天总量反而更多」，关键数字是不吃早餐那组总摄入低 259.79 kcal，也就是没补回来。写否定式条目前先问一句「读者信的到底是哪句话」，再看手上的数字驳的是不是那句。② **读者最想问的那一问必须进收益栏**——按全书规矩说人话只能用收益栏里的东西，把「长期不吃早餐有没有害」整段放在备注，那句话就永远进不了最显眼的位置。收益栏可以写成「先驳流行说法、再看替代做法、最后回答长期危害」这样的多段式，第 6 节第 17 条（献血）也是两侧都进收益栏的先例。
-- **判断一条「只给禁止不给出路」之前，先确认当事人是不是真的没得选，别因为选择代价高就当成没有**（2026-09-21 用户抓的：我推荐不写夜班那条，理由是「读者不能不上夜班、只有风险没有出路」，他说「但是我觉得读者可以选择上不上啊，有可能有些为了健康就换工作呢，总比没有好」）。换工作、申请调岗、挑职业时把账算进去都是真实选择，代价高不等于没有；而剂量反应数字（夜班每多干 5 年心血管病再加 7%）恰恰是「要转早转」的依据。这类题按「只拆账不给结论」写（第 10 节结婚、第 18 节养孩子是范式）：成本栏把贵的那一档和零成本那一档都写出来，备注明写「不主张谁都该离开」，再指向已有的可改项。这一条是 2026-09-18「只给禁止不给出路」排查口径的补充，不是推翻它。
-- 简体中文，不用繁体
-- 语气克制，不说教，不用感叹号
-- **金额不加千分位逗号；六位数以上的写成「约 X 万元（精确值 元）」**（2026-09-30 用户定，起因是 PR #48 写了「1,130,040 元」）：七位数光秃秃地写，读得慢的人数不清是一百多万还是十几万；前半句给量级，括号里留精确值供核对。来源栏的原文引文照抄不改
-- 全文按死亡率类数字、精力/时间类数字、金钱类数字分开口径，不做跨口径换算
-- 写人话：正文不用 ACM 这类缩写，统一写「总死亡率」；必须用的统计缩写（HR、RR、CI、RCT 等）在 README「读懂数字（术语表）」里解释，新术语先加进术语表再用；法条条款号放来源栏，正文先说怎么做
-- 单个条目不超过 10 行；长解释放到 docs/ 目录单独文件
-
-## 工作方式
-- 一次可以跨多节改，不必做完一节就停；改动范围在汇报里逐节写清
-- 不要主动扩展目录结构，要加新节先问我
-- **翻译一律不合进本仓库**（2026-09-18 issue #4 / PR #5、#7 定的）：作者看不懂的语言合进来就是盲合，以后也审不了、维护不了。译者在自己的 fork 维护，本仓库只在 README 顶部「其他语言」一行加链接，注明非官方、以中文原文为准。收到翻译 PR 就按这个回复并关闭，不要 review 译文本身。
-- 修改已有条目时保留原来的证据等级和来源，除非有更好的原始文献替换
+## Cách làm việc
+- Một lần có thể đổi xuyên nhiều phần, không nhất thiết xong một phần mới dừng; phạm vi đổi trong báo cáo viết rõ theo phần.
+- Đừng chủ động mở rộng kết cấu mục lục, muốn thêm phần mới trước hỏi tôi.
+- **Kho này là bản tiếng Việt, không gộp thêm ngôn ngữ khác**: bản gốc định (2026-09-18) bản dịch do người dịch tự duy trì ở fork, và kho này chính là fork đó — nhánh `ban-tieng-viet`. Nhận được PR dịch ngôn ngữ khác cứ theo tắc này trả lời và đóng, không review bản dịch thân.
+- Sửa mục có sẵn giữ nguyên hạng chứng cứ và nguồn cũ, trừ có văn hiến sơ cấp tốt hơn thay.
+- Bản dịch từ bản gốc tiếng Trung: giữ nguyên số liệu, số điều luật, DOI, link nguồn; không lặng thay đổi phạm vi luật hay kết luận nghiên cứu; nội dung TQ đánh `Chỉ tham khảo TQ:`; `Nguồn:` giữ nguyên văn tiếng Trung.
