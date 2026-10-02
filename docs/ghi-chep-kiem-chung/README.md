@@ -2,7 +2,7 @@
 
 # Ghi chép kiểm chứng
 
-Thư mục này là nhật ký kiểm chứng nguồn của bản tiếng Việt, thay cho thư mục `核实记录` của bản gốc tiếng Trung (đã xóa cùng phần upstream).
+Thư mục này là nhật ký kiểm chứng nguồn của bản tiếng Việt, thay cho thư mục nhật ký kiểm chứng của bản gốc tiếng Trung (đã xóa cùng phần upstream; tên gốc tra được trong lịch sử git).
 
 Mỗi file ghi quá trình đối chiếu nguồn của một phần hay một chủ đề: số trong cột Lợi ích lấy từ đâu, DOI/link nào đã mở xác nhận, chỗ nào phán đoán thay vì máy móc áp ngưỡng, chỗ nào đánh dấu "cần xác minh".
 
