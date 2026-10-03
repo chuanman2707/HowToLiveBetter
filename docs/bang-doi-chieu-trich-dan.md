@@ -602,17 +602,17 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …i làm trước khi sinh và ngày xuất viện, xem … |
-| mục 2 | phần 1 | 01-dung-chet-som (cả phần) | … Sàng lọc mẹ tự phải làm xem … |
-| mục 3 | mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Mũi viêm gan B đầu tiên xem … |
-| mục 4 | mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | …ng trứng, đậu phộng có nên tránh không, xem … |
-| mục 9 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Xử lý cảm xúc của mình thế nào, xem … |
-| mục 10 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Cách tra thông báo kiểm tra xem … |
+| Mở đầu phần | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …m trước khi sinh và ngày xuất viện, bạn xem … |
+| mục 2 | phần 1 | 01-dung-chet-som (cả phần) | … Sàng lọc mà mẹ phải tự làm, bạn xem … |
+| mục 3 | mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Mũi viêm gan B đầu tiên, bạn xem … |
+| mục 4 | mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | …rứng, đậu phộng có nên tránh không, bạn xem … |
+| mục 9 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Cảm xúc của bạn xử lý thế nào, bạn xem … |
+| mục 10 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Cách tra thông báo kiểm tra, bạn xem … |
 | mục 11 | phần 1 | 01-dung-chet-som (cả phần) | … chứng cứ của ghế an toàn xem … |
 | mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … an toàn xem phần 1, tiêu xài xung động xem … |
-| mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | …ể không, áp dụng quy tắc bình tĩnh 24 tiếng … |
-| mục 12 | phần 13, mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … Bị nghẹn xử lý thế nào xem … |
-| mục 12 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | …ủ 6 tháng mới bắt đầu thêm thức ăn phụ, xem … |
+| mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Bạn áp dụng quy tắc bình tĩnh 24 tiếng mà … |
+| mục 12 | phần 13, mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … Bé bị nghẹn thì xử lý thế nào, bạn xem … |
+| mục 12 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | …tháng mới bắt đầu thêm thức ăn phụ, bạn xem … |
 
 ## 21-du-lich-va-an-toan-nuoc-ngoai
 
