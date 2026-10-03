@@ -472,47 +472,47 @@ Tổng cộng 765 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …lừa và bảy loại lừa đảo thường gặp nhất xem … |
-| Mở đầu phần | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …nh riêng tư, video chat sex ra đòi tiền xem … |
-| Mở đầu phần | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …dây chống lừa đảo TQ) yêu cầu chặn chi, xem … |
-| mục 2 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | …em có thở không, không thở thì ấn ngực theo … |
-| mục 2 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Bản thân phòng té ngã xem … |
-| mục 2 | phần 8, mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …mạng thì giữ chứng báo cảnh sát thế nào xem … |
+| Mở đầu phần | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …iêng tư hay video chat sex ra đòi tiền, xem … |
+| Mở đầu phần | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … chống lừa đảo TQ) để yêu cầu chặn chi, xem … |
+| mục 2 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Không thở thì bạn ấn ngực theo … |
+| mục 2 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Cách phòng té ngã xem … |
+| mục 2 | phần 8, mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …ì giữ chứng cứ và báo cảnh sát thế nào, xem … |
 | mục 2 | mục 10 | Người già va đầu xong vài tuần đến vài tháng sau mà đi không vững, chậm chạp, buồn ngủ hoặc yếu một bên người thì đi chụp CT sọ não | …iệu chứng muộn sau khi người già va đầu xem … |
-| mục 2 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … Tiền khi cứu người mà bị thương xem … |
+| mục 2 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … Chuyện tiền khi cứu người mà bị thương xem … |
 | mục 4 | mục 3 | Đột nhiên méo miệng, một bên cánh tay mất lực, nói không rõ lời — gọi ngay 120, đừng chờ, đừng tự lái xe đi | … động tác "méo miệng, giơ tay, nói chuyện" (… |
-| mục 6 | phần 6, mục 16 | Đừng mua kính chống ánh sáng xanh để "bảo vệ thị lực", cũng đừng tin "nhìn màn hình vài tháng là hỏng mắt", nhưng mắt đau căng đỏ phải xem là cấp cứu | … Kính chống ánh sáng xanh có ích không xem … |
-| mục 6 | mục 5 | Một mắt đột nhiên tối đi như rèm kéo xuống, dù vài phút tự khỏi, cũng phải đi cấp cứu trong ngày theo hướng đột quỵ | …y mà không đau không đỏ là chuyện khác, xem … |
+| mục 6 | phần 6, mục 16 | Đừng mua kính chống ánh sáng xanh để "bảo vệ thị lực", cũng đừng tin "nhìn màn hình vài tháng là hỏng mắt", nhưng mắt đau căng đỏ phải xem là cấp cứu | … Kính chống ánh sáng xanh có ích không, xem … |
+| mục 6 | mục 5 | Một mắt đột nhiên tối đi như rèm kéo xuống, dù vài phút tự khỏi, cũng phải đi cấp cứu trong ngày theo hướng đột quỵ | … mà không đau, không đỏ là chuyện khác, xem … |
 | mục 10 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Phòng té ngã xem … |
 | mục 16 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …u trách nhiệm (Điều 184 Bộ luật Dân sự, xem … |
-| mục 18 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Thoát điện rồi không thở thì ấn theo … |
-| mục 18 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | …rồi không thở thì làm hồi sức tim phổi theo … |
+| mục 18 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Thoát điện mà không thở thì ấn theo … |
+| mục 18 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … mà không thở thì làm hồi sức tim phổi theo … |
 | mục 19 | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Cách lắp máy báo xem … |
 | mục 20 | mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Khí CO xem … |
-| mục 20 | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …máy báo khí CO kêu), bỏng và bỏng nhiệt xem … |
-| mục 21 | phần 19, mục 10 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
-| mục 21 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …ảo vệ và khám sức khỏe trước khi vào ca xem … |
+| mục 20 | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …khí CO kêu), bỏng lửa và bỏng nước nóng xem … |
+| mục 21 | phần 19, mục 10 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | …hộ và khám sức khỏe trước khi nhận việc xem … |
+| mục 21 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …hộ và khám sức khỏe trước khi nhận việc xem … |
 | mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
-| mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ứu phần lớn là con nhà mình, cách phòng xem … |
-| mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử theo … |
-| mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Bị chó cắn xử lý theo … |
-| mục 36 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …n thì ngược lại, một xu cũng không đưa, xem … |
-| mục 37 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Bản thân bị cuốn vào xung đột xem … |
+| mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ần lớn là con nhà mình, cách phòng ngừa xem … |
+| mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử lý theo … |
+| mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Bị chó cắn thì xử lý theo … |
+| mục 36 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …ền thì ngược lại, một xu cũng đừng đưa, xem … |
+| mục 37 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Chính bạn bị cuốn vào xung đột thì xem … |
 | mục 37 | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ớc, không ra tay), bị người lạ đòi tiền xem … |
-| mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | …mục 36, tiền khi cứu người mà bị thương xem … |
-| mục 38 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …ữa lỗi, phòng thường ngày và xét nghiệm xem … |
-| mục 38 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …ữa lỗi, phòng thường ngày và xét nghiệm xem … |
+| mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … chuyện tiền khi cứu người mà bị thương xem … |
+| mục 38 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | … phòng ngừa hằng ngày và xét nghiệm thì xem … |
+| mục 38 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | … phòng ngừa hằng ngày và xét nghiệm thì xem … |
 | mục 39 | phần 19, mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | … và cách quy đổi cấp thương tật ra tiền xem … |
 | mục 39 | phần 19, mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … và cách quy đổi cấp thương tật ra tiền xem … |
 | mục 39 | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Cách xin viện trợ pháp lý xem … |
-| mục 40 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …ng cứu ngay, đừng xếp hàng cửa đăng ký (xem … |
+| mục 40 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …cứu ngay, đừng xếp hàng ở quầy đăng ký (xem … |
 | mục 40 | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … ấn và cách lên garô khi chảy máu nhiều xem … |
-| mục 41 | phần 24, mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | … tật không, có làm thẻ khuyết tật không xem … |
-| mục 41 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | … tật không, có làm thẻ khuyết tật không xem … |
-| mục 41 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …ời già té ngã nghi gãy xương thì cấm bê xem … |
-| mục 41 | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … một chân sưng thì đề phòng huyết khối, xem … |
-| mục 42 | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …n dân tệ, có uống không do bác sĩ phán, xem … |
-| mục 42 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Ghi âm xem … |
-| mục 42 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …áo cảnh sát ra ép bạn cũng là phạm tội, xem … |
+| mục 41 | phần 24, mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …g tật, có nên làm thẻ khuyết tật không, xem … |
+| mục 41 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …g tật, có nên làm thẻ khuyết tật không, xem … |
+| mục 41 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …i già té ngã nghi gãy xương thì cấm bê, xem … |
+| mục 41 | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … chân sưng lên thì đề phòng huyết khối, xem … |
+| mục 42 | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | … tệ, có uống hay không do bác sĩ quyết, xem … |
+| mục 42 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Cách ghi âm xem … |
+| mục 42 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | … sát để ép bạn thì đó cũng là phạm tội, xem … |
 
 ## 14-tai-khoan-va-an-toan-thong-tin
 
