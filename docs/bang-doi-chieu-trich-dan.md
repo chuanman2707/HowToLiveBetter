@@ -699,15 +699,15 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 17 | 17-nha-co-nguoi-gia (cả phần) | … dụ giám hộ ý định, di chúc, tài khoản, xem … |
-| Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Ba khoản chế độ chết vì lao động xem … |
-| mục 1 | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | …iấy chứng tử ai điều trị người đó khai, xem … |
-| mục 3 | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | …hân thuộc hạng mục cơ bản, có giá định, xem … |
-| mục 4 | phần 24 | 24-di-kham-benh (cả phần) | … Bệnh án phong tỏa thế nào xem … |
+| Mở đầu phần | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …giám hộ ý định, di chúc, tài khoản, bạn xem … |
+| Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Ba khoản chế độ khi chết vì lao động xem … |
+| mục 1 | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | …ều trị thì cơ sở đó khai giấy chứng tử, xem … |
+| mục 3 | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | …ộc hạng mục cơ bản, đã có giá định sẵn, xem … |
+| mục 4 | phần 24 | 24-di-kham-benh (cả phần) | … Cách phong tỏa bệnh án xem … |
 | mục 5 | mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … Mấy khoản tiền đó xem … |
-| mục 9 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …êu cầu hình thức của di chúc và thừa kế xem … |
-| mục 10 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …ết ra chỗ tài khoản và mật khẩu đi đâu, xem … |
-| mục 10 | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | …n và xóa thông tin cá nhân là hai việc, xem … |
+| mục 9 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …cầu về hình thức của di chúc và thừa kế xem … |
+| mục 10 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …n tài khoản và mật khẩu sẽ giao cho ai, xem … |
+| mục 10 | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | …hông tin cá nhân là hai việc khác nhau, xem … |
 
 ## 26-lam-mot-website-hoac-nen-tang
 
