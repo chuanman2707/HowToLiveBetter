@@ -546,16 +546,16 @@ Tổng cộng 765 trích dẫn.
 | --- | --- | --- | --- |
 | mục 3 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … quy tắc chung chống lừa xem … |
 | mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … quy tắc chung chống lừa xem phần 8 và … |
-| mục 4 | phần 1 | 01-dung-chet-som (cả phần) | … trượt ngã trong nhà tiện tay làm luôn, xem … |
+| mục 4 | phần 1 | 01-dung-chet-som (cả phần) | …ợt ngã trong nhà thì tiện tay làm luôn, xem … |
 | mục 4 | mục 3 | Tiền của người già để riêng một tài khoản, chi lớn thì đặt quy tắc hai người xác nhận | … Dùng cùng với … |
 | mục 5 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …dây chống lừa đảo TQ) yêu cầu chặn chi, xem … |
-| mục 5 | mục 3 | Tiền của người già để riêng một tài khoản, chi lớn thì đặt quy tắc hai người xác nhận | …ền, dùng kèm quy tắc hai người xác nhận của … |
+| mục 5 | mục 3 | Tiền của người già để riêng một tài khoản, chi lớn thì đặt quy tắc hai người xác nhận | …bạn dùng kèm quy tắc hai người xác nhận của … |
 | mục 5 | mục 6 | Ngoài bảo hiểm thế chấp ngược nhà ở của công ty bảo hiểm, các kiểu "nuôi già bằng nhà" khác đừng đụng, tuyệt đối không thế chấp nhà đi mua quản lý tài chính | … Nuôi già bằng nhà là một đường khác, xem … |
-| mục 6 | phần 8, mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | …y tắc chung về chữ ký và hợp đồng trắng xem … |
-| mục 6 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …8, mục 17, cách chặn chi sau khi bị lừa xem … |
-| mục 7 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …hủ tục, hai khoản tiền, không xung đột, xem … |
-| mục 8 | phần 13, mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | …n, xử lý theo huyết khối tĩnh mạch sâu, xem … |
-| mục 8 | phần 1, mục 34 | Đừng đánh cược "nằm vài ngày là khỏi" vào ngã từ trên cao: người vào ICU chấn thương phần lớn sống sót, cái giá tính bằng năm | …t lâu dài vì ngã hoặc chấn thương nặng, xem … |
+| mục 6 | phần 8, mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | … Quy tắc chung về chữ ký và giấy trắng xem … |
+| mục 6 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … cách chặn chi sau khi bị lừa xem … |
+| mục 7 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | … khoản tiền riêng, không xung đột nhau, xem … |
+| mục 8 | phần 13, mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | …hì xử lý theo huyết khối tĩnh mạch sâu, xem … |
+| mục 8 | phần 1, mục 34 | Đừng đánh cược "nằm vài ngày là khỏi" vào ngã từ trên cao: người vào ICU chấn thương phần lớn sống sót, cái giá tính bằng năm | …u dài vì ngã hoặc chấn thương nặng, bạn xem … |
 | mục 8 | mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …mà bảo hiểm chăm sóc dài hạn hoàn được, xem … |
 
 ## 18-nuoi-con-co-dang-khong
