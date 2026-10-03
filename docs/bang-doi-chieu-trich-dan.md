@@ -676,24 +676,24 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Lĩnh được chế độ gì xem … |
-| Mở đầu phần | phần 16 | 16-song-sau-khi-mac-benh-man-tinh (cả phần) | … Bệnh mạn tính dài hạn quản lý thế nào xem … |
-| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Tại chỗ cấp cứu làm gì trước xem … |
-| mục 4 | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | …oại bệnh nào quyết toán trực tiếp được, xem … |
-| mục 5 | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | … ở cơ sở một lần kê được 12 tuần thuốc, xem … |
-| mục 6 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ệnh mạn tính ghi vào cùng một quyển sổ, xem … |
-| mục 7 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Sao chép là việc thường ngày nên làm, xem … |
-| mục 8 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …báo trước bệnh viện chuẩn bị tiếp khám (xem … |
-| mục 9 | phần 7, mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …rả vẫn quá nặng, đi đường cứu trợ y tế, xem … |
-| mục 10 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …, dùng tính tiền bồi thường khuyết tật (xem … |
-| mục 10 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ật khác, lo là chế độ tai nạn lao động (xem … |
-| mục 10 | mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …uyết tật, phải làm thêm thẻ khuyết tật (xem … |
-| mục 10 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …ủ bệnh án, hồ sơ mổ, phim ảnh khám lại (xem … |
-| mục 11 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …chăm sóc dài hạn lĩnh trợ cấp chăm sóc, xem … |
-| mục 11 | mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …o động là ba thứ, không thay nhau được (xem … |
-| mục 12 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ình, hai việc không cùng lượng, cái sau xem … |
-| mục 12 | mục 7 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …hữa, tại chỗ yêu cầu phong tỏa bệnh án (xem … |
-| mục 12 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …a bệnh án), và lưu giữ bệnh án và phim ảnh (… |
+| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Bạn lĩnh được chế độ gì thì xem … |
+| Mở đầu phần | phần 16 | 16-song-sau-khi-mac-benh-man-tinh (cả phần) | …nh mạn tính quản lý dài hạn thế nào thì xem … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Tại chỗ cấp cứu nên làm gì trước thì xem … |
+| mục 4 | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | …bệnh nào quyết toán trực tiếp được, bạn xem … |
+| mục 5 | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | … Bạn xem … |
+| mục 6 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …tính thì bạn ghi vào cùng một quyển sổ, xem … |
+| mục 7 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …o chép là việc bạn nên làm thường ngày, xem … |
+| mục 8 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …và báo trước để bệnh viện chuẩn bị đón (xem … |
+| mục 9 | phần 7, mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …vẫn quá nặng thì đi đường cứu trợ y tế, xem … |
+| mục 10 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …i", để tính tiền bồi thường khuyết tật (xem … |
+| mục 10 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …c, và bộ đó lo chế độ tai nạn lao động (xem … |
+| mục 10 | mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …t tật thì phải làm thêm thẻ khuyết tật (xem … |
+| mục 10 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …bệnh án, hồ sơ mổ và phim ảnh khám lại (xem … |
+| mục 11 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | … sóc dài hạn thì lĩnh trợ cấp chăm sóc, xem … |
+| mục 11 | mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | … Ba thứ này không thay cho nhau được (xem … |
+| mục 12 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | … Việc sau, bạn xem … |
+| mục 12 | mục 7 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …yêu cầu phong tỏa bệnh án ngay tại chỗ (xem … |
+| mục 12 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Bạn cũng giữ lại bệnh án cùng phim ảnh (… |
 
 ## 25-viec-phai-lam-khi-nguoi-than-qua-doi
 
