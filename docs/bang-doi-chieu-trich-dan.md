@@ -117,24 +117,24 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Trong đó … |
 | Mở đầu phần | mục 23 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | … 15 (coi ý nghĩ bi quan như triệu chứng) và … |
 | mục 2 | phần 2, mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉnh thoảng thức khuya xong bù thế nào, xem … |
-| mục 4 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | …ine đổi lại là thời lượng ngủ, cộng dồn với … |
-| mục 6 | mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … Loại sau phải phối hợp … |
+| mục 4 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | …ì đổi lại được thời lượng ngủ, cộng dồn với … |
+| mục 6 | mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … Loại sau bạn phải phối hợp … |
 | mục 6 | mục 5 | Đổi email và tin nhắn sang xử lý theo đợt, vài lần cố định mỗi ngày | …ợp mục 1 (tắt thông báo không cần thiết) và … |
-| mục 9 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … Cái giá của bản thân việc thức khuya xem … |
+| mục 9 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … Cái giá của chính việc thức khuya, bạn xem … |
 | mục 11 | phần 2, mục 38 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | … và nguy cơ bệnh tim mạch vành cao hơn, xem … |
-| mục 18 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …hật sự có tổn thất thì đi đường pháp lý của … |
-| mục 18 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …tổn thất thì đi đường pháp lý của phần 8 và … |
-| mục 19 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ĩ tự sát phải đi khám, gọi 12356 trước (xem … |
-| mục 20 | phần 8, mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ày trích đến từ hai quy chương Bộ Công an ở … |
+| mục 18 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …sự có tổn thất thì bạn đi đường pháp lý của … |
+| mục 18 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …thất thì bạn đi đường pháp lý của phần 8 và … |
+| mục 19 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … thì bạn phải đi khám, gọi 12356 trước (xem … |
+| mục 20 | phần 8, mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ấy từ hai văn bản quy định của Bộ Công an ở … |
 | mục 20 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …ức theo bệnh tình, không theo ai đến trước (… |
 | mục 20 | phần 24, mục 12 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | … đường thư cảm ơn và đánh giá hài lòng, xem … |
-| mục 20 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ối lộ, và là tội văn bản ghi tăng nặng, xem … |
+| mục 20 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …i lộ, và luật ghi rõ là bị xử nặng hơn, xem … |
 | mục 21 | phần 4, mục 15 | Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích | … Sổ thời gian màn hình tổng xem … |
 | mục 21 | phần 4, mục 16 | Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định | … Sổ thời gian màn hình tổng xem … |
 | mục 21 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …a vào mua sắm lấy lại cảm giác căn tính xem … |
 | mục 21 | phần 6, mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
 | mục 21 | mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
-| mục 23 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …356 trước, đem thủ đoạn gây chết ra xa, xem … |
+| mục 23 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … đem phương tiện có thể gây chết ra xa, xem … |
 | mục 23 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
 | mục 23 | phần 30, mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Sàng lọc trầm cảm cho trẻ xem … |
 | mục 23 | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Nó giống kỳ vọng bi quan trong … |
@@ -142,7 +142,7 @@ Tổng cộng 765 trích dẫn.
 | mục 24 | phần 22, mục 7 | Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
 | mục 24 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
 | mục 24 | mục 18 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
-| mục 25 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … chịu thì dừng lại, đổi sang gọi 12356, xem … |
+| mục 25 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …u thì bạn dừng lại, đổi sang gọi 12356, xem … |
 
 ## 04-dung-lang-phi-thoi-gian
 
