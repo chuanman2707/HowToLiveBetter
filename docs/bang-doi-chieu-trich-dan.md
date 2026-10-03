@@ -432,12 +432,12 @@ Tổng cộng 765 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | mục 2 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Nhưng vụ săn vé ở … |
-| mục 4 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … lấy dữ liệu trong hệ thống, mức phán giống … |
+| mục 4 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | …y dữ liệu trong hệ thống thì mức phán giống … |
 | mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ại, đừng tự tay làm (trọng tài lao động xem … |
-| mục 7 | mục 13 | Code viết trong giờ làm, bằng tài nguyên công ty thuộc về công ty; dự án mã nguồn mở của riêng mình làm bằng thời gian và thiết bị của mình, không trộn code công ty | …h viết" cũng thuộc về công ty, điểm này xem … |
-| mục 9 | mục 8 | Không chạy chương trình của mình trên máy tính, máy chủ, camera của người khác; máy công ty không mang đi đào coin | … số tiền phạt và số năm giống … |
+| mục 7 | mục 13 | Code viết trong giờ làm, bằng tài nguyên công ty thuộc về công ty; dự án mã nguồn mở của riêng mình làm bằng thời gian và thiết bị của mình, không trộn code công ty | … Điểm này xem … |
+| mục 9 | mục 8 | Không chạy chương trình của mình trên máy tính, máy chủ, camera của người khác; máy công ty không mang đi đào coin | … Số tiền phạt và số năm giống … |
 | mục 9 | mục 10 | Lỗ hổng báo theo đúng quy định; trước khi vá không công khai chi tiết, không phát công cụ khai thác, không giao cho phía nước ngoài | … Phát hiện lỗ hổng xong xử lý thế nào, xem … |
-| mục 10 | mục 9 | Không có ủy quyền bằng văn bản thì không test hệ thống của người khác; "xuất phát từ thiện ý" và "báo cáo sau khi làm" đều không phải lý do thoát tội | … Có tư cách đi test hay không xem … |
+| mục 10 | mục 9 | Không có ủy quyền bằng văn bản thì không test hệ thống của người khác; "xuất phát từ thiện ý" và "báo cáo sau khi làm" đều không phải lý do thoát tội | … Bạn có tư cách đi test hay không thì xem … |
 | mục 15 | mục 4 | Crawler chỉ cào trang công khai không cần đăng nhập, không né chống cào, không đụng thông tin cá nhân, dữ liệu cào được không đem bán | …cấp thông tin cá nhân cấu thành tội thì xem … |
 
 ## 12-khoi-nghiep-va-lam-an
