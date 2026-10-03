@@ -151,6 +151,14 @@ Ba lỗi dễ mắc nhất, tránh ngay từ đầu:
 - Không đổi thuật ngữ hậu quả pháp lý sang từ nhẹ hơn hay nặng hơn (xem spec).
 - Không dùng gạch ngang dài thay dấu phẩy, dấu chấm; tối đa một cái mỗi mục.
 
+Hai lỗi review bắt nhiều nhất ở các chương đầu, kiểm từng mục trước khi xong:
+- Dòng "Nói dễ hiểu" cũng phải viết lại thành câu trọn, có chủ ngữ (bạn, ai,
+  công an, tòa…), không giữ kiểu điện báo "X: tạm giữ…, nặng hơn…". Đối chiếu
+  nó với dòng 说人话 của gốc: không làm rơi ý (điều kiện, chủ thể, "có thể",
+  "gần", "từ … trở lên"), nhưng chỉ dùng dữ kiện có trong cột Lợi ích.
+- Bản VN cũ có chỗ đã nói mạnh hơn gốc ("bị" thay cho 可以/能, "10 ngày" thay
+  cho 10 日以内, bỏ 一律/近) — so với gốc và sửa luôn, đừng chép lại.
+
 Danh mục không-được-động trong spec là cứng: tiêu đề mục, tên field và thứ tự
 field, thẻ nhan-chi-phi, cột Nguồn, Mức chứng cứ, mọi con số và cách viết số,
 marker Ghi chú, "Cần xác minh"/"TODO", dòng "[← Mục lục]" và "# N. Tên phần".
