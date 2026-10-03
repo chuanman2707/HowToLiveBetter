@@ -618,10 +618,10 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| mục 4 | mục 3 | Biết bảo hộ lãnh sự làm được gì, không làm được gì: thăm được, không cõng người ra được, phí tổn vẫn tự trả | …ảo hộ lãnh sự cũng không ứng khoản này (xem … |
-| mục 6 | phần 14, mục 5 | Thẻ bị gạt trộm: báo mất đóng băng trước rồi báo cảnh sát, sau đó đòi ngân hàng bồi thường, vì chứng minh "chính bạn quẹt" là việc của ngân hàng | …ẻ mất, bị nuốt hay bị gạt trộm làm sao, xem … |
-| mục 7 | mục 2 | Lưu 12308 và điện thoại bảo hộ lãnh sự của sứ quán nơi đến vào điện thoại, chép thêm một bản để ví, đừng đợi có chuyện mới đi tìm | …à hai số điện thoại bảo hộ lãnh sự đã lưu ở … |
-| mục 10 | phần 8, mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | …ại rủi ro với "không mang đồ hộ người lạ" ở … |
+| mục 4 | mục 3 | Biết bảo hộ lãnh sự làm được gì, không làm được gì: thăm được, không cõng người ra được, phí tổn vẫn tự trả | …ũng không ứng trước khoản tiền này (bạn xem … |
+| mục 6 | phần 14, mục 5 | Thẻ bị gạt trộm: báo mất đóng băng trước rồi báo cảnh sát, sau đó đòi ngân hàng bồi thường, vì chứng minh "chính bạn quẹt" là việc của ngân hàng | …ị quẹt trộm, bạn hãy xử lý theo hướng dẫn ở … |
+| mục 7 | mục 2 | Lưu 12308 và điện thoại bảo hộ lãnh sự của sứ quán nơi đến vào điện thoại, chép thêm một bản để ví, đừng đợi có chuyện mới đi tìm | …ố điện thoại bảo hộ lãnh sự mà bạn đã lưu ở … |
+| mục 10 | phần 8, mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | …uy tắc "không mang đồ hộ người lạ" đã nêu ở … |
 
 ## 22-thu-gian-the-nao
 
