@@ -807,43 +807,43 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | …c, giao thông, mũ bảo hiểm, vắc xin HPV xem … |
-| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Trẻ nhỏ sơ sinh xem … |
+| Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | …o thông, mũ bảo hiểm và vắc xin HPV bạn xem … |
+| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Trẻ sơ sinh xem … |
 | Mở đầu phần | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Con bị lừa và nạp tiền game xem … |
-| Mở đầu phần | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …n đỏ người chưa thành niên tự không đạp xem … |
-| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ệnh cấp nhận ra thế nào, gọi xe thế nào xem … |
-| Mở đầu phần | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Con sau khi cha mẹ qua đời xem … |
+| Mở đầu phần | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …chưa thành niên đừng tự mình bước qua nằm ở … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Cách nhận ra bệnh cấp và cách gọi xe nằm ở … |
+| Mở đầu phần | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Con cái sau khi cha mẹ qua đời xem … |
 | Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …Mục 1 tới … |
 | Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …Mục 1 tới … |
 | Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …Mục 1 tới … |
 | Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …h rõ về ngủ, bài tập, thể dục, xếp hạng) và … |
-| mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ệnh cấp nhận ra thế nào, gọi xe thế nào xem … |
-| mục 2 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | … hạng mục trọng điểm khám thể học sinh (xem … |
-| mục 2 | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …ỉ học, dài nhất 1 năm, chỗ học giữ lại, xem … |
-| mục 5 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … Thật sự có thử nghiệm rút quẻ đỡ là … |
-| mục 5 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …dự trữ viễn thị còn bao nhiêu, cách tra xem … |
-| mục 6 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …Bản thân không phải làm gì, việc phải làm ở … |
-| mục 6 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …Bản thân không phải làm gì, việc phải làm ở … |
-| mục 6 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | … Sau chẩn đoán tái khám thế nào xem … |
+| mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … xem cách nhận ra bệnh cấp và cách gọi xe ở … |
+| mục 2 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …c trọng điểm của đợt khám thể học sinh (xem … |
+| mục 2 | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …hất 1 năm, và chỗ học vẫn được giữ lại (xem … |
+| mục 5 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …ật sự có thử nghiệm rút thăm làm chỗ dựa là … |
+| mục 5 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | … Cách kiểm tra xem … |
+| mục 6 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …ải làm thêm gì ở đây, vì việc cần làm nằm ở … |
+| mục 6 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …ải làm thêm gì ở đây, vì việc cần làm nằm ở … |
+| mục 6 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | … Sau khi chẩn đoán, cách tái khám xem … |
 | mục 6 | mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | … Đừng mua sản phẩm tự xưng chữa khỏi, xem … |
 | mục 7 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …đi nhãn khoa làm khám khúc xạ có giãn đồng (… |
-| mục 7 | mục 2 | Trị liệu đáng làm đừng vì "đợi thi xong" mà kéo sau, có cửa sổ đi theo tuổi xương, không đi theo lịch thi | …phải đi khoa xương hay ngoại khoa cột sống (… |
-| mục 8 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Có ý tự tử lúc xử thế nào xem … |
-| mục 8 | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Đối phó trong nhà xem … |
+| mục 7 | mục 2 | Trị liệu đáng làm đừng vì "đợi thi xong" mà kéo sau, có cửa sổ đi theo tuổi xương, không đi theo lịch thi | …hải đi khoa xương hoặc ngoại khoa cột sống (… |
+| mục 8 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … con có ý nghĩ tự tử thì xử lý thế nào, xem … |
+| mục 8 | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Cách đối phó trong nhà xem … |
 | mục 9 | phần 6 | 06-danh-sach-nen-tranh (cả phần) | … Kính chống ánh xanh xem … |
-| mục 9 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … Thật sự có chứng cứ là hai việc ở … |
-| mục 9 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …hứng cứ là hai việc ở mục 4 (ngoài trời) và … |
-| mục 10 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Tiền ngủ của người lớn xem … |
-| mục 10 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Tiền ngủ của người lớn xem … |
-| mục 12 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | … viện làm một lần tra nhãn khoa đầy đủ, xem … |
-| mục 13 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …điểm hướng dẫn trong khám thể học sinh, xem … |
-| mục 14 | phần 5, mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Nạp tiền và hoàn tiền xem … |
+| mục 9 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … Hai việc thật sự có chứng cứ là … |
+| mục 9 | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …hật sự có chứng cứ là mục 4 (ngoài trời) và … |
+| mục 10 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Chuyện ngủ của người lớn xem … |
+| mục 10 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Chuyện ngủ của người lớn xem … |
+| mục 12 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | … làm một lần kiểm tra nhãn khoa đầy đủ, xem … |
+| mục 13 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …dẫn trọng điểm trong khám thể học sinh, xem … |
+| mục 14 | phần 5, mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Chuyện nạp tiền và hoàn tiền xem … |
 | mục 14 | mục 10 | Ngủ, bài tập, thể dục và xếp hạng đều có quy định rõ, trường làm không tới có thể đề nghị | … Yêu cầu rõ về ngủ xem … |
-| mục 14 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …này (ngủ, bài tập, thể dục), ngoài trời xem … |
-| mục 14 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …ngoài trời 2 tiếng), thời gian màn hình xem … |
-| mục 15 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …, nói không muốn sống, trước gọi 12356, xem … |
-| mục 15 | phần 6, mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | … "Chỉnh chuyển" vì sao đừng đụng, xem … |
-| mục 15 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Cũng có thể theo … |
+| mục 14 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … (ngủ, bài tập, thể dục), về ngoài trời xem … |
+| mục 14 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …ài trời 2 tiếng), về thời gian màn hình xem … |
+| mục 15 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …i không muốn sống, bạn gọi 12356 trước, xem … |
+| mục 15 | phần 6, mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | … Vì sao đừng đụng tới "chỉnh chuyển", xem … |
+| mục 15 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Bạn cũng có thể theo … |
 
 ## 31-nhung-con-duong-sau-tuoi-muoi-tam
 
