@@ -164,55 +164,55 @@ Tổng cộng 765 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | mục 8 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …5 Bộ luật dân sự đã được trích nguyên chữ ở … |
-| mục 9 | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | …ính bạn tặng quà nạp tiền theo cảm xúc, xem … |
-| mục 10 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …hỉ có thể báo cảnh sát chặn thanh toán theo … |
-| mục 10 | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …hiêu giả người quen, còn có AI đổi mặt, xem … |
-| mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …hiêu giả người quen, còn có AI đổi mặt, xem … |
-| mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Phải phân biệt rõ với … |
-| mục 12 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ổi thuốc xong đừng phán theo cảm giác, theo … |
-| mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | … giả tạo, người đăng đã bị giữ hình sự (xem … |
-| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | … đòn bẩy biến tướng, lãi suất của chúng xem … |
+| mục 9 | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | …nh bạn tặng quà, nạp tiền theo cảm xúc, xem … |
+| mục 10 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …có thể báo cảnh sát để chặn thanh toán theo … |
+| mục 10 | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …chiêu giả người quen, có cả AI đổi mặt, xem … |
+| mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …chiêu giả người quen, có cả AI đổi mặt, xem … |
+| mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Bạn cần phân biệt rõ với … |
+| mục 12 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ạn đừng phán đoán theo cảm giác mà làm theo … |
+| mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …ả, và người đăng đã bị tạm giữ hình sự (xem … |
+| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …là đòn bẩy trá hình, lãi suất của chúng xem … |
 | mục 19 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua quỹ chỉ số gối rộng (xem … |
-| mục 20 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | …óa quỹ dự phòng vào trong (quỹ dự phòng xem … |
-| mục 20 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Luật chọn sản phẩm giống … |
-| mục 20 | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … Luật chọn sản phẩm giống … |
+| mục 20 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … khóa quỹ dự phòng vào đó (quỹ dự phòng xem … |
+| mục 20 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Cách chọn sản phẩm giống … |
+| mục 20 | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … Cách chọn sản phẩm giống … |
 | mục 20 | mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … quyết toán năm sau mới trừ (quyết toán xem … |
-| mục 22 | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … Nên trước hết theo … |
+| mục 22 | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … Vì vậy, bạn nên làm theo … |
 | mục 27 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …iêu dùng và trả tối thiểu thẻ tín dụng, xem … |
-| mục 29 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … được chỉ có kết quả rút kiểm tổng thể (xem … |
+| mục 29 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | …ỉ có kết quả kiểm tra rút mẫu tổng thể (xem … |
 | mục 29 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … Trả hàng bảy ngày không cần lý do xem … |
-| mục 31 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | …ỉ còn đường kiện, kiện nhỏ tính thế nào xem … |
+| mục 31 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | … kiện số tiền nhỏ tính thế nào xem … |
 | mục 31 | phần 12, mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Chi tiết xem … |
 | mục 31 | phần 12, mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … Chi tiết xem … |
 | mục 31 | phần 12, mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … Chi tiết xem … |
 | mục 31 | phần 12, mục 11 | Nghề thực phẩm có vạch hình sự: bán thịt chết bệnh, hàng vượt chuẩn đã đủ tội; trộn chất độc hại thì không nhìn số tiền, khung khởi đầu đã là dưới 5 năm tù | … Chi tiết xem … |
 | mục 31 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … ba lần, dưới 500 nhân dân tệ tính 500, xem … |
-| mục 34 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … Cách tra chung lúc mua đồ lớn xem … |
-| mục 34 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … Livestream có chuyện nên tìm ai, xem … |
-| mục 34 | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … Livestream có chuyện nên tìm ai, xem … |
-| mục 35 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …òng lặp "mua về rồi phai, rồi mua tiếp" xem … |
-| mục 35 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …ại nạp tiền tặng quà hoàn tiền thế nào, xem … |
-| mục 35 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | …lại 24 giờ cho mua đắt không cần thiết, xem … |
-| mục 36 | phần 12, mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | …hực phẩm đóng gói sẵn phải ghi thế nào, xem … |
-| mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên | … Mục này quản "bán hay không", … |
-| mục 37 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …bạn đặt vào con cổ phiếu này nhiều hơn, xem … |
-| mục 38 | mục 15 | Không mua bán cổ phiếu thường xuyên | …t năm đổi gần 18 lần, tài khoản hộ Mỹ trong … |
+| mục 34 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | … Cách tra chung khi mua đồ lớn xem … |
+| mục 34 | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | … Livestream có chuyện thì tìm ai, xem … |
+| mục 34 | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … Livestream có chuyện thì tìm ai, xem … |
+| mục 35 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …òng lặp "mua về rồi chán, lại mua tiếp" xem … |
+| mục 35 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …nạp tiền, tặng quà thì đòi lại thế nào, xem … |
+| mục 35 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … lại 24 giờ cho đồ đắt không cần thiết, xem … |
+| mục 36 | phần 12, mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | …đóng gói sẵn thì phải ghi nhãn thế nào, xem … |
+| mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên | … Mục này nói chuyện "bán hay không", còn … |
+| mục 37 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …bạn dồn vào mã cổ phiếu này nhiều thêm, xem … |
+| mục 38 | mục 15 | Không mua bán cổ phiếu thường xuyên | …m đổi gần 18 lần, còn tài khoản hộ Mỹ trong … |
 | mục 39 | phần 21, mục 6 | Rút tiền mặt ở nước ngoài một năm không quá 10 vạn tệ, tính gộp tất cả thẻ đứng tên mình | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
-| mục 39 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng theo cách của … |
-| mục 39 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …eo cách của mục 17 (quỹ chỉ số gối rộng) và … |
+| mục 39 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng làm theo cách ở … |
+| mục 39 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …theo cách ở mục 17 (quỹ chỉ số gối rộng) và … |
 | mục 40 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" | … Bảo hiểm y tế một năm xem … |
 | mục 40 | phần 21, mục 4 | Mua một phần bảo hiểm có y tế nước ngoài và chuyển viện y tế, đừng chỉ mua bảo hiểm trễ chuyến bay | … Người ra nước ngoài xem … |
 | mục 40 | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Người có xe xem … |
 | mục 40 | mục 41 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Nhà có người sống nhờ thu nhập của bạn xem … |
-| mục 40 | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … theo cách này chọn lựa, vẫn phải đóng, xem … |
-| mục 40 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Tổn thất nhỏ dựa vào gì lo, xem … |
-| mục 41 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" | …i thật và bảo đảm tiếp tục xem thế nào, xem … |
-| mục 42 | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | …iều, thời gian cân nhắc đáng dùng nhất, xem … |
-| mục 43 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Đã ký rồi thì trong 15 ngày theo … |
-| mục 43 | mục 44 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … Thấy bị lừa khiếu nại thế nào, xem … |
+| mục 40 | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … cân nhắc theo cách này, vẫn phải đóng, xem … |
+| mục 40 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Tổn thất nhỏ thì dựa vào đâu để gánh, xem … |
+| mục 41 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" | …ật và bảo đảm tái tục nên hiểu thế nào, xem … |
+| mục 42 | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | … nên thời gian cân nhắc đáng dùng nhất, xem … |
+| mục 43 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Nếu đã ký rồi thì hủy trong 15 ngày theo … |
+| mục 43 | mục 44 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | …Thấy mình bị lừa thì khiếu nại thế nào, xem … |
 | mục 44 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
-| mục 45 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … đi rồi từng chỗ đi lĩnh tiền khắp nơi, xem … |
-| mục 45 | phần 29, mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …n đường lấy chết trả nợ đi không thông, xem … |
+| mục 45 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … việc lần lượt đi lĩnh tiền ở từng chỗ, xem … |
+| mục 45 | phần 29, mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …ấy cái chết để trả nợ là không đi được, xem … |
 
 ## 06-danh-sach-nen-tranh
 
