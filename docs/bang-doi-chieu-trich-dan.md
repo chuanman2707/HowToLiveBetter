@@ -219,8 +219,8 @@ Tổng cộng 765 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | mục 5 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …ho viêm khớp gối là giảm cân và tập cơ, xem … |
-| mục 7 | phần 1 | 01-dung-chet-som (cả phần) | …CT lồng ngực liều thấp, là chuyện khác, xem … |
-| mục 8 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Bản thân vận động có hiệu quả, xem … |
+| mục 7 | phần 1 | 01-dung-chet-som (cả phần) | …g ngực liều thấp cho người nguy cơ cao, xem … |
+| mục 8 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Riêng việc vận động thì có hiệu quả, xem … |
 | mục 10 | mục 1 | Đừng uống vitamin tổng hợp để sống lâu hay phòng bệnh tim mạch | … … |
 | mục 10 | mục 2 | Đừng uống dầu cá thường để phòng bệnh tim mạch | … … |
 | mục 10 | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | … … |
@@ -230,19 +230,19 @@ Tổng cộng 765 trích dẫn.
 | mục 10 | phần 1, mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … người già đi tiêm vaccine cúm mỗi năm, xem … |
 | mục 10 | phần 1, mục 21 | Sau 50 tuổi tiêm vaccine zona thần kinh (giời leo) | … Vaccine zona thần kinh sau 50 tuổi xem … |
 | mục 10 | phần 1, mục 22 | Trên 65 tuổi tiêm vaccine phế cầu | … Vaccine phế cầu trên 65 tuổi xem … |
-| mục 10 | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | …heo chỉ định, hạ huyết áp về đạt chuẩn, xem … |
-| mục 10 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …p thăng bằng và sức mạnh chân cùng ông, xem … |
-| mục 10 | phần 1, mục 17 | Phụ nữ từ 40 tuổi tầm soát ung thư vú, cứ hai năm chụp nhũ ảnh một lần | …g thư đến tuổi, đưa ông đi làm một lần, xem … |
-| mục 10 | phần 1, mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | …g thư đến tuổi, đưa ông đi làm một lần, xem … |
-| mục 10 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | …g thư đến tuổi, đưa ông đi làm một lần, xem … |
+| mục 10 | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | …ỉ định và hạ huyết áp về mức đạt chuẩn, xem … |
+| mục 10 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …ập thăng bằng và sức mạnh chân cùng họ, xem … |
+| mục 10 | phần 1, mục 17 | Phụ nữ từ 40 tuổi tầm soát ung thư vú, cứ hai năm chụp nhũ ảnh một lần | …thư đến tuổi thì đưa họ đi làm một lần, xem … |
+| mục 10 | phần 1, mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | …thư đến tuổi thì đưa họ đi làm một lần, xem … |
+| mục 10 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | …thư đến tuổi thì đưa họ đi làm một lần, xem … |
 | mục 10 | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
 | mục 10 | phần 17, mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
-| mục 10 | phần 17, mục 5 | Đừng đụng các kiểu "đầu tư hưu trí" bắt người già nộp tiền trước: làm thẻ, mua giường, mua căn hộ dưỡng lão, dưỡng lão lưu trú, mua sản phẩm cho người già đều là cùng một kiểu huy động vốn trái phép | …ột loại là sẽ thay thế thuốc đang uống, xem … |
-| mục 16 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …, không phải tròng chống ánh sáng xanh, xem … |
-| mục 16 | phần 13, mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | … giác, ngay hôm đó phải đi cấp cứu mắt, xem … |
-| mục 16 | phần 30, mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
-| mục 16 | phần 30, mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
-| mục 16 | phần 30, mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | …rẻ em thiếu niên phòng cận thị thế nào, xem … |
+| mục 10 | phần 17, mục 5 | Đừng đụng các kiểu "đầu tư hưu trí" bắt người già nộp tiền trước: làm thẻ, mua giường, mua căn hộ dưỡng lão, dưỡng lão lưu trú, mua sản phẩm cho người già đều là cùng một kiểu huy động vốn trái phép | …rước, và loại thay thế thuốc đang uống, xem … |
+| mục 16 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …ứ không dùng tròng chống ánh sáng xanh, xem … |
+| mục 16 | phần 13, mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | …ên ngay hôm đó bạn phải đi cấp cứu mắt, xem … |
+| mục 16 | phần 30, mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …ẻ em, thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …ẻ em, thiếu niên phòng cận thị thế nào, xem … |
+| mục 16 | phần 30, mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | …ẻ em, thiếu niên phòng cận thị thế nào, xem … |
 | mục 18 | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … Huyết áp, đường huyết, viêm gan B xem … |
 | mục 18 | phần 1, mục 8 | Sau 35 tuổi chỉ cần thừa cân thì đi xét nghiệm đường huyết lúc đói một lần, bình thường cũng cứ ba năm xét lại | … Huyết áp, đường huyết, viêm gan B xem … |
 | mục 18 | phần 1, mục 14 | Xét nghiệm năm chỉ số viêm gan B, không có kháng thể thì đi tiêm vaccine | … Huyết áp, đường huyết, viêm gan B xem … |
@@ -251,37 +251,37 @@ Tổng cộng 765 trích dẫn.
 | mục 18 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | … Vú, cổ tử cung, đại trực tràng xem … |
 | mục 18 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | …uẩn Helicobacter pylori và CT liều thấp xem … |
 | mục 18 | phần 1, mục 24 | Người hút thuốc nặng mỗi năm chụp CT lồng ngực liều thấp một lần | …uẩn Helicobacter pylori và CT liều thấp xem … |
-| mục 18 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …Từng có hành vi nguy cơ cao thì đi xét, xem … |
+| mục 18 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …có hành vi nguy cơ cao thì đi kiểm tra, xem … |
 | mục 18 | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | …à dấu ấn ung thư và chụp ảnh toàn thân, xem … |
-| mục 18 | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …i túi mật mà chưa từng đau thì làm sao, xem … |
+| mục 18 | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …i mật mà chưa từng đau thì làm thế nào, xem … |
 | mục 18 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …mục 19 (acid uric cao không triệu chứng) và … |
 | mục 19 | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Chi tiết xem … |
-| mục 19 | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … bị uống thì trước đi xét kiểu gen này, xem … |
-| mục 21 | phần 16, mục 8 | Từng mọc sỏi thận thì uống nước đến 2,5–3 lít mỗi ngày, muối hạ xuống dưới 6 gam | … Mục uống nhiều nước xem … |
-| mục 22 | phần 5, mục 33 | Chuỗi hạt, ngọc thạch, đồng hồ hiệu, đồ chơi thời thượng tính theo "tiền tiêu đi", không tính theo "tiền cất lại" | …ào, coi nó là đầu tư vì sao không đáng, xem … |
+| mục 19 | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | …u uống, bạn đi xét nghiệm kiểu gen này, xem … |
+| mục 21 | phần 16, mục 8 | Từng mọc sỏi thận thì uống nước đến 2,5–3 lít mỗi ngày, muối hạ xuống dưới 6 gam | … Về việc uống nhiều nước, xem … |
+| mục 22 | phần 5, mục 33 | Chuỗi hạt, ngọc thạch, đồng hồ hiệu, đồ chơi thời thượng tính theo "tiền tiêu đi", không tính theo "tiền cất lại" | …vì sao coi nó là đầu tư thì không đáng, xem … |
 | mục 22 | phần 5, mục 34 | Ngọc đá trang sức chỉ nhận báo cáo kiểm định có dấu CMA, rồi lên trang chính thức cơ quan cấp kiểm lại cơ quan đó | …ạt, đồng hồ hiệu tính theo tiền tiêu đi) và … |
-| mục 22 | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … Tiêu tiền xem bói xem … |
-| mục 23 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Động tác tiết kiệm cụ thể xem … |
-| mục 23 | phần 22 | 22-thu-gian-the-nao (cả phần) | …chứng cứ thật lúc tâm trạng xấu xem nửa sau … |
-| mục 23 | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | …ật lúc tâm trạng xấu xem nửa sau phần 22 và … |
+| mục 22 | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … Chuyện tiêu tiền xem bói thì xem … |
+| mục 23 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Các việc làm cụ thể để tiết kiệm xem … |
+| mục 23 | phần 22 | 22-thu-gian-the-nao (cả phần) | …chứng cứ thật khi tâm trạng xấu xem nửa sau … |
+| mục 23 | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | …ật khi tâm trạng xấu xem nửa sau phần 22 và … |
 | mục 23 | mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … thêm vì "muốn hơn người khác một bậc", xem … |
-| mục 24 | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Chỗ ở nên xếp theo gì xem … |
-| mục 24 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | … Trên mạng cứ so lên trên xem … |
-| mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … Mức lợi ích định "vừa", là theo quy mô của … |
-| mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … Mua sắm điều tiết cảm xúc xem … |
-| mục 25 | phần 4, mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | …hật là đổi môi trường và đổi cách viết, xem … |
-| mục 25 | phần 4, mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | … 4, mục 10 (xo đồ không muốn đụng ra xa) và … |
-| mục 25 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | …khác, xử theo mấy mục giấc ngủ và giờ làm ở … |
-| mục 26 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | …à uống thuốc giảm đau dài ngày, cần xét xem … |
+| mục 24 | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Chỗ ở nên xếp theo tiêu chí nào, xem … |
+| mục 24 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | … cứ so mình với người hơn trên mạng thì xem … |
+| mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … lợi ích được định "vừa" theo cách tính của … |
+| mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …uốn điều chỉnh cảm xúc bằng mua sắm thì xem … |
+| mục 25 | phần 4, mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … hộ là đổi môi trường và đổi cách viết, xem … |
+| mục 25 | phần 4, mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | …4, mục 10 (dọn đồ không muốn đụng ra xa) và … |
+| mục 25 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | …, bạn xử theo mấy mục giấc ngủ và giờ làm ở … |
+| mục 26 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | … Cần kiểm tra thì xem … |
 | mục 26 | phần 2, mục 28 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …chứng cứ thật là ăn gì và ăn bao nhiêu, xem … |
 | mục 26 | phần 2, mục 29 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | … mục 28 (mỗi ngày ăn đủ 5 phần rau củ quả), … |
 | mục 26 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …, mục 29 (ăn ít thực phẩm siêu chế biến) và … |
 | mục 26 | phần 28, mục 1 | Đừng dùng kiêng cữ cực đoan, nhịn ăn hoặc gây nôn để kiểm soát cân, muốn giảm thì giảm từ phía vận động | … ăn cực đoan và gây nôn là chuyện khác, xem … |
-| mục 26 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …i túi mật mà chưa từng đau thì làm sao, xem … |
+| mục 26 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …i mật mà chưa từng đau thì làm thế nào, xem … |
 | mục 27 | phần 3, mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | … Thức khuya xem … |
-| mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …m khiêu dâm xem ra vấn đề cương, trước theo … |
-| mục 27 | phần 9, mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … luật của phát vào nhóm, bán tài nguyên xem … |
-| mục 28 | phần 30, mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | … Sau khi con nói ra nhà làm sao, xem … |
+| mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …àm mình có vấn đề cương dương, hãy làm theo … |
+| mục 27 | phần 9, mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … của việc đăng vào nhóm, bán tài nguyên xem … |
+| mục 28 | phần 30, mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | … Khi con nói ra, cả nhà nên làm gì, xem … |
 
 ## 07-song-khi-khong-co-tien
 
