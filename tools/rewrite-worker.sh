@@ -114,6 +114,15 @@ $PILOT
    nghĩa, thêm hoặc mất dữ kiện, nói mạnh hơn hay yếu hơn gốc (thêm "nhiều",
    "luôn", "chắc chắn"…), làm nhẹ hay nặng hậu quả pháp lý.
 
+Mức báo lỗi (để vòng sửa không lặp vô tận):
+- "Nói dễ hiểu" bị giới hạn 2-4 câu, ≤60 từ, nên ngắn hơn 说人话 của gốc là
+  bình thường. Chỉ báo thiếu ý khi việc thiếu làm đổi phạm vi, điều kiện,
+  chủ thể, mức hậu quả hay làm câu nói mạnh/yếu hơn gốc; không báo việc lược
+  chi tiết phụ (tên vụ án, số tiền minh họa). Đề xuất sửa phải vừa 60 từ.
+- Từ "tác giả" chỉ ai thì xem Nguồn: nhóm tác giả bài báo được trích là
+  "nhóm nghiên cứu", không bắt đổi lại thành "tác giả".
+- Lỗi có từ bản VN cũ vẫn báo nếu lệch gốc; gắn "(có từ bản cũ)".
+
 Liệt kê lỗi theo dạng: [giọng|cấu trúc|nghĩa] mục N: <vấn đề> → <đề xuất sửa
 ngắn>. Nếu không có vấn đề gì thì trả lời đúng một chữ "SẠCH".
 EOF
