@@ -81,33 +81,33 @@ Tổng cộng 765 trích dẫn.
 | mục 1 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … mục 3 (lấy thuốc cai thuốc), … |
 | mục 1 | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …cai thuốc), mục 4 (đặt một ngày cai thuốc), … |
 | mục 1 | mục 6 | Cai không được rồi mới cân nhắc thuốc lá điện tử, người vốn không hút thuốc đừng động vào | …ai thuốc), mục 5 (đi phòng khám cai thuốc), … |
-| mục 2 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … Tự bỏ thuốc lá xem … |
-| mục 3 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | …ải quyết dịp "thèm hút", nên phải dùng cùng … |
+| mục 2 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … Bạn muốn tự bỏ thuốc lá thì xem … |
+| mục 3 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | …ng dịp bạn thèm hút, nên bạn phải dùng cùng … |
 | mục 3 | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …dùng cùng mục 4 (đặt một ngày cai thuốc) và … |
 | mục 5 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Thuốc cần phối hợp xem … |
-| mục 6 | phần 22, mục 4 | Đừng ăn kẹo và đồ ăn vặt người lạ đưa, đồ uống rời khỏi tầm mắt đừng uống, đừng nhận đầu hút người khác đưa | …abinoid tổng hợp chảy ra theo đường đó, xem … |
-| mục 6 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Về thứ tự thử trước … |
+| mục 6 | phần 22, mục 4 | Đừng ăn kẹo và đồ ăn vặt người lạ đưa, đồ uống rời khỏi tầm mắt đừng uống, đừng nhận đầu hút người khác đưa | …ổng hợp cũng chảy ra theo đường đó, bạn xem … |
+| mục 6 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Về thứ tự, bạn thử trước … |
 | mục 11 | mục 14 | Mỗi tuần cộng đủ 150–300 phút vận động cường độ vừa, đi bộ nhanh là được | … Mục này và … |
-| mục 13 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Sau thức khuya bù thế nào xem … |
+| mục 13 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Cách ngủ bù sau khi thức khuya thì xem … |
 | mục 14 | mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước | … Mục này và … |
-| mục 17 | phần 1 | 01-dung-chet-som (cả phần) | …é ngã, giữ được cơ bắp, những cái đó viết ở … |
-| mục 20 | mục 22 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm sao xem … |
-| mục 20 | mục 21 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …y nào cũng uống không được tự cai gắng, xem … |
-| mục 21 | mục 20 | Uống ít rượu hoặc không uống | … Mỗi tuần uống bao nhiêu tính là nhiều xem … |
-| mục 21 | mục 22 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | …ặc không uống), muốn uống ít đi làm sao xem … |
-| mục 22 | mục 21 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | … Đã xuất hiện triệu chứng cai thì xem … |
-| mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … lớn với nước ngọt có đường, thịt chế biến (… |
-| mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … lớn với nước ngọt có đường, thịt chế biến (… |
-| mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Nên làm được … |
-| mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … Nên làm được … |
+| mục 17 | phần 1 | 01-dung-chet-som (cả phần) | … Những lợi ích đó viết ở … |
+| mục 20 | mục 22 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
+| mục 20 | mục 21 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …nào cũng uống thì không được tự cố cai, xem … |
+| mục 21 | mục 20 | Uống ít rượu hoặc không uống | … tuần uống bao nhiêu thì tính là nhiều, xem … |
+| mục 21 | mục 22 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
+| mục 22 | mục 21 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | … Nếu đã có triệu chứng cai thì xem … |
+| mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | …hiều với nước ngọt có đường, thịt chế biến (… |
+| mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | …hiều với nước ngọt có đường, thịt chế biến (… |
+| mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Bạn nên làm được … |
+| mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … Bạn nên làm được … |
 | mục 33 | phần 6, mục 26 | Đừng trông ăn sáng hay nhịn ăn kiểu 16:8 giúp kiểm soát cân nặng, giờ ăn chọn kiểu bạn giữ được lâu dài | …8 đều không có lợi thêm, xem … |
-| mục 38 | phần 3, mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … Cách chợp ngắn để tỉnh táo xem … |
+| mục 38 | phần 3, mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … Cách chợp mắt ngắn để tỉnh táo xem … |
 | mục 38 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … Đêm ngủ bao lâu xem … |
-| mục 39 | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … Mục cuối tuần cũng dậy cố định xem … |
-| mục 39 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | …i, bản thân nó liên quan bệnh tim mạch, xem … |
+| mục 39 | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … Việc cuối tuần cũng dậy đúng giờ xem … |
+| mục 39 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … này tự nó liên quan đến bệnh tim mạch, xem … |
 | mục 40 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
-| mục 40 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | …lá, càng sớm càng tốt), huyết áp mỡ máu xem … |
-| mục 40 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …eo chỉ định), sau ca đêm ngủ bù thế nào xem … |
+| mục 40 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … càng sớm càng tốt), huyết áp và mỡ máu xem … |
+| mục 40 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉ định), còn sau ca đêm ngủ bù thế nào xem … |
 
 ## 03-dung-lang-phi-suc-luc
 
