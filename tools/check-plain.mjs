@@ -1,22 +1,32 @@
-// 「说人话」检查：这一行是检索页卡片上最显眼的一段，读者多半只看它。
-// 2026-09-28 issue #42 抱怨文风 AI 味重，举的第 1 节第 33 条一行里写了医院数、
-// 病例数、分组，还用了「另一头」「产出」「干净的结局」这类要读者自己翻译的说法。
-// 这些都是 CLAUDE.md 早就禁掉的写法，只是没有机器检查，写着写着就回来了。
+// Kiểm tra dòng「Nói dễ hiểu」: đây là đoạn hiển thị to nhất trên thẻ của trang
+// tra cứu, phần lớn người đọc chỉ đọc mỗi dòng này.
+// 2026-09-28 issue #42 phàn nàn văn phong đậm mùi AI, dẫn ví dụ phần 1 mục 33:
+// một dòng chứa cả số bệnh viện, số ca bệnh, cách chia nhóm, còn dùng những
+// cách nói kiểu "đầu kia", "đầu ra" bắt người đọc tự dịch lại.
+// Đó đều là kiểu viết CLAUDE.md đã cấm từ lâu, chỉ là không có kiểm tra bằng
+// máy nên viết một thời gian lại quay về.
 //
-//   node tools/check-plain.mjs          # 列出所有不合格的说人话，有则退出码 1（CI 用）
-//   node tools/check-plain.mjs --stat     # 只按规则计数
-//   node tools/check-plain.mjs --numbers  # 加查第 ③ 样，人工排查用
+//   node tools/check-plain.mjs            # liệt kê mọi "Nói dễ hiểu" không đạt, có thì exit code 1 (CI dùng)
+//   node tools/check-plain.mjs --stat     # chỉ đếm theo từng rule
+//   node tools/check-plain.mjs --numbers  # kiểm thêm mục ③, dùng để rà thủ công
 //
-// 默认查 ①②④，第 ③ 样要加 --numbers 才查。它误报太多，不进 CI：热线号码（120、12356）、
-// 法律和金钱条目里举例用的金额（「借 1000 元」）都会被当成新数字，而这些是合法写法。
-// 检查四样：
-// ① 长度：120 字以内（空格不算字）。
-// ② 研究行话：统计缩写、研究设计、样本量。读者关心方向和量级，不关心谁做的、做了多少人。
-// ③ 新数字：说人话里的每个阿拉伯数字都要在同一条的标题、成本或收益栏里出现过。
-//    说人话只翻译收益栏，不许添数字。「四成多」「四分之一」这类汉字说法不查。
-// ④ 抽象腔：要读者自己翻译一遍的比喻和套话，名单见 VAGUE。只收确实出过问题的词，
-//    宁可漏也别误报，误报多了大家就不看了。
-// 切行用 /\r?\n/，理由见 check-refs.mjs 文件头。
+// Mặc định kiểm ①②④, mục ③ phải thêm --numbers mới kiểm. Nó báo nhầm quá
+// nhiều, không vào CI: số hotline (113, 115), số tiền ví dụ trong các mục
+// luật và tiền bạc ("vay 1 triệu") đều bị tính là số mới, trong khi đó là
+// cách viết hợp lệ.
+// Kiểm bốn thứ:
+// ① Độ dài: trong vòng 60 từ (đếm theo khoảng trắng).
+// ② Jargon nghiên cứu: viết tắt thống kê, thiết kế nghiên cứu, cỡ mẫu.
+//    Người đọc quan tâm hướng và độ lớn, không quan tâm ai làm, làm trên
+//    bao nhiêu người.
+// ③ Số mới: mỗi con số trong "Nói dễ hiểu" phải đã xuất hiện trong tiêu đề,
+//    field Chi phí hoặc Lợi ích của cùng mục. "Nói dễ hiểu" chỉ dịch lại
+//    field Lợi ích, không được thêm số. Cách viết số bằng chữ như "bốn phần
+//    mười", "một phần tư" không kiểm.
+// ④ Văn mơ hồ: ẩn dụ và sáo ngữ bắt người đọc tự dịch lại, danh sách ở VAGUE.
+//    Chỉ thu từ đã từng gây lỗi thật, thà sót còn hơn báo nhầm — báo nhầm
+//    nhiều thì không ai thèm đọc.
+// Tách dòng bằng /\r?\n/, lý do xem comment đầu check-refs.mjs.
 import { readFileSync, readdirSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -24,66 +34,78 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const STAT = process.argv.includes('--stat');
 const NUMBERS = process.argv.includes('--numbers');
-const MAX = 120;
+const MAX = 60;
 
 const JARGON = [
-  [/\b(HR|RR|OR|CI|RCT|OR值)\b/, '统计缩写'],
-  [/队列|荟萃|综述|随机|对照组|安慰剂组|双盲|样本/, '研究设计'],
-  [/\d[\d,.]*\s*(例|名受试者|名参与者|家医院|项研究|篇研究|个国家)/, '样本量'],
-  [/那组|两组|各组|组的人/, '分组'],
+  [/\b(HR|RR|OR|CI|RCT)\b/, 'viết tắt thống kê'],
+  [/đoàn hệ|tổng quan|tổng hợp|ngẫu nhiên|nhóm đối chứng|giả dược|mù đôi|cỡ mẫu|meta[- ]?analysis/i, 'thiết kế nghiên cứu'],
+  [/\d[\d.,]*\s*(ca|người tham gia|bệnh viện|nghiên cứu|quốc gia)/i, 'cỡ mẫu'],
+  [/nhóm đó|hai nhóm|mỗi nhóm/i, 'nhóm'],
 ];
-const VAGUE = ['另一头', '产出', '干净的结局', '这条路没有', '说到底', '本质上', '换句话说'];
+const VAGUE = ['đầu kia', 'phía kia', 'đầu ra', 'nói chung là'];
 
-// 数字按值比，不按字面比：「.28」和「0.28」、「11,523」和「1.15 万」是同一个数。
+// So số theo giá trị, không theo chữ viết: "0,28" và ".28", "11.523" và
+// "11,5 nghìn" là cùng một số. Tiếng Việt: "." ngăn nghìn, "," thập phân
+// (ngược tiếng Anh).
 function numbers(s) {
-  return [...s.replace(/(\d),(\d{3})/g, '$1$2').matchAll(/(\d*\.?\d+)\s*(万)?/g)]
-    .map(m => Number(m[1]) * (m[2] ? 10000 : 1));
+  // "." ngăn nghìn có thể chồng nhau (1.130.040): một lượt replace chỉ gỡ
+  // được cụm đầu vì match không chồng lấn, nên lặp tới khi chuỗi ngừng đổi.
+  let t = s, prev;
+  do { prev = t; t = t.replace(/(\d)\.(\d{3})/g, '$1$2'); } while (t !== prev);
+  t = t.replace(/(\d),(\d)/g, '$1.$2');          // 86,5 → 86.5
+  const mult = { 'tỷ': 1e9, 'triệu': 1e6, 'tr': 1e6, 'nghìn': 1e3, 'k': 1e3 };
+  return [...t.matchAll(/(\d*\.?\d+)\s*(tỷ|triệu|tr|nghìn|k)?/gi)]
+    .map(m => Number(m[1]) * (mult[(m[2] || '').toLowerCase()] || 1));
 }
-// 说人话里的 n 算不算从收益栏的 p 翻译过来的：四舍五入（45.6 → 46，5801 → 5800），
-// 或者风险比换成降幅（0.72 → 低 28%，0.53 → 低 47%）。差 5% 以内都算。
+// n trong "Nói dễ hiểu" có được coi là dịch lại từ p trong Lợi ích không:
+// làm tròn (45,6 → 46, 5801 → 5800), hoặc tỉ lệ rủi ro đổi thành mức giảm
+// (0,72 → giảm 28%, 0,53 → giảm 47%). Lệch trong 5% đều tính.
 function derived(n, p) {
   const near = (a, b) => a === b || Math.abs(a - b) <= 0.05 * Math.max(Math.abs(a), Math.abs(b));
   return near(n, p) || near(n / 100, p) || (p < 1 && near(n / 100, 1 - p)) || (p > 1 && p < 100 && near(n, 100 - p));
 }
 
 const bad = [];
-const count = { 长度: 0, 行话: 0, 新数字: 0, 抽象腔: 0 };
+const count = { 'độ dài': 0, jargon: 0, 'số mới': 0, 'mơ hồ': 0 };
 let total = 0;
 
 const files = readdirSync(resolve(ROOT, 'book')).filter(f => /^\d\d-.*\.md$/.test(f)).sort();
 for (const f of files) {
   const sec = Number(f.slice(0, 2));
-  const lines = readFileSync(resolve(ROOT, 'book', f), 'utf8').split(/\r?\n/);
+  // normalize NFC: file markdown viết bằng công cụ khác nhau có thể lưu dấu
+  // tiếng Việt dạng tổ hợp (NFD), nếu không chuẩn hóa thì nhãn "Nói dễ hiểu"
+  // khớp trật và tool âm thầm bỏ qua toàn bộ mục.
+  const lines = readFileSync(resolve(ROOT, 'book', f), 'utf8').normalize('NFC').split(/\r?\n/);
   let no = 0, title = '', fields = {};
   const flush = () => {
-    const plain = fields['说人话'];
+    const plain = fields['Nói dễ hiểu'];
     if (!no || plain == null) return;
     total++;
-    const where = `第 ${sec} 节第 ${no} 条`;
+    const where = `phần ${sec}, mục ${no}`;
     const problems = [];
-    const len = [...plain.replace(/\s/g, '')].length;
-    if (len > MAX) { problems.push(`${len} 字，超过 ${MAX}`); count.长度++; }
-    const jar = JARGON.filter(([re]) => re.test(plain)).map(([re, name]) => `${name}「${plain.match(re)[0]}」`);
-    if (jar.length) { problems.push(...jar); count.行话++; }
+    const len = plain.trim().split(/\s+/).length;
+    if (len > MAX) { problems.push(`${len} từ, vượt quá ${MAX}`); count['độ dài']++; }
+    const jar = JARGON.filter(([re]) => re.test(plain)).map(([re, name]) => `${name} "${plain.match(re)[0]}"`);
+    if (jar.length) { problems.push(...jar); count.jargon++; }
     if (NUMBERS) {
-      const pool = numbers([title, fields['成本'] ?? '', fields['收益'] ?? ''].join(' '));
+      const pool = numbers([title, fields['Chi phí'] ?? '', fields['Lợi ích'] ?? ''].join(' '));
       const fresh = [...new Set(numbers(plain))].filter(n => !pool.some(p => derived(n, p)));
-      if (fresh.length) { problems.push(`收益栏里没有的数字 ${fresh.join('、')}`); count.新数字++; }
+      if (fresh.length) { problems.push(`số không có trong tiêu đề/Chi phí/Lợi ích: ${fresh.join(', ')}`); count['số mới']++; }
     }
-    const vague = VAGUE.filter(w => plain.includes(w));
-    if (vague.length) { problems.push(`抽象说法「${vague.join('」「')}」`); count.抽象腔++; }
-    if (problems.length) bad.push(`${f}  ${where}：${problems.join('；')}`);
+    const vague = VAGUE.filter(w => plain.toLowerCase().includes(w));
+    if (vague.length) { problems.push(`cách nói mơ hồ "${vague.join('", "')}"`); count['mơ hồ']++; }
+    if (problems.length) bad.push(`${f}  ${where}: ${problems.join('; ')}`);
   };
   for (const line of lines) {
     const h = line.match(/^### (\d+)\. (.*)$/);
     if (h) { flush(); no = Number(h[1]); title = h[2]; fields = {}; continue; }
-    const m = line.match(/^- (说人话|成本|收益)：(.*)$/);
+    const m = line.match(/^- (Nói dễ hiểu|Chi phí|Lợi ích|Ghi chú):\s*(.*)$/);
     if (m && no) fields[m[1]] = m[2];
   }
   flush();
 }
 
 if (!STAT) for (const b of bad) console.log(b);
-console.log(`\n说人话共 ${total} 条，不合格 ${bad.length} 条：` +
-  Object.entries(count).map(([k, v]) => `${k} ${v}`).join('，'));
+console.log(`\n"Nói dễ hiểu" tổng ${total} dòng, không đạt ${bad.length}:` +
+  Object.entries(count).map(([k, v]) => `${k} ${v}`).join(', '));
 if (bad.length && !STAT) process.exit(1);

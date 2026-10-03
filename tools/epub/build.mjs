@@ -1,6 +1,7 @@
-// 把 README + book/*.md + docs/*.md 打成一本 EPUB 3。
-// 用法：node tools/epub/build.mjs [输出路径]   默认输出 dist/HowToLiveBetter.epub
-// 只依赖 marked；zip 自己写（EPUB 要求 mimetype 第一个且不压缩，通用 zip 库不一定保证）。
+// Đóng README + book/*.md + docs/*.md thành một cuốn EPUB 3.
+// Dùng: node tools/epub/build.mjs [đường dẫn output]   mặc định dist/HowToLiveBetter.epub
+// Chỉ phụ thuộc marked; zip tự viết (EPUB bắt mimetype nằm đầu tiên và không
+// nén, thư viện zip thông dụng không chắc bảo đảm).
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { resolve, dirname, posix } from 'node:path';
 import { deflateRawSync } from 'node:zlib';
@@ -16,48 +17,51 @@ const COMMIT = gitCommit();
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const plain = html => html.replace(/<[^>]+>/g, '');
 
-// ---------- 从 README 取内容与文件清单 ----------
+// ---------- Lấy nội dung và danh sách file từ README ----------
 const book = readBook();
 const { description, frontMd, bookFiles, docFiles } = book;
-const contentsMd = book.contentsMd.replace(/^## 目录/, '# 各节简介');
+const contentsMd = book.contentsMd.replace(/^## Mục lục/, '# Giới thiệu các phần');
 
-// ---------- 页面清单 ----------
-// 每页：xhtml 文件名、来源 md 的仓库路径（用来解析相对链接）、md 正文
+// ---------- Danh sách trang ----------
+// Mỗi trang: tên file xhtml, đường dẫn repo của md nguồn (để giải link tương
+// đối), thân md
 const pages = [
-  { file: 'front.xhtml', src: 'README.md', title: '前言', md: `# ${TITLE}\n\n${description}\n\n${frontMd}` },
-  { file: 'contents.xhtml', src: 'README.md', title: '各节简介', md: contentsMd },
+  { file: 'front.xhtml', src: 'README.md', title: 'Lời nói đầu', md: `# ${TITLE}\n\n${description}\n\n${frontMd}` },
+  { file: 'contents.xhtml', src: 'README.md', title: 'Giới thiệu các phần', md: contentsMd },
   ...bookFiles.map((src, i) => ({ file: `ch${String(i + 1).padStart(2, '0')}.xhtml`, src, md: stripBackLink(read(src)) })),
   ...docFiles.map((src, i) => ({ file: `doc${i + 1}.xhtml`, src, md: stripBackLink(read(src)) })),
-  { file: 'about.xhtml', src: 'README.md', title: '版本说明', md: aboutMd() },
+  { file: 'about.xhtml', src: 'README.md', title: 'Thông tin phiên bản', md: aboutMd() },
 ];
 const pageByPath = new Map(pages.map(p => [p.src, p.file]));
 pageByPath.set('README.md', 'front.xhtml');
 
 function aboutMd() {
-  const commitLine = COMMIT ? `- 对应提交：[${COMMIT.slice(0, 7)}](${REPO}/commit/${COMMIT})` : '';
-  return `# 版本说明
+  const commitLine = COMMIT ? `- Bản nội dung tương ứng: [${COMMIT.slice(0, 7)}](${REPO}/commit/${COMMIT})` : '';
+  return `# Thông tin phiên bản
 
-这本电子书由仓库里的 Markdown 正文自动生成，正文一改就重新生成一本。手里这本的版本：
+Cuốn ebook này được tạo tự động từ nội dung Markdown trong repo; nội dung đổi là tạo lại một bản mới. Bản bạn đang cầm:
 
-- 生成时间：${buildStamp()}（北京时间）
+- Thời điểm tạo: ${buildStamp()} (giờ Việt Nam)
 ${commitLine}
-- 最新版下载：${RELEASE}
-- 在线检索页（按关键词、章节、证据等级和成本筛选）：${SITE}
-- 仓库、提意见、看每条来源的核实记录：${REPO}
+- Tải bản mới nhất: ${RELEASE}
+- Trang tra cứu online (lọc theo từ khóa, phần, mức chứng cứ và chi phí): ${SITE}
+- Repo, góp ý, xem ghi chép kiểm chứng nguồn của từng mục: ${REPO}
 
-正文里指向仓库内其他文件的链接已改成书内跳转；指向核实记录、许可证这类没收进书的文件的链接改成了 GitHub 网址。
+Các link trong nội dung trỏ tới file khác trong repo đã đổi thành nhảy nội bộ trong sách; link trỏ tới ghi chép kiểm chứng, giấy phép — những file không đưa vào sách — đã đổi thành URL GitHub.
 
-正文以 CC BY 4.0 发布（https://creativecommons.org/licenses/by/4.0/）。可以转载、改编、商用，要写明出处「高性价比人生指南」并附仓库链接，改过内容的要注明改过。`;
+Nội dung phát hành theo CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Có thể đăng lại, chuyển thể, dùng thương mại; phải ghi nguồn «Cẩm nang sống đáng giá» kèm link repo, nội dung đã sửa phải ghi chú là đã sửa.`;
 }
 
 // ---------- Markdown → XHTML ----------
-let current = null; // 正在转换的页
+let current = null; // trang đang chuyển đổi
 let headingSeq = 0;
 const marked = new Marked({ gfm: true });
 marked.use({
-  // GFM 的裸网址自动链接只在空白处断开，「www.12333.gov.cn网页、手机12333客户端」这种
-  // 中文紧贴网址的写法会把后面整串中文都吞进链接，epubcheck 判为非法 URL（RSC-020）。
-  // 裸网址里本来就不该有非 ASCII 字符，遇到就截在那里，截下的前半段照常按默认规则建链接。
+  // Autolink URL trần của GFM chỉ ngắt ở khoảng trắng; kiểu viết chữ dính liền
+  // URL (trước đây là chữ Hán, giờ là chữ Việt có dấu — cũng là non-ASCII)
+  // sẽ nuốt cả đoạn phía sau vào link, epubcheck báo URL không hợp lệ
+  // (RSC-020). URL trần vốn không nên chứa ký tự non-ASCII, gặp là cắt tại
+  // đó, phần đứng trước vẫn tạo link theo quy tắc mặc định.
   tokenizer: {
     url(src) {
       const tok = Tokenizer.prototype.url.call(this, src);
@@ -101,7 +105,7 @@ function toXhtml(body) {
 
 function wrap(title, body) {
   return `<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="zh-CN" lang="zh-CN">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="vi" lang="vi">
 <head>
 <meta charset="utf-8"/>
 <title>${esc(title)}</title>
@@ -121,7 +125,7 @@ for (const p of pages) {
   p.xhtml = wrap(p.title, `<section epub:type="chapter">\n${body}</section>\n`);
 }
 
-// ---------- 导航 ----------
+// ---------- Điều hướng ----------
 const navItems = pages.map(p => {
   const [first, ...rest] = p.headings;
   const top = first?.depth === 1 ? { href: `${p.file}#${first.id}`, text: p.title } : { href: p.file, text: p.title };
@@ -129,16 +133,16 @@ const navItems = pages.map(p => {
   return { ...top, subs };
 });
 
-const navXhtml = wrap('目录', `<nav epub:type="toc" id="toc">
-<h1>目录</h1>
+const navXhtml = wrap('Mục lục', `<nav epub:type="toc" id="toc">
+<h1>Mục lục</h1>
 <ol>
 ${navItems.map(n => `<li><a href="${n.href}">${n.text}</a>${n.subs.length ? `\n<ol>\n${n.subs.map(s => `<li><a href="${s.href}">${s.text}</a></li>`).join('\n')}\n</ol>\n` : ''}</li>`).join('\n')}
 </ol>
 </nav>
 <nav epub:type="landmarks" hidden="hidden">
 <ol>
-<li><a epub:type="cover" href="cover.xhtml">封面</a></li>
-<li><a epub:type="bodymatter" href="${pages[2].file}">正文</a></li>
+<li><a epub:type="cover" href="cover.xhtml">Bìa</a></li>
+<li><a epub:type="bodymatter" href="${pages[2].file}">Nội dung</a></li>
 </ol>
 </nav>
 `);
@@ -146,7 +150,7 @@ ${navItems.map(n => `<li><a href="${n.href}">${n.text}</a>${n.subs.length ? `\n<
 let play = 0;
 const navPoint = n => `<navPoint id="np${++play}" playOrder="${play}"><navLabel><text>${n.text}</text></navLabel><content src="${n.href}"/>${n.subs?.map(navPoint).join('') ?? ''}</navPoint>`;
 const ncx = `<?xml version="1.0" encoding="UTF-8"?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh-CN">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="vi">
 <head>
 <meta name="dtb:uid" content="${BOOK_ID}"/>
 <meta name="dtb:depth" content="2"/>
@@ -160,17 +164,18 @@ ${navItems.map(navPoint).join('\n')}
 </ncx>
 `;
 
-// ---------- 封面、OPF、容器 ----------
+// ---------- Bìa, OPF, container ----------
 const coverXhtml = wrap(TITLE, `<div class="cover"><img src="cover.png" alt="${esc(TITLE)}"/></div>\n`);
 const modified = NOW.toISOString().replace(/\.\d{3}Z$/, 'Z');
 const manifestPages = pages.map(p => `<item id="${p.file.replace('.xhtml', '')}" href="${p.file}" media-type="application/xhtml+xml"/>`);
 const opf = `<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="zh-CN">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="vi">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="pub-id">${BOOK_ID}</dc:identifier>
 <dc:title>${TITLE}</dc:title>
-<dc:language>zh-CN</dc:language>
-<dc:creator>eternity4719</dc:creator>
+<dc:language>vi</dc:language>
+<dc:creator id="dichgia">Long Trịnh</dc:creator>
+<meta refines="#dichgia" property="role" scheme="marc:relators">trl</meta>
 <dc:description>${esc(description)}</dc:description>
 <dc:source>${REPO}</dc:source>
 <dc:rights>CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）</dc:rights>
@@ -198,7 +203,7 @@ const container = `<?xml version="1.0" encoding="UTF-8"?>
 </container>
 `;
 
-// ---------- 打 zip ----------
+// ---------- Đóng zip ----------
 const entries = [
   { name: 'mimetype', data: Buffer.from('application/epub+zip'), store: true },
   { name: 'META-INF/container.xml', data: Buffer.from(container) },
@@ -213,7 +218,7 @@ const entries = [
 mkdirSync(dirname(OUT), { recursive: true });
 writeFileSync(OUT, zip(entries));
 const entryCount = pages.filter(p => p.file.startsWith('ch')).reduce((n, p) => n + p.headings.filter(h => h.depth === 3).length, 0);
-console.log(`已生成 ${OUT}：${bookFiles.length} 节 ${entryCount} 条，附录 ${docFiles.length} 篇，${(entries.reduce((n, e) => n + e.data.length, 0) / 1024 | 0)} KB 未压缩`);
+console.log(`Đã tạo ${OUT}: ${bookFiles.length} phần ${entryCount} mục, phụ lục ${docFiles.length} bài, ${(entries.reduce((n, e) => n + e.data.length, 0) / 1024 | 0)} KB chưa nén`);
 
 function zip(files) {
   const crcTable = new Int32Array(256).map((_, n) => {
