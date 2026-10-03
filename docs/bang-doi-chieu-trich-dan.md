@@ -849,28 +849,28 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | …huê tính thế nào, kỹ năng chọn thế nào, xem … |
-| Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …i nạn lao động và bồi thường nghỉ việc, xem … |
-| Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …Vốn mở tiệm làm công ty và thoái tràng, xem … |
+| Mở đầu phần | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … làm tính thế nào, chọn kỹ năng ra sao, xem … |
+| Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …, tai nạn lao động và trợ cấp thôi việc xem … |
+| Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …mở quán, lập công ty cùng đường rút lui xem … |
 | Mở đầu phần | phần 32 | 32-du-hoc-nuoc-ngoai (cả phần) | … Du học xem … |
-| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Bảo đảm sau thất nghiệp xem … |
+| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Chế độ hỗ trợ sau khi mất việc xem … |
 | mục 1 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
 | mục 1 | mục 12 | Giao đồ ăn, chạy xe gọi trên mạng, kéo hàng đồng thành, nền tảng theo đơn đóng phí bảo đảm tổn thương nghề cho bạn, mình không đóng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
-| mục 2 | mục 3 | Sau khi ứng chiêu từ chối phục binh dịch, trong hai năm không được xuất cảnh hay lên học phục học, còn vào không được công chức và doanh nghiệp nhà nước | … chỉ phạt người ứng chiêu rồi trở mình, xem … |
+| mục 2 | mục 3 | Sau khi ứng chiêu từ chối phục binh dịch, trong hai năm không được xuất cảnh hay lên học phục học, còn vào không được công chức và doanh nghiệp nhà nước | …chỉ phạt người ứng chiêu rồi lại đổi ý, xem … |
 | mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … Luật Binh dịch Điều 57 khoản 1 … |
 | mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … "có hành vi … |
-| mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | …h không nằm trong đó, đăng ký binh dịch xem … |
-| mục 10 | phần 23, mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …nh" mua bằng tiền và chứng chỉ sơn trại xem … |
-| mục 10 | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | …kỹ năng nào đáng" là hai việc, việc sau xem … |
-| mục 11 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …ã hội bù thế nào, năm tích lũy thế nào, xem … |
-| mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …ệu, mục việc làm linh hoạt cũng dẫn nó, xem … |
-| mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …m, việc làm linh hoạt tham gia bảo hiểm xem … |
-| mục 14 | phần 21, mục 5 | "Tuyển dụng nước ngoài lương cao" nhất loạt coi là lừa đảo, bị lừa đi làm điện lừa về còn bị hạn chế xuất cảnh | …ương cao ngoại cảnh và khu lừa đảo điện xem … |
-| mục 14 | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …an toàn phải tra trước xuất phát và 12308 ở … |
-| mục 15 | mục 14 | Muốn ra nước ngoài làm thuê, trước tra công ty này có tư cách kinh doanh hợp tác lao vụ đối ngoại không: nó không được thu bạn đặt cọc | …ủ dùng người ngoại cảnh là một bộ khác, xem … |
+| mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … đăng ký binh dịch xem … |
+| mục 10 | phần 23, mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ng chỉ "hàng nhái" không được công nhận xem … |
+| mục 10 | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … giá" là hai chuyện khác nhau, việc sau xem … |
+| mục 11 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …óng bù thế nào, số năm tích lũy ra sao, xem … |
+| mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iệc làm linh hoạt cũng dẫn văn bản này, xem … |
+| mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …ch tham gia bảo hiểm việc làm linh hoạt xem … |
+| mục 14 | phần 21, mục 5 | "Tuyển dụng nước ngoài lương cao" nhất loạt coi là lừa đảo, bị lừa đi làm điện lừa về còn bị hạn chế xuất cảnh | … ở nước ngoài và khu lừa đảo viễn thông xem … |
+| mục 14 | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …u trước khi xuất phát cùng tổng đài 12308 ở … |
+| mục 15 | mục 14 | Muốn ra nước ngoài làm thuê, trước tra công ty này có tư cách kinh doanh hợp tác lao vụ đối ngoại không: nó không được thu bạn đặt cọc | …oài là chuyện khác, theo quy định khác, xem … |
 | mục 16 | phần 12, mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … Lập trường của sách này ở … |
-| mục 16 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …thực tập việc làm trong kỳ thất nghiệp, xem … |
-| mục 16 | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …giấy phép khả, báo thuế và thoái tràng, xem … |
+| mục 16 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …p việc làm trong thời gian thất nghiệp, xem … |
+| mục 16 | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … khai thuế và thủ tục rút lui đóng cửa, xem … |
 
 ## 32-du-hoc-nuoc-ngoai
 
