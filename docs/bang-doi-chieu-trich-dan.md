@@ -526,7 +526,7 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| mục 1 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …thì đi đường kiện theo thủ tục rút gọn, xem … |
+| mục 1 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …thì bạn đi thủ tục tố tụng giá trị nhỏ, xem … |
 | mục 7 | mục 6 | Trước khi ký hợp đồng đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp, mọi khoản tiền đều chuyển khoản và ghi chú mục đích | …n đều chuyển khoản và ghi chú mục đích, xem … |
 
 ## 16-song-sau-khi-mac-benh-man-tinh
