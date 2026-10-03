@@ -713,10 +713,10 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | … viên kỹ thuật đi làm thuê, làn ranh đỏ xem … |
-| Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … ty đăng ký thế nào, khai thuế thế nào, xem … |
-| Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | …ếp là việc nền tảng ngày nào cũng phải làm, … |
-| mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …g nội địa, tiền trong nội địa, mấy nghĩa vụ … |
+| Mở đầu phần | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | … thuật đi làm thuê, làn ranh đỏ của bạn xem … |
+| Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … đăng ký thế nào, khai thuế thế nào thì xem … |
+| Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | … Riêng … |
+| mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
 | mục 11 | phần 11, mục 16 | Website, app phải đăng ký ICP trước khi lên kệ; theo yêu cầu bảo vệ cấp độ giữ log ít nhất 6 tháng | …hĩa vụ lưu log 6 tháng và bảo vệ cấp độ xem … |
 
 ## 27-mang-thai-va-sinh-con
