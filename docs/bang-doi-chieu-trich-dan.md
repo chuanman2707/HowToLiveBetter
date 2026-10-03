@@ -565,7 +565,7 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Giống như … |
 | Mở đầu phần | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …ng thai và cần đi thủ tục từng bước thì xem … |
 | mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Đòi bồi thường thế nào xem … |
-| mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ổi việc trái luật, đường đòi bồi thường xem … |
+| mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …uổi việc trái luật, cách đòi bồi thường xem … |
 | mục 4 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách tính giống cách tính việc nhà ở … |
 | mục 6 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | … Cách xét giống … |
 
