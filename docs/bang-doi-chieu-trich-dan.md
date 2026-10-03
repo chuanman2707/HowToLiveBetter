@@ -886,41 +886,41 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | … Ngăn không cho tàn tật thế nào, ở … |
-| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …Ngăn không cho tàn tật thế nào, ở phần 1 và … |
-| Mở đầu phần | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …y loại và một tới bốn cấp đánh thế nào, xem … |
+| Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | … Cách ngăn không cho tàn tật đã viết ở … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … ngăn không cho tàn tật đã viết ở phần 1 và … |
+| Mở đầu phần | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …ấp một tới cấp bốn đánh giá ra sao, bạn xem … |
 | Mở đầu phần | phần 24, mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …hương tật phải đợi tới lúc nào mới làm, xem … |
-| Mở đầu phần | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | … trợ cấp người khuyết tật lĩnh thế nào, xem … |
+| Mở đầu phần | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …khoản trợ cấp người khuyết tật thế nào, xem … |
 | Mở đầu phần | phần 19, mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …à cấp thương tật quy ra bao nhiêu tiền, xem … |
-| Mở đầu phần | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | … hạn mất năng lực mức nặng xin thế nào, xem … |
-| mục 2 | phần 29, mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | … Muốn người ngồi nói chuyện gọi 12356, xem … |
+| Mở đầu phần | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …ho người mất năng lực mức nặng thế nào, xem … |
+| mục 2 | phần 29, mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …có người ngồi nói chuyện thì gọi 12356, xem … |
 | mục 2 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ng tích trữ thuốc ngủ và thuốc trừ sâu, xem … |
-| mục 2 | phần 29, mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | …a tâm thần hay tâm lý lâm sàng treo số, xem … |
-| mục 3 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …có xung động làm đau người thì thế nào, xem … |
-| mục 4 | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | … của chính người chăm đừng ngừng thuốc, xem … |
-| mục 5 | phần 17, mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …n, giường đệm khí và định giờ lật mình, xem … |
-| mục 5 | mục 7 | Thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được | …khí cụ phụ trợ kiểu cơ bản xin thế nào, xem … |
-| mục 6 | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | … thoại bảo kiện phẩm là cùng một đường, xem … |
-| mục 6 | phần 5, mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | …ua hàng mạng và tiêu dùng trả trước đi, xem … |
-| mục 7 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …và trợ cấp hộ lý người khuyết tật nặng, xem … |
-| mục 7 | mục 8 | Con dưới 7 tuổi lại có khuyết tật hay cô độc chứng, đến liên hiệp hội khuyết tật cấp huyện xin cứu trợ phục hồi chức năng | … trợ phục hồi chức năng trẻ khuyết tật, xem … |
-| mục 7 | mục 9 | Cải tạo ramp, tay vịn và phòng tắm trong nhà, có thể xin trợ cấp lên chính phủ cấp huyện trở lên | …o thiết thi không chướng ngại gia đình, xem … |
+| mục 2 | phần 29, mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | …ám ở khoa tâm thần hay tâm lý lâm sàng, xem … |
+| mục 3 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …g động làm đau người thì xử lý thế nào, xem … |
+| mục 4 | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | … chính người chăm thì đừng ngừng thuốc, xem … |
+| mục 5 | phần 17, mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …ồm giường đệm khí và định giờ lật mình, xem … |
+| mục 5 | mục 7 | Thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được | …hát khí cụ phụ trợ kiểu cơ bản thế nào, xem … |
+| mục 6 | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …phẩm bảo vệ sức khỏe cũng đi đường này, xem … |
+| mục 6 | phần 5, mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | …a mua hàng mạng và tiêu dùng trả trước, xem … |
+| mục 7 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …rợ cấp hộ lý cho người khuyết tật nặng, xem … |
+| mục 7 | mục 8 | Con dưới 7 tuổi lại có khuyết tật hay cô độc chứng, đến liên hiệp hội khuyết tật cấp huyện xin cứu trợ phục hồi chức năng | … phục hồi chức năng cho trẻ khuyết tật, xem … |
+| mục 7 | mục 9 | Cải tạo ramp, tay vịn và phòng tắm trong nhà, có thể xin trợ cấp lên chính phủ cấp huyện trở lên | …ết bị không chướng ngại trong gia đình, xem … |
 | mục 7 | mục 10 | Lúc tìm việc chủ động nói rõ mình có thẻ, doanh nghiệp chiêu bạn được trừ đi một khoản tiền | …iệc làm theo tỷ lệ và dịch vụ việc làm, xem … |
-| mục 7 | mục 11 | Thuế thu nhập cá nhân của người khuyết tật có thể giảm thu, giảm bao nhiêu gọi điện hỏi cục thuế tỉnh | … Sáu là giảm thu thuế thu nhập cá nhân, xem … |
-| mục 7 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | … Lưu trình làm thẻ bản thân xem … |
-| mục 8 | mục 6 | Đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" | … Cơ cấu hứa "bao khỏi" xử theo … |
+| mục 7 | mục 11 | Thuế thu nhập cá nhân của người khuyết tật có thể giảm thu, giảm bao nhiêu gọi điện hỏi cục thuế tỉnh | … Sáu là giảm thuế thu nhập cá nhân, xem … |
+| mục 7 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | … Cách làm tấm thẻ thì xem … |
+| mục 8 | mục 6 | Đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" | … Cơ sở hứa "bao khỏi" thì xử lý theo … |
 | mục 10 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …hăn việc làm và trợ cấp bảo hiểm xã hội xem … |
 | mục 10 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | … Trợ cấp đào tạo nghề xem … |
-| mục 13 | mục 14 | Con khuyết tật xin nhập học, trường không được từ chối nhận; tới không được trường thì cục giáo dục an bài đưa dạy tới cửa | …c trường không được từ chối nhận mục đó xem … |
-| mục 14 | phần 30, mục 3 | Con bị bắt nạt, ngay hôm đó báo lên trường và yêu cầu xử lý có văn bản, liên quan đánh người, cướp tiền, tung tin đồn trực tiếp báo cảnh sát | …ế nào, trường phải đi đạo trình tự nào, xem … |
-| mục 14 | mục 13 | Người khuyết tật thi đại học có thể xin tiện nghi hợp lý, đề dùng chữ mù thời gian thi cộng một nửa | … Tiện nghi hợp lý thi đại học xem … |
-| mục 16 | phần 24, mục 1 | Bệnh thường khám ở cộng đồng trước, chuyển tuyến từng cấp lên trên, vạch khởi tuyến nằm viện tính nối tiếp | … thế nào, vạch khởi tuyến tính thế nào, xem … |
-| mục 16 | mục 7 | Thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được | …ồi cộng đồng và phối trí khí cụ phụ trợ xem … |
-| mục 17 | mục 13 | Người khuyết tật thi đại học có thể xin tiện nghi hợp lý, đề dùng chữ mù thời gian thi cộng một nửa | …thi đại học có thể miễn nghe ngoại ngữ, xem … |
+| mục 13 | mục 14 | Con khuyết tật xin nhập học, trường không được từ chối nhận; tới không được trường thì cục giáo dục an bài đưa dạy tới cửa | … học trường không được từ chối nhận thì xem … |
+| mục 14 | phần 30, mục 3 | Con bị bắt nạt, ngay hôm đó báo lên trường và yêu cầu xử lý có văn bản, liên quan đánh người, cướp tiền, tung tin đồn trực tiếp báo cảnh sát | … thế nào, trường phải đi quy trình nào, xem … |
+| mục 14 | mục 13 | Người khuyết tật thi đại học có thể xin tiện nghi hợp lý, đề dùng chữ mù thời gian thi cộng một nửa | … Tiện nghi hợp lý khi thi đại học xem … |
+| mục 16 | phần 24, mục 1 | Bệnh thường khám ở cộng đồng trước, chuyển tuyến từng cấp lên trên, vạch khởi tuyến nằm viện tính nối tiếp | … đầu được bảo hiểm chi trả tính ra sao, xem … |
+| mục 16 | mục 7 | Thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được | …ồi cộng đồng và cấp phát khí cụ phụ trợ xem … |
+| mục 17 | mục 13 | Người khuyết tật thi đại học có thể xin tiện nghi hợp lý, đề dùng chữ mù thời gian thi cộng một nửa | …c có thể được miễn phần nghe ngoại ngữ, xem … |
 | mục 17 | mục 15 | Mất chi dưới phải hay cả hai chi dưới cũng thi được bằng lái, loại chuẩn lái gọi C5 | …lực lái xe phải đeo thiết bị trợ thính, xem … |
-| mục 18 | mục 19 | Người giám hộ của người lớn định theo thứ tự định pháp; người bị giám hộ làm đau người khác, do người giám hộ đền | … Người giám hộ định thế nào xem … |
-| mục 19 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | …ranh nghị phía sau, viết cụ thể thế nào xem … |
-| mục 20 | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ộng đi trọng tài, lưu chứng và hiệu hạn xem … |
+| mục 18 | mục 19 | Người giám hộ của người lớn định theo thứ tự định pháp; người bị giám hộ làm đau người khác, do người giám hộ đền | … Người giám hộ được định thế nào thì xem … |
+| mục 19 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | … cách viết cụ thể xem … |
+| mục 20 | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … cách lưu chứng và thời hạn xem … |
 
 ## 34-thuoc-san-trong-nha-dung-de-uong-thanh-hoa
 
