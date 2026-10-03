@@ -535,7 +535,7 @@ Tổng cộng 765 trích dẫn.
 | --- | --- | --- | --- |
 | mục 4 | phần 6 | 06-danh-sach-nen-tranh (cả phần) | … Những loại vô hiệu thường gặp, … |
 | mục 8 | phần 6, mục 21 | Đừng kiêng canxi để phòng sỏi thận | … Đừng vì phòng sỏi mà kiêng hẳn canxi, xem … |
-| mục 8 | phần 1, mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …máu không đau lại có thứ khác cần khám, xem … |
+| mục 8 | phần 1, mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …mà không đau thì còn thứ khác cần khám, xem … |
 | mục 9 | phần 6, mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …c cao mà chưa từng phát là chuyện khác, xem … |
 | mục 9 | phần 2, mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Đồ uống có đường và rượu xem … |
 | mục 9 | phần 2, mục 20 | Uống ít rượu hoặc không uống | … Đồ uống có đường và rượu xem … |
