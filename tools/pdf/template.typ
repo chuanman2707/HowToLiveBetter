@@ -21,7 +21,7 @@ $--
 #set smartquote(enabled: false)
 
 // ---------- Layout ----------
-#set document(title: "$booktitle$", author: "chuanman2707")
+#set document(title: "$booktitle$", author: "Long Trịnh (dịch)")
 #set text(
   // Latin dùng Libertinus có sẵn của typst, tiếng Việt tìm theo mức có sẵn:
   // trên CI là Noto (fonts-noto), trên máy là Segoe UI/Arial — đủ dấu tiếng Việt
@@ -57,7 +57,9 @@ $--
   #image("/og.png", width: 100%)
   #v(1.2cm)
   #block(width: 80%)[#text(11.5pt, fill: luma(60))[$subtitle$]]
-  #v(2cm)
+  #v(1.2cm)
+  #text(12pt)[Dịch giả: Long Trịnh]
+  #v(0.8cm)
   #text(10pt, fill: luma(90))[
     Tạo lúc $builddate$ (giờ Việt Nam)　·　nội dung ở commit $commit$ \
     Nội dung cập nhật mỗi ngày, lấy bản online làm chuẩn: $site$ \

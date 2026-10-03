@@ -174,7 +174,8 @@ const opf = `<?xml version="1.0" encoding="UTF-8"?>
 <dc:identifier id="pub-id">${BOOK_ID}</dc:identifier>
 <dc:title>${TITLE}</dc:title>
 <dc:language>vi</dc:language>
-<dc:creator>chuanman2707</dc:creator>
+<dc:creator id="dichgia">Long Trịnh</dc:creator>
+<meta refines="#dichgia" property="role" scheme="marc:relators">trl</meta>
 <dc:description>${esc(description)}</dc:description>
 <dc:source>${REPO}</dc:source>
 <dc:rights>CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）</dc:rights>
