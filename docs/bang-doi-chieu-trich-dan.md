@@ -404,15 +404,15 @@ Tổng cộng 765 trích dẫn.
 | --- | --- | --- | --- |
 | mục 4 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | … … |
 | mục 12 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Nên cái hữu dụng hơn vẫn là bước ở … |
-| mục 12 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …y tắc chung về giấy nợ và giấy bảo lãnh xem … |
-| mục 13 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …an bình tĩnh 30 ngày của đăng ký ly hôn xem … |
+| mục 12 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …c chung về giấy nợ và giấy bảo lãnh bạn xem … |
+| mục 13 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ình tĩnh 30 ngày của đăng ký ly hôn bạn xem … |
 | mục 17 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …i ích nào là của bạn, các mục 8 (sức khỏe), … |
+| mục 17 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
+| mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
+| mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
+| mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …oản thời gian), mục 10 đến 12 (khoản tiền), … |
+| mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …khoản tiền), mục 15 (chất lượng quan hệ) và … |
 | mục 17 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …động chuyển thành lợi ích sức khỏe của bạn (… |
 | mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …hỏe của bạn (mục 8) hay chất lượng quan hệ (… |
 | mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | … Còn khoản thời gian (… |
@@ -420,10 +420,10 @@ Tổng cộng 765 trích dẫn.
 | mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Còn khoản thời gian (mục 9), khoản tiền (… |
 | mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … Còn khoản thời gian (mục 9), khoản tiền (… |
 | mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền (mục 10 đến 12) và chi phí rút lui (… |
-| mục 18 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …vấn đề giao tiếp, là bạo hành gia đình, xem … |
-| mục 18 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ghĩ kỹ có nên đi không, chi phí rút lui xem … |
-| mục 19 | phần 17, mục 2 | Lập di chúc đi, nhớ di chúc lập sau lật đổ di chúc lập trước, di chúc công chứng không còn ưu tiên | … Lập mấy bản di chúc thì lấy bản cuối, xem … |
-| mục 19 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | … Giám hộ tự định làm thế nào, xem … |
+| mục 18 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …giao tiếp, mà là bạo hành gia đình, bạn xem … |
+| mục 18 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …kỹ có nên đi không, chi phí rút lui bạn xem … |
+| mục 19 | phần 17, mục 2 | Lập di chúc đi, nhớ di chúc lập sau lật đổ di chúc lập trước, di chúc công chứng không còn ưu tiên | …p mấy bản di chúc thì lấy bản cuối, bạn xem … |
+| mục 19 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | … Giám hộ tự định làm thế nào, bạn xem … |
 | mục 20 | mục 19 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | …hân bảo vệ, tài sản phải viết rõ riêng, xem … |
 | mục 20 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … thời gian bình tĩnh 30 ngày hoặc kiện, xem … |
 
