@@ -149,15 +149,15 @@ Tổng cộng 765 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | mục 2 | mục 3 | Quyết định có tiếp tục không thì chỉ nhìn đầu tư tương lai và hồi báo tương lai, đừng nhìn đã đổ vào bao nhiêu | … đầu tư tương lai và hồi báo tương lai, xem … |
-| mục 9 | mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | … Động tác cụ thể ở … |
+| mục 9 | mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | … Động tác cụ thể xem … |
 | mục 9 | mục 7 | Chia việc lớn thành việc con rồi mới ước thời gian, mới bắt tay | …thành "mấy giờ, ở đâu, gặp gì thì làm gì"), … |
-| mục 9 | mục 8 | Việc không có hạn chót bên ngoài thì tự đặt cho nó một ngày | …gì"), mục 7 (chia việc lớn thành việc con), … |
-| mục 10 | phần 3, mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | …goài tầm nhìn đã có người đo trực tiếp, xem … |
-| mục 11 | phần 2, mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Cai thuốc bản thân cai thế nào xem … |
+| mục 9 | mục 8 | Việc không có hạn chót bên ngoài thì tự đặt cho nó một ngày | …"), mục 7 (chia việc lớn thành việc con) và … |
+| mục 10 | phần 3, mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … tầm nhìn thì đã có người đo trực tiếp, xem … |
+| mục 11 | phần 2, mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | …êng việc cai thuốc thì cai thế nào, bạn xem … |
 | mục 12 | mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | …buộc động tác vào một bối cảnh cố định, xem … |
-| mục 13 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ạng sa sút hoặc lo âu rõ thì trước làm theo … |
-| mục 13 | mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … Thứ kiểm soát kích thích đó ở … |
-| mục 15 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …lại bao nhiêu, tâm trạng đổi bao nhiêu, xem … |
+| mục 13 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …sa sút hoặc lo âu rõ thì bạn làm trước theo … |
+| mục 13 | mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … Phần kiểm soát kích thích nằm ở … |
+| mục 15 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …i bao nhiêu và tâm trạng đổi bao nhiêu, xem … |
 
 ## 05-dung-lang-phi-tien
 
