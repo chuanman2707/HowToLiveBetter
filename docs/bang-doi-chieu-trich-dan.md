@@ -724,17 +724,17 @@ Tổng cộng 765 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | …inh con, nghỉ thai sản và tiền nuôi con xem … |
-| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | …ó đáng không), con sinh ra chăm thế nào xem … |
-| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …em phần 20 (chăm trẻ sơ sinh), bệnh cấp xem … |
+| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Con sinh ra chăm thế nào xem … |
+| Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bệnh cấp xem … |
 | mục 3 | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | …gan B và globulin miễn dịch viêm gan B (xem … |
 | mục 3 | phần 1 | 01-dung-chet-som (cả phần) | … Phòng và xét nghiệm thường ngày xem … |
-| mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ơi nhiễm khi xảy ra hành vi nguy cơ cao xem … |
-| mục 4 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …Tiền của thuốc rượu với chính người lớn xem … |
-| mục 7 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … chỉ hướng là huyết khối tĩnh mạch sâu (xem … |
-| mục 11 | phần 18, mục 2 | Nghỉ thai sản 98 ngày, trợ cấp sinh con do quỹ bảo hiểm sinh sản chi trả theo lương bình quân tháng năm trước của người lao động trong đơn vị | …ai sản và trợ cấp sinh con tính thế nào xem … |
+| mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …u phơi nhiễm khi có hành vi nguy cơ cao xem … |
+| mục 4 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … ảnh hưởng thế nào tới chính người lớn, xem … |
+| mục 7 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …thì hướng tới huyết khối tĩnh mạch sâu (xem … |
+| mục 11 | phần 18, mục 2 | Nghỉ thai sản 98 ngày, trợ cấp sinh con do quỹ bảo hiểm sinh sản chi trả theo lương bình quân tháng năm trước của người lao động trong đơn vị | … thai sản và cách tính trợ cấp sinh con xem … |
 | mục 16 | mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Trong danh sách "đi bệnh viện ngay" ở … |
-| mục 16 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Có ý nghĩ tự tử lúc xử thế nào xem … |
-| mục 16 | phần 9, mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | …ật nuôi không nổi lúc đường ra hợp pháp xem … |
+| mục 16 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Nếu bạn có ý nghĩ tự tử, xem … |
+| mục 16 | phần 9, mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | … sự không nuôi nổi con, lối đi hợp pháp xem … |
 
 ## 28-dung-vi-ngoai-hinh-pha-hong-suc-khoe
 
