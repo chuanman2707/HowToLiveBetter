@@ -10,8 +10,9 @@ thành văn của "một giáo sư viết sách khuyên người trẻ" — ngư
 người đọc. Đây là viết lại **văn phong**, không phải dịch lại nội dung: mọi dữ kiện, con số,
 kết luận giữ nguyên.
 
-Spec này là văn bản điều khiển toàn bộ công việc. Agent thực thi (claude CLI) đọc spec này cùng
-`CLAUDE.md` trước khi viết lại từng chương.
+Spec này là văn bản điều khiển toàn bộ công việc. Orchestrator (một phiên claude do chủ sách
+mở trong kho này) đọc spec này cùng `CLAUDE.md` rồi tự điều phối các CLI worker; mọi lời gọi
+worker đi qua `tools/rewrite-worker.sh` để dùng chung một prompt chuẩn.
 
 ## Giọng văn mục tiêu
 
@@ -164,92 +165,84 @@ Sau: viết mỗi chỗ một cách, hợp câu đang đứng:
 
 ### Điều phối đa CLI
 
-Viết lại do bốn CLI trên máy chủ sách chia nhau làm, Devin (session hiện tại) điều phối.
-Mỗi CLI một vai trò rõ:
+**Orchestrator là claude** (2.1.282): chủ sách mở một phiên claude trong kho này, đưa nó lời
+khởi động ở cuối spec; claude tự điều phối — phát chương cho worker, chạy checker, review,
+commit. Session Devin viết spec này chỉ là tác giả spec và công cụ, không nằm trong vòng chạy.
 
 | CLI | Vai trò |
 |---|---|
-| **claude** (2.1.282) | **Chuẩn**: viết pilot chương 22 (định hình giọng); review văn phong + độ trung nghĩa của các chương do CLI khác viết; nhận lại chương nào CLI khác bỏ cuộc sau hai lượt sửa |
-| **agy** (1.2.14) | Worker: viết lại chương được giao |
-| **grok** (1.0.46) | Worker: viết lại chương được giao |
-| **devin** (3000.11.3) | Worker: viết lại chương được giao |
+| **claude** (2.1.282) | **Orchestrator + chuẩn**: điều phối toàn bộ; tự viết pilot chương 22 định hình giọng và các chương nặng; review các chương do worker viết; nhận lại chương nào worker bỏ cuộc sau hai lượt sửa |
+| **agy** (1.2.14), **grok** (1.0.46), **devin** (3000.11.3) | Worker: mỗi lượt gọi nhận đúng một chương, viết lại file, chạy checker tới sạch, báo cáo. Không commit |
 
 **Quy tắc chia việc**: mỗi lần gọi CLI chỉ giao **một chương** (context sạch, lỗi dễ truy,
-retry rẻ). Các chương nặng số liệu hoặc nhiều trích luật (01, 02, 05, 09, 15, 19) ưu tiên giao
-cho claude; chương nhẹ chia đều cho ba worker còn lại. Một CLI hết quota hoặc lỗi giữa chừng
-thì hàng đợi của nó chuyển cho CLI khác — không giữ chỗ.
+retry rẻ). Chương nặng số liệu hoặc nhiều trích luật (01, 02, 05, 09, 15, 19) claude tự viết;
+chương nhẹ chia đều cho ba worker. Một CLI hết quota hoặc lỗi giữa chừng thì hàng đợi của nó
+chuyển cho CLI khác — không giữ chỗ.
 
-**Chạy song song**: điều phối viên mở tối đa 4 tiến trình nền, mỗi tiến trình một CLI × một
-chương khác nhau — file khác nhau nên không va nhau. CLI không được `git commit`; commit do
-điều phối viên thực hiện tuần tự sau khi kiểm chứng.
+**Chạy song song**: orchestrator mở tối đa 3-4 tiến trình nền, mỗi tiến trình một CLI × một
+chương khác nhau — file khác nhau nên không va nhau. Worker không được `git commit`; commit
+do orchestrator làm tuần tự sau khi kiểm chứng.
 
-### Lời gọi chuẩn cho một chương (mọi CLI dùng chung một prompt)
-
-```bash
-<cli> <headless-flags> "
-Đọc CLAUDE.md, docs/superpowers/specs/2026-10-03-giong-van-nguoi-thay-design.md
-và ~/.agents/skills/no-ai-slop/SKILL.md.
-Viết lại toàn bộ book/NN-*.md theo giọng 'người thầy trò chuyện' trong spec.
-Đối chiếu bản gốc tiếng Trung để không lệch nghĩa:
-  git show <commit-dịch>^:<đường-dẫn-file-TQ>
-Danh mục không-được-động trong spec là cứng. Xong chạy:
-  node tools/check-plain.mjs && node tools/check-refs.mjs --check
-sửa tới khi sạch. Không git commit. Cuối cùng liệt kê: số mục viết lại, số lỗi
-checker còn lại."
-```
-
-Cờ headless theo từng CLI:
+### Công cụ dựng sẵn (repo đã có, orchestrator chỉ gọi — không tự ráp prompt)
 
 ```bash
-claude -p "<prompt>" --dangerously-skip-permissions
-agy    -p "<prompt>" --dangerously-skip-permissions
-grok   -p "<prompt>" --always-approve
-devin  -p "<prompt>" --permission-mode dangerous --respect-workspace-trust false
+tools/rewrite-worker.sh <claude|agy|grok|devin> <NN>   # worker viết lại chương NN
+tools/rewrite-worker.sh review <NN>                    # claude review, KHÔNG sửa file
+tools/rewrite-worker.sh -n <cli> <NN>                  # chỉ in prompt + lệnh, không chạy
+
+node tools/check-rewrite.mjs book/NN-*.md              # chữ ký cấu trúc + số, so với HEAD
+node tools/check-plain.mjs && node tools/check-refs.mjs --check
 ```
 
-Lấy bản gốc TQ: mỗi chương dịch ở một commit "Dịch phần NN sang tiếng Việt"; file TQ là file bị
-xóa trong commit đó. Tra: `git show <commit> --name-status | grep '^D'` lấy đường dẫn, rồi
-`git show <commit>^:<path>`.
+`rewrite-worker.sh` tự tra commit dịch và đường dẫn bản TQ, ráp prompt chuẩn, gọi đúng cờ
+headless của từng CLI. Nếu prompt cần sửa thì sửa trong script — mọi lời gọi cùng dùng một
+prompt, không ai được viết lách tự do. Prompt chuẩn (tóm tắt): đọc `CLAUDE.md` + spec này +
+`~/.agents/skills/no-ai-slop/SKILL.md`; viết lại toàn bộ file theo giọng spec; đối chiếu gốc
+TQ qua `git show <commit>^:<path>`; giữ cứng danh mục không-được-động; chạy check-plain +
+check-refs --check tới sạch; không commit; báo số mục và lỗi còn lại.
 
-### Vòng review của claude (chuẩn)
+### Vòng làm việc của một chương
 
-Với mỗi chương do agy/grok/devin viết, sau khi checker sạch, điều phối viên gọi claude review:
+1. Worker (hoặc claude, với chương pilot/chương nặng) viết lại file qua `rewrite-worker.sh`.
+2. Orchestrator chạy `check-rewrite.mjs` + `check-plain` + `check-refs --check`. Có lỗi thì
+   giao lại cho worker sửa — đây là kiểm chứng độc lập, worker không tự chấm mình.
+3. Chương do **worker** viết → orchestrator chạy `rewrite-worker.sh review <NN>` để claude
+   review giọng và độ trung nghĩa. Có lỗi → trả danh sách lỗi cho worker sửa, tối đa hai
+   lượt; không đạt thì claude tự viết lại chương đó. Chương do chính claude viết chỉ qua
+   checker + orchestrator đọc diff.
+4. Sạch → orchestrator `git add` file đó và commit: "Viết lại giọng chương NN (<cli>)".
 
-```bash
-claude -p --dangerously-skip-permissions "
-Review book/NN-*.md theo spec ... và bản gốc TQ (git show ...).
-KHÔNG sửa file. Liệt kê: (1) câu/đoạn vi phạm giọng spec, (2) chỗ lệch nghĩa so
-với gốc TQ, (3) đề xuất sửa ngắn cho từng chỗ."
-```
-
-Phát hiện lỗi → giao lại cho cùng CLI kèm danh sách lỗi, tối đa hai lượt; vẫn không đạt thì
-claude tự viết lại chương đó. Chương do chính claude viết không qua vòng review này (chỉ qua
-checker + đọc diff của điều phối viên).
-
-### Kiểm chứng độc lập (người điều khiển chạy, không giao cho agent tự chấm)
-
-1. `node tools/check-plain.mjs` và `node tools/check-refs.mjs --check` — phải sạch.
-2. **Chữ ký cấu trúc** trước/sau viết lại, bằng script `tools/check-rewrite.mjs` (viết thêm):
-   - số `### `, số field mỗi loại, số thẻ `nhan-chi-phi` — bằng nhau;
-   - mọi dòng `- Nguồn:` — byte-identical;
-   - **mọi con số** trích từ bản cũ phải còn trong bản mới (trích `\d[\d.,%]*` so theo giá trị
-     đã normalize dấu ngăn nghìn/thập phân kiểu `check-plain.mjs`). Chỉ kiểm một chiều cũ→mới:
-     số mới xuất hiện là cho phép (bản dịch quy đổi thêm cạnh giá trị gốc trong Lợi ích), số
-     cũ biến mất mới báo — và báo thì người đọc đối chiếu, không auto-fail, vì số cũng có thể
-     đổi dạng hợp lệ ("0,6%" → "mười hai phần nghìn");
-   - mỗi dòng `- Ghi chú:` mở đầu đúng marker (`Chỉ tham khảo TQ:`/`Tranh cãi`) như bản cũ.
-3. Đọc diff thủ công một vòng bắt lỗi ngữ nghĩa, lệch nghĩa so với gốc TQ.
-4. Sau đợt rollout cuối: `node tools/sync-stats.mjs --check` — số liệu thống kê phải không
-   đổi; nếu đổi nghĩa là đã động marker, mức chứng cứ hay số mục, phải truy ngược.
+`check-rewrite.mjs` kiểm (chi tiết ở đầu file script): line ending; dãy số mục; tiêu đề mục
+chỉ thêm từ; số field; giá trị thẻ `nhan-chi-phi`; dòng `Nguồn` nguyên nội dung; `Mức chứng
+cứ`; marker `Ghi chú`; và mọi con số của bản cũ còn đủ trong bản mới — số mất là lỗi cứng vì
+spec đòi giữ ký hiệu số, số mới xuất hiện thì cho phép (bản dịch quy đổi kèm giá trị gốc).
 
 ### Rollout
 
-- Nhánh `giong-van-nguoi-thay`, một chương một commit; message commit ghi rõ CLI nào viết
+- Nhánh `giong-van-nguoi-thay` (từ main), một chương một commit, message ghi rõ CLI nào viết
   (ví dụ "Viết lại giọng chương 22 (claude)") để truy chất lượng theo nguồn.
-- Pilot: **claude** viết chương 22 → chủ sách duyệt giọng → chia 33 chương cho bốn CLI theo
-  quy tắc ở trên → mỗi chương xong thì checker + review + commit trước khi giao chương kế.
+- **Pilot**: claude tự viết chương 22 → **DỪNG**, trình diff cho chủ sách duyệt → duyệt xong
+  mới điều phối 33 chương còn lại.
 - Nếu pilot lệch giọng: chỉnh spec trước, viết lại pilot, duyệt lại — không chạy hàng loạt
   trên giọng chưa duyệt.
+- **Trạng thái & resume**: tiến độ = git log nhánh. Session orchestrator hết context hay chết
+  giữa chừng → mở phiên claude mới, bảo "đọc spec + `git log --oneline main..HEAD`, tiếp tục
+  từ chương kế tiếp" — không mất quá một chương đang dở.
+- Sau chương cuối: `node tools/sync-stats.mjs --check` — số liệu thống kê phải không đổi;
+  nếu đổi nghĩa là đã động marker, mức chứng cứ hay số mục, phải truy ngược. Merge hay mở PR
+  theo ý chủ sách.
+
+### Lời khởi động (chủ sách paste vào phiên claude)
+
+```text
+Đọc docs/superpowers/specs/2026-10-03-giong-van-nguoi-thay-design.md, CLAUDE.md
+và /Users/binhan/.agents/skills/no-ai-slop/SKILL.md. Bạn là orchestrator của đợt
+viết lại giọng toàn sách theo spec đó: tạo nhánh giong-van-nguoi-thay từ main,
+TỰ viết pilot chương 22 (bạn là chuẩn — không giao cho worker), chạy
+node tools/check-rewrite.mjs book/22-*.md + check-plain + check-refs --check
+tới sạch, rồi DỪNG trình diff cho tôi duyệt. Tôi duyệt xong bạn mới điều phối
+33 chương còn lại bằng tools/rewrite-worker.sh, mỗi chương một commit.
+```
 
 ## Rủi ro và cách bắt
 
@@ -269,10 +262,17 @@ checker + đọc diff của điều phối viên).
 - **CLI chết giữa chừng / hết quota**: file có thể nửa viết — checker sẽ bắt ngay (số mục lệch),
   checkout file lại rồi giao chương cho CLI khác. Nhờ commit theo chương nên mất tối đa một
   chương công.
+- **Orchestrator tự viết thay vì điều phối**: nếu claude ôm hết chương tự viết, quota và
+  context của nó cạn trước — lời khởi động đã ghi rõ chỉ pilot và chương nặng mới tự viết,
+  còn lại phát qua `rewrite-worker.sh`. Thấy nó lệch thì chủ sách nhắc lại.
+- **Orchestrator hết context giữa chừng**: tiến độ nằm trong git log nhánh, mở phiên mới đọc
+  spec + `git log --oneline main..HEAD` là tiếp được (xem Rollout).
 
 ## Ngoài phạm vi
 
 - Không dịch lại từ gốc TQ — chỉ viết lại văn phong tiếng Việt, đối chiếu gốc để không lệch nghĩa.
-- Không sửa `docs/`, `README.md`, trang `index.html`, skill, tools.
+- Không sửa `docs/`, `README.md`, trang `index.html`, `skills/`, các tool hiện có trong
+  `tools/`. Riêng `tools/rewrite-worker.sh` được phép sửa khi prompt chuẩn cần điều chỉnh;
+  `tools/check-rewrite.mjs` chỉ sửa khi phát hiện nó bắt sai.
 - Không thêm mục mới, không xóa mục, không đổi thứ tự mục, không đổi mức chứng cứ.
 - Không "Việt hóa" nội dung TQ (luật, hotline, giá tiền nhân dân tệ) — đó là bản chất cuốn sách.
