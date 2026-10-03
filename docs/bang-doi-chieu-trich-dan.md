@@ -750,56 +750,56 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | mục 9 | Đừng ngay đầu bỏ tiền làm tư vấn ai đạo, trước xem ai đạo của mình có thật sự kẹt không (mấy triệu chứng của mục 8) | … đừng ngay đầu bỏ tiền làm tư vấn ai đạo (… |
-| Mở đầu phần | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …9 phần này), gọi 12356 và treo khám tâm lý (… |
-| Mở đầu phần | mục 12 | Ba tháng đầu sau biến cố, đại quyết định không đảo lại được phàm là đều để sau | …, quyết định lớn không đảo lại được để sau (… |
-| Mở đầu phần | mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …au (mục 12), đừng lấy chết làm cách trả nợ (… |
-| Mở đầu phần | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | …"tìm người trông" rơi xuống đất thế nào xem … |
-| Mở đầu phần | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Có ý nghĩ tự tử trước gọi 12356 xem … |
-| Mở đầu phần | phần 1, mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … thước thời gian của ý nghĩ xem … |
-| Mở đầu phần | phần 1, mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … di chứng sau khi cứu về xem … |
-| Mở đầu phần | phần 25 | 25-viec-phai-lam-khi-nguoi-than-qua-doi (cả phần) | … thân qua đời, thi thể và tiền nên lĩnh xem … |
+| Mở đầu phần | mục 9 | Đừng ngay đầu bỏ tiền làm tư vấn ai đạo, trước xem ai đạo của mình có thật sự kẹt không (mấy triệu chứng của mục 8) | … bỏ tiền làm tư vấn nỗi đau mất người thân (… |
+| Mở đầu phần | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …hần này), gọi 12356 và đăng ký khám tâm lý (… |
+| Mở đầu phần | mục 12 | Ba tháng đầu sau biến cố, đại quyết định không đảo lại được phàm là đều để sau | …yết định lớn không đảo lại được thì để sau (… |
+| Mở đầu phần | mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …mục 12), đừng lấy cái chết làm cách trả nợ (… |
+| Mở đầu phần | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | … "tìm người trông" làm được thế nào thì xem … |
+| Mở đầu phần | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …u có ý nghĩ tự tử, bạn gọi 12356 trước, xem … |
+| Mở đầu phần | phần 1, mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ ấy thường kéo dài bao lâu thì xem … |
+| Mở đầu phần | phần 1, mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | …ục 32, còn di chứng sau khi được cứu về xem … |
+| Mở đầu phần | phần 25 | 25-viec-phai-lam-khi-nguoi-than-qua-doi (cả phần) | … thi thể và các khoản tiền nên nhận thì xem … |
 | Mở đầu phần | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …ám hộ và di chúc lúc người già còn sống xem … |
-| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Mất việc lĩnh được gì xem … |
-| Mở đầu phần | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | …động và ánh sáng lúc tâm trạng sa xuống xem … |
-| Mở đầu phần | phần 22 | 22-thu-gian-the-nao (cả phần) | …h sáng lúc tâm trạng sa xuống xem phần 3 và … |
-| mục 1 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Đừng dựa rượu gánh qua, tiền của rượu xem … |
-| mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …g phong nhận ra thế nào, gọi xe thế nào xem … |
-| mục 1 | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | …y ngày này định sẵn một mình trong nhà, xem … |
-| mục 2 | phần 16 | 16-song-sau-khi-mac-benh-man-tinh (cả phần) | … hạn, báo danh và tái xét sau chẩn đoán xem … |
+| Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Mất việc thì nhận được gì xem … |
+| Mở đầu phần | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | …động và ánh sáng lúc tâm trạng đi xuống xem … |
+| Mở đầu phần | phần 22 | 22-thu-gian-the-nao (cả phần) | …h sáng lúc tâm trạng đi xuống xem phần 3 và … |
+| mục 1 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …ựa vào rượu để qua cơn đau, chuyện rượu xem … |
+| mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …ra nhồi máu tim, đột quỵ và cách gọi xe xem … |
+| mục 1 | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | … này buộc phải ở một mình trong nhà thì xem … |
+| mục 2 | phần 16 | 16-song-sau-khi-mac-benh-man-tinh (cả phần) | …âu dài, thanh toán bảo hiểm và tái khám xem … |
 | mục 2 | phần 24 | 24-di-kham-benh (cả phần) | …phần 16 (sống sau khi mắc bệnh mạn tính) và … |
-| mục 2 | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | … Không tìm được người đi cùng xem … |
-| mục 3 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …i đâu lĩnh, bảo hiểm xã hội nối thế nào xem … |
-| mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …y bồi thường bao nhiêu, đừng ký tự nghỉ xem … |
-| mục 4 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …Bản thân có ý nghĩ tự tử lúc xử thế nào xem … |
-| mục 5 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | … Nhà có người già mất vợ/chồng, theo … |
+| mục 2 | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | … Không tìm được người đi cùng thì xem … |
+| mục 3 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …hận ở đâu, nối bảo hiểm xã hội thế nào, xem … |
+| mục 3 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ường bao nhiêu, và đừng ký đơn tự nghỉ, xem … |
+| mục 4 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …u chính bạn có ý nghĩ tự tử, cách xử lý xem … |
+| mục 5 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | … Nhà có người già vừa mất vợ/chồng thì theo … |
 | mục 5 | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | …o việc này cho cộng đồng và điện thoại, xem … |
-| mục 6 | phần 13, mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … "Trong nhà có người" vì sao đáng giá, xem … |
-| mục 6 | phần 22, mục 10 | Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người | …một mình 1,32, cao khoảng ba phần mười, xem … |
-| mục 6 | phần 25 | 25-viec-phai-lam-khi-nguoi-than-qua-doi (cả phần) | …ồng, công an, công tích kim mấy cửa sổ (xem … |
-| mục 6 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …a đình biến cố, thất nghiệp, thất học" (xem … |
+| mục 6 | phần 13, mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Vì sao "trong nhà có người" đáng giá, xem … |
+| mục 6 | phần 22, mục 10 | Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người | … mình là 1,32, cao khoảng ba phần mười, xem … |
+| mục 6 | phần 25 | 25-viec-phai-lam-khi-nguoi-than-qua-doi (cả phần) | …ng an, quỹ tích lũy nhà ở, mấy quầy ấy (xem … |
+| mục 6 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …, thất nghiệp, thất học" (phương án này xem … |
 | mục 6 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …p lại được, không phải chỉ gọi một lần (xem … |
-| mục 7 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …hỉ định người giám hộ và an bài tài sản xem … |
-| mục 7 | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | … Phí nuôi con và đi học xem … |
-| mục 9 | mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | … Trước đối chiếu … |
-| mục 9 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | … Người mất thân nguy cơ cao kiểu … |
-| mục 9 | mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | …tử, tai nạn hay án mạng), người đã kẹt kiểu … |
-| mục 10 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … Lúc ly hôn tài sản, nợ và sính lễ xem … |
-| mục 10 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | …ly hôn tài sản, nợ và sính lễ xem phần 8 và … |
-| mục 10 | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | … An bài nuôi con xem … |
-| mục 11 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …n mở và mỗi ngày nhận bao lâu của 12356 xem … |
-| mục 12 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …ặp nhắm vào người mất thân và người già xem … |
+| mục 7 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …ỉ định người giám hộ và sắp xếp tài sản xem … |
+| mục 7 | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | … Chi phí nuôi con và đi học xem … |
+| mục 9 | mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | … Hãy đối chiếu … |
+| mục 9 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | … Người mất người thân có nguy cơ cao như ở … |
+| mục 9 | mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | …i nạn hay án mạng) và người đã bị kẹt như ở … |
+| mục 10 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … Lúc ly hôn, tài sản, nợ và sính lễ xem … |
+| mục 10 | phần 10 | 10-yeu-va-cuoi-co-dang-khong (cả phần) | …y hôn, tài sản, nợ và sính lễ xem phần 8 và … |
+| mục 10 | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | … Việc sắp xếp nuôi con xem … |
+| mục 11 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … toàn quốc và mỗi ngày nhận máy bao lâu xem … |
+| mục 12 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …m vào người mất người thân và người già xem … |
 | mục 12 | phần 6 | 06-danh-sach-nen-tranh (cả phần) | …17 (đầu tư dưỡng lão, lấy nhà dưỡng lão) và … |
-| mục 12 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … Ổ của bảo lãnh và giấy vay xem … |
+| mục 12 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … Cạm bẫy của bảo lãnh và giấy vay xem … |
 | mục 12 | phần 25 | 25-viec-phai-lam-khi-nguoi-than-qua-doi (cả phần) | …xã hội, ba khoản tiền chết vì lao động, xem … |
 | mục 12 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …khoản tiền chết vì lao động, xem phần 25 và … |
-| mục 12 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …ích như vậy, thì gọi 12356 nói một lần (xem … |
-| mục 13 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | …ấy phần còn, còn phải gánh giá sức khỏe của … |
-| mục 13 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Ý nghĩ hiện lên lúc làm thế nào xem … |
-| mục 13 | phần 1, mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ hiện lên lúc làm thế nào xem … |
+| mục 12 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …uộc như vậy, bạn gọi 12356 nói một lần (xem … |
+| mục 13 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | … Họ còn gánh cái giá sức khỏe ở … |
+| mục 13 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Lúc ý nghĩ đó hiện lên thì làm thế nào xem … |
+| mục 13 | phần 1, mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Lúc ý nghĩ đó hiện lên thì làm thế nào xem … |
 | mục 13 | phần 1, mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … di chứng sau khi cứu về xem … |
 | mục 13 | phần 19, mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … Chuẩn ba khoản tiền chết vì lao động xem … |
-| mục 13 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … Thủ tục cụ thể di sản và nợ xem … |
+| mục 13 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … Thủ tục cụ thể về di sản và nợ xem … |
 | mục 13 | phần 1 | 01-dung-chet-som (cả phần) | … Các mục khác của phần này và … |
 | mục 13 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | … Giá sức khỏe của người nhà xem … |
 
