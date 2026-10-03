@@ -876,11 +876,11 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …ế và vận chuyển ngoại cảnh mua thế nào, xem … |
-| Mở đầu phần | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … Bút toán đọc sách hay làm thuê, xem … |
+| Mở đầu phần | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | … y tế và cứu hộ chuyển viện ra sao, bạn xem … |
+| Mở đầu phần | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … Bài toán nên đi học hay đi làm, xem … |
 | Mở đầu phần | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | … Tài khoản bị đánh cắp xem … |
-| Mở đầu phần | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … đánh cắp xem phần 14, lừa đảo điện tín xem … |
-| mục 6 | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …thân người ngoại cảnh và bảo hộ lãnh sự xem … |
+| Mở đầu phần | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …cắp xem phần 14, còn lừa đảo viễn thông xem … |
+| mục 6 | phần 21 | 21-du-lich-va-an-toan-nuoc-ngoai (cả phần) | …ở nước ngoài và bảo hộ lãnh sự được nêu tại … |
 
 ## 33-song-sau-khi-khuyet-tat
 
