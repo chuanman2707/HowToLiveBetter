@@ -184,12 +184,15 @@ Cuối cùng in ra: số mục đã viết lại, lỗi checker còn lại (ph�
 EOF
 fi
 
+# Model cho worker claude và review; đổi bằng biến môi trường CLAUDE_MODEL.
+CLAUDE_MODEL=${CLAUDE_MODEL:-claude-sonnet-5-5}
+
 case $CLI in
-  claude) CMD=(claude -p "$PROMPT" --dangerously-skip-permissions) ;;
+  claude) CMD=(claude -p "$PROMPT" --model "$CLAUDE_MODEL" --dangerously-skip-permissions) ;;
   agy)    CMD=(agy -p "$PROMPT" --dangerously-skip-permissions) ;;
   grok)   CMD=(grok -p "$PROMPT" --always-approve) ;;
   devin)  CMD=(devin -p "$PROMPT" --permission-mode dangerous --respect-workspace-trust false) ;;
-  review) CMD=(claude -p "$PROMPT" --dangerously-skip-permissions) ;;
+  review) CMD=(claude -p "$PROMPT" --model "$CLAUDE_MODEL" --dangerously-skip-permissions) ;;
   *) echo "cli không biết: $CLI" >&2; exit 2 ;;
 esac
 
