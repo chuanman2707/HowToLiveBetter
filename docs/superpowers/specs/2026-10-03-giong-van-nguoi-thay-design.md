@@ -162,23 +162,69 @@ Sau: viết mỗi chỗ một cách, hợp câu đang đứng:
 
 ## Quy trình thực thi
 
-### Mỗi chương
+### Điều phối đa CLI
+
+Viết lại do bốn CLI trên máy chủ sách chia nhau làm, Devin (session hiện tại) điều phối.
+Mỗi CLI một vai trò rõ:
+
+| CLI | Vai trò |
+|---|---|
+| **claude** (2.1.282) | **Chuẩn**: viết pilot chương 22 (định hình giọng); review văn phong + độ trung nghĩa của các chương do CLI khác viết; nhận lại chương nào CLI khác bỏ cuộc sau hai lượt sửa |
+| **agy** (1.2.14) | Worker: viết lại chương được giao |
+| **grok** (1.0.46) | Worker: viết lại chương được giao |
+| **devin** (3000.11.3) | Worker: viết lại chương được giao |
+
+**Quy tắc chia việc**: mỗi lần gọi CLI chỉ giao **một chương** (context sạch, lỗi dễ truy,
+retry rẻ). Các chương nặng số liệu hoặc nhiều trích luật (01, 02, 05, 09, 15, 19) ưu tiên giao
+cho claude; chương nhẹ chia đều cho ba worker còn lại. Một CLI hết quota hoặc lỗi giữa chừng
+thì hàng đợi của nó chuyển cho CLI khác — không giữ chỗ.
+
+**Chạy song song**: điều phối viên mở tối đa 4 tiến trình nền, mỗi tiến trình một CLI × một
+chương khác nhau — file khác nhau nên không va nhau. CLI không được `git commit`; commit do
+điều phối viên thực hiện tuần tự sau khi kiểm chứng.
+
+### Lời gọi chuẩn cho một chương (mọi CLI dùng chung một prompt)
 
 ```bash
-claude -p --dangerously-skip-permissions "
-Dùng skill /no-ai-slop. Đọc CLAUDE.md và
-docs/superpowers/specs/2026-10-03-giong-van-nguoi-thay-design.md.
-Viết lại toàn bộ book/NN-*.md theo giọng 'người thầy trò chuyện' định nghĩa trong spec.
+<cli> <headless-flags> "
+Đọc CLAUDE.md, docs/superpowers/specs/2026-10-03-giong-van-nguoi-thay-design.md
+và ~/.agents/skills/no-ai-slop/SKILL.md.
+Viết lại toàn bộ book/NN-*.md theo giọng 'người thầy trò chuyện' trong spec.
 Đối chiếu bản gốc tiếng Trung để không lệch nghĩa:
   git show <commit-dịch>^:<đường-dẫn-file-TQ>
 Danh mục không-được-động trong spec là cứng. Xong chạy:
   node tools/check-plain.mjs && node tools/check-refs.mjs --check
-sửa tới khi sạch. Cuối cùng liệt kê: số mục viết lại, số con số kiểm tra, lỗi còn lại."
+sửa tới khi sạch. Không git commit. Cuối cùng liệt kê: số mục viết lại, số lỗi
+checker còn lại."
+```
+
+Cờ headless theo từng CLI:
+
+```bash
+claude -p "<prompt>" --dangerously-skip-permissions
+agy    -p "<prompt>" --dangerously-skip-permissions
+grok   -p "<prompt>" --always-approve
+devin  -p "<prompt>" --permission-mode dangerous --respect-workspace-trust false
 ```
 
 Lấy bản gốc TQ: mỗi chương dịch ở một commit "Dịch phần NN sang tiếng Việt"; file TQ là file bị
 xóa trong commit đó. Tra: `git show <commit> --name-status | grep '^D'` lấy đường dẫn, rồi
 `git show <commit>^:<path>`.
+
+### Vòng review của claude (chuẩn)
+
+Với mỗi chương do agy/grok/devin viết, sau khi checker sạch, điều phối viên gọi claude review:
+
+```bash
+claude -p --dangerously-skip-permissions "
+Review book/NN-*.md theo spec ... và bản gốc TQ (git show ...).
+KHÔNG sửa file. Liệt kê: (1) câu/đoạn vi phạm giọng spec, (2) chỗ lệch nghĩa so
+với gốc TQ, (3) đề xuất sửa ngắn cho từng chỗ."
+```
+
+Phát hiện lỗi → giao lại cho cùng CLI kèm danh sách lỗi, tối đa hai lượt; vẫn không đạt thì
+claude tự viết lại chương đó. Chương do chính claude viết không qua vòng review này (chỉ qua
+checker + đọc diff của điều phối viên).
 
 ### Kiểm chứng độc lập (người điều khiển chạy, không giao cho agent tự chấm)
 
@@ -198,8 +244,10 @@ xóa trong commit đó. Tra: `git show <commit> --name-status | grep '^D'` lấy
 
 ### Rollout
 
-- Nhánh `giong-van-nguoi-thay`, một chương một commit.
-- Pilot: chương 22 → chủ sách duyệt giọng → chạy nốt 33 chương.
+- Nhánh `giong-van-nguoi-thay`, một chương một commit; message commit ghi rõ CLI nào viết
+  (ví dụ "Viết lại giọng chương 22 (claude)") để truy chất lượng theo nguồn.
+- Pilot: **claude** viết chương 22 → chủ sách duyệt giọng → chia 33 chương cho bốn CLI theo
+  quy tắc ở trên → mỗi chương xong thì checker + review + commit trước khi giao chương kế.
 - Nếu pilot lệch giọng: chỉnh spec trước, viết lại pilot, duyệt lại — không chạy hàng loạt
   trên giọng chưa duyệt.
 
@@ -213,6 +261,14 @@ xóa trong commit đó. Tra: `git show <commit> --name-status | grep '^D'` lấy
 - **Giọng trôi giữa các chương**: spec có ví dụ đủ thể loại; nếu chương sau nhạt dần, đưa lại
   2-3 đoạn pilot làm mốc trong prompt.
 - **Mất line ending CRLF**: script kiểm so sánh số dòng + git diff --stat; file nào CRLF giữ CRLF.
+- **CLI không nạp context giống nhau**: claude tự nạp CLAUDE.md, các CLI khác có thể nạp
+  AGENTS.md hoặc không nạp gì — nên prompt bắt buộc đọc CLAUDE.md + spec + skill bằng đường
+  dẫn tường minh, không trông đợi auto-load.
+- **Quá tải review**: claude review mọi chương của worker — nếu nó chậm thành nút thắt, giảm
+  còn review mẫu 30% mục mỗi chương, các chương đầu của mỗi worker vẫn review toàn phần.
+- **CLI chết giữa chừng / hết quota**: file có thể nửa viết — checker sẽ bắt ngay (số mục lệch),
+  checkout file lại rồi giao chương cho CLI khác. Nhờ commit theo chương nên mất tối đa một
+  chương công.
 
 ## Ngoài phạm vi
 
