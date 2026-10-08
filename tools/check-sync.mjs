@@ -20,10 +20,16 @@
 //     văn, có chỗ dịch thành "Kinh nghiệm tác giả" — nhận cả hai
 //   ⑤ Ghi chú mở đầu "Tranh cãi" (sau marker TQ nếu có) khi 备注 mở đầu 争议
 //   ⑥ số link http(s) trong Ghi chú bằng trong 备注
-//   ⑦ giá trị số trong mục gốc (trừ 来源) phải có trong mục VN, đủ số lần — chỉ
-//     kiểm mục gốc đã đổi so với --since: mục không đổi đã dịch từ trước, bản
-//     dịch cũ có chỗ gộp câu làm số lặp ít đi, kiểm cả thì nhiễu che mất lỗi
-//     của đợt này
+//   ⑦ (chỉ mục gốc đã đổi so với --since) mỗi giá trị số mà số lần xuất hiện
+//     trong mục gốc tăng so với mục cũ (trừ 来源) phải có ít nhất một lần trong
+//     mục VN. Không đếm số lần và không kiểm giá trị không tăng: bản viết lại
+//     giọng gộp câu, viết số nhỏ bằng chữ, nên số lần lệch là bình thường, còn
+//     đếm thì báo nhầm chỗ đã đúng. Mục cũ ghép theo tiêu đề; không có thì theo
+//     số mục. Giả định: giữa --since và ref chỉ nối thêm mục cuối phần. Nếu có
+//     chèn hay xóa ở giữa, ghép theo tiêu đề vẫn đúng, còn mục không tìm được
+//     tiêu đề cũ bị ghép theo số và có thể lệch. Giới hạn: số viết bằng chữ
+//     (ba tháng, một lần) không đọc được, nên mục mới có số nhỏ viết chữ bị báo
+//     thiếu dù bản dịch đúng; báo đó phải xem tay
 //   ⑧ ngoài dòng Nguồn không còn chữ Hán
 //   ⑨ (khi có --frozen) mục và đoạn mở đầu phần mà bản gốc không đổi kể từ
 //     --since thì bản VN phải giữ nguyên từng chữ như ở <ref>: cả 34 chương đã
@@ -60,9 +66,17 @@ if (SELF_TEST) {
     [zhNumbers('低 1.5 倍，6234.86 亿'), [1.5, 623486000000]],
     [vnNumbers('thấp 1,5 lần, 3 triệu'), [1.5, 3e6]],
     [vnNumbers('trước 18 tháng, 2 kg'), [18, 2]],
+    [zhNumbers('285.4 亿元'), [285.4e8]],
+    [vnNumbers('28,54 tỷ'), [28.54e9]],
+    [zhNumbers('2.3 万亿'), [2.3e12]],
+    [vnNumbers('2,3 nghìn tỷ'), [2.3e12]],
+    [zhNumbers('623,486,000,000 元'), [623486000000]],
+    [vnNumbers('623.486.000.000 đồng'), [623486000000]],
+    [vnNumbers('1.234,5 người'), [1234.5]],
+    [zhNumbers('5 千克'), [5]],
   ];
   let fail = 0;
-  for (const [got, want] of cases) if (JSON.stringify(got) !== JSON.stringify(want.map(n => Math.round(n * 1e6) / 1e6))) { fail++; console.log(`SAI: được ${JSON.stringify(got)}, cần ${JSON.stringify(want)}`); }
+  for (const [got, want] of cases) if (JSON.stringify(got) !== JSON.stringify(want.map(round))) { fail++; console.log(`SAI: được ${JSON.stringify(got)}, cần ${JSON.stringify(want)}`); }
   console.log(fail ? `self-test: ${fail} ca sai` : `self-test: đạt ${cases.length} ca`);
   process.exit(fail ? 1 : 0);
 }
@@ -110,19 +124,23 @@ function parse(text, zh) {
 // Giá trị số. Bản TQ: "." thập phân, "," ngăn nghìn nếu có, đơn vị 万/亿/千.
 // Bản VN: "." ngăn nghìn, "," thập phân, đơn vị vạn/triệu/tỷ/nghìn.
 // So theo giá trị để "1.5" (TQ) khớp "1,5" (VN), "3 万" khớp "3 vạn" hay "30.000".
-function round(n) { return Math.round(n * 1e6) / 1e6; }
+// round làm tròn về 12 chữ số có nghĩa, tránh sai số nhị phân khi nhân lên cỡ 1e10
+// (285.4 亿 ra 28539999999.999996 nếu chỉ làm tròn 1e-6).
+function round(n) { return Number(n.toPrecision(12)); }
 function zhNumbers(s) {
-  let t = s, prev;
-  do { prev = t; t = t.replace(/(\d),(\d{3})(?!\d)/g, '$1$2'); } while (t !== prev);
-  const mult = { '万': 1e4, '亿': 1e8, '千': 1e3 };
-  return [...t.matchAll(/(\d*\.?\d+)\s*(万|亿|千)?/g)].map(m => round(Number(m[1]) * (mult[m[2]] || 1)));
+  // Bỏ ngăn nghìn "," theo nhóm ba chữ số, mọi nhóm một lượt (623,486,000,000).
+  const t = s.replace(/\d{1,3}(?:,\d{3})+(?!\d)/g, m => m.replace(/,/g, ''));
+  // 万亿 đứng đầu để không bị 万 nuốt mất; 千 không tính khi là 千克/千米/千卡/千瓦/千焦/千帕/千赫.
+  const mult = { '万亿': 1e12, '万': 1e4, '亿': 1e8, '千': 1e3 };
+  return [...t.matchAll(/(\d*\.?\d+)\s*(万亿|万|亿|千(?![克米卡瓦焦帕赫]))?/g)].map(m => round(Number(m[1]) * (mult[m[2]] || 1)));
 }
 function vnNumbers(s) {
-  let t = s, prev;
-  do { prev = t; t = t.replace(/(\d)\.(\d{3})(?!\d)/g, '$1$2'); } while (t !== prev);
+  // Bỏ ngăn nghìn "." theo nhóm ba chữ số, mọi nhóm một lượt (623.486.000.000).
+  let t = s.replace(/\d{1,3}(?:\.\d{3})+(?!\d)/g, m => m.replace(/\./g, ''));
   t = t.replace(/(\d),(\d)/g, '$1.$2');
-  const mult = { 'vạn': 1e4, 'tỷ': 1e9, 'triệu': 1e6, 'nghìn': 1e3, 'ngàn': 1e3 };
-  return [...t.matchAll(/(\d*\.?\d+)\s*(?:(vạn|tỷ|triệu|nghìn|ngàn)(?![\p{L}\p{N}]))?/giu)]
+  // nghìn tỷ đứng đầu để không bị tỷ hay nghìn nuốt mất.
+  const mult = { 'nghìn tỷ': 1e12, 'vạn': 1e4, 'tỷ': 1e9, 'triệu': 1e6, 'nghìn': 1e3, 'ngàn': 1e3 };
+  return [...t.matchAll(/(\d*\.?\d+)\s*(?:(nghìn tỷ|vạn|tỷ|triệu|nghìn|ngàn)(?![\p{L}\p{N}]))?/giu)]
     .map(m => round(Number(m[1]) * (mult[(m[2] || '').toLowerCase()] || 1)));
 }
 const bag = arr => { const m = new Map(); for (const n of arr) m.set(n, (m.get(n) || 0) + 1); return m; };
@@ -142,8 +160,12 @@ for (const p of parts) {
   const sinceFile = sinceFiles.find(f => f.startsWith(`book/${p}-`));
   const vn = parse(readFileSync(resolve(ROOT, 'book', vnFile), 'utf8'), false);
   const zh = parse(git(['show', `${ref}:${zhFile}`]), true);
-  const old = parse(git(['show', `${since}:${sinceFile}`]), true);
+  // Phần chưa có ở --since (vd. phần 34 mới thêm trong khoảng đó): mọi mục coi là mới.
+  const old = sinceFile ? parse(git(['show', `${since}:${sinceFile}`]), true) : { head: '', items: new Map() };
   const oldKeys = new Set([...old.items.values()].map(x => x.key));
+  // Ghép mục cũ cho ⑦: theo tiêu đề trước (đầu tiên trong phần), không có thì theo số.
+  const oldByTitle = new Map();
+  for (const it of old.items.values()) if (!oldByTitle.has(it.title)) oldByTitle.set(it.title, it);
   const vnFrozen = frozen ? parse(git(['show', `${frozen}:book/${vnFile}`]), false) : null;
   const bad = [];
   if (vn.items.size !== zh.items.size) bad.push(`số mục: gốc ${zh.items.size} / VN ${vn.items.size}`);
@@ -168,8 +190,13 @@ for (const p of parts) {
     }
     const zText = z.raw.filter(l => !/^- 来源：/.test(l) && !/^<!--/.test(l)).join('\n');
     const vText = v.raw.filter(l => !/^- Nguồn:/.test(l) && !/^<!--/.test(l)).join('\n');
-    const vb = bag(vnNumbers(vText));
-    const miss = [...bag(zhNumbers(zText))].filter(([k, c]) => (vb.get(k) || 0) < c).map(([k, c]) => `${k}×${c}`);
+    // Chỉ đòi các giá trị mà mục gốc có nhiều lần hơn mục cũ, và chỉ cần có mặt ≥ 1 lần bên VN.
+    const oldItem = oldByTitle.get(z.title) ?? old.items.get(no) ?? null;
+    const oldText = oldItem ? oldItem.raw.filter(l => !/^- 来源：/.test(l) && !/^<!--/.test(l)).join('\n') : '';
+    const cntOld = bag(zhNumbers(oldText));
+    const need = [...bag(zhNumbers(zText))].filter(([k, c]) => c > (cntOld.get(k) || 0)).map(([k]) => k);
+    const vVals = new Set(vnNumbers(vText));
+    const miss = need.filter(k => !vVals.has(k));
     if (miss.length) bad.push(`mục ${no}: số của gốc thiếu bên VN: ${miss.join(', ')}`);
   }
   for (const no of vn.items.keys()) if (!zh.items.has(no)) bad.push(`mục ${no}: gốc không có`);
