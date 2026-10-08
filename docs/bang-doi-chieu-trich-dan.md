@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 985 trích dẫn.
+Tổng cộng 1050 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -348,7 +348,7 @@ Tổng cộng 985 trích dẫn.
 | mục 10 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …có thể báo cảnh sát để chặn thanh toán theo … |
 | mục 10 | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …chiêu giả người quen, có cả AI đổi mặt, xem … |
 | mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …chiêu giả người quen, có cả AI đổi mặt, xem … |
-| mục 10 | phần 8, mục 45 | **Trỏ tới mục không tồn tại** | …iệc đọc mã xác minh hay quét khuôn mặt, xem … |
+| mục 10 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …iệc đọc mã xác minh hay quét khuôn mặt, xem … |
 | mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Bạn cần phân biệt rõ với … |
 | mục 12 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ạn đừng phán đoán theo cảm giác mà làm theo … |
 | mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …ả, và người đăng đã bị tạm giữ hình sự (xem … |
@@ -521,7 +521,55 @@ Tổng cộng 985 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …ện bị lừa thì gọi ngay để yêu cầu chặn chi (… |
+| Mở đầu phần | mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …ặn chi (mục 2), nhớ quy tắc cứng chống lừa (… |
+| Mở đầu phần | mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …ấy mặt trong video chưa tính là kiểm chứng (… |
+| Mở đầu phần | mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | …ông cho mượn thẻ ngân hàng, SIM điện thoại (… |
+| Mở đầu phần | mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | … năm tra miễn phí hai lần báo cáo tín dụng (… |
+| Mở đầu phần | mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | … 9), mua hàng mạng, giao dịch đồ cũ bị lừa (… |
+| Mở đầu phần | mục 27 | Sửa chữa tận nhà, kiểm định xe, sửa nhà: hỏi giá trước rồi mới cho làm, nhìn suốt bên cạnh | …ục 22), sửa chữa tận nhà thì hỏi giá trước (… |
+| Mở đầu phần | mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | … Xuất nhập cảnh không mang đồ hộ người lạ (… |
+| Mở đầu phần | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …9), bị nhờ "giúp quét mặt" chính là vay AB (… |
+| Mở đầu phần | mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | … trước khi ký phải đọc hết tờ giấy (… |
+| Mở đầu phần | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …7), cho vay mượn tiền phải viết rõ giấy nợ (… |
+| Mở đầu phần | mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | …giấy nợ (mục 18), bảo vệ quyền có thời hạn (… |
+| Mở đầu phần | mục 20 | Bị kiện, bị thi hành án thì khai thật tài sản, trả được bao nhiêu trả bấy nhiêu; đừng chuyển nhà và tiền cho người thân hay công ty | … 19), bị thi hành án thì khai thật tài sản (… |
+| Mở đầu phần | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | … Bị đưa vào danh sách mất tín nhiệm (… |
+| Mở đầu phần | mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | …ệm (mục 21), đừng làm "pháp nhân treo tên" (… |
+| Mở đầu phần | mục 44 | Người nhà đánh bạc mắc nợ, đừng vội trả thay: nợ bạc luật không bảo vệ, tiền vay để đánh bạc cũng không tính nợ chung vợ chồng | …o tên" (mục 28), người nhà đánh bạc mắc nợ (… |
+| Mở đầu phần | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … có xung đột thì báo cảnh sát trước (… |
+| Mở đầu phần | mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | …m hại không tránh được thì có thể đánh trả (… |
+| Mở đầu phần | mục 12 | Kết thù với ai — bị nợ lương, bị đuổi việc, bị chơi xỏ tiền — đi đường khiếu nại, trọng tài, khởi kiện, đừng đi tìm người tính sổ | …t thù với ai thì đừng đi tìm người tính sổ (… |
+| Mở đầu phần | mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết thì từ mười năm tù, cao nhất là tử hình | … Đừng ra tay với người không liên quan (… |
+| Mở đầu phần | mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | …g liên quan (mục 13), nảy ra ý "cùng chết" (… |
+| Mở đầu phần | mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …gười thân nói "ai cũng đừng hòng sống yên" (… |
+| Mở đầu phần | mục 38 | Đường "mua bảo hiểm cho người trước rồi ra tay" luật bít từ đầu: tiền một xu không lấy được, tội tính cố ý giết người cộng lừa đảo bảo hiểm, phạt tổng hợp nhiều tội | …ho người trước rồi ra tay" luật bít từ đầu (… |
+| Mở đầu phần | mục 23 | Cho tặng số tiền lớn trong yêu đương và trong hôn nhân: nghĩ kỹ trước khi giao; giao xong nguyên tắc đòi không lại | …ặng số tiền lớn thì nghĩ kỹ trước khi giao (… |
+| Mở đầu phần | mục 24 | Sính lễ (tiền hỏi cưới) đi qua chuyển khoản và ghi chú, giữ lịch sử chat; lấy hôn nhân đòi tiền có thể đòi lại | …giao (mục 23), sính lễ đi qua chuyển khoản (… |
+| Mở đầu phần | mục 25 | Tài sản trước cưới không đáng sợ; thêm tên vào nhà và tiền cha mẹ bỏ ra thì viết rõ trước | …khoản (mục 24), viết rõ tài sản trước cưới (… |
+| Mở đầu phần | mục 26 | Trước khi cưới kiểm tình trạng hôn nhân của bên kia; lấy cái cớ cưới để lừa tiền bị truy cứu tội lừa đảo | … cưới kiểm tình trạng hôn nhân của bên kia (… |
+| Mở đầu phần | mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ị bạo hành gia đình thì báo cảnh sát trước (… |
+| Mở đầu phần | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | … bị triệu hồi thì trước hết mời luật sư (… |
+| Mở đầu phần | mục 6 | Có chuyện thì chủ động ra trình bày: tự thú nhiều nhất giảm được bốn phần mười hình phạt, tội nhẹ thì còn giảm được nhiều hơn, thậm chí được miễn phạt, đường "trốn qua thời hiệu truy cứu" đã bị bít | …ục 5), có chuyện thì chủ động ra trình bày (… |
+| Mở đầu phần | mục 33 | Bị người bịa đặt tình tiết tố cáo, có thể yêu cầu truy cứu: đủ phạt trị an thì tạm giữ từ 5 ngày, đủ tội thì tù dưới 3 năm | …(mục 6), bị người bịa đặt tình tiết tố cáo (… |
+| Mở đầu phần | mục 34 | Chứng cứ không đủ vốn phải phán vô tội, khẩu cung ép ra phải loại; phán rồi còn có khiếu nại và xét xử lại | … Chứng cứ không đủ vốn phải phán vô tội (… |
+| Mở đầu phần | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …n vô tội (mục 34), xin bồi thường nhà nước (… |
+| Mở đầu phần | mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …35), báo án phải đòi ngay biên nhận thụ lý (… |
+| Mở đầu phần | mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ý (mục 39), đừng đưa tiền cho người làm án (… |
+| Mở đầu phần | mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | …c nói chuyện có thể quay mặt thì mở ghi âm (… |
+| Mở đầu phần | mục 42 | Có chuyện tại hiện trường, chụp toàn cảnh trước, rồi chụp vị trí tương đối, cuối cùng chụp hư hỏng và vết thương; ảnh gốc video gốc đừng xóa | … 41), tại hiện trường chụp toàn cảnh trước (… |
+| Mở đầu phần | mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | … trên mạng không chửi người, không bịa tin (… |
+| Mở đầu phần | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | …c 16), bị bạo lực mạng thì mở bảo vệ trước (… |
+| Mở đầu phần | mục 31 | Bên kia uống đến mơ hồ, ngủ mất, hoặc có thể chưa đủ 14 tuổi thì đừng phát sinh quan hệ | … uống đến mơ hồ thì đừng phát sinh quan hệ (… |
+| Mở đầu phần | mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …hat sex ra đòi tiền thì báo cảnh sát thẳng (… |
+| Mở đầu phần | mục 36 | Mình là nạn nhân đi đòi đền: đi đường 12315 (tổng đài tiêu dùng TQ), khởi kiện hoặc mời luật sư; đừng một mình đi gặp bên kia, đừng buộc "trả tiền" và "tôi không phơi bày" thành một câu | …i đòi đền thì đừng một mình đi gặp bên kia (… |
+| Mở đầu phần | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | … có tai nạn giao thông thì đừng chạy (… |
+| Mở đầu phần | mục 7 | Uống rượu là không chạm vô lăng, kể cả xe điện và "chỉ dời xe một chút" | …y (mục 1), uống rượu là không chạm vô lăng (… |
+| Mở đầu phần | mục 30 | Nuôi chó phải dắt dây: không dây mà có chuyện là trách nhiệm không lỗi (có lỗi hay không đều phải đền), đền tới cùng | …hạm vô lăng (mục 7), nuôi chó phải dắt dây (… |
+| Mở đầu phần | mục 46 | Lắp khóa tốt cho cửa ra vào và cửa sổ, lắp một đèn cảm ứng ngoài cửa, ra khỏi nhà thì khóa cửa thật sự: chống trộm đột nhập nhờ mấy thứ này, chỉ lắp mỗi một chuông báo trộm thì không thấy có tác dụng | …30), lắp khóa tốt cho cửa ra vào và cửa sổ (… |
 | mục 3 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … cách chặn chi xem … |
+| mục 3 | phần 12, mục 24 | **Trỏ tới mục không tồn tại** | …thuê người vận hành hộ cửa hàng online, xem … |
+| mục 3 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …bắt bạn chuyển tiền, mà để bạn gánh nợ, xem … |
 | mục 4 | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | …để mặt và giọng mình không bị thu thập, xem … |
 | mục 4 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Đã lỡ chuyển tiền thì xem … |
 | mục 5 | mục 33 | Bị người bịa đặt tình tiết tố cáo, có thể yêu cầu truy cứu: đủ phạt trị an thì tạm giữ từ 5 ngày, đủ tội thì tù dưới 3 năm | … Ba mục mở rộng xem … |
@@ -529,18 +577,25 @@ Tổng cộng 985 trích dẫn.
 | mục 5 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …phải tuyên vô tội và khiếu nại xét xử lại), … |
 | mục 6 | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | … Làm thế nào thì xem … |
 | mục 6 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | …rước và khai thật không mâu thuẫn nhau, xem … |
+| mục 8 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …ên thật thì mức phạt giống như mục này, xem … |
+| mục 9 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … để vay tiền, bạn càng nên tra một lần, xem … |
+| mục 10 | phần 9, mục 26 | **Trỏ tới mục không tồn tại** | …nh thường, bị kiểm tra ra cũng bị phạt, xem … |
 | mục 11 | phần 13, mục 37 | Bắt gặp một đám đánh nhau: lùi ra đi, đừng lên can, đừng đứng xem, đừng nhặt hung khí dưới đất; muốn báo thì lùi tới khoảng an toàn gọi 110 | …ữa người lạ thì rủi ro phải tính riêng, xem … |
 | mục 11 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … mặc định vẫn là lùi ra và báo cảnh sát như … |
 | mục 11 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | … chính thức hỏi, bạn mời luật sư trước, xem … |
 | mục 11 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …ng nhà nước, tính theo số ngày bị giam, xem … |
 | mục 12 | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …hế nào, xin trọng tài lao động thế nào, xem … |
+| mục 12 | phần 7, mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …hân mà bị nợ tiền thì cũng phải ra tòa, xem … |
 | mục 12 | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …ể khiếu nại thế nào, trọng tài thế nào, xem … |
 | mục 12 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Vạch đỏ khi đòi nợ xem … |
 | mục 13 | mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | … Nếu ý nghĩ đã đi tới bước này, bạn xem … |
 | mục 14 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Nếu muốn tự làm hại mình, xem … |
 | mục 14 | phần 3, mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …Lúc tinh thần suy sụp trước hết làm gì, xem … |
+| mục 15 | phần 1, mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …ỏi như vậy không làm họ muốn chết thêm, xem … |
 | mục 16 | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | … Bị bạo lực mạng rồi xử lý thế nào, xem … |
+| mục 17 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …giúp quét mặt, ký tên để làm khoản vay, xem … |
 | mục 18 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …y thị trường TQ) không được tòa bảo vệ, xem … |
+| mục 18 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …ảo lãnh mà thực tế bạn ký hợp đồng vay, xem … |
 | mục 19 | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | … nghỉ đi theo đường trọng tài lao động, xem … |
 | mục 19 | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | … nghỉ đi theo đường trọng tài lao động, xem … |
 | mục 19 | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Giấy nợ và bảo lãnh xem … |
@@ -549,6 +604,7 @@ Tổng cộng 985 trích dẫn.
 | mục 20 | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | …sách, bị hạn chế tiêu dùng rồi làm sao, xem … |
 | mục 21 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …sách không làm hồ sơ tín dụng thay đổi, xem … |
 | mục 25 | phần 10, mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …nhà thì viết rõ là cho hay vay thế nào, xem … |
+| mục 28 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … Có người mượn tên bạn để đi vay tiền, xem … |
 | mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bị cắn rồi xử lý thế nào, xem … |
 | mục 31 | phần 9, mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … bé gái được xác định thế nào, xem … |
 | mục 31 | phần 13, mục 42 | Sau khi bị xâm hại tình dục: trước tới chỗ an toàn gọi 110; trước khi khám thương đừng tắm, đừng giặt áo, đừng dọn phòng, trong 72 giờ đi viện | … Nếu bạn là bên bị hại, làm gì trước xem … |
@@ -582,6 +638,15 @@ Tổng cộng 985 trích dẫn.
 | mục 44 | phần 10, mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …ệu lực, việc xác định nợ chung vợ chồng xem … |
 | mục 44 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Chủ nợ đến chặn người, giữ người thì xem … |
 | mục 44 | phần 1, mục 37 | Khi đánh bạc đến mức vay tiền đánh tiếp, tâm trạng tụt dốc kéo dài, hãy gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà giữ | …đó đã đánh bạc đến mức không muốn sống, xem … |
+| mục 45 | phần 9, mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | …n có thể tự mình phải chịu trách nhiệm, xem … |
+| mục 45 | phần 14, mục 9 | Quét mặt không bắt buộc phải đồng ý: còn cách khác thì không được chỉ cho bạn quét mặt, bạn không đồng ý thì phải đưa cách khác | …cầu cách khác, nhưng đó là chuyện khác, xem … |
+| mục 45 | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …ng bảo lãnh với tư cách người bảo lãnh, xem … |
+| mục 45 | mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | …mấy khoản vay thì tra báo cáo tín dụng, xem … |
+| mục 45 | mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | …ặt và xác nhận điện tử cũng tính là ký, xem … |
+| mục 45 | mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | …iêu cùng kiểu mượn tên bạn để làm việc, xem … |
+| mục 45 | mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | …n thoại và tài khoản không cho ai mượn, xem … |
+| mục 46 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | …ở thì bạn lùi ra và báo cảnh sát trước, xem … |
+| mục 46 | mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | … Hết đường lùi thì xem … |
 
 ## 09-lan-san-do-phap-luat-de-vi-pham
 
@@ -601,7 +666,7 @@ Tổng cộng 985 trích dẫn.
 | mục 19 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | …anh giới phòng vệ chính đáng ở đâu, bạn xem … |
 | mục 19 | phần 8, mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | …ả khi ra tay với người khác để xả giận, xem … |
 | mục 19 | phần 8, mục 12 | Kết thù với ai — bị nợ lương, bị đuổi việc, bị chơi xỏ tiền — đi đường khiếu nại, trọng tài, khởi kiện, đừng đi tìm người tính sổ | …ả khi ra tay với người khác để xả giận, xem … |
-| mục 19 | phần 8, mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết là tử hình | …ả khi ra tay với người khác để xả giận, xem … |
+| mục 19 | phần 8, mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết thì từ mười năm tù, cao nhất là tử hình | …ả khi ra tay với người khác để xả giận, xem … |
 | mục 19 | phần 8, mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | …ả khi ra tay với người khác để xả giận, xem … |
 | mục 20 | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … kỳ và sau sinh phải đi bệnh viện ngay, xem … |
 | mục 20 | phần 27, mục 16 | Lần tái khám 42 ngày sau sinh đừng nhảy, nó đồng thời là sàng lọc trầm cảm sau sinh | …ồng thời là sàng lọc trầm cảm sau sinh, xem … |
