@@ -31,9 +31,13 @@
 //     (ba tháng, một lần) không đọc được, nên mục mới có số nhỏ viết chữ bị báo
 //     thiếu dù bản dịch đúng; báo đó phải xem tay
 //   ⑧ ngoài dòng Nguồn không còn chữ Hán
-//   ⑨ (khi có --frozen) mục và đoạn mở đầu phần mà bản gốc không đổi kể từ
-//     --since thì bản VN phải giữ nguyên từng chữ như ở <ref>: cả 34 chương đã
-//     viết lại giọng, đồng bộ chỉ được vá chỗ gốc đổi
+//   ⑨ (khi có --frozen) mục, đoạn mở đầu phần và đoạn cuối phần (footer) mà bản
+//     gốc không đổi kể từ --since thì bản VN phải giữ nguyên từng chữ như ở <ref>:
+//     cả 34 chương đã viết lại giọng, đồng bộ chỉ được vá chỗ gốc đổi. Footer
+//     tách khỏi mục cuối vì bản VN phần 26–34 có khối "## Giấy phép" sau mục cuối
+//     (phần 26 gốc cũng có "## 许可", các phần khác gốc không có). Nếu footer
+//     dính vào mục cuối, khi đồng bộ thêm mục mới sau mục cuối, footer chuyển
+//     sang mục mới và mục cuối cũ bị báo sửa sai
 // Lỗi → exit 1, in từng chỗ lệch.
 // Tách dòng bằng /\r?\n/, lý do xem đầu check-refs.mjs.
 import { readFileSync, readdirSync } from 'node:fs';
@@ -100,14 +104,18 @@ const TAG_MAP = {
 const ZH_FIELD = { '成本': 'Chi phí', '说人话': 'Nói dễ hiểu', '收益': 'Lợi ích', '证据等级': 'Mức chứng cứ', '来源': 'Nguồn', '备注': 'Ghi chú' };
 
 // key = tiêu đề + thân mục, không kèm số mục: mục chỉ bị dồn số vẫn coi là không đổi
+// foot: mọi dòng từ tiêu đề không phải mục (## ...) sau mục đầu tiên đến hết phần,
+// hoặc đến khi gặp "### N." tiếp theo. Không thuộc mục nào, không vào raw/key.
 function parse(text, zh) {
   const items = new Map();
   const head = [];
+  const foot = [];
   let cur = null;
   for (const line of text.normalize('NFC').split(/\r?\n/)) {
     const h = line.match(/^### (\d+)\. (.*)$/);
     if (h) { cur = { no: Number(h[1]), title: h[2], fields: {}, tag: '', raw: [line], key: h[2] }; items.set(cur.no, cur); continue; }
-    if (!cur) { head.push(line); continue; }
+    if (!cur) { (items.size ? foot : head).push(line); continue; }
+    if (/^#{1,6} /.test(line)) { cur = null; foot.push(line); continue; }
     cur.raw.push(line);
     cur.key += '\n' + line;
     const f = zh ? line.match(/^- (成本|说人话|收益|证据等级|来源|备注)：\s*(.*)$/) : line.match(/^- (Chi phí|Nói dễ hiểu|Lợi ích|Mức chứng cứ|Nguồn|Ghi chú):\s*(.*)$/);
@@ -118,7 +126,7 @@ function parse(text, zh) {
       : t[1].split(/\s+/).sort().join(' ');
   }
   for (const it of items.values()) it.key = it.key.trimEnd();
-  return { head: head.join('\n').trim(), items };
+  return { head: head.join('\n').trim(), items, foot: foot.join('\n').trim() };
 }
 
 // Giá trị số. Bản TQ: "." thập phân, "," ngăn nghìn nếu có, đơn vị 万/亿/千.
@@ -170,6 +178,7 @@ for (const p of parts) {
   const bad = [];
   if (vn.items.size !== zh.items.size) bad.push(`số mục: gốc ${zh.items.size} / VN ${vn.items.size}`);
   if (vnFrozen && zh.head === old.head && vn.head !== vnFrozen.head) bad.push('mở đầu phần: bản gốc không đổi nhưng bản VN bị sửa');
+  if (vnFrozen && vn.foot !== vnFrozen.foot) bad.push('phần cuối (sau các mục) bị sửa');
   for (const [no, z] of zh.items) {
     const v = vn.items.get(no);
     if (!v) { bad.push(`mục ${no}: VN chưa có (gốc: ${z.title.slice(0, 40)})`); continue; }
