@@ -2,7 +2,7 @@
 
 # 19. Đang làm, nghỉ việc và tai nạn lao động
 
-Phần này tính sổ tiền: tiền tính ra sao, chữ ký ký ra sao, thời hạn tính ra sao. Phần đầu nói những khoản tiền bạn đáng được lĩnh về tay ngay khi còn đi làm, phần giữa nói nghỉ việc, phần tiếp theo nói bệnh nghề nghiệp và tai nạn lao động. Tiền tai nạn lao động lớn hơn tiền bị sa thải cỡ một cấp độ, thời hạn của nó cũng cứng hơn. Còn tổn thương do bệnh nghề nghiệp gây ra thì không lấy lại được. Bốn mục từ mục 16 đến mục 19 nói về cách xử lý khi bị bắt nạt ở nơi làm việc và cách đòi giấy chứng nhận nghỉ việc. Hai mục còn lại nói về cách tính thuế của khoản bồi thường nghỉ việc và cách chuyển quan hệ bảo hiểm xã hội khi đổi thành phố làm việc.
+Phần này tính sổ tiền: tiền tính ra sao, chữ ký ký ra sao, thời hạn tính ra sao. Phần đầu nói những khoản tiền bạn đáng được lĩnh về tay ngay khi còn đi làm, phần giữa nói nghỉ việc, phần tiếp theo nói bệnh nghề nghiệp và tai nạn lao động. Tiền tai nạn lao động lớn hơn tiền bị sa thải cỡ một cấp độ, thời hạn của nó cũng cứng hơn. Còn tổn thương do bệnh nghề nghiệp gây ra thì không lấy lại được. Phần này còn bốn mục, từ mục 16 đến mục 19. Chúng nói về cách xử lý khi bị bắt nạt ở nơi làm việc, cách đòi giấy chứng nhận nghỉ việc, cách tính thuế của khoản bồi thường nghỉ việc và cách chuyển quan hệ bảo hiểm xã hội khi đổi thành phố làm việc.
 
 ### 1. Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100%
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=chut loi-ich=lon quy-mo=tien -->

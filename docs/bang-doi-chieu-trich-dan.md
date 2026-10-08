@@ -1053,10 +1053,10 @@ Tổng cộng 1516 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | mục 16 | Ở đơn vị lâu dài bị bắt nạt, sỉ nhục, làm khó, đừng cứng gánh: trước ghi lại giữ chứng cứ, rồi theo tính chất đi tố cáo, báo cảnh sát hoặc trọng tài | … Bốn mục từ … |
-| Mở đầu phần | mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Bốn mục từ … |
-| Mở đầu phần | mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | … Bốn mục từ … |
-| Mở đầu phần | mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Bốn mục từ … |
+| Mở đầu phần | mục 16 | Ở đơn vị lâu dài bị bắt nạt, sỉ nhục, làm khó, đừng cứng gánh: trước ghi lại giữ chứng cứ, rồi theo tính chất đi tố cáo, báo cảnh sát hoặc trọng tài | … Phần này còn bốn mục, từ … |
+| Mở đầu phần | mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Phần này còn bốn mục, từ … |
+| Mở đầu phần | mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | … Phần này còn bốn mục, từ … |
+| Mở đầu phần | mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Phần này còn bốn mục, từ … |
 | mục 1 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hạn trọng tài của tranh chấp xem … |
 | mục 3 | phần 12, mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | … hay không, nghĩa vụ phía dùng lao động xem … |
 | mục 3 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Bị giải trừ trái luật thì tính theo … |
