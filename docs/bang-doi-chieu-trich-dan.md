@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1321 trích dẫn.
+Tổng cộng 1322 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1489,6 +1489,12 @@ Tổng cộng 1321 trích dẫn.
 | mục 10 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … Nếu trẻ lỡ uống nhầm thuốc, bạn xem … |
 | mục 10 | mục 7 | Cảm thường đừng tìm bác sĩ đòi kháng sinh | …g nhà thì bạn cũng đừng tự lấy ra uống, xem … |
 | mục 11 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …ng paracetamol cũng đừng uống rượu, bạn xem … |
+
+## docs/cuoi-co-dang-khong
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Tư cách pháp lý: vợ hoặc | phần 10, mục 18 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | … Chi tiết xem … |
 
 ## docs/danh-muc-do-dung-khan-cap-gia-dinh
 

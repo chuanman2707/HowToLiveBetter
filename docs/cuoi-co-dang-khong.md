@@ -9,7 +9,7 @@ Trong "cưới có đáng không" ít nhất chứa năm bút sổ. Năm bút n�
 1. Tiền: một là thật sự phải moi ra như sính lễ, hôn lễ, nhà cưới, hai là tài sản pháp luật quy định về ai. Hạng trước không có thống kê chính thức, hạng sau có điều khoản văn rõ.
 2. Thời gian: việc nhà, chiếu khán người nhà, nhường bước cho công việc đối phương, mấy thứ này đều là lao động làm rồi không ai trả tiền, đơn vị là mỗi ngày bao nhiêu phút.
 3. Sức khỏe: người cưới rồi và người chưa cưới, tử suất chênh bao nhiêu. Bút sổ này chỉ nói được hai việc đồng thời xuất hiện, nói không ra khoảng chênh này do cưới mang lại.
-4. Nguy cơ pháp luật: tài sản chia thế nào, muốn rời phải đi bao lâu, những phó xuất nào có thể quay đầu đòi một khoản bồi thường. Bút sổ này xem điều văn pháp luật viết thế nào.
+4. Nguy cơ pháp luật: tài sản chia thế nào, muốn rời phải đi bao lâu, những phó xuất nào có thể quay đầu đòi một khoản bồi thường, và lúc bệnh nặng thì ai có thể quyết định thay bạn. Bút sổ này xem điều văn pháp luật viết thế nào.
 5. Chất lượng quan hệ: đối phương cho bạn ủng hộ tình cảm không, hai người cãi thành dạng gì. Bút sổ này chỉ dùng độ mạnh tương quan nghiên cứu tính ra để cân đo, đổi không ra tiền, cũng đổi không ra thời gian.
 
 Bút thứ năm khó thành con số nhất, nhưng gần nhất với thứ đa số người muốn hỏi.
@@ -59,6 +59,19 @@ Bộ quy tắc này hai phía đều dùng được. Phương kiếm tiền nhi�
 
 Trong 3,513 triệu đôi ly hôn năm 2024, có 891 nghìn đôi ly qua phán quyết hay hòa giải tòa. Kỳ lãnh tĩnh chỉ quản ly hôn đăng ký, đi tòa đánh kiện không thích dụng kỳ lãnh tĩnh.
 
+### Tư cách pháp lý: vợ hoặc chồng là thân nhân gần, lúc bệnh nặng có thể quyết định thay bạn
+
+Cưới xong, người kia về mặt luật là thân nhân gần của bạn. Điều 1045 Bộ luật Dân sự liệt kê các thân nhân gần, và vợ hoặc chồng đứng đầu danh sách. Tư cách này dùng được trong mấy trường hợp sau.
+
+- Mổ: Điều 1219 Bộ luật Dân sự quy định, trước khi mổ, khám đặc biệt hay điều trị đặc biệt, bác sĩ phải nói rõ rủi ro với chính bệnh nhân và được chính bệnh nhân đồng ý rõ ràng. Nếu bệnh nhân hôn mê nên không giải thích được, hoặc không nên nói thẳng với bệnh nhân, bác sĩ phải giải thích với thân nhân gần, và thân nhân gần là người đồng ý. Khi bệnh nhân còn tỉnh, người ký là chính bệnh nhân, vợ hoặc chồng không ký thay được.
+- Cấp cứu: Điều 1220 Bộ luật Dân sự quy định, nếu bệnh nhân nguy kịch mà không hỏi được ý kiến của bệnh nhân hay thân nhân gần, bệnh viện có thể cứu ngay sau khi người phụ trách bệnh viện phê duyệt. Người nhà không có mặt thì luật vẫn cho phép bệnh viện cứu trước.
+- Lâu dài không tự quyết định được: khi người trưởng thành đã mất năng lực hành vi dân sự, Điều 28 Bộ luật Dân sự xếp người giám hộ theo thứ tự, vợ hoặc chồng đứng đầu, cha mẹ và con cái đứng thứ hai. Nếu bạn đã chỉ định người giám hộ bằng văn bản từ trước, Điều 33 Bộ luật Dân sự cho người được chỉ định đó làm giám hộ.
+- Thừa kế: theo Điều 1127 Bộ luật Dân sự, hàng thừa kế thứ nhất gồm vợ hoặc chồng, con cái và cha mẹ. Nếu bạn không lập di chúc, vợ hoặc chồng của bạn chia di sản cùng con cái và cha mẹ bạn.
+
+Lợi thế này có hai điểm cần trừ bớt. Thứ nhất, Điều 1219 Bộ luật Dân sự chỉ ghi "thân nhân gần" và không xếp thứ tự giữa các thân nhân gần. Cha mẹ và con cái đã trưởng thành cũng là thân nhân gần. Khi họ không cùng ý kiến thì nghe ai, luật không viết.
+
+Thứ hai, người yêu chưa đăng ký kết hôn cũng bù được phần lớn. Cách làm là nhân lúc hai người còn tỉnh táo, lập sẵn giấy ủy quyền bằng văn bản, thỏa thuận giám hộ tự định (chỉ định trước người giám hộ) và di chúc. Chi tiết xem phần 10, mục 18 (ủy quyền, giám hộ tự định và di chúc). Mục đó viết về cặp đồng giới, nhưng ba loại giấy này cặp khác giới chưa đăng ký cũng làm được. Có điều, người giám hộ tự định có ký thẳng được giấy đồng ý mổ hay không thì mỗi bệnh viện làm một kiểu. Nếu đã cưới, mấy tư cách trên có đủ ngay khi nhận giấy đăng ký kết hôn, bạn không phải làm từng thứ, và cũng đỡ bị bệnh viện hay người nhà bắt bẻ giấy tờ.
+
 ### Chất lượng quan hệ: đáng tính hơn "có cưới chưa" một bút
 
 Robles et al. (2014) tổng hợp 126 nghiên cứu, hơn 7,2 vạn người. Kết luận là: chất lượng hôn nhân càng cao, sức khỏe càng tốt. Ở đây cân hai việc theo sát nhau hay không, dùng một số gọi hiệu ứng lượng r. r càng gần 0, nói rõ hai việc cơ hồ không liên quan. Trị tuyệt đối của r càng lớn, nói rõ theo càng sát. r trước mang dấu âm, biểu thị một cái cao cái kia liền thấp. r của mấy tương quan này trong khoảng 0.07 tới 0.21. Trong đó với nguy cơ chết r = 0.11. Với phản ứng tim mạch lúc hai người khởi xung đột, r = −0.13. Mấy trị số này đều không lớn. Nhưng loại tương quan ăn uống tốt xấu với sức khỏe cũng cùng đại lượng cấp này. Một phần kết quả tồn tại thiên lệch phát biểu (kết quả đẹp dễ phát biểu hơn). Có nghiên cứu chuyên kiểm nghiệm chênh nam nữ, cơ bản không phát hiện nam nữ khác. Mấy nghiên cứu này đa số chỉ theo dõi ghi chép, không phân tổ đối chiếu, nên đẩy không ra nhân quả. Thiên tổng quan tim mạch Dhindsa et al. (2020) cũng chỉ ra, hài lòng với hôn nhân hay không, chất lượng hôn nhân tốt xấu, với nguy cơ tim mạch có ảnh hưởng rõ rệt.
@@ -89,6 +102,7 @@ Trên pháp luật bảo hộ mình thế nào (hai phía đều thích dụng)
 - Có nên ký một phần ước định tài sản văn bản không. Phần ước định này chỉ quản tài sản trước cưới, chỉ quản sau cưới kiếm được, hay hai đầu đều quản.
 - Sau cưới việc nhà và chiếu khán ai làm nhiều hơn. Phương làm nhiều, có biết theo Điều 1088 có thể đòi một khoản bồi thường không. Hai người nguyện trước ước định sẵn cách bồi thường không.
 - Nợ: tiền sau cưới mượn dưới danh nghĩa cá nhân, khoản nào sẽ tính nợ cộng đồng hai người. Phương kia có biết khoản tiền này không.
+- Lúc bệnh nặng hay hôn mê, bạn muốn ai ký thay và quyết định thay. Nếu đã cưới, vợ hoặc chồng là thân nhân gần, nhưng cha mẹ bạn cũng là thân nhân gần và có thể không cùng ý kiến. Muốn chỉ định một người, bạn có thể làm giám hộ tự định bằng văn bản từ trước. Nếu không cưới, bạn phải tự làm giấy ủy quyền, giám hộ tự định và di chúc.
 
 Cột cưới vì người lớn riêng điền
 
@@ -114,7 +128,7 @@ Chỗ không có số chính thức, đừng cầm số dân gian điền. Chi p
 - 民政部 (2025). 2024 年民政事业发展统计公报（五（二）1 婚姻登记服务、注释 5）. <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html>（PDF：<https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>）
 - 国家统计局 (2024). 第三次全国时间利用调查公报（第一号、第二号、第三号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>；国家统计局社科文司负责人答记者问. <https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html>
 - 国家统计局 (2019). 2018 年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
-- 全国人民代表大会 (2020). 中华人民共和国民法典（第一千零六十二、一千零六十三、一千零六十五、一千零七十六、一千零七十七、一千零七十九、一千零八十八条）. 国家法律法规数据库 <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>；条文全文见最高人民法院公报转载 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>
+- 全国人民代表大会 (2020). 中华人民共和国民法典（第二十八、三十三、一千零四十五、一千零六十二、一千零六十三、一千零六十五、一千零七十六、一千零七十七、一千零七十九、一千零八十八、一千一百二十七、一千二百一十九、一千二百二十条）. 国家法律法规数据库 <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>；条文全文见最高人民法院公报转载 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>
 - 民政部 (2020). 关于贯彻落实《中华人民共和国民法典》中有关婚姻登记规定的通知（民发〔2020〕116 号）. <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>
 - Manzoli L, Villari P, Pirone GM, Boccia A (2007). Marital status and mortality in the elderly: a systematic review and meta-analysis. Soc Sci Med 64:77–94. <https://doi.org/10.1016/j.socscimed.2006.08.031>
 - Roelfs DJ, Shor E, Kalish R, Yogev T (2011). The rising relative risk of mortality for singles: meta-analysis and meta-regression. Am J Epidemiol 174(4):379–389. <https://doi.org/10.1093/aje/kwr111>
