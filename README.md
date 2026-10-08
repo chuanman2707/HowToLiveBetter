@@ -13,7 +13,7 @@ Không cần làm hết: đây là đơn chọn lựa đã sắp theo hiệu qu�
 
 [![Tra cứu trực tuyến](https://img.shields.io/badge/tra-cuu-truc-tuyen-bam-day-mo-3451b2?style=flat-square)](https://chuanman2707.github.io/HowToLiveBetter/)
 [![Mục](https://img.shields.io/badge/muc-641%20muc-18794e?style=flat-square)](#mục-lục)
-[![Phân hạng chứng cứ](https://img.shields.io/badge/muc-chung-cu-A%20424%20%C2%B7%20B%20166%20%C2%B7%20C%2051-915930?style=flat-square)](#phân-hạng-chứng-cứ)
+[![Phân hạng chứng cứ](https://img.shields.io/badge/muc-chung-cu-A%20425%20%C2%B7%20B%20165%20%C2%B7%20C%2051-915930?style=flat-square)](#phân-hạng-chứng-cứ)
 [![Nguồn sơ cấp](https://img.shields.io/badge/nguon-so-cap-1443%20link%20nguon-565a5f?style=flat-square)](docs/ghi-chep-kiem-chung/)
 [![Giấy phép](https://img.shields.io/badge/giay-phep-CC%20BY%204.0-565a5f?style=flat-square)](#giấy-phép)
 
@@ -161,7 +161,7 @@ Mỗi mục lời khuyên đều đánh dấu hạng chứng cứ:
 | B | Có nghiên cứu chống lưng, nhưng nói không ra một số xác thực; hay chỉ có cỡ mẫu nhỏ, một nghiên cứu riêng lẻ chống |
 | C | Kinh nghiệm tác giả, hay cách làm mọi người công nhận, không có văn hiến nghiên cứu trực tiếp |
 
-Trong 641 mục: A 424 · B 166 · C 51, có 58 mục đánh dấu tranh cãi, 2 chỗ cần xác minh. Mục cấp A/B có tranh cãi sẽ đánh dấu "Tranh cãi" và liệt chứng cứ phản phương. Mọi nguồn chỉ trích văn hiến sơ cấp (luận văn tạp chí kèm DOI hay liên kết PubMed, hay báo cáo cơ cấu chính thức như WHO/CDC/Tổng cục Thống kê), không trích chuyển thuật thứ cấp. Số không xác định đánh dấu "cần xác minh". Nội dung pháp luật TQ vẫn trích nguyên văn điều khoản và văn hiệu trong cột Nguồn.
+Trong 641 mục: A 425 · B 165 · C 51, có 60 mục đánh dấu tranh cãi, 2 chỗ cần xác minh. Mục cấp A/B có tranh cãi sẽ đánh dấu "Tranh cãi" và liệt chứng cứ phản phương. Mọi nguồn chỉ trích văn hiến sơ cấp (luận văn tạp chí kèm DOI hay liên kết PubMed, hay báo cáo cơ cấu chính thức như WHO/CDC/Tổng cục Thống kê), không trích chuyển thuật thứ cấp. Số không xác định đánh dấu "cần xác minh". Nội dung pháp luật TQ vẫn trích nguyên văn điều khoản và văn hiệu trong cột Nguồn.
 
 ## Các mức hiệu quả chi phí
 
