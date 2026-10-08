@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1142 trích dẫn.
+Tổng cộng 1196 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -822,6 +822,51 @@ Tổng cộng 1142 trích dẫn.
 | Mở đầu phần | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …lừa và bảy loại lừa đảo thường gặp nhất xem … |
 | Mở đầu phần | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …iêng tư hay video chat sex ra đòi tiền, xem … |
 | Mở đầu phần | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … chống lừa đảo TQ) để yêu cầu chặn chi, xem … |
+| Mở đầu phần | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … có người ngã xuống không thở (… |
+| Mở đầu phần | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …gười già té ngã thì đừng vội dìu người lên (… |
+| Mở đầu phần | mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … có người nghẹn không nói được (… |
+| Mở đầu phần | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | …é dưới 1 tuổi nghẹn mà khóc không ra tiếng (… |
+| Mở đầu phần | mục 44 | Em bé dưới 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sức tim phổi cho em bé, ấn 30 cái thổi 2 hơi | … thường thì làm hồi sức tim phổi cho em bé (… |
+| Mở đầu phần | mục 3 | Đột nhiên méo miệng, một bên cánh tay mất lực, nói không rõ lời — gọi ngay 120, đừng chờ, đừng tự lái xe đi | … nhiên méo miệng, một bên cánh tay mất lực (… |
+| Mở đầu phần | mục 4 | Đột nhiên trời đất quay cuồng không đứng vững, nhìn đồ vật thành đôi, một mắt tối đi, hoặc ngón tay chạm không trúng chóp mũi mình — cũng gọi 120 theo đột quỵ | … nhiên trời đất quay cuồng không đứng vững (… |
+| Mở đầu phần | mục 5 | Một mắt đột nhiên tối đi như rèm kéo xuống, dù vài phút tự khỏi, cũng phải đi cấp cứu trong ngày theo hướng đột quỵ | …một mắt đột nhiên tối đi như rèm kéo xuống (… |
+| Mở đầu phần | mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | … một mắt vừa căng vừa đau (… |
+| Mở đầu phần | mục 7 | Ngực đau như bị đè, tức, thắt chặt quá 15 phút không đỡ — gọi 120, đừng tự gồng cũng đừng tự lái xe | … Ngực đau như bị đè (… |
+| Mở đầu phần | mục 8 | Đột nhiên đau dữ như bị xé toạc, từ ngực lan ra lưng, lan xuống eo — gọi 120 và nói rõ "đau đang di chuyển" | … đột nhiên đau dữ như bị xé toạc (… |
+| Mở đầu phần | mục 9 | Đột nhiên một trận "đau đầu đau nhất đời", trong một giờ đã đau tới đỉnh — đi cấp cứu ngay chụp CT sọ não | … một trận đau đầu đau nhất đời (… |
+| Mở đầu phần | mục 10 | Người già va đầu xong vài tuần đến vài tháng sau mà đi không vững, chậm chạp, buồn ngủ hoặc yếu một bên người thì đi chụp CT sọ não | …ài tuần đến vài tháng sau mà đi không vững (… |
+| Mở đầu phần | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … Một chân đột nhiên sưng lên (… |
+| Mở đầu phần | mục 15 | Đột nhiên nổi mẩn toàn thân, không thở nổi hoặc chóng mặt — xử lý theo sốc phản vệ, gọi ngay 120 và nói rõ | …, không thở nổi thì xử lý theo sốc phản vệ (… |
+| Mở đầu phần | mục 16 | Có người co giật ngã xuống: dọn chỗ xung quanh, để họ nằm nghiêng, xem đồng hồ tính giờ, đừng nhét gì vào miệng | … có người co giật ngã xuống (… |
+| Mở đầu phần | mục 17 | Người tiểu đường đột nhiên run, ra mồ hôi lạnh, nói không rõ — trước cho 15 gram đường, sau 15 phút đo lại | … người tiểu đường đột nhiên run (… |
+| Mở đầu phần | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … thì trước hết dùng tay ấn chặt vết thương (… |
+| Mở đầu phần | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … bị chó, mèo cắn hoặc cào rách da (… |
+| Mở đầu phần | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | … bỏng thì lập tức xả nước mát chảy 20 phút (… |
+| Mở đầu phần | mục 40 | Dao, thanh sắt, thủy tinh cắm vào người: ấn quanh vật lạ cầm máu, đừng rút nó ra | …thủy tinh cắm vào người thì đừng rút nó ra (… |
+| Mở đầu phần | mục 41 | Nghi gãy xương thì đừng động bộ phận đó nữa, đỡ yên, chườm lạnh trong 20 phút, đừng tự bẻ chỉnh | …ghi gãy xương thì đừng động bộ phận đó nữa (… |
+| Mở đầu phần | mục 18 | Có người bị điện giật: ngắt điện trước, rồi dùng gậy gỗ khô loại đó gạt nguồn điện ra, đừng trực tiếp đưa tay kéo | … có người bị điện giật thì ngắt điện trước (… |
+| Mở đầu phần | mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … máy báo khí CO kêu (… |
+| Mở đầu phần | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | …hầm chất tẩy rửa, thuốc trừ sâu, thuốc men (… |
+| Mở đầu phần | mục 21 | Hóa chất axit kiềm bắn lên người: lập tức cởi áo quần dính hóa chất, xả nhiều nước chảy, mắt phải mở mi mắt xả, xả đủ giờ rồi mới đi | … hóa chất axit kiềm bắn lên người (… |
+| Mở đầu phần | mục 22 | Trời nóng mà chóng mặt, buồn nôn, không ra mồ hôi hoặc lơ mơ ý thức — lập tức đưa vào chỗ râm, cởi áo tát nước hạ nhiệt; người mê man không cho uống nước, gọi 120 | … Trời nóng mà chóng mặt, không ra mồ hôi (… |
+| Mở đầu phần | mục 23 | Người say nắng chỉ cần tỉnh thì uống nước muối loãng mát hoặc nước thể thao ít một nhiều lần, đừng rót mạnh, đừng uống rượu và nước nhiều đường | … chỉ cần tỉnh thì uống nước muối loãng mát (… |
+| Mở đầu phần | mục 24 | Cháy thì bò sát đất, sờ cửa rồi mới mở, cửa nóng thì đừng mở; đi cầu thang bộ không đi thang máy, ra rồi đừng quay lại | … cháy thì bò sát đất (… |
+| Mở đầu phần | mục 25 | Thấy người đuối nước: trước kêu người và gọi 110/120, đưa sào, ném đồ nổi — mình không xuống nước | … người đuối nước thì mình không xuống nước (… |
+| Mở đầu phần | mục 30 | Động đất thì trước xem mình ở nhà kiểu gì: tòa nhà đạt phòng chấn thì trốn tại chỗ, nhà cũ sẽ sập mà cửa cách vài bước thì ra ngoài | … động đất thì trước xem mình ở nhà kiểu gì (… |
+| Mở đầu phần | mục 27 | Trong hoang mạc, sa mạc, vùng không người mà lạc hoặc xe hỏng: ở lại chỗ cũ hoặc cạnh xe, báo vị trí trước, rồi che nắng giữ ấm, tiết kiệm nước, không đi lung tung | …người mà lạc hoặc xe hỏng thì ở lại chỗ cũ (… |
+| Mở đầu phần | mục 28 | Rung, nói nhảm, đi lảo đảo là hạ thân nhiệt — thay áo ướt, bọc lại, ấm thân trước, uống nước nóng ngọt không uống rượu | …ung, nói nhảm, đi lảo đảo là hạ thân nhiệt (… |
+| Mở đầu phần | mục 29 | Bị rắn cắn: ngồi xuống đừng động, tháo nhẫn đồng hồ, mau đưa tới viện tiêm huyết thanh chống độc rắn — không rạch, không hút, không buộc chết | … bị rắn cắn thì không rạch, không hút (… |
+| Mở đầu phần | mục 31 | Gặp gấu, lợn rừng, đàn chó hoang: đừng chạy, xoay người lùi chậm ra | … Gặp gấu, lợn rừng, đàn chó hoang (… |
+| Mở đầu phần | mục 32 | Ngoài trời gặp dông: chui vào xe mui cứng hoặc công trình, tránh lưng núi, cây độc lập, mặt nước và kim loại | …oài trời gặp dông thì chui vào xe mui cứng (… |
+| Mở đầu phần | mục 33 | Lên cao nguyên thì lên chậm theo độ cao nơi ngủ (đêm đó ngủ ở cao bao nhiêu), triệu chứng nặng thêm thì xuống, đừng gồng | … lên cao nguyên thì lên chậm (… |
+| Mở đầu phần | mục 34 | Bị ve cắn dính: dùng nhíp đầu nhọn sát da kẹp kéo ra chắc tay, đừng bôi dầu đừng đốt lửa | …h thì dùng nhíp đầu nhọn sát da kẹp kéo ra (… |
+| Mở đầu phần | mục 35 | Nước ngoài trời một mực đun sôi mới uống, sôi bùng một phút là đủ, đừng vì độ cao mà nấu thêm | … nước ngoài trời một mực đun sôi mới uống (… |
+| Mở đầu phần | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | … nơi hoang vắng bị người lạ đòi tiền tài (… |
+| Mở đầu phần | mục 37 | Bắt gặp một đám đánh nhau: lùi ra đi, đừng lên can, đừng đứng xem, đừng nhặt hung khí dưới đất; muốn báo thì lùi tới khoảng an toàn gọi 110 | … bắt gặp một đám đánh nhau (… |
+| Mở đầu phần | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … cứu người mà bị thương, tốn tiền (… |
+| Mở đầu phần | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …HIV thì trong 72 giờ đi lấy thuốc dự phòng (… |
+| Mở đầu phần | mục 42 | Sau khi bị xâm hại tình dục: trước tới chỗ an toàn gọi 110; trước khi khám thương đừng tắm, đừng giặt áo, đừng dọn phòng, trong 72 giờ đi viện | … sau khi bị xâm hại tình dục (… |
+| mục 1 | mục 44 | Em bé dưới 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sức tim phổi cho em bé, ấn 30 cái thổi 2 hơi | …thì cách làm khác và bạn phải thổi hơi, xem … |
 | mục 2 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Không thở thì bạn ấn ngực theo … |
 | mục 2 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Cách phòng té ngã xem … |
 | mục 2 | phần 8, mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …ì giữ chứng cứ và báo cảnh sát thế nào, xem … |
@@ -842,9 +887,12 @@ Tổng cộng 1142 trích dẫn.
 | mục 21 | phần 19, mục 10 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …hộ và khám sức khỏe trước khi nhận việc xem … |
 | mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
 | mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ần lớn là con nhà mình, cách phòng ngừa xem … |
+| mục 25 | phần 1, mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | … Mặt băng thì phòng thế nào, bạn xem … |
+| mục 26 | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | … tuổi thì bạn không ấn bụng mà ấn ngực, xem … |
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử lý theo … |
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Bị chó cắn thì xử lý theo … |
 | mục 36 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …ền thì ngược lại, một xu cũng đừng đưa, xem … |
+| mục 36 | phần 9, mục 26 | **Trỏ tới mục không tồn tại** | …, vì cứ mang ra khỏi nhà là đã bị phạt, xem … |
 | mục 37 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Chính bạn bị cuốn vào xung đột thì xem … |
 | mục 37 | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ớc, không ra tay), bị người lạ đòi tiền xem … |
 | mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … chuyện tiền khi cứu người mà bị thương xem … |
@@ -855,6 +903,8 @@ Tổng cộng 1142 trích dẫn.
 | mục 39 | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Cách xin viện trợ pháp lý xem … |
 | mục 40 | phần 24, mục 7 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …cứu ngay, đừng xếp hàng ở quầy đăng ký (xem … |
 | mục 40 | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … ấn và cách lên garô khi chảy máu nhiều xem … |
+| mục 41 | phần 2, mục 1 | Bỏ thuốc lá, càng sớm càng tốt | …Xương chưa liền thì bạn đừng hút thuốc, xem … |
+| mục 41 | phần 6, mục 30 | Đừng trông gãy xương rồi bổ sung thật nhiều canxi hay uống nước hầm xương là xương liền nhanh hơn | …ay uống canh xương để xương liền nhanh, xem … |
 | mục 41 | phần 24, mục 9 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …g tật, có nên làm thẻ khuyết tật không, xem … |
 | mục 41 | phần 24, mục 10 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …g tật, có nên làm thẻ khuyết tật không, xem … |
 | mục 41 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …i già té ngã nghi gãy xương thì cấm bê, xem … |
@@ -862,6 +912,10 @@ Tổng cộng 1142 trích dẫn.
 | mục 42 | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | … tệ, có uống hay không do bác sĩ quyết, xem … |
 | mục 42 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Cách ghi âm xem … |
 | mục 42 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | … sát để ép bạn thì đó cũng là phạm tội, xem … |
+| mục 43 | mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | …tuổi và người lớn thì đổi sang ấn bụng, xem … |
+| mục 43 | mục 44 | Em bé dưới 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sức tim phổi cho em bé, ấn 30 cái thổi 2 hơi | … Bé mất phản ứng rồi thì làm thế nào, xem … |
+| mục 44 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Cách này khác … |
+| mục 44 | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | …iệng bé, chỉ lấy dị vật nhìn thấy được, xem … |
 
 ## 14-tai-khoan-va-an-toan-thong-tin
 
