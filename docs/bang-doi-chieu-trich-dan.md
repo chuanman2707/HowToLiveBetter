@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1196 trích dẫn.
+Tổng cộng 1197 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1121,6 +1121,7 @@ Tổng cộng 1196 trích dẫn.
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … đăng ký thế nào, khai thuế thế nào thì xem … |
 | Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | … Riêng … |
 | mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 9 | phần 9, mục 24 | **Trỏ tới mục không tồn tại** | … Về hai trường hợp này, xem … |
 | mục 11 | phần 11, mục 16 | Website, app phải đăng ký ICP trước khi lên kệ; theo yêu cầu bảo vệ cấp độ giữ log ít nhất 6 tháng | …hĩa vụ lưu log 6 tháng và bảo vệ cấp độ xem … |
 
 ## 27-mang-thai-va-sinh-con
