@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1056 trích dẫn.
+Tổng cộng 1093 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -405,6 +405,36 @@ Tổng cộng 1056 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Đừng uống vitamin tổng hợp để sống lâu hay phòng bệnh tim mạch | … uống vitamin tổng hợp để sống lâu (… |
+| Mở đầu phần | mục 2 | Đừng uống dầu cá thường để phòng bệnh tim mạch | … uống dầu cá thường để phòng bệnh tim mạch (… |
+| Mở đầu phần | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | …), bổ sung vitamin D cho người không thiếu (… |
+| Mở đầu phần | mục 4 | Đừng uống viên chống oxy hóa để phòng ung thư (beta carotene, vitamin E, vitamin A) | … uống viên chống oxy hóa để phòng ung thư (… |
+| Mở đầu phần | mục 5 | Đừng trông glucosamine (đường amin đạm) / chondroitin chữa viêm khớp gối | …hư (mục 4), chondroitin chữa viêm khớp gối (… |
+| Mở đầu phần | mục 6 | Đừng trông vitamin C phòng cảm | …viêm khớp gối (mục 5), vitamin C phòng cảm (… |
+| Mở đầu phần | mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …u nhiều tiền mua thực phẩm bảo vệ sức khỏe (… |
+| Mở đầu phần | mục 11 | Không có vấn đề đường ruột thì đừng uống men vi sinh dài hạn | … uống men vi sinh dài hạn (… |
+| Mở đầu phần | mục 13 | Đừng mua các sản phẩm giải độc, thanh lọc ruột, enzyme, nước kiềm | …ài hạn (mục 11), mua các sản phẩm giải độc (… |
+| Mở đầu phần | mục 30 | Đừng trông gãy xương rồi bổ sung thật nhiều canxi hay uống nước hầm xương là xương liền nhanh hơn | …3), gãy xương rồi bổ sung thật nhiều canxi (… |
+| Mở đầu phần | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | … PET-CT toàn thân và gói dấu ấn ung thư (… |
+| Mở đầu phần | mục 18 | Đừng trông gói khám sức khỏe tổng quát phòng bệnh, làm mấy sàng lọc có chứng cứ theo tuổi và giới | …g thư (mục 7), gói khám sức khỏe tổng quát (… |
+| Mở đầu phần | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …ừng đau mà bắt đầu uống thuốc hạ acid uric (… |
+| Mở đầu phần | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …g chưa từng đau mà đi cắt túi mật dự phòng (… |
+| Mở đầu phần | mục 21 | Đừng kiêng canxi để phòng sỏi thận | … Đừng kiêng canxi để phòng sỏi thận (… |
+| Mở đầu phần | mục 8 | Đừng trông vòng đeo tay/đồng hồ định lượng vận động giúp giảm cân | …/đồng hồ định lượng vận động giúp giảm cân (… |
+| Mở đầu phần | mục 9 | Đừng trả thêm tiền mua thực phẩm hữu cơ để "khỏe hơn" | …mục 8), trả thêm tiền mua thực phẩm hữu cơ (… |
+| Mở đầu phần | mục 12 | Đừng ép mình tắm nước lạnh để "tăng miễn dịch" | … ép mình tắm nước lạnh để "tăng miễn dịch" (… |
+| Mở đầu phần | mục 14 | Đừng ép mình uống nước để đủ "8 cốc mỗi ngày" | …g ép mình uống nước để đủ "8 cốc mỗi ngày" (… |
+| Mở đầu phần | mục 16 | Đừng mua kính chống ánh sáng xanh để "bảo vệ thị lực", cũng đừng tin "nhìn màn hình vài tháng là hỏng mắt", nhưng mắt đau căng đỏ phải xem là cấp cứu | …ày" (mục 14), mua kính chống ánh sáng xanh (… |
+| Mở đầu phần | mục 17 | Đừng coi hiến máu như bảo vệ sức khỏe: "giải độc, hạ mỡ máu, phòng nhồi máu cơ tim" không có thử nghiệm chia nhóm ngẫu nhiên chống đỡ, hiến thường xuyên thì thật sự thiếu sắt | …(mục 16), coi hiến máu như bảo vệ sức khỏe (… |
+| Mở đầu phần | mục 26 | Đừng trông ăn sáng hay nhịn ăn kiểu 16:8 giúp kiểm soát cân nặng, giờ ăn chọn kiểu bạn giữ được lâu dài | …8 giúp kiểm soát cân nặng (… |
+| Mở đầu phần | mục 29 | Đừng trông học "tư thế bê vác đúng" hay đi học lớp bê vác là phòng được đau thắt lưng, thứ cần giảm là sức nặng và số lần bê, ngày thường nên tập luyện nhiều | …học lớp bê vác là phòng được đau thắt lưng (… |
+| Mở đầu phần | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … tiêu tiền xem bói (… |
+| Mở đầu phần | mục 22 | Đừng mua pha lê, chuỗi hạt, tỳ hưu mấy loại đồ để "đổi vận" "chiêu tài" "dưỡng người" | … mua pha lê, chuỗi hạt, tỳ hưu (… |
+| Mở đầu phần | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … mua sắm cải thiện tâm trạng (… |
+| Mở đầu phần | mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | …i quanh" mà tiêu thêm tiền đổi nhà, đổi xe (… |
+| Mở đầu phần | mục 25 | Đừng tin "ý chí như cơ bắp, dùng một lát là hết" | … ý chí như cơ bắp (… |
+| Mở đầu phần | mục 27 | Đừng tin "thủ dâm hại thân" "kiêng tình dục mới tốt lên", thứ thật sự cần xem là có lỡ ngủ nghỉ, công việc và quan hệ không | … chí như cơ bắp (mục 25), thủ dâm hại thân (… |
+| Mở đầu phần | mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | …n (mục 27), chỉnh chuyển xu hướng tính dục (… |
 | mục 5 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …ho viêm khớp gối là giảm cân và tập cơ, xem … |
 | mục 7 | phần 1 | 01-dung-chet-som (cả phần) | …g ngực liều thấp cho người nguy cơ cao, xem … |
 | mục 8 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Riêng việc vận động thì có hiệu quả, xem … |
@@ -438,6 +468,7 @@ Tổng cộng 1056 trích dẫn.
 | mục 18 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | … Vú, cổ tử cung, đại trực tràng xem … |
 | mục 18 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | …uẩn Helicobacter pylori và CT liều thấp xem … |
 | mục 18 | phần 1, mục 24 | Người hút thuốc nặng mỗi năm chụp CT lồng ngực liều thấp một lần | …uẩn Helicobacter pylori và CT liều thấp xem … |
+| mục 18 | phần 1, mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … nữ từ 65 tuổi trở lên, đo mật độ xương xem … |
 | mục 18 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …có hành vi nguy cơ cao thì đi kiểm tra, xem … |
 | mục 18 | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | …à dấu ấn ung thư và chụp ảnh toàn thân, xem … |
 | mục 18 | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …i mật mà chưa từng đau thì làm thế nào, xem … |
@@ -469,6 +500,12 @@ Tổng cộng 1056 trích dẫn.
 | mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …àm mình có vấn đề cương dương, hãy làm theo … |
 | mục 27 | phần 9, mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … của việc đăng vào nhóm, bán tài nguyên xem … |
 | mục 28 | phần 30, mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | … Khi con nói ra, cả nhà nên làm gì, xem … |
+| mục 29 | phần 2, mục 16 | Mỗi tuần tập sức mạnh 30–60 phút | … Cách tập xem … |
+| mục 29 | phần 2, mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | …ục 16 (mỗi tuần tập sức mạnh 30–60 phút) và … |
+| mục 30 | phần 1, mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | …gãy xương, cần thuốc chống loãng xương, xem … |
+| mục 30 | phần 13, mục 41 | Nghi gãy xương thì đừng động bộ phận đó nữa, đỡ yên, chườm lạnh trong 20 phút, đừng tự bẻ chỉnh | … Vừa ngã, nghi gãy xương thì làm gì, xem … |
+| mục 30 | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | … D mà bổ sung lâu dài thì không có lợi, xem … |
+| mục 30 | mục 21 | Đừng kiêng canxi để phòng sỏi thận | …i trong ba bữa ăn vẫn ăn đủ như thường, xem … |
 
 ## 07-song-khi-khong-co-tien
 
