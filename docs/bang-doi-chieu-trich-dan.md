@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1300 trích dẫn.
+Tổng cộng 1309 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -399,7 +399,7 @@ Tổng cộng 1300 trích dẫn.
 | mục 46 | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iểm hưu trí cư dân thành thị nông thôn, xem … |
 | mục 46 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …nhận trợ cấp bảo hiểm xã hội hay không, xem … |
 | mục 46 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Đứt đóng và đóng bù, xem … |
-| mục 46 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | …phố thì quan hệ hưu trí chuyển thế nào, xem … |
+| mục 46 | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | …phố thì quan hệ hưu trí chuyển thế nào, xem … |
 
 ## 06-danh-sach-nen-tranh
 
@@ -534,7 +534,7 @@ Tổng cộng 1300 trích dẫn.
 | Mở đầu phần | mục 16 | Khó khăn về nhà ở thì trước hết xếp hàng nhà ở công cộng cho thuê | … xếp hàng nhà ở công cộng cho thuê (… |
 | Mở đầu phần | mục 17 | Ép chi ở và ăn xuống thấp nhất: thuê chung theo tháng thay thuê theo ngày, tự nấu và nhà ăn trợ giá thay gọi đồ ăn | …ê (mục 16), ép chi ở và ăn xuống thấp nhất (… |
 | mục 1 | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … "tự nguyện xin nghỉ vì lý do cá nhân", xem … |
-| mục 1 | phần 19, mục 17 | **Trỏ tới mục không tồn tại** | …ấy chứng nhận nghỉ việc do công ty cấp, xem … |
+| mục 1 | phần 19, mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | …ấy chứng nhận nghỉ việc do công ty cấp, xem … |
 | mục 1 | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | …ng ty không trả bồi thường thì làm sao, xem … |
 | mục 2 | mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …ải quan hệ lao động và bạn phải ra tòa, xem … |
 | mục 7 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …cư dân có trợ cấp (bảo hiểm y tế cư dân xem … |
@@ -544,7 +544,7 @@ Tổng cộng 1300 trích dẫn.
 | mục 10 | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | … LPR kỳ hạn một năm (không vay nặng lãi xem … |
 | mục 15 | phần 5, mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | … online quy thành lãi suất năm thế nào, xem … |
 | mục 18 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …hông được chi trả (bảo hiểm y tế cư dân xem … |
-| mục 18 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | … Cách chuyển xem … |
+| mục 18 | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Cách chuyển xem … |
 | mục 18 | phần 5, mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | …ểm hưu trí công nhân viên, cách tính sổ xem … |
 | mục 20 | phần 5, mục 39 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
 | mục 20 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Trước hết đóng bảo hiểm y tế cư dân (… |
@@ -1056,9 +1056,11 @@ Tổng cộng 1300 trích dẫn.
 | mục 1 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hạn trọng tài của tranh chấp xem … |
 | mục 3 | phần 12, mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | … hay không, nghĩa vụ phía dùng lao động xem … |
 | mục 3 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Bị giải trừ trái luật thì tính theo … |
+| mục 4 | mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | …ải nộp thuế thu nhập cá nhân hay không, xem … |
 | mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …yết đàm phán hay đi trọng tài, đường đi xem … |
 | mục 8 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … đường bảo vệ quyền xem … |
 | mục 8 | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …ật của công ty, rủi ro của việc mang đi xem … |
+| mục 8 | mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … đòi công ty giấy chứng nhận nghỉ việc, xem … |
 | mục 9 | mục 11 | Bị thương khi đi làm, trên đường đi làm về bị đâm, việc đầu tiên là làm nhận định tai nạn lao động, đơn vị không báo thì bạn tự báo | …đi theo đường tai nạn lao động, đãi ngộ xem … |
 | mục 9 | mục 12 | Đừng tin "cố lết đến chỗ làm là tính tai nạn lao động": khó chịu đột ngột trước hết gọi 120, không phải vội đi chấm thẻ | …đi theo đường tai nạn lao động, đãi ngộ xem … |
 | mục 9 | mục 13 | Đơn vị không đóng bảo hiểm tai nạn lao động cho bạn, đãi ngộ tai nạn lao động vẫn có y, đơn vị trả đủ theo cùng chuẩn | …đi theo đường tai nạn lao động, đãi ngộ xem … |
@@ -1071,6 +1073,13 @@ Tổng cộng 1300 trích dẫn.
 | mục 16 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …hay không đóng bảo hiểm xã hội thì làm theo … |
 | mục 16 | mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ý "tự nguyện xin nghỉ vì lý do cá nhân") và … |
 | mục 16 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường kinh tế tính thế nào thì xem … |
+| mục 17 | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | …Lĩnh tiền bảo hiểm thất nghiệp thế nào, xem … |
+| mục 17 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …hải vậy thì bạn nói ngay tại chỗ, lý do xem … |
+| mục 18 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường tính thế nào, xem … |
+| mục 18 | mục 5 | Công ty đuổi bạn không báo trước 30 ngày, còn phải trả thêm một tháng lương | …ào, xem mục 4 (bị sa thải trước tính rõ N), … |
+| mục 18 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | …h rõ N), mục 5 (không báo trước 30 ngày) và … |
+| mục 19 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …thế nào, tư cách nào đòi đóng liên tục, xem … |
+| mục 19 | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | … công ty mà tự đóng bảo hiểm xã hội thì xem … |
 
 ## 20-cham-tre-so-sinh
 
@@ -1372,7 +1381,7 @@ Tổng cộng 1300 trích dẫn.
 | mục 10 | phần 23, mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ng chỉ "hàng nhái" không được công nhận xem … |
 | mục 10 | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … giá" là hai chuyện khác nhau, việc sau xem … |
 | mục 11 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …óng bù thế nào, số năm tích lũy ra sao, xem … |
-| mục 11 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | … hiểm y tế chuyển sang nơi mới thế nào, xem … |
+| mục 11 | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … hiểm y tế chuyển sang nơi mới thế nào, xem … |
 | mục 11 | phần 5, mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | …o, phải lĩnh bao nhiêu năm mới hòa vốn, xem … |
 | mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iệc làm linh hoạt cũng dẫn văn bản này, xem … |
 | mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …ch tham gia bảo hiểm việc làm linh hoạt xem … |
