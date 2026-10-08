@@ -14,7 +14,7 @@ Danh sách này viết cho người vừa được chẩn đoán những bệnh 
 6. Nếu được chẩn đoán tiểu đường loại 2, bạn đi kiểm tra đáy mắt giãn đồng tử một lần ngay lúc đó. Với tiểu đường loại 1, bạn bắt đầu kiểm tra từ 5 năm sau khi phát bệnh. Xem phần 16, mục 7 (chẩn đoán tiểu đường thì đi kiểm tra đáy mắt một lần).
 7. Nếu được chẩn đoán gút, bạn bắt đầu uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L. Xem phần 16, mục 9 (chẩn đoán gút thì uống thuốc hạ acid uric dài hạn).
 8. Nếu bạn là người dân tộc Hán, trước khi dùng allopurinol bạn hỏi bác sĩ có nên xét trước kiểu gen HLA-B\*5801 không. Xem phần 16, mục 9 (chẩn đoán gút thì uống thuốc hạ acid uric dài hạn).
-9. Nếu khám sức khỏe chỉ thấy acid uric cao mà bạn chưa từng đau, đó chưa tính là gút, nên bạn đừng vội uống thuốc hạ acid uric. Xem phần 6, mục 19 (khám thấy acid uric cao nhưng chưa từng đau).
+9. Nếu khám sức khỏe chỉ thấy acid uric cao mà bạn chưa từng đau, đó không tính là gút, nên bạn đừng vội uống thuốc hạ acid uric. Xem phần 6, mục 19 (khám thấy acid uric cao nhưng chưa từng đau).
 10. Nếu bạn hút thuốc, hãy đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần. Xem phần 2, mục 4 (đặt một ngày cai thuốc).
 11. Khi cai thuốc, bạn đừng chỉ cố nhịn. Hãy đến phòng khám cai thuốc hoặc khoa hô hấp để lấy thuốc. Xem phần 2, mục 3 (cai thuốc đừng chỉ nhịn).
 

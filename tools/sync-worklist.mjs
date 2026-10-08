@@ -8,8 +8,13 @@
 //
 // Số mục ghi theo số ở commit đổi nó. Commit nào làm số mục của một phần giảm
 // (xóa hay gộp mục) thì số sau đó bị dồn: tool không ghi mục của commit đó mà
-// in cảnh báo "DỒN SỐ" — phải làm commit đó trước bằng tools/renumber.mjs rồi
-// chạy lại với --from <commit đó>.
+// in cảnh báo "DỒN SỐ". Xử lý: đồng bộ khoảng từ --from tới <commit đó>^ trước
+// (--to <commit đó>^), rồi dồn số bằng tools/renumber.mjs, rồi chạy lại với
+// --from <commit đó>. Bỏ qua khúc trước <commit đó> thì các commit trong khúc
+// ấy không còn ai thấy.
+// Commit thêm, xóa hay đổi tên file book/NN-*.md in dòng "THÊM FILE" hoặc
+// "XÓA FILE" (đổi tên ra một dòng XÓA và một dòng THÊM): tool không so được
+// nội dung file không có ở một phía, phải xem tay, và phần mới là việc hỏi chủ sách.
 // Tách dòng bằng /\r?\n/, lý do xem đầu check-refs.mjs.
 import { execFileSync } from 'node:child_process';
 import { resolve, dirname } from 'node:path';
@@ -17,11 +22,19 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const argv = process.argv.slice(2);
-const opt = name => { const i = argv.indexOf(name); if (i < 0) return null; const v = argv[i + 1]; argv.splice(i, 2); return v; };
+const USAGE = 'cần: <NN> hoặc --all, tùy chọn --from <ref> --to <ref>';
+const opt = name => {
+  const i = argv.indexOf(name);
+  if (i < 0) return null;
+  const v = argv[i + 1];
+  if (v === undefined || v.startsWith('--')) { console.error(`${name} cần một giá trị\n${USAGE}`); process.exit(2); }
+  argv.splice(i, 2);
+  return v;
+};
 const fromArg = opt('--from');
 const to = opt('--to') ?? 'upstream/main';
 const only = argv[0] === '--all' ? null : argv[0];
-if (only !== null && !/^\d\d$/.test(only ?? '')) { console.error('cần: <NN> hoặc --all, tùy chọn --from <ref> --to <ref>'); process.exit(2); }
+if (only !== null && !/^\d\d$/.test(only ?? '')) { console.error(USAGE); process.exit(2); }
 
 const git = a => execFileSync('git', ['-c', 'core.quotepath=false', ...a], { cwd: ROOT, encoding: 'utf8', maxBuffer: 1 << 28 });
 let from = fromArg;
@@ -29,7 +42,7 @@ if (!from) {
   try { from = git(['merge-base', 'HEAD', 'upstream/main']).trim().slice(0, 7); }
   catch { console.error('chưa có remote upstream: git remote add upstream https://github.com/eternity4719/HowToLiveBetter && git fetch upstream'); process.exit(2); }
 }
-const show = (rev, f) => { try { return git(['show', `${rev}:${f}`]); } catch { return null; } };
+const show = (rev, f) => { try { return execFileSync('git', ['-c', 'core.quotepath=false', 'show', `${rev}:${f}`], { cwd: ROOT, encoding: 'utf8', maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'ignore'] }); } catch { return null; } };
 function parse(txt) {
   const items = new Map(); let cur = null; const head = [];
   for (const l of txt.split(/\r?\n/)) {
@@ -42,7 +55,7 @@ function parse(txt) {
 }
 
 const per = new Map(); // phần -> { head:Set, shift:Set, items: Map(n -> {commits:Set, isNew, title}) }
-const P = p => { if (!per.has(p)) per.set(p, { head: new Set(), shift: new Set(), items: new Map() }); return per.get(p); };
+const P = p => { if (!per.has(p)) per.set(p, { head: new Set(), shift: new Set(), items: new Map(), files: new Map() }); return per.get(p); };
 const commits = git(['rev-list', '--reverse', '--no-merges', `${from}..${to}`]).trim().split('\n').filter(Boolean);
 for (const c of commits) {
   const h = c.slice(0, 7);
@@ -51,7 +64,13 @@ for (const c of commits) {
     const p = f.slice(5, 7);
     if (only && p !== only) continue;
     const a = show(`${c}^`, f), b = show(c, f);
-    if (!a || !b) continue;
+    if (!a || !b) {
+      // file book/ được thêm, xóa hay đổi tên: không có hai phía để so mục
+      const k = `${a ? 'XÓA' : 'THÊM'} FILE ${f}`;
+      const fs = P(p).files;
+      fs.set(k, (fs.get(k) ?? new Set()).add(h));
+      continue;
+    }
     const A = parse(a), B = parse(b);
     if (A.head !== B.head) P(p).head.add(h);
     if (B.items.size < A.items.size) { P(p).shift.add(h); continue; }
@@ -72,14 +91,15 @@ const keys = only ? [only] : [...per.keys()].sort();
 let any = false;
 for (const p of keys) {
   const x = per.get(p);
-  if (!x || (!x.head.size && !x.shift.size && !x.items.size)) { if (only) console.log(`phần ${p}: không có việc (${from}..${to})`); continue; }
+  if (!x || (!x.head.size && !x.shift.size && !x.items.size && !x.files.size)) { if (only) console.log(`phần ${p}: không có việc (${from}..${to})`); continue; }
   any = true;
   console.log(`## Phần ${p} (${from}..${to})`);
-  for (const h of x.shift) console.log(`  DỒN SỐ: commit ${h} xóa/gộp mục — làm bằng tools/renumber.mjs trước, rồi chạy lại với --from ${h}`);
+  for (const h of x.shift) console.log(`  DỒN SỐ: commit ${h} xóa/gộp mục — đồng bộ ${from}..${h}^ trước (--to ${h}^), rồi dồn số bằng tools/renumber.mjs, rồi chạy lại với --from ${h}`);
+  for (const [k, hs] of x.files) console.log(`  ${k} [${[...hs].join(', ')}]`);
   if (x.head.size) console.log(`  MỞ ĐẦU PHẦN đổi [${[...x.head].join(', ')}]`);
   for (const [n, e] of [...x.items].sort((a, b) => a[0] - b[0]))
     console.log(`  ${e.isNew ? 'MỚI' : 'SỬA'} mục ${n} [${[...e.commits].join(', ')}] ${e.title}`);
-  const used = new Set([...x.head, ...x.shift, ...[...x.items.values()].flatMap(e => [...e.commits])]);
+  const used = new Set([...x.head, ...x.shift, ...[...x.items.values()].flatMap(e => [...e.commits]), ...[...x.files.values()].flatMap(hs => [...hs])]);
   console.log('  Commit:');
   for (const h of used) console.log(`    ${h} ${subj(h)}`);
 }

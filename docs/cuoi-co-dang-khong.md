@@ -1,6 +1,6 @@
 # Cưới có đáng không: tách một bút sổ rối thành năm bút sổ rõ
 
-Nhiều người muốn hỏi là một câu hỏi bao quát: cưới rốt cuộc lỗ hay lời. Trong câu hỏi này nhét mấy thứ: đối phương cho được ủng hộ tình cảm không, chia việc nhà được không, kiếm được tiền không, và có nên để ứng phó người lớn mà cưới không. Mấy thứ này quy đổi không vào nhau, để chung không trả lời được, nên bài này tách ra tính. Mỗi bút sổ chỉ dùng số trong thống kê chính thức hay tổng hợp phân tích (gom nhiều nghiên cứu lại tính), chỗ tính không ra nói thẳng tính không ra. Cuối cho một tờ danh sách tự điền, toàn văn không cho kết luận "nên cưới hay không".
+Nhiều người muốn hỏi là một câu hỏi bao quát: cưới rốt cuộc lỗ hay lời. Trong câu hỏi này nhét mấy thứ: đối phương cho được ủng hộ tình cảm không, chia việc nhà được không, kiếm được tiền không, và có nên để ứng phó người lớn mà cưới không. Mấy thứ này quy đổi không vào nhau, để chung không trả lời được, nên bài này tách ra tính. Mỗi bút sổ chỉ dùng số trong thống kê chính thức hay tổng hợp phân tích (gom nhiều nghiên cứu lại tính), chỗ tính không ra nói thẳng tính không ra. Cuối cho một tờ danh sách tự điền, toàn văn không cho kết luận "nên cưới hay không". Luật và thủ tục trong bài là của Trung Quốc.
 
 ## I. Trước tách câu hỏi ra
 
@@ -42,7 +42,7 @@ Hai lần điều tra này đều chỉ chia theo giới tính, thành hương, 
 
 ### Bút sổ tiền: quy tắc mặc định, ước định văn bản và bồi thường việc nhà
 
-Mấy hạng sính lễ, hôn lễ, nhà cưới không có thống kê chính thức, bài này không viết số. Viết rõ được là quy tắc biên hôn nhân gia đình của Điển Dân sự định xuống. Điển Dân sự thi hành từ 1/1/2021.
+Mấy hạng sính lễ, hôn lễ, nhà cưới không có thống kê chính thức, bài này không viết số. Viết rõ được là quy tắc biên hôn nhân gia đình của Bộ luật Dân sự định xuống. Bộ luật Dân sự thi hành từ 1/1/2021.
 
 - Điều 1062: từ ngày cưới tới ngày ly hôn, bốn thứ đoạt được trong khoảng này đều tính tài sản cộng đồng hai người. Một là lương, tiền thưởng, thù lao lao vụ. Hai là lợi ích làm sinh ý và đầu tư. Ba là lợi ích quyền tri thức. Bốn là tài sản kế thừa được hay người khác tặng cho. Thứ tư có ngoại lệ: di chúc hay hợp đồng tặng viết rõ chỉ cho một người, không tính tài sản cộng đồng. Tài sản cộng đồng hai người có quyền xử lý ngang nhau.
 - Điều 1063: có bốn thứ tính tài sản cá nhân, lúc ly hôn không vào tài sản cộng đồng. Một là tài sản trước cưới đã có. Hai là bồi thường hay đền bù thân thể bị thương hại lấy được. Ba là tài sản di chúc hay hợp đồng tặng viết rõ chỉ về một phương. Bốn là đồ dùng sinh hoạt chuyên dụng một phương.
@@ -61,7 +61,7 @@ Trong 3,513 triệu đôi ly hôn năm 2024, có 891 nghìn đôi ly qua phán q
 
 ### Tư cách pháp lý: vợ hoặc chồng là thân nhân gần, lúc bệnh nặng có thể quyết định thay bạn
 
-Cưới xong, người kia về mặt luật là thân nhân gần của bạn. Điều 1045 Bộ luật Dân sự liệt kê các thân nhân gần, và vợ hoặc chồng đứng đầu danh sách. Tư cách này dùng được trong mấy trường hợp sau.
+Cưới xong, người kia về mặt luật là thân nhân gần của bạn. Điều 1045 Bộ luật Dân sự Trung Quốc liệt kê các thân nhân gần, và vợ hoặc chồng đứng đầu danh sách. Tư cách này dùng được trong mấy trường hợp sau.
 
 - Mổ: Điều 1219 Bộ luật Dân sự quy định, trước khi mổ, khám đặc biệt hay điều trị đặc biệt, bác sĩ phải nói rõ rủi ro với chính bệnh nhân và được chính bệnh nhân đồng ý rõ ràng. Nếu bệnh nhân hôn mê nên không giải thích được, hoặc không nên nói thẳng với bệnh nhân, bác sĩ phải giải thích với thân nhân gần, và thân nhân gần là người đồng ý. Khi bệnh nhân còn tỉnh, người ký là chính bệnh nhân, vợ hoặc chồng không ký thay được.
 - Cấp cứu: Điều 1220 Bộ luật Dân sự quy định, nếu bệnh nhân nguy kịch mà không hỏi được ý kiến của bệnh nhân hay thân nhân gần, bệnh viện có thể cứu ngay sau khi người phụ trách bệnh viện phê duyệt. Người nhà không có mặt thì luật vẫn cho phép bệnh viện cứu trước.

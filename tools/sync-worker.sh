@@ -16,6 +16,9 @@
 #   SYNC_FROM (mặc định merge-base của HEAD với upstream/main: commit gốc cuối cùng
 #             đã đồng bộ, vì mỗi đợt kết thúc bằng git merge -s ours)
 #   SYNC_TO   (mặc định upstream/main)
+# Cả hai biến đều được mọi chế độ (phát việc, review, take, prep, verify) đọc: đặt
+# một lần bằng export cho cả đợt. NO_AI_SLOP (mặc định
+# $HOME/.agents/skills/no-ai-slop/SKILL.md): file skill chỉ vào prompt khi tồn tại.
 # Đợt nào cũng nên ghim SYNC_TO vào một commit cố định: upstream commit gần như mỗi
 # ngày, upstream/main trôi giữa chừng thì các phần làm sau dịch tới đích khác các
 # phần làm trước.
@@ -93,6 +96,10 @@ case $CLI in
 esac
 
 SPEC=docs/superpowers/specs/2026-10-03-giong-van-nguoi-thay-design.md
+# Skill no-ai-slop không nằm trong kho: đặt đường dẫn bằng NO_AI_SLOP, không có file thì bỏ dòng này khỏi prompt
+NO_AI_SLOP=${NO_AI_SLOP:-$HOME/.agents/skills/no-ai-slop/SKILL.md}
+NO_AI_SLOP_LINE=""
+[ ! -f "$NO_AI_SLOP" ] || NO_AI_SLOP_LINE=$'\n'"- $NO_AI_SLOP — mẫu văn AI cần tránh"
 PILOT=""
 P=$(git log --format=%H -n1 --grep='^Viết lại giọng chương 22' HEAD || true)
 [ -n "$P" ] && PILOT="Mốc giọng đã được chủ sách duyệt: git show $P:$(ls book/22-*.md)
@@ -155,10 +162,9 @@ EOF
 else
   read -r -d '' PROMPT <<EOF || true
 Thư mục làm việc (worktree riêng của phần này): $WT. Mọi lệnh chạy dạng "cd $WT && <lệnh>", mọi đường dẫn file là "$WT/<đường dẫn>".
-Đọc ba file này trước khi làm:
+Đọc các file này trước khi làm:
 - CLAUDE.md — quy tắc dự án
-- $SPEC — giọng văn "người thầy trò chuyện" và danh mục không-được-động
-- /Users/binhan/.agents/skills/no-ai-slop/SKILL.md — mẫu văn AI cần tránh
+- $SPEC — giọng văn "người thầy trò chuyện" và danh mục không-được-động$NO_AI_SLOP_LINE
 $PILOT
 
 Việc: đồng bộ file $FILE (bản tiếng Việt, đã viết lại giọng) với bản gốc tiếng

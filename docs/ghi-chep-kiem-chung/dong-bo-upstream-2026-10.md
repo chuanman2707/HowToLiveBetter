@@ -4,7 +4,7 @@
 
 Đợt này đưa bản tiếng Việt từ commit `5881ed0` lên `0cec2b3` của bản gốc. Bản tiếng Việt không kiểm lại nguồn: dòng `Nguồn:` chép nguyên văn từ bản gốc, và `tools/check-sync.mjs` kiểm từng ký tự. Quá trình bản gốc kiểm nguồn cho từng mục mới nằm ở các file dưới đây, trong kho của bản gốc.
 
-Link ghim ở commit `0cec2b3` nên không đổi khi bản gốc sửa tiếp. Tên file giữ nguyên tiếng Trung vì đó là tên trong kho gốc. Hai mục không có ghi chép riêng thì bảng trỏ tới commit đã thêm mục.
+Link ghim ở commit `0cec2b3` nên không đổi khi bản gốc sửa tiếp. Số mục trong bảng cũng tính theo bản gốc ở `0cec2b3`, và công cụ không tự dồn số cho file này. Tên file giữ nguyên tiếng Trung vì đó là tên trong kho gốc. Hai mục không có ghi chép riêng thì bảng trỏ tới commit đã thêm mục.
 
 | Mục | Ghi chép của bản gốc |
 |---|---|

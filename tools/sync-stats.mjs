@@ -187,17 +187,25 @@ if (!chrome) throw new Error('Không tìm thấy Chrome, đặt biến môi trư
 const profile = mkdtempSync(join(tmpdir(), 'og-shot-'));
 const target = join(ROOT, 'og.png');
 const startedAt = Date.now();
-// Chrome ghi thông tin kiểu "xxx bytes written" ra stderr, không phải lỗi, bỏ đi
-spawnSync(chrome, [
+// Chrome ghi thông tin kiểu "xxx bytes written" ra stderr, không phải lỗi, bỏ đi.
+// Headless Chrome có lúc treo sau khi đã ghi ảnh (đợt đồng bộ 2026-10 gặp hai lần), nên
+// giới hạn 60 giây rồi SIGKILL. Treo hay không, cửa quyết định vẫn là kiểm mtime và kích
+// thước bên dưới: ảnh đã ghi xong thì chạy tiếp, chưa ghi thì báo lỗi.
+const shot = spawnSync(chrome, [
   '--headless', '--disable-gpu', '--hide-scrollbars', '--force-device-scale-factor=1',
   '--window-size=1200,630', `--user-data-dir=${profile}`, `--screenshot=${target}`,
   pathToFileURL(join(ROOT, 'tools', 'og.html')).href,
-], { stdio: 'ignore' });
+], { stdio: 'ignore', timeout: 60000, killSignal: 'SIGKILL' });
 rmSync(profile, { recursive: true, force: true });
+const timedOut = shot.error?.code === 'ETIMEDOUT';
 
 // Tự kiểm: file là lần chạy này ghi, kích thước nằm trong khoảng bình thường. Qua hai
 // cửa này thì không cần mở ảnh xem nữa, tiết kiệm một lần đọc ảnh
-const png = statSync(target);
-if (png.mtimeMs < startedAt - 1000) throw new Error('og.png không được ghi trong lần chạy này, chụp ảnh thất bại');
+const png = existsSync(target) ? statSync(target) : null;
+if (!png || png.mtimeMs < startedAt - 1000) throw new Error(timedOut
+  ? 'Chrome treo quá 60 giây và bị dừng trước khi ghi og.png, chụp ảnh thất bại'
+  : 'og.png không được ghi trong lần chạy này, chụp ảnh thất bại');
+// Bị SIGKILL giữa lúc ghi thì file có thể cụt: PNG hợp lệ kết thúc bằng khối IEND
+if (timedOut && !readFileSync(target).subarray(-8, -4).equals(Buffer.from('IEND'))) throw new Error('Chrome bị dừng giữa lúc ghi og.png, file cụt, chụp ảnh thất bại');
 if (png.size < 120 * 1024 || png.size > 400 * 1024) throw new Error(`og.png kích thước bất thường (${png.size} byte), bình thường trong khoảng 120KB tới 400KB, mở ra xem có bị render hỏng không`);
 console.log(`\nĐã xuất lại og.png: ${png.size} byte, tự kiểm đạt. Chỉ khi đổi layout của tools/og.html mới cần mở ảnh kiểm tra.`);

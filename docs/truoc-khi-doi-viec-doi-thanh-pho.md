@@ -31,7 +31,7 @@ Chuyện đổi việc, đổi thành phố nằm rải rác ở phần 2, 4, 5,
 1. Nếu bạn nghỉ việc khi chưa có việc tiếp theo, trước hết hãy xem trong tay có quỹ dự phòng bằng 3 đến 6 tháng sinh hoạt phí hay chưa. Xem phần 5, mục 27 (gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng).
 2. Đừng coi lời "trên mạng nói lương cao" là dấu hiệu nghề đó đang thiếu người. Bạn hãy tra danh mục nghề khan hiếm và danh mục trợ cấp của thành phố định tới. Xem phần 23, mục 12 (danh mục nghề khan hiếm và danh mục trợ cấp của địa phương).
 3. Trong chi tiêu bình quân đầu người của cả Trung Quốc năm 2025, ăn chiếm 29,3% và ở chiếm 21,7%. Khi tìm việc, bạn hỏi rõ vị trí có bao ăn ở hay không. Vị trí có bao ăn ở thì coi như xóa được hai khoản lớn này. Xem phần 7, mục 17 (ép chi ở và ăn xuống thấp nhất).
-4. Nếu bạn định không vào làm ở công ty hay cơ quan nào mà làm việc linh hoạt, bạn phải tự đóng toàn bộ bảo hiểm hưu trí và bảo hiểm y tế. Tính theo mức lương căn cứ đóng bảo hiểm của địa phương (số chuẩn dùng để tính phí), mỗi tháng hơn ngàn nhân dân tệ. Xem phần 31, mục 11 (không vào đơn vị tức việc làm linh hoạt).
+4. Nếu bạn định không vào làm ở công ty hay cơ quan nào mà làm việc linh hoạt, bạn phải tự đóng toàn bộ bảo hiểm hưu trí và bảo hiểm y tế. Tính theo mức lương căn cứ đóng bảo hiểm của địa phương (số chuẩn dùng để tính phí), khoản này mỗi tháng hơn ngàn nhân dân tệ. Xem phần 31, mục 11 (không vào đơn vị tức việc làm linh hoạt).
 5. Nếu bạn muốn nghỉ việc để quay lại đi học, hãy tính chuyện này như một bài toán. Một bên là mấy năm lương kiếm sớm, bên kia là phần chênh thu nhập mỗi năm trong mấy chục năm sau. Xem phần 23, mục 6 (đưa "đi học hay đi làm" thành một bài toán).
 6. Nếu bạn đi vì công ty nợ lương hoặc không đóng bảo hiểm xã hội, thì dù bạn là người đề xuất nghỉ, vẫn có thể được bồi thường kinh tế. Bạn đừng ký "tự nguyện xin nghỉ vì lý do cá nhân". Xem phần 19, mục 7 (đừng ký "tự nguyện xin nghỉ vì lý do cá nhân").
 
@@ -59,7 +59,7 @@ Chuyện đổi việc, đổi thành phố nằm rải rác ở phần 2, 4, 5,
 ## Khi ký hợp đồng ở chỗ làm mới
 
 1. Bạn đọc giấy tờ nhận việc từ đầu đến cuối, chỗ nào không hiểu thì hỏi ngay tại chỗ, rồi chụp ảnh giữ lại. Xem phần 8, mục 17 (trước khi ký phải đọc hết tờ giấy).
-2. Bạn đối chiếu thời gian thử việc một lượt. Hợp đồng ký trong vòng 1 năm thì thử việc tối đa 1 tháng, hợp đồng từ 1 đến 3 năm tối đa 2 tháng, hợp đồng từ 3 năm trở lên tối đa 6 tháng. Xem phần 19, mục 3 (thử việc có nóc pháp định).
+2. Bạn đối chiếu thời gian thử việc một lượt. Hợp đồng có thời hạn trong vòng 1 năm thì thử việc tối đa 1 tháng, hợp đồng có thời hạn từ 1 đến 3 năm tối đa 2 tháng, hợp đồng có thời hạn từ 3 năm trở lên tối đa 6 tháng. Xem phần 19, mục 3 (thử việc có nóc pháp định).
 3. Lương thử việc không được thấp hơn mức thấp nhất của cùng vị trí hoặc 80% lương ghi trong hợp đồng, và cũng không được thấp hơn lương tối thiểu của địa phương. Cùng một công ty chỉ được thử việc bạn một lần. Xem phần 19, mục 3 (thử việc có nóc pháp định).
 4. Việc đóng bảo hiểm xã hội bắt đầu từ ngày đầu tiên bạn đi làm, không liên quan tới chuyện bạn có thử việc hay không. Xem phần 19, mục 3 (thử việc có nóc pháp định).
 5. Nếu bạn viết code hoặc làm thiết kế, hãy đọc kỹ điều khoản sở hữu trí tuệ trong hợp đồng. Phần mềm làm chủ yếu nhờ thiết bị, mạng nội bộ hoặc dữ liệu nghiệp vụ của công ty, và do công ty chịu trách nhiệm, thì quyền tác giả thuộc về công ty. Xem phần 11, mục 13 (code viết trong giờ làm, bằng tài nguyên công ty).

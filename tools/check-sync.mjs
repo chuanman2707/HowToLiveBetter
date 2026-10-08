@@ -48,7 +48,15 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const argv = process.argv.slice(2);
 const SELF_TEST = argv.includes('--self-test');
-const opt = name => { const i = argv.indexOf(name); if (i < 0) return null; const v = argv[i + 1]; argv.splice(i, 2); return v; };
+const USAGE = 'cần: <NN> [ref] hoặc --all [ref], tùy chọn --since <ref> --frozen <ref>';
+const opt = name => {
+  const i = argv.indexOf(name);
+  if (i < 0) return null;
+  const v = argv[i + 1];
+  if (v === undefined || v.startsWith('--')) { console.error(`${name} cần một giá trị\n${USAGE}`); process.exit(2); }
+  argv.splice(i, 2);
+  return v;
+};
 const sinceArg = opt('--since');
 const frozen = opt('--frozen');
 const all = argv[0] === '--all';
@@ -57,7 +65,7 @@ const ref = argv[1] || 'upstream/main';
 const parts = all
   ? readdirSync(resolve(ROOT, 'book')).filter(f => /^\d\d-.*\.md$/.test(f)).map(f => f.slice(0, 2)).sort()
   : [argv[0]];
-if (!SELF_TEST && (!parts[0] || !/^\d\d$/.test(parts[0]))) { console.error('cần: <NN> [ref] hoặc --all [ref], tùy chọn --since <ref> --frozen <ref>'); process.exit(2); }
+if (!SELF_TEST && (!parts[0] || !/^\d\d$/.test(parts[0]))) { console.error(USAGE); process.exit(2); }
 
 if (SELF_TEST) {
   // zhNumbers/vnNumbers/round là function declaration nên gọi được trước chỗ định nghĩa.
@@ -85,7 +93,15 @@ if (SELF_TEST) {
   ];
   let fail = 0;
   for (const [got, want] of cases) if (JSON.stringify(got) !== JSON.stringify(want.map(round))) { fail++; console.log(`SAI: được ${JSON.stringify(got)}, cần ${JSON.stringify(want)}`); }
-  console.log(fail ? `self-test: ${fail} ca sai` : `self-test: đạt ${cases.length} ca`);
+  // Phần chỉ bản gốc có (I3): so tiền tố NN của danh sách file book/ gốc với các phần VN.
+  const partCases = [
+    [missingParts(['book/01-a.md', 'book/02-b.md', 'book/35-c.md'], ['01', '02']), ['35']],
+    [missingParts(['book/01-a.md', 'book/02-b.md'], ['01', '02', '03']), []],
+    [missingParts(['book/34-家里的常备药别吃出事.md', 'book/README.md'], ['01']), ['34']],
+  ];
+  for (const [got, want] of partCases) if (JSON.stringify(got) !== JSON.stringify(want)) { fail++; console.log(`SAI: phần thiếu được ${JSON.stringify(got)}, cần ${JSON.stringify(want)}`); }
+  const total = cases.length + partCases.length;
+  console.log(fail ? `self-test: ${fail} ca sai` : `self-test: đạt ${total} ca`);
   process.exit(fail ? 1 : 0);
 }
 
@@ -157,6 +173,10 @@ function vnNumbers(s) {
   return [...t.matchAll(/(\d*\.?\d+)\s*(?:(nghìn tỷ|vạn|tỷ|triệu|nghìn|ngàn)(?![\p{L}\p{N}]))?/giu)]
     .map(m => round(Number(m[1]) * (mult[(m[2] || '').toLowerCase()] || 1)));
 }
+// Các phần (NN) bản gốc có mà VN chưa có. zhFiles là danh sách đường dẫn book/ ở ref gốc.
+function missingParts(zhFiles, vnParts) {
+  return zhFiles.map(f => f.match(/^book\/(\d\d)-.*\.md$/)?.[1]).filter(nn => nn && !vnParts.includes(nn)).sort();
+}
 const bag = arr => { const m = new Map(); for (const n of arr) m.set(n, (m.get(n) || 0) + 1); return m; };
 
 const marker = v => {
@@ -168,9 +188,18 @@ const countRe = (s, re) => ((s || '').match(re) ?? []).length;
 const hanLines = v => v.raw.filter(l => !/^- Nguồn:/.test(l) && /[一-鿿]/.test(l)).length;
 
 let totalBad = 0;
+// --all chỉ đi qua các phần có trong book/ của VN, nên phần bản gốc thêm mới phải báo riêng.
+// Thêm phần là việc hỏi chủ sách (CLAUDE.md, "Cách làm việc"), không tự thêm.
+if (all) {
+  for (const nn of missingParts(zhFiles, parts)) {
+    console.log(`phần ${nn}: bản gốc có, VN chưa có (hỏi chủ sách)`);
+    totalBad++;
+  }
+}
 for (const p of parts) {
   const vnFile = readdirSync(resolve(ROOT, 'book')).find(f => f.startsWith(`${p}-`));
   const zhFile = zhFiles.find(f => f.startsWith(`book/${p}-`));
+  if (!zhFile) { console.log(`phần ${p}: VN có, bản gốc ở ${ref} chưa có`); totalBad++; continue; }
   const sinceFile = sinceFiles.find(f => f.startsWith(`book/${p}-`));
   const vn = parse(readFileSync(resolve(ROOT, 'book', vnFile), 'utf8'), false);
   const zh = parse(git(['show', `${ref}:${zhFile}`]), true);

@@ -2,7 +2,7 @@
 
 # Bị cắt giảm rồi, làm gì trước
 
-Sau khi bị cắt giảm nhân sự hoặc bị công ty cho thôi việc, những việc bạn phải làm nằm rải rác ở phần 19, phần 7 và vài phần khác của sách. Bài này sắp chúng thành một danh sách theo thứ tự thời gian. Mỗi bước chỉ ghi việc cần làm. Chi tiết, con số và căn cứ nằm trong mục sách mà dòng đó trỏ tới, ngay trước phần chữ trong ngoặc. Nếu bạn chỉ bị nợ lương và vẫn chưa nghỉ việc, hãy xem thẳng phần 7, mục 2 (bị nợ lương thì trước hết khiếu nại thanh tra lao động). Thủ tục, luật và con số trong bài là của Trung Quốc; mục nào chỉ áp dụng ở Trung Quốc thì trong sách có ghi "Chỉ tham khảo TQ".
+Sau khi bị cắt giảm nhân sự hoặc bị công ty cho thôi việc, những việc bạn phải làm nằm rải rác ở phần 19, phần 7 và vài phần khác của sách. Bài này sắp chúng thành một danh sách theo thứ tự thời gian. Mỗi bước chỉ ghi việc cần làm. Chi tiết, con số và căn cứ nằm trong mục sách được dẫn ngay trước phần ngoặc đơn. Nếu bạn chỉ bị nợ lương và vẫn chưa nghỉ việc, hãy xem thẳng phần 7, mục 2 (bị nợ lương thì trước hết khiếu nại thanh tra lao động). Thủ tục, luật và con số trong bài là của Trung Quốc; mục nào chỉ áp dụng ở Trung Quốc thì trong sách có ghi "Chỉ tham khảo TQ".
 
 ## Ngay hôm đó: trước khi ký
 
@@ -26,7 +26,7 @@ Sau khi bị cắt giảm nhân sự hoặc bị công ty cho thôi việc, nh�
 
 1. Bạn đi đăng ký thất nghiệp. Tiền bảo hiểm thất nghiệp tính từ ngày bạn đăng ký, nên đăng ký chậm một tháng thì thiếu tiền một tháng. Xem phần 7, mục 1 (xin tiền bảo hiểm thất nghiệp qua mạng).
 2. Bạn đăng ký thất nghiệp ở cơ quan dịch vụ việc làm công, ví dụ trung tâm dịch vụ việc làm, và không mất tiền. Xem phần 7, mục 5 (dịch vụ việc làm công miễn phí).
-3. Bạn xin tiền bảo hiểm thất nghiệp trên app "Zhangshang 12333" (app di động của đường dây nóng nhân lực và an sinh xã hội 12333 của TQ) hoặc trên ứng dụng nhỏ (mini-program) của thẻ bảo hiểm xã hội điện tử. Chỉ khi bạn đã đóng đủ 1 năm và không phải tự xin nghỉ thì mới lĩnh được. Xem phần 7, mục 1 (xin tiền bảo hiểm thất nghiệp qua mạng).
+3. Bạn xin tiền bảo hiểm thất nghiệp trên app "Zhangshang 12333". App này là ứng dụng di động của đường dây nóng nhân lực và an sinh xã hội 12333 của TQ. Bạn cũng có thể xin trên ứng dụng nhỏ (mini-program) của thẻ bảo hiểm xã hội điện tử. Chỉ khi bạn đã đóng đủ 1 năm và không phải tự xin nghỉ thì mới lĩnh được. Xem phần 7, mục 1 (xin tiền bảo hiểm thất nghiệp qua mạng).
 4. Trong thời gian lĩnh tiền bảo hiểm thất nghiệp, bảo hiểm thất nghiệp đóng thay bạn bảo hiểm y tế công nhân viên. Bạn không cần tự tham gia thêm. Xem phần 7, mục 1 (xin tiền bảo hiểm thất nghiệp qua mạng).
 5. Bạn không đủ tiền đi kiện thì gọi 12348 (đường dây viện trợ pháp lý TQ) để xin viện trợ pháp lý. Hiện nay bạn không phải về quê xin giấy chứng nhận khó khăn kinh tế. Xem phần 7, mục 3 (không đủ tiền kiện thì xin viện trợ pháp lý).
 6. Bạn từng ký thỏa thuận cấm cạnh tranh thì giữ kỹ bản gốc. Công ty phải trả bồi thường hằng tháng. Nếu vì lý do của công ty mà 3 tháng không trả, bạn có thể yêu cầu giải trừ thỏa thuận. Xem phần 11, mục 12 (đã ký thỏa thuận cấm cạnh tranh).
@@ -39,9 +39,9 @@ Sau khi bị cắt giảm nhân sự hoặc bị công ty cho thôi việc, nh�
 3. Bạn phải nộp đơn xin trọng tài lao động trong vòng 1 năm sau khi nghỉ việc. Quá hạn, bên kia chỉ cần nói một câu "quá thời hiệu" là đủ. Xem phần 8, mục 19 (trọng tài lao động 1 năm).
 4. Bạn tìm việc trước hết ở cơ quan dịch vụ việc làm công. Giới thiệu việc và hướng dẫn nghề đều miễn phí, bạn không tìm môi giới thu phí. Xem phần 7, mục 5 (dùng dịch vụ việc làm công miễn phí).
 5. Tìm việc đừng chỉ nộp hồ sơ. Bạn học kỹ năng xin việc, đặt mục tiêu rõ ràng và mở lời nhờ người quen giới thiệu nội bộ. Xem phần 7, mục 14 (xin việc đừng chỉ nộp hồ sơ).
-6. Nghe "nộp tiền trước rồi mới nhận việc", "đào tạo trước rồi mới xếp việc" hay bị bắt kéo thêm người vào (kiểu đa cấp) thì bạn từ chối ngay tại chỗ. Xem phần 7, mục 15 (không ký "vay học nghề").
-7. Bạn muốn học nghề thì tra trước "danh mục trợ cấp đào tạo nghề" của sở nhân sự địa phương (cơ quan nhân lực và an sinh xã hội ở TQ), đừng tự bỏ tiền đăng ký lớp. Xem phần 7, mục 13 (đừng tự trả tiền học lớp).
-8. Bạn xem mình có đủ điều kiện được công nhận là người khó khăn về việc làm không, ví dụ lớn tuổi hoặc thất nghiệp lâu. Được công nhận thì bạn tự đóng bảo hiểm xã hội sẽ có trợ cấp, và còn được xếp vào vị trí việc làm công ích. Xem phần 7, mục 12 (được công nhận người khó khăn về việc làm).
+6. Nghe "nộp tiền trước rồi mới nhận việc", "đào tạo trước rồi mới xếp việc" hay "kéo đầu người" (kiểu đa cấp) thì bạn từ chối ngay tại chỗ. Xem phần 7, mục 15 (không ký "vay học nghề").
+7. Bạn muốn học nghề thì tra trước "danh mục trợ cấp đào tạo nghề" của sở nhân sự địa phương (cơ quan nhân lực và an sinh xã hội TQ), đừng tự bỏ tiền đăng ký lớp. Xem phần 7, mục 13 (đừng tự trả tiền học lớp).
+8. Bạn xem mình có đủ điều kiện được công nhận là người khó khăn về việc làm không, ví dụ lớn tuổi hoặc thất nghiệp lâu. Được công nhận thì bạn tự đóng bảo hiểm xã hội sẽ có trợ cấp, và còn có thể được xếp vào vị trí việc làm công ích. Xem phần 7, mục 12 (được công nhận người khó khăn về việc làm).
 
 ## Mấy tháng sau đó
 
