@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1298 trích dẫn.
+Tổng cộng 1300 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -187,7 +187,7 @@ Tổng cộng 1298 trích dẫn.
 | mục 5 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Thuốc cần phối hợp xem … |
 | mục 6 | phần 22, mục 4 | Đừng ăn kẹo và đồ ăn vặt người lạ đưa, đồ uống rời khỏi tầm mắt đừng uống, đừng nhận đầu hút người khác đưa | …ổng hợp cũng chảy ra theo đường đó, bạn xem … |
 | mục 6 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Về thứ tự, bạn thử trước … |
-| mục 10 | phần 24, mục 12 | **Trỏ tới mục không tồn tại** | … trả khoản nào khi đi khám răng thì bạn xem … |
+| mục 10 | phần 24, mục 12 | Trước khi trồng răng, hỏi rõ giá trọn gói gồm những hạng mục nào, ưu tiên tìm cơ sở cam kết tham gia chấn chỉnh giá, đừng tin quảng cáo giá rẻ | … trả khoản nào khi đi khám răng thì bạn xem … |
 | mục 13 | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Cách ngủ bù sau khi thức khuya thì xem … |
 | mục 16 | phần 1 | 01-dung-chet-som (cả phần) | … Những lợi ích đó viết ở … |
 | mục 19 | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
@@ -1196,6 +1196,8 @@ Tổng cộng 1298 trích dẫn.
 | mục 11 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | … Việc sau, bạn xem … |
 | mục 11 | mục 6 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …yêu cầu phong tỏa bệnh án ngay tại chỗ (xem … |
 | mục 11 | mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Bạn cũng giữ lại bệnh án cùng phim ảnh (… |
+| mục 12 | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | …ng tài khoản cá nhân cho người nhà, bạn xem … |
+| mục 12 | phần 2, mục 10 | Đánh răng kỹ, mỗi ngày làm sạch kẽ răng một lần, mất răng thì trồng lại kịp thời | …nên trồng lại răng đã mất kịp thời, bạn xem … |
 
 ## 25-viec-phai-lam-khi-nguoi-than-qua-doi
 
@@ -1249,7 +1251,7 @@ Tổng cộng 1298 trích dẫn.
 | mục 5 | mục 4 | Đừng mua thuốc giảm cân, cà phê giảm cân, kẹo gầy và mơ enzyme hứa "gầy nhanh" | … Cách phán giống mục thuốc giảm cân (… |
 | mục 6 | mục 5 | Đừng dùng steroid đồng hóa ("kim tăng cơ" "thuốc uống") để lên cơ | … Steroid và hormone giới tính ở … |
 | mục 6 | mục 7 | Thuốc loại hormone giới tính chỉ dùng khi bác sĩ kê và định kỳ tái xét, đừng mua mạng, đừng tự tăng liều | … Steroid và hormone giới tính ở … |
-| mục 9 | phần 24, mục 12 | **Trỏ tới mục không tồn tại** | … hiểm y tế không chi trả cho chỉnh nha, xem … |
+| mục 9 | phần 24, mục 12 | Trước khi trồng răng, hỏi rõ giá trọn gói gồm những hạng mục nào, ưu tiên tìm cơ sở cam kết tham gia chấn chỉnh giá, đừng tin quảng cáo giá rẻ | … hiểm y tế không chi trả cho chỉnh nha, xem … |
 | mục 9 | mục 2 | Trước khi tiêm kim, cấy chỉ, mở dao tra hai thứ: trên giấy phép cơ sở có "thẩm mỹ y khoa" không, người động tay có phải bác sĩ chủ chẩn không | … Cách tra xem … |
 
 ## 29-sau-khi-gap-cu-soc-lon
