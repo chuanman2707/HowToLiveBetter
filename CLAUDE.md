@@ -84,7 +84,7 @@ Mỗi phần tóm lược một dòng (chi tiết số mục và thảo luận t
 
 1. Đừng chết sớm: chết ngoại nhân, gas và ngộ độc, vắc-xin, sàng lọc, nguy cơ tâm lý và tự tử (12356 là hotline TQ), hậu quả sau cứu về, đồ dùng khẩn cấp gia đình, tín hiệu cần tra; bài dài đồ khẩn cấp ở docs/.
 2. Đừng chết từ từ: thuốc rượu, vận động, ngủ, ăn uống, ngồi lâu, cách bỏ thuốc bỏ rượu cụ thể, ngủ trưa, thức khuya bù, bút sổ số năm ca đêm; bài dài nhịp sinh học ở docs/.
-3. Đừng lãng phí sức lực: ngủ, ngắt, đa nhiệm vụ, mệt quyết sách, nợ nhân tế, kỳ vọng với cơ cấu.
+3. Đừng lãng phí sức lực: ngủ, ngắt, đa nhiệm vụ, nợ nhân tế, kỳ vọng với cơ cấu.
 4. Đừng lãng phí thời gian: việc không lợi, chi phí chìm, trì hoãn, hội nghị, thông cần.
 5. Đừng lãng phí tiền: định đọc, xổ số, lãi tức, bảo hiểm, phí cơ kim, tiêu dùng trả trước, con nạp tiền, tài sản nước ngoài đường hợp pháp, sáu mục cuối nói bảo hiểm.
 6. Danh sách nên tránh: thứ nhìn hiệu quả chi phí cao nhưng thật không cao, gồm cả "ý chí lực dùng hết".

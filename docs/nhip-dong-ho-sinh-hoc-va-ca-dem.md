@@ -2,7 +2,7 @@
 
 # Cơ thể nhận giờ thế nào, ca đêm vì sao làm hại người
 
-Đây là bản bài dài của phần 2, mục 40 (làm ca đêm càng lâu nguy cơ tim mạch càng cao). Mục đó trong chính văn chỉ tính sổ, bài này nói đạo lý phía sau.
+Đây là bản bài dài của phần 2, mục 39 (làm ca đêm càng lâu nguy cơ tim mạch càng cao). Mục đó trong chính văn chỉ tính sổ, bài này nói đạo lý phía sau.
 
 Câu hỏi cần trả lời là: cơ thể thật biết bây giờ mấy giờ không? Nếu biết, vì sao làm ca đêm không phải chuyện "thức thêm mấy lần là quen"?
 
@@ -140,9 +140,9 @@ Nguồn: Zhao C, Li N, Miao W, He Y, Lin Y (2025). A systematic review and meta-
 
 ## IX. Bài này không nói
 
-Ca đêm rốt cuộc để nguy cơ tim mạch cao bao nhiêu, theo số năm tính thế nào, ở phần 2, mục 40 (làm ca đêm càng lâu nguy cơ tim mạch càng cao).
+Ca đêm rốt cuộc để nguy cơ tim mạch cao bao nhiêu, theo số năm tính thế nào, ở phần 2, mục 39 (làm ca đêm càng lâu nguy cơ tim mạch càng cao).
 
-Thức khuya rồi bù giấc về thế nào, ở phần 2, mục 39 (thức khuya rồi đêm ngày mai bù giấc).
+Thức khuya rồi bù giấc về thế nào, ở phần 2, mục 38 (thức khuya rồi đêm ngày mai bù giấc).
 
 Ban đêm ngủ bao lâu, tác tức quy luật hay không, ở phần 2, mục 13 (mỗi đêm ngủ khoảng 7 giờ, tác tức cố định).
 

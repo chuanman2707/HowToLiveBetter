@@ -31,7 +31,7 @@ Phần này đo bằng tiền và tự do thân thể. Khi nhà có người gi�
 - Nguồn: Kinh nghiệm tác giả, không có tài liệu trực tiếp; quy tắc chung chống lừa xem phần 8 và phần 13
 - Ghi chú: Đừng nói việc này thành "sợ người già bị lừa". Nói thành "tiền trong nhà ghi sổ chung" thì người già dễ nhận hơn. Cũng đừng giao hết tiền của người già cho con cái giữ, vì như vậy sẽ sinh ra một loại tranh chấp khác
 
-### 4. Cho người già một câu làm lá chắn có thể nói ra bất cứ lúc nào
+### 4. Chuẩn bị sẵn cho người già một câu từ chối có thể nói ra bất cứ lúc nào: "Tôi phải về bàn với người nhà"
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=vua quy-mo=tien -->
 - Chi phí: Không tốn tiền. Bạn chỉ cần thống nhất một câu với người già, vài phút là xong
 - Nói dễ hiểu: Chào hàng và lừa đảo đều nhờ sức ép tại chỗ, khiến người ta ngại từ chối ngay. Bạn thống nhất trước một câu với người già: "Tôi phải về bàn với người nhà." Người già nói được câu đó bất cứ lúc nào, và tại chỗ có cớ để thoát. Cách này hiệu quả hơn giảng lý sau đó.

@@ -5,16 +5,16 @@
 # Cẩm nang sống đáng giá
 
 Nói sống sao cho lâu, sao cho ít bệnh, xảy ngoài ý muốn cứu thế nào. Nói sao cho ít tiêu tiền oan, việc nào để người bị lừa, dính kiện tụng. Nói lúc không việc không tiền đi lĩnh được gì, mở tiệm, mở công ty, làm website phải làm thủ tục gì. Cũng nói yêu đương cưới sinh con, đi nước ngoài và học nghề.<br>
-641 mục lời khuyên, mỗi mục viết rõ tiêu gì, đổi lại gì, chứng cứ cứng cỡ nào, nguồn chỉ trích luận văn tạp chí và văn kiện chính thức.
+634 mục lời khuyên, mỗi mục viết rõ tiêu gì, đổi lại gì, chứng cứ cứng cỡ nào, nguồn chỉ trích luận văn tạp chí và văn kiện chính thức.
 
 Đây là bản dịch tiếng Việt của sách gốc tiếng Trung HowToLiveBetter (upstream eternity4719/HowToLiveBetter). Nội dung pháp luật, trợ cấp và thủ tục trong sách chủ yếu là của Trung Quốc; chỗ nào chỉ dùng được cho bối cảnh Trung Quốc đều đánh dấu「Chỉ tham khảo TQ:」.
 
 Không cần làm hết: đây là đơn chọn lựa đã sắp theo hiệu quả chi phí, không phải danh sách nhiệm vụ — nhặt đi một hai mục cũng tính, tác giả bản gốc cũng không làm được phần lớn trong đó.
 
 [![Tra cứu trực tuyến](https://img.shields.io/badge/tra-cuu-truc-tuyen-bam-day-mo-3451b2?style=flat-square)](https://chuanman2707.github.io/HowToLiveBetter/)
-[![Mục](https://img.shields.io/badge/muc-641%20muc-18794e?style=flat-square)](#mục-lục)
-[![Phân hạng chứng cứ](https://img.shields.io/badge/muc-chung-cu-A%20425%20%C2%B7%20B%20165%20%C2%B7%20C%2051-915930?style=flat-square)](#phân-hạng-chứng-cứ)
-[![Nguồn sơ cấp](https://img.shields.io/badge/nguon-so-cap-1443%20link%20nguon-565a5f?style=flat-square)](docs/ghi-chep-kiem-chung/)
+[![Mục](https://img.shields.io/badge/muc-634%20muc-18794e?style=flat-square)](#mục-lục)
+[![Phân hạng chứng cứ](https://img.shields.io/badge/muc-chung-cu-A%20421%20%C2%B7%20B%20164%20%C2%B7%20C%2049-915930?style=flat-square)](#phân-hạng-chứng-cứ)
+[![Nguồn sơ cấp](https://img.shields.io/badge/nguon-so-cap-1436%20link%20nguon-565a5f?style=flat-square)](docs/ghi-chep-kiem-chung/)
 [![Giấy phép](https://img.shields.io/badge/giay-phep-CC%20BY%204.0-565a5f?style=flat-square)](#giấy-phép)
 
 ### [Mở trang tra cứu trực tuyến](https://chuanman2707.github.io/HowToLiveBetter/) · [Cho AI trả lời theo sách (skill)](skills/life-decision-guide/README.md)
@@ -161,7 +161,7 @@ Mỗi mục lời khuyên đều đánh dấu hạng chứng cứ:
 | B | Có nghiên cứu chống lưng, nhưng nói không ra một số xác thực; hay chỉ có cỡ mẫu nhỏ, một nghiên cứu riêng lẻ chống |
 | C | Kinh nghiệm tác giả, hay cách làm mọi người công nhận, không có văn hiến nghiên cứu trực tiếp |
 
-Trong 641 mục: A 425 · B 165 · C 51, có 60 mục đánh dấu tranh cãi, 2 chỗ cần xác minh. Mục cấp A/B có tranh cãi sẽ đánh dấu "Tranh cãi" và liệt chứng cứ phản phương. Mọi nguồn chỉ trích văn hiến sơ cấp (luận văn tạp chí kèm DOI hay liên kết PubMed, hay báo cáo cơ cấu chính thức như WHO/CDC/Tổng cục Thống kê), không trích chuyển thuật thứ cấp. Số không xác định đánh dấu "cần xác minh". Nội dung pháp luật TQ vẫn trích nguyên văn điều khoản và văn hiệu trong cột Nguồn.
+Trong 634 mục: A 421 · B 164 · C 49, có 58 mục đánh dấu tranh cãi, 2 chỗ cần xác minh. Mục cấp A/B có tranh cãi sẽ đánh dấu "Tranh cãi" và liệt chứng cứ phản phương. Mọi nguồn chỉ trích văn hiến sơ cấp (luận văn tạp chí kèm DOI hay liên kết PubMed, hay báo cáo cơ cấu chính thức như WHO/CDC/Tổng cục Thống kê), không trích chuyển thuật thứ cấp. Số không xác định đánh dấu "cần xác minh". Nội dung pháp luật TQ vẫn trích nguyên văn điều khoản và văn hiệu trong cột Nguồn.
 
 ## Các mức hiệu quả chi phí
 
@@ -173,7 +173,7 @@ Hạng chứng cứ chỉ trả lời "số này đáng tin không", không tr�
 | Đại lượng lợi ích | lớn / vừa / nhỏ | Cố chiếu cột "Lợi ích" của chính mục, theo ranh giới định sẵn áp, không theo cảm giác: đổi tuổi thọ xem xuống mấy phần trăm (≥20% là lớn, 10–20% là vừa, <10% hay chỉ đo tới chỉ tiêu trung gian mà chưa đo tới kết quả cuối là nhỏ); đổi tiền xem kim ngạch (vạn tệ cấp là lớn, trăm tới ngàn là vừa, chục tệ là nhỏ); đổi tự do thân người xem hậu quả (tránh trách nhiệm hình sự là lớn, tránh giam giữ hay xử phạt hành chính là vừa, tránh tranh nghị dân sự là nhỏ); đổi thời gian sức lực xem tỉnh bao nhiêu (mỗi ngày tỉnh ra giờ cấp là lớn, mỗi tuần giờ cấp là vừa, chỉ tỉnh một lần là nhỏ) |
 | Hiệu quả chi phí | cực cao / cao / trung bình | Lợi lớn, ba hạng chi phí lại toàn không = cực cao; lợi lớn, chi phí không cao, hay lợi vừa, chi phí là không = cao; phần còn lại = trung bình |
 
-Trong 641 mục theo hiệu quả chi phí: cực cao 109 (17%), cao 292 (46%), trung bình 240 (37%). Bậc giữa số mục nhiều là cố ý: đại lượng lợi ích dưới vốn chỉ chia ba cấp lớn, vừa, nhỏ, cắt tỉ hơn nữa là độ chuẩn xác gảy ra.
+Trong 634 mục theo hiệu quả chi phí: cực cao 109 (17%), cao 289 (46%), trung bình 236 (37%). Bậc giữa số mục nhiều là cố ý: đại lượng lợi ích dưới vốn chỉ chia ba cấp lớn, vừa, nhỏ, cắt tỉ hơn nữa là độ chuẩn xác gảy ra.
 
 **Mức này là phán đoán của tác giả, không phải chứng cứ**, theo chuẩn sách này bản thân nó chỉ tính cấp C; nó và hạng chứng cứ là hai chuyện, ai cũng không ảnh hưởng ai. Một mục có thể chứng cứ cấp A mà hiệu quả chi phí chỉ tính trung bình (vắc-xin dải đồi có RCT kỳ ba hiệu lực 97,2%, nhưng hai mũi ba bốn ngàn tệ, dải đồi rất ít chí mạng), cũng có thể chứng cứ chỉ cấp C mà hiệu quả chi phí cực cao (trước xuất cảnh đem hành trình gửi người nhà). "Trung bình" không bằng không nên làm — mục toàn sách đều là khuyến nghị làm, chỉ là mức này phải bạn tự cân đo bút hao tốn đó đáng không.
 
@@ -234,7 +234,7 @@ Chính văn cố dùng cách nói ngày thường, nhưng trích nghiên cứu l
 
 1. [Đừng chết sớm](book/01-dung-chet-som.md): chết ngoại nhân, gas và ngộ độc, vắc-xin, sàng lọc, thước thời gian nguy cơ tâm lý và ý nghĩ tự tử, sau cứu về còn lưu lại gì, một năm sau ngã trọng thương, bút sổ thận còn lại sau khi bán một quả thận, đồ dùng khẩn cấp gia đình, tín hiệu nên đi tra như tiểu máu trần mắt. Quy mô: tử suất tổng hay nguyên nhân chết định điểm.
 2. [Đừng chết từ từ](book/02-dung-chet-tu-tu.md): thuốc rượu, vận động, ngủ, ăn uống (muối natri thấp, hạt, toàn cốc vật, thịt gia công, dầu đậu phộng tự ép tán xưởng nhỏ, dầu thực vật thay mỡ lợn mỡ bơ), ngồi lâu, và cách cụ thể bỏ thuốc bỏ rượu (thuốc bỏ thuốc, ngày bỏ thuốc, môn chẩn bỏ thuốc và đường dây nóng, thuốc lá điện tử, người ngày ngày uống nhiều không tự cứng bỏ được), dài ngắn ngủ trưa, thức khuya rồi bù thế nào, bút sổ số năm làm ca đêm. Quy mô: tử suất tổng hay nguyên nhân chết định điểm. Bài dài xem [docs/nhip-dong-ho-sinh-hoc-va-ca-dem.md](docs/nhip-dong-ho-sinh-hoc-va-ca-dem.md).
-3. [Đừng lãng phí sức lực](book/03-dung-lang-phi-suc-luc.md): ngủ, ngắt, đa nhiệm vụ, mệt quyết sách, nợ nhân tế, kỳ vọng nên có lúc đánh giao đạo với cơ cấu. Quy mô: sức lực/thời gian.
+3. [Đừng lãng phí sức lực](book/03-dung-lang-phi-suc-luc.md): ngủ, ngắt, đa nhiệm vụ, nợ nhân tế, kỳ vọng nên có lúc đánh giao đạo với cơ cấu. Quy mô: sức lực/thời gian.
 4. [Đừng lãng phí thời gian](book/04-dung-lang-phi-thoi-gian.md): hạng mục không lợi, chi phí chìm, trì hoãn (giải thích tình tự, đổi môi trường, thiết trí hứa hẹn, thói quen bao lâu, tài liệu tự trợ), hội nghị, thông cần. Quy mô: thời gian.
 5. [Đừng lãng phí tiền](book/05-dung-lang-phi-tien.md): định đọc, xổ số, lãi tức, bảo hiểm, phí suất cơ kim, lương hưu cá nhân, bảo hiểm xe, tiền trả trước, phát trực tiếp đưa hàng, tài khoản cá nhân bảo hiểm y tế, con bị lừa và nạp tiền lùi khoản, chuỗi tràng đồng hồ nổi đồ chơi triều không tính đầu tư, báo cáo kiểm trắc châu bảo ngọc thạch tra thế nào, hộp mù rút thẻ, muốn mua tài sản nước ngoài đi con đường hợp pháp nào, sáu mục cuối phần nói bảo hiểm: chỉ mua tổn thất gánh không nổi, người kiếm tiền trước mua thọ hiểm định kỳ, lùi bảo thời kỳ do dự, quầy ngân hàng đừng đem bảo hiểm thành gửi tiền, đừng tìm đại lý lùi bảo, người hưởng lợi và hiệu hạn lý bồi. Quy mô: tiền.
 6. [Danh sách nên tránh](book/06-danh-sach-nen-tranh.md): thứ nhìn hiệu quả chi phí cao nhưng thật không cao, gồm cả cách nói "ý chí lực sẽ dùng hết".
@@ -253,7 +253,7 @@ Chính văn cố dùng cách nói ngày thường, nhưng trích nghiên cứu l
 19. [Đang làm, nghỉ việc và tai nạn lao động](book/19-di-lam-nghi-viec-va-tai-nan-lao-dong.md): phí làm thêm giờ, phép năm, kỳ thử dụng; cáo tri nguy hại bệnh nghề và ba lần khám thể, phòng hộ bụi phấn tiếng ồn; N, kim thay cáo tri, 2N, đừng ký chủ động nghỉ việc, lưu chứng; hạn thời nhận định tai nạn lao động, đơn vị chưa tham bảo, giám định năng lực lao động, đãi ngộ chết công. Quy mô: tiền.
 20. [Chăm trẻ sơ sinh thế nào](book/20-cham-tre-so-sinh.md): ngủ an toàn, mũi đầu viêm gan B, vắc-xin quy hoạch miễn dịch, sữa mẹ và thức phụ, nhiệt độ nước pha sữa, mật ong, vitamin K, làn ranh đi khám sốt, không lắc, tã lót và mua sắm đồ lớn, con nguy cơ cao sớm đưa đậu phộng phòng dị ứng. Quy mô: tử suất sơ sinh/tiền.
 21. [Đi nước ngoài, du lịch và an toàn ở nước ngoài](book/21-du-lich-va-an-toan-nuoc-ngoai.md): cấp độ nhắc nhở an toàn, 12308, ranh giới bảo hộ lãnh sự, bảo hiểm y tế ngoài cảnh, trò lừa chiêu mộ lương cao ngoài cảnh, hạn ngạch rút tiền ngoài cảnh mỗi năm, chứng kiện mất, bằng lái ngoài cảnh, trung giới lưu án. Quy mô: tiền/tự do thân người.
-22. [Thư giãn thế nào: chỗ giải trí và giảm áp lực](book/22-thu-gian-the-nao.md): cửa an toàn, minh mã tiêu giá, làn ranh đỏ liên quan độc, đồ người khác đưa, tiệm nét thực danh, kịch bản sát chọn địa; vận động, chánh niệm, hô hấp, giao tế, đất xanh. Quy mô: tiền/tự do thân người, và sức lực/tử suất tổng.
+22. [Thư giãn thế nào: chỗ giải trí và giảm áp lực](book/22-thu-gian-the-nao.md): cửa an toàn, minh mã tiêu giá, làn ranh đỏ liên quan độc, đồ người khác đưa, kịch bản sát chọn địa; vận động, chánh niệm, hô hấp, giao tế, đất xanh. Quy mô: tiền/tự do thân người, và sức lực/tử suất tổng.
 23. [Học kỹ năng gì thì đáng](book/23-hoc-ky-nang-gi-dang.md): đọc sách hay đi làm (đường tuổi đồng công, giáo dục và tử suất, kết cấu học lịch toàn quốc, miễn học phí và trợ học kim vay học trợ, thông đạo lên cao trung chức, tự tính bút sổ này thế nào), tỷ suất hồi báo giáo dục, chứng sơn trại, trợ cấp bồi huấn, bản lĩnh nào không dễ bị máy thay, cấp độ kỹ năng, nghề nghiệp khẩn thiếu tra thế nào, và định học gì rồi thì học thế nào (tự trắc, luyện phân tán, đừng dựa kẻ trọng điểm, luyện giao thác, phong cách học không có chứng cứ), cuối là chức xưng (con đường thân báo, lấy thi thay bình, hậu quả đại bình tạo giả, bình được không bằng bổ nhiệm được). Quy mô: tiền/thời gian, trong đó một mục là tử suất.
 24. [Đi khám bệnh: sao cho ít tốn tiền ít đi đường vòng](book/24-di-kham-benh.md): chẩn liệu phân cấp và chuyển chẩn, vạch khởi phó tính liên tục, chênh tỷ lệ báo tiêu, lưu lại nguồn số, đánh giá tất yếu đi khám dị địa, lưu giữ và phong tồn bệnh lịch, thứ tự bốn cấp dự kiểm phân chẩn cấp cứu, lúc không lực chi phó thì cứu trợ khẩn cấp bệnh, thời cơ giám định thương tật, thẻ khuyết tật làm thế nào, không cần đưa phong bì cho bác sĩ. Quy mô: tiền/thời gian.
 25. [Người thân qua đời rồi phải làm những việc gì](book/25-viec-phai-lam-khi-nguoi-than-qua-doi.md): báo cảnh và chứng minh tử vong, di thể tiếp vận và hỏa hóa, dị nghị nguyên nhân chết và kiểm thi, tiêu hộ khẩu, danh đơn hạng mục cơ sở táng tán, giá cả vi pháp, trung giới lưu án, số dư tích kim và đãi ngộ xã bảo, quyền tin tức cá nhân người đã chết. Quy mô: tiền.
