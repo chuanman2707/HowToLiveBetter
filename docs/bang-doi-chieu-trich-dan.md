@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1197 trích dẫn.
+Tổng cộng 1232 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -616,7 +616,7 @@ Tổng cộng 1197 trích dẫn.
 | mục 6 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | …rước và khai thật không mâu thuẫn nhau, xem … |
 | mục 8 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …ên thật thì mức phạt giống như mục này, xem … |
 | mục 9 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … để vay tiền, bạn càng nên tra một lần, xem … |
-| mục 10 | phần 9, mục 26 | **Trỏ tới mục không tồn tại** | …nh thường, bị kiểm tra ra cũng bị phạt, xem … |
+| mục 10 | phần 9, mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | …nh thường, bị kiểm tra ra cũng bị phạt, xem … |
 | mục 11 | phần 13, mục 37 | Bắt gặp một đám đánh nhau: lùi ra đi, đừng lên can, đừng đứng xem, đừng nhặt hung khí dưới đất; muốn báo thì lùi tới khoảng an toàn gọi 110 | …ữa người lạ thì rủi ro phải tính riêng, xem … |
 | mục 11 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … mặc định vẫn là lùi ra và báo cảnh sát như … |
 | mục 11 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | … chính thức hỏi, bạn mời luật sư trước, xem … |
@@ -689,14 +689,42 @@ Tổng cộng 1197 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …tai họa, dịch bệnh, vụ án chưa rõ thật giả (… |
+| Mở đầu phần | mục 2 | Không đăng, không chuyển ảnh, biểu tượng cảm xúc và bình luận sỉ nhục anh hùng liệt sĩ, không đem quốc kỳ quốc ca ra đùa | … chuyển bình luận sỉ nhục anh hùng liệt sĩ (… |
+| Mở đầu phần | mục 3 | Nội dung trên site nước ngoài xem xong thì đóng lại: không chụp màn hình, không chuyển tiếp, không mang vào nhóm, cũng không bình luận theo | …trên site nước ngoài xem xong thì đóng lại (… |
+| Mở đầu phần | mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … đừng phát video khiêu dâm vào nhóm (… |
+| Mở đầu phần | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | …n dùng thẻ của mình thu tiền thì không làm (… |
+| Mở đầu phần | mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | … bạn "đóng gói hồ sơ" đi vay thì không làm (… |
+| Mở đầu phần | mục 7 | Nhặt được thẻ ngân hàng không rút tiền; nhặt được điện thoại, ví thì liên hệ chủ hoặc giao công an, không bỏ túi | … nhặt được thẻ ngân hàng không rút tiền (… |
+| Mở đầu phần | mục 8 | Ưu đãi lĩnh bằng danh tính thật của mình; không mua số ảo đăng ký hàng loạt tài khoản phụ, không lợi lỗ hổng lĩnh lặp lại | … ưu đãi lĩnh bằng danh tính thật của mình (… |
+| Mở đầu phần | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | … không cho mượn căn cước (… |
+| Mở đầu phần | mục 21 | Đừng làm giả sự cố, đừng phóng đại tổn thất lừa đền bảo hiểm: đó là tội lừa đảo bảo hiểm, người giúp làm chứng, giúp sửa xe, giúp định giá đều tính chung | … đừng làm giả sự cố để lừa đền bảo hiểm (… |
+| Mở đầu phần | mục 9 | Từ ban công, cửa sổ không vứt bất cứ thứ gì ra ngoài: tàn thuốc, túi rác, chai rượu đều tính | … ban công, cửa sổ không vứt đồ ra ngoài (… |
+| Mở đầu phần | mục 10 | Không mua qua mạng súng giả, súng bi sắt, súng hơi; không mua "súng đồ chơi" không rõ nguồn | … không mua qua mạng súng giả (… |
+| Mở đầu phần | mục 11 | Mua drone trước hết đăng ký tên thật; sân bay, khu quân sự và không phận quản chế trong thành phố không bay; không phá giới hạn độ cao | … mua drone trước hết đăng ký tên thật (… |
+| Mở đầu phần | mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … không hưởng khấu, không mở sới thu tiền (… |
+| Mở đầu phần | mục 14 | Không ăn thịt thú rừng, không mua bán, không nuôi động vật được bảo vệ làm thú cưng | … không ăn thịt thú rừng (… |
+| Mở đầu phần | mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … đòi nợ không giữ người (… |
+| Mở đầu phần | mục 17 | Bị cảnh sát chặn lại hoặc dẫn đi thì phối hợp: không đẩy, không đánh, không giành máy ghi hình chấp pháp; uống rượu càng phải nhịn | … bị cảnh sát chặn lại thì phối hợp (… |
+| Mở đầu phần | mục 19 | Trước khi ra tay đánh người tính kỹ khoản này: tạm giữ, đền tiền, ngồi tù | …ớc khi ra tay đánh người tính kỹ khoản này (… |
+| Mở đầu phần | mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | …cui rút, thiết bị sốc điện mang theo người (… |
+| Mở đầu phần | mục 12 | Không chụp lén người khác; không lắp camera trong phòng cho thuê, nhà nghỉ, khách sạn | … không chụp lén người khác (… |
+| Mở đầu phần | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … chưa đủ 14 tuổi thì không được quan hệ (… |
+| Mở đầu phần | mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | …hông nổi thì đăng ký với cơ quan dân chính (… |
+| Mở đầu phần | mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | … đừng bán nội tạng của chính mình (… |
+| Mở đầu phần | mục 23 | Đừng mua dâm: mức mặc định là tạm giữ 10 đến 15 ngày, không phải phạt tiền là xong | … đừng mua dâm vì mặc định là tạm giữ (… |
+| Mở đầu phần | mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …phim và phim truyền hình, sách điện tử lậu (… |
+| Mở đầu phần | mục 25 | Viết truyện đồng nhân, làm tác phẩm phái sinh mà đem đi xuất bản hay bán lấy tiền thì trước hết xin phép dùng tác phẩm gốc, hoặc đổi tên và quan hệ nhân vật mượn về thành của mình | …g nhân đem bán lấy tiền thì xin phép trước (… |
 | mục 3 | phần 11, mục 11 | Không bán công cụ vượt tường, tài khoản VPN, không dựng node loại đó thay người | …êng công cụ vượt tường bị phạt thế nào, xem … |
 | mục 3 | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …hắc thật giả thì càng đừng chuyển theo, xem … |
 | mục 5 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … điểm" (chuyển tiền hộ để ăn hoa hồng), xem … |
+| mục 5 | phần 5, mục 45 | Đừng bỏ tiền mua Bitcoin, Tether và các loại tiền ảo tương tự, người khác rủ cùng đầu tư cũng đừng theo: giao dịch không được pháp luật bảo vệ, lỗ rồi kiện cũng không đòi lại được | …ảo mà lỗ thì vì sao không đòi lại được, xem … |
 | mục 6 | phần 8, mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | …hác mạo danh vay thì phát hiện thế nào, xem … |
 | mục 6 | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | … tiền, chuyển khoản thay người khác thì xem … |
 | mục 8 | phần 11, mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Tự viết script, bán script, xem … |
 | mục 8 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … bán thẻ, bán tài khoản, xem … |
 | mục 8 | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | …oản, xem  (không cho mượn thẻ ngân hàng) và … |
+| mục 10 | mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | … và dao thuộc diện quản chế theo người, xem … |
 | mục 15 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Viết giấy nợ thế nào, xem … |
 | mục 16 | phần 8, mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | … hậu quả của hai việc đó, xem … |
 | mục 16 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … hậu quả của hai việc đó, xem … |
@@ -720,6 +748,13 @@ Tổng cộng 1197 trích dẫn.
 | mục 23 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …tình dục dùng bao cao su suốt quá trình) và … |
 | mục 23 | phần 22 | 22-thu-gian-the-nao (cả phần) | …ên chú ý ở chính khu vui chơi giải trí, xem … |
 | mục 23 | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | …ử thẳng theo tội hiếp dâm và phạt nặng, xem … |
+| mục 24 | phần 12, mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | … của người khác in lên hàng hóa để bán, xem … |
+| mục 24 | phần 26, mục 9 | Nhận thông báo xâm quyền phải xử kịp, chuyển tuyên bố xong 15 ngày không có gì thì phục hồi | …yền của người có quyền thì làm thế nào, xem … |
+| mục 24 | mục 25 | Viết truyện đồng nhân, làm tác phẩm phái sinh mà đem đi xuất bản hay bán lấy tiền thì trước hết xin phép dùng tác phẩm gốc, hoặc đổi tên và quan hệ nhân vật mượn về thành của mình | …ác khi viết đồng nhân rồi đem xuất bản, xem … |
+| mục 25 | mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …g lại, chia sẻ tác phẩm của người khác, xem … |
+| mục 26 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Khi gặp chuyện thật, trước hết xem … |
+| mục 26 | phần 8, mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | … Khi không còn đường lùi, xem … |
+| mục 26 | phần 13, mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ị người chặn đòi tiền ở nơi hoang vắng, xem … |
 
 ## 10-yeu-va-cuoi-co-dang-khong
 
@@ -892,7 +927,7 @@ Tổng cộng 1197 trích dẫn.
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử lý theo … |
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Bị chó cắn thì xử lý theo … |
 | mục 36 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …ền thì ngược lại, một xu cũng đừng đưa, xem … |
-| mục 36 | phần 9, mục 26 | **Trỏ tới mục không tồn tại** | …, vì cứ mang ra khỏi nhà là đã bị phạt, xem … |
+| mục 36 | phần 9, mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | …, vì cứ mang ra khỏi nhà là đã bị phạt, xem … |
 | mục 37 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Chính bạn bị cuốn vào xung đột thì xem … |
 | mục 37 | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ớc, không ra tay), bị người lạ đòi tiền xem … |
 | mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … chuyện tiền khi cứu người mà bị thương xem … |
@@ -1121,7 +1156,7 @@ Tổng cộng 1197 trích dẫn.
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … đăng ký thế nào, khai thuế thế nào thì xem … |
 | Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | … Riêng … |
 | mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
-| mục 9 | phần 9, mục 24 | **Trỏ tới mục không tồn tại** | … Về hai trường hợp này, xem … |
+| mục 9 | phần 9, mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | … Về hai trường hợp này, xem … |
 | mục 11 | phần 11, mục 16 | Website, app phải đăng ký ICP trước khi lên kệ; theo yêu cầu bảo vệ cấp độ giữ log ít nhất 6 tháng | …hĩa vụ lưu log 6 tháng và bảo vệ cấp độ xem … |
 
 ## 27-mang-thai-va-sinh-con
