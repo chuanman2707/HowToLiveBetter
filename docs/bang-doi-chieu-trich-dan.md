@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1051 trích dẫn.
+Tổng cộng 1056 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -82,7 +82,7 @@ Tổng cộng 1051 trích dẫn.
 | Mở đầu phần | mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …hông ổn "bạn có từng nghĩ đến tự tử không" (… |
 | mục 4 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Ngộ độc khí CO là chuyện khác, xem … |
 | mục 12 | mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | … Mùa đông ra chơi trên mặt băng thì xem … |
-| mục 13 | phần 17, mục 9 | **Trỏ tới mục không tồn tại** | …hể đã ảnh hưởng đến việc nhìn đường thì xem … |
+| mục 13 | phần 17, mục 9 | Nếu đục thủy tinh thể của người già đã ảnh hưởng việc nhìn đường, đưa đi khoa mắt đánh giá để phẫu thuật; nếu cả hai mắt đều bị, đừng để mắt thứ hai chờ quá lâu | …hể đã ảnh hưởng đến việc nhìn đường thì xem … |
 | mục 13 | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | …ng có chịu nổi một cú ngã hay không thì xem … |
 | mục 16 | mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | … Chi tiết xem … |
 | mục 25 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …t cục dài hạn sau khi tự tử chưa thành, xem … |
@@ -832,6 +832,8 @@ Tổng cộng 1051 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …Loét do nằm lâu của người nằm liệt lâu dài (… |
+| Mở đầu phần | mục 9 | Nếu đục thủy tinh thể của người già đã ảnh hưởng việc nhìn đường, đưa đi khoa mắt đánh giá để phẫu thuật; nếu cả hai mắt đều bị, đừng để mắt thứ hai chờ quá lâu | …ài (mục 8) và phẫu thuật đục thủy tinh thể (… |
 | mục 3 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … quy tắc chung chống lừa xem … |
 | mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … quy tắc chung chống lừa xem phần 8 và … |
 | mục 4 | phần 1 | 01-dung-chet-som (cả phần) | …ợt ngã trong nhà thì tiện tay làm luôn, xem … |
@@ -845,6 +847,9 @@ Tổng cộng 1051 trích dẫn.
 | mục 8 | phần 13, mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | …hì xử lý theo huyết khối tĩnh mạch sâu, xem … |
 | mục 8 | phần 1, mục 34 | Đừng đánh cược "nằm vài ngày là khỏi" vào ngã từ trên cao: người vào ICU chấn thương phần lớn sống sót, cái giá tính bằng năm | …u dài vì ngã hoặc chấn thương nặng, bạn xem … |
 | mục 8 | mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …mà bảo hiểm chăm sóc dài hạn hoàn được, xem … |
+| mục 9 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Muốn ngã ít hơn thì còn phải dựa vào … |
+| mục 9 | phần 1, mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | …ng có chịu nổi một cú ngã hay không thì xem … |
+| mục 9 | phần 1, mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | … Nếu đã chẩn đoán loãng xương thì xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
