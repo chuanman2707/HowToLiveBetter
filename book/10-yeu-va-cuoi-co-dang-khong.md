@@ -141,7 +141,7 @@ Phần này tách câu "cưới có đáng không" ra thành mấy khoản: ti�
 
 ### 16. Ghi riêng một khoản cho "cưới vì bậc trên", đừng trộn với khoản của mình
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=chut loi-ich=vua quy-mo=thoi-gian -->
-- Chi phí: Không tốn tiền. Bạn viết hai cột trên giấy. Một cột là trong cuộc hôn nhân này lợi ích nào là của bạn, các mục 8 (sức khỏe), mục 9 (khoản thời gian), mục 10 đến 12 (khoản tiền), mục 4 (cảm giác của chính bạn trong quan hệ) và mục 15 (chi phí rút lui) phần này tính được. Cột kia là lợi ích nào của bậc trên: yên tâm, thể diện, thôi giục cưới. Cái khó là để riêng cột của bậc trên, không gộp vào cột mình.
+- Chi phí: Không tốn tiền. Bạn viết hai cột trên giấy. Một cột là trong cuộc hôn nhân này lợi ích nào là của bạn, các mục 8 (sức khỏe), mục 9 (khoản thời gian), mục 10 đến 12 (khoản tiền), mục 4 (cảm giác của chính bạn) và mục 15 (chi phí rút lui) phần này tính được. Cột kia là lợi ích nào của bậc trên: yên tâm, thể diện, thôi giục cưới. Cái khó là để riêng cột của bậc trên, không gộp vào cột mình.
 - Nói dễ hiểu: Yên tâm, thể diện, thôi giục cưới của bậc trên là có thật, nhưng chúng không tự thành lợi ích sức khỏe hay chất lượng quan hệ của bạn. Còn thời gian, tiền và chi phí rút lui đều do bạn gánh. Viết hai cột: lợi ích nào của mình, nào của bậc trên, đáng không tự nhìn là ra.
 - Lợi ích: Lợi ích của bậc trên là có thật. Nhưng nó không tự động chuyển thành lợi ích sức khỏe của bạn (mục 8) hay chất lượng quan hệ (mục 4, quan hệ tốt hay không xem cảm giác của bạn). Còn khoản thời gian (mục 9), khoản tiền (mục 10 đến 12) và chi phí rút lui (mục 15), toàn bộ do người trong cuộc gánh. Sau khi tách sổ ra, kết hôn kiểu "làm nhiệm vụ" đáng hay không bạn tự nhìn là ra
 - Mức chứng cứ: C

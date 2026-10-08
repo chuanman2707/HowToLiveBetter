@@ -414,7 +414,7 @@ Tổng cộng 762 trích dẫn.
 | mục 16 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
 | mục 16 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
 | mục 16 | mục 4 | Quan hệ tốt hay không chủ yếu xem cảm giác của chính bạn trong quan hệ này, không xem điều kiện của đối phương | …oản thời gian), mục 10 đến 12 (khoản tiền), … |
-| mục 16 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …4 (cảm giác của chính bạn trong quan hệ) và … |
+| mục 16 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền), mục 4 (cảm giác của chính bạn) và … |
 | mục 16 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …động chuyển thành lợi ích sức khỏe của bạn (… |
 | mục 16 | mục 4 | Quan hệ tốt hay không chủ yếu xem cảm giác của chính bạn trong quan hệ này, không xem điều kiện của đối phương | …hỏe của bạn (mục 8) hay chất lượng quan hệ (… |
 | mục 16 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | … Còn khoản thời gian (… |

@@ -110,6 +110,8 @@ const EDITS = [
   ['README.md', 'câu hiệu quả chi phí', /Trong (\d+) mục[^.]*hiệu quả[^.]*/g,
     `Trong ${entries} mục theo hiệu quả chi phí: cực cao ${ratio['Cực cao']} (${pct['Cực cao']}%), cao ${ratio['Cao']} (${pct['Cao']}%), trung bình ${ratio['Trung bình']} (${pct['Trung bình']}%)`], // khớp sau khi Task 42 viết README — chuỗi thay phải chứa "hiệu quả" để --check lần sau vẫn khớp
   ['README.md', 'số file markdown', /(\d+) file markdown/g, `${sections} file markdown`], // khớp sau khi Task 42 viết README (nếu README VN có câu này)
+  ['README.md', 'số mục A trong cách đọc', /chỉ còn (\d+) mục có số cụ thể/g, `chỉ còn ${grade.A} mục có số cụ thể`],
+  ['README.md', 'số mục cực cao trong cách đọc', /được (\d+) mục vừa không tốn tiền/g, `được ${ratio['Cực cao']} mục vừa không tốn tiền`],
   ['index.html', 'meta/JSON-LD mô tả', /(\d+) mục lời khuyên/g, `${entries} mục lời khuyên`],
   ['index.html', 'numberOfPages', /numberOfPages":(\d+)/g, `numberOfPages":${entries}`],
   ['index.html', 'số phần/mục đầu trang', /(\d+) phần (\d+) mục/g, `${sections} phần ${entries} mục`],
