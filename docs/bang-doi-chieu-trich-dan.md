@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1260 trích dẫn.
+Tổng cộng 1266 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1074,6 +1074,7 @@ Tổng cộng 1260 trích dẫn.
 | mục 2 | phần 1 | 01-dung-chet-som (cả phần) | … Sàng lọc mà mẹ phải tự làm, bạn xem … |
 | mục 3 | mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Mũi viêm gan B đầu tiên, bạn xem … |
 | mục 4 | mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | …rứng, đậu phộng có nên tránh không, bạn xem … |
+| mục 4 | mục 14 | Mang thai hoặc cho con bú mà đang ăn chay thì mỗi ngày bổ sung vitamin B12; thức ăn phụ của bé phải có thức ăn động vật, nhất định ăn thuần chay thì hỏi bác sĩ trước | …chay, hoặc bạn muốn cho bé ăn chay, bạn xem … |
 | mục 9 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Cảm xúc của bạn xử lý thế nào, bạn xem … |
 | mục 10 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Cách tra thông báo kiểm tra, bạn xem … |
 | mục 11 | phần 1 | 01-dung-chet-som (cả phần) | … chứng cứ của ghế an toàn xem … |
@@ -1081,6 +1082,11 @@ Tổng cộng 1260 trích dẫn.
 | mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Bạn áp dụng quy tắc bình tĩnh 24 tiếng mà … |
 | mục 12 | phần 13, mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … Bé bị nghẹn thì xử lý thế nào, bạn xem … |
 | mục 12 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | …tháng mới bắt đầu thêm thức ăn phụ, bạn xem … |
+| mục 13 | phần 27, mục 13 | Xét nghiệm máu gót chân và sàng lọc thính lực trẻ sơ sinh đều đừng từ chối | … Về sàng lọc trẻ sơ sinh, bạn xem … |
+| mục 13 | mục 3 | Tiêm đủ vaccine trong chương trình tiêm chủng quốc gia, miễn phí trọn quá trình, lỡ mũi thì chỉ bù những mũi chưa tiêm | …thì không làm lỡ việc tiêm vaccine, bạn xem … |
+| mục 14 | phần 16, mục 4 | Đừng vì muốn thử bài thuốc dân gian, thực phẩm bảo vệ sức khỏe mà ngừng trị liệu chính quy | …chối chỉ vì tin bài thuốc dân gian, bạn xem … |
+| mục 14 | phần 27, mục 1 | Chuẩn bị mang thai đã bắt đầu mỗi ngày bổ 0,4 mg acid folic, uống tới khi đầu thai kỳ đủ 3 tháng | … Về acid folic lúc mang thai, bạn xem … |
+| mục 14 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | … Cách thêm thức ăn phụ, bạn xem … |
 
 ## 21-du-lich-va-an-toan-nuoc-ngoai
 
@@ -1194,7 +1200,7 @@ Tổng cộng 1260 trích dẫn.
 | Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | …inh con, nghỉ thai sản và tiền nuôi con xem … |
 | Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Con sinh ra chăm thế nào xem … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bệnh cấp xem … |
-| mục 1 | phần 20, mục 14 | **Trỏ tới mục không tồn tại** | … toàn còn phải bổ vitamin B12 mỗi ngày, xem … |
+| mục 1 | phần 20, mục 14 | Mang thai hoặc cho con bú mà đang ăn chay thì mỗi ngày bổ sung vitamin B12; thức ăn phụ của bé phải có thức ăn động vật, nhất định ăn thuần chay thì hỏi bác sĩ trước | … toàn còn phải bổ vitamin B12 mỗi ngày, xem … |
 | mục 3 | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | …gan B và globulin miễn dịch viêm gan B (xem … |
 | mục 3 | phần 1 | 01-dung-chet-som (cả phần) | … Phòng và xét nghiệm thường ngày xem … |
 | mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …u phơi nhiễm khi có hành vi nguy cơ cao xem … |
