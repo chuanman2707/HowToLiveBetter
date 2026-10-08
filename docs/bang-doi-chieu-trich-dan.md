@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1275 trích dẫn.
+Tổng cộng 1298 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1119,9 +1119,32 @@ Tổng cộng 1275 trích dẫn.
 | --- | --- | --- | --- |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …ày tính chuyện tiền bạc và thời gian, riêng … |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | … 1 nói trước xem luật gạch đi lựa chọn nào, … |
-| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học | …2 tính quan hệ giữa đi học và tuổi thọ, còn … |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | …2 tính quan hệ giữa đi học và tuổi thọ, còn … |
 | Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … Còn nếu không đậu THPT thì … |
 | Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …HPT thì mục 5 chỉ ra con đường nào khác, và … |
+| Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | …chưa đủ 16 tuổi không có lựa chọn "đi làm" (… |
+| Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …a "đi học có dùng không" vào cả sổ tử vong (… |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | …không", nhìn kết cấu học vấn cả nước trước (… |
+| Mở đầu phần | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …g nổi" tính theo chính sách một lượt trước (… |
+| Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … Không đậu THPT không bằng đường đứt (… |
+| Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …đưa "đi học hay đi làm" thành một bài toán (… |
+| Mở đầu phần | mục 7 | Nhớ vạch chuẩn trước: mỗi thêm một năm học, lợi tức tư trung bình toàn cầu (phần rơi vào thu nhập mình) khoảng 9% một năm | …n rơi vào thu nhập mình) khoảng 9% một năm (… |
+| Mở đầu phần | mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ày có trong danh mục tư cách nghề quốc gia (… |
+| Mở đầu phần | mục 9 | Đào tạo ưu tiên đi kênh trợ cấp chính quyền, đừng vừa lên đã tự trả báo lớp thương mại | … đừng vừa lên đã tự trả báo lớp thương mại (… |
+| Mở đầu phần | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | …ay không, có phải phán đoán tại chỗ không" (… |
+| Mở đầu phần | mục 11 | Trước khi học xác nhận kỹ năng này có đánh giá bậc không, bậc đổi ra tiền được không | …xác nhận kỹ năng này có đánh giá bậc không (… |
+| Mở đầu phần | mục 12 | Đừng coi "trên mạng nói lương cao" là thiếu người, đi tra danh mục nghề khan hiếm và danh mục trợ cấp của địa phương | …an hiếm và danh mục trợ cấp của địa phương (… |
+| Mở đầu phần | mục 13 | Cùng tiền cùng thời gian, ưu tiên chọn hạng mục chu kỳ ngắn ra trường làm được ngay | …ng mục chu kỳ ngắn ra trường làm được ngay (… |
+| Mở đầu phần | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | …ách tự kiểm một lần, đừng quay đầu đọc lại (… |
+| Mở đầu phần | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | …hời gian ra mấy ngày, đừng học hết một lần (… |
+| Mở đầu phần | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | …nhiều lần, viết tóm tắt làm cách học chính (… |
+| Mở đầu phần | mục 17 | Mấy kiểu đề trộn nhau mà luyện, đừng một kiểu làm liền hai mươi câu | …luyện, đừng một kiểu làm liền hai mươi câu (… |
+| Mở đầu phần | mục 18 | Đừng theo "tôi kiểu hình ảnh, anh ta kiểu âm thanh" mà chọn cách học | …nh, anh ta kiểu âm thanh" mà chọn cách học (… |
+| Mở đầu phần | mục 19 | Nội dung phải thuộc ra đề tự kiểm theo cách sẽ dùng sau này, đừng thuộc nguyên văn một lần là xong | …này, đừng thuộc nguyên văn một lần là xong (… |
+| Mở đầu phần | mục 20 | Đánh giá chức danh trước phải rõ mình ở loạt nào, cấp nào, rồi theo tính chất đơn vị tìm kênh báo | …ào, rồi theo tính chất đơn vị tìm kênh báo (… |
+| Mở đầu phần | mục 21 | Chức danh sơ cấp, trung cấp kiểu kế toán lấy bằng thi toàn quốc, trước đối chiếu học vấn và thâm niên mà báo danh | …đối chiếu học vấn và thâm niên mà báo danh (… |
+| Mở đầu phần | mục 22 | Đừng tìm môi giới đánh giá hộ, đừng mua luận văn viết hộ, đừng làm giả trên tài liệu: tra ra thu hồi chức danh, ghi hồ sơ tín nhiệm 3 năm | …ận văn viết hộ, đừng làm giả trên tài liệu (… |
+| Mở đầu phần | mục 23 | Có chức danh không bằng tăng lương: hỏi trước đơn vị đánh giá bổ nhiệm theo tỷ lệ vị trí, hay đánh giá rồi chưa chắc bổ nhiệm | …ị trí, hay đánh giá rồi chưa chắc bổ nhiệm (… |
 | mục 1 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ghỉ phép năm hay chế độ tai nạn lao động mà … |
 | mục 1 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | …ổi chưa có bằng cấp thường đúng vào loại mà … |
 | mục 2 | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …c của mấy năm học thêm, còn học phí bạn xem … |
