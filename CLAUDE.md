@@ -30,6 +30,7 @@ Kho này là **bản tiếng Việt** của cuốn sách gốc tiếng Trung How
 - Cấm trích các chuyển thuật thứ cấp kiểu trả lời mạng, bài đăng công chúng.
 - Số phải tìm được trong nguyên văn, số không xác định thà không viết, viết "cần xác minh".
 - Đừng theo trí nhớ biên DOI hay tựa văn hiến; không tìm được nguyên văn thì đánh dấu cần xác minh, đừng bịa điền.
+- **Bài báo sơ cấp được nhận ở một số ca** (bản gốc 2026-10-05): chỉ khi vụ việc không có văn bản nhà nước công bố. Chỉ nhận bài gốc có ký tên phóng viên, không nhận bài đăng lại. Chỉ dùng để chứng minh "đã có chuyện như vậy", không lấy số, không nâng hạng chứng cứ. Cột Nguồn ghi link gốc kèm link lưu trữ web.archive.org. Ghi chú nói rõ tính chất nguồn. Cá nhân chưa bị xét xử thì không ghi đủ họ tên. Bản VN dịch theo đúng như vậy, không tự thêm ca báo chí.
 
 ## Marker "Chỉ tham khảo TQ:" (quy tắc riêng của bản VN)
 - Mục nào nội dung dựa trên luật/chính sách/thủ tục Trung Quốc mà người đọc Việt Nam không trực tiếp áp dụng được (hotline TQ, trang tra TQ, điều luật TQ), Ghi chú phải **mở đầu bằng** `Chỉ tham khảo TQ:`. sync-stats.mjs đếm marker này riêng.
@@ -68,6 +69,7 @@ Mỗi mục thống nhất dùng:
 - **Số điều luật và số mục trích dẫn phải tách được**: check-refs theo "sát trước nó có dấu trích dẫn không" phán — sát trước là `《…》`, `〔…〕`, "…hiệu", "điều luật đó", hay kết thúc bằng tên pháp quy, coi là điều luật bỏ qua. Từ đó hai yêu cầu: ① trích dẫn điều luật phải tự mang tên văn kiện, liệt từng câu viết "giải thích đó Điều 11 nói việc lấy chứng", đừng viết "...Điều 11 nói việc lấy chứng" dựa vào câu trước; ② trước trích dẫn mục đừng sát tên pháp quy. **Phán cứ loại lỗi này không phải `--check` xanh không, là tổng số trích dẫn đúng không**: thêm N chỗ trích dẫn, tổng số của bang-doi-chieu phải tăng N. Tăng thiếu nghĩa là có trích dẫn bị coi điều luật bỏ qua — nó căn bản không vào bảng, `--check` hiển thị qua là im lặng thất hiệu.
 - **Anchor phải đủ dài, đủ gần**: trong cả câu liên tiếp ba chữ khớp tiêu đề đích, hay trong cụm phẩy chứa trích dẫn có hai chữ khớp, mới tính. Comment trong tools/check-refs.mjs ghi độ nhạy đo thực tế — dồn trích dẫn trong phần lệch một mục, chặn ngay được khoảng bảy phần mười, phần còn lại chỉ dựa diff bảng đối chiếu, nên bước soi diff không tiết được.
 - Mức hiệu quả chi phí không viết vào README, do index.html theo "đại lượng lợi ích + ba hạng chi phí" hợp thành thời gian thực (lớn và chi phí toàn không=cực cao, lớn và điểm chi phí ≤2 hay vừa và chi phí toàn không=cao, còn lại=trung bình), đổi quy tắc bậc chỉ đổi index.html.
+- **Khối dẫn đường nhóm mục ở đầu phần** (bản gốc 2026-10-04, issue #75): phần có từ 20 mục trở lên có một đoạn ngay sau đoạn mở đầu, chia mục theo chủ đề, mỗi mục ghi "<cụm chép từ tiêu đề> (mục N)". Thứ tự và số mục không đổi. Thêm mục mới vào phần có khối này thì phải gắn mục đó vào nhóm hợp lý; đồng bộ với bản gốc thì theo cách bản gốc gắn.
 
 ## Kết cấu mục lục
 
@@ -82,40 +84,40 @@ Ba thứ bản điện tử, toàn do `.github/workflows/book.yml` trên main sa
 
 Mỗi phần tóm lược một dòng (chi tiết số mục và thảo luận tra file tương ứng):
 
-1. Đừng chết sớm: chết ngoại nhân, gas và ngộ độc, vắc-xin, sàng lọc, nguy cơ tâm lý và tự tử (12356 là hotline TQ), hậu quả sau cứu về, đồ dùng khẩn cấp gia đình, tín hiệu cần tra; bài dài đồ khẩn cấp ở docs/.
-2. Đừng chết từ từ: thuốc rượu, vận động, ngủ, ăn uống, ngồi lâu, cách bỏ thuốc bỏ rượu cụ thể, ngủ trưa, thức khuya bù, bút sổ số năm ca đêm; bài dài nhịp sinh học ở docs/.
-3. Đừng lãng phí sức lực: ngủ, ngắt, đa nhiệm vụ, nợ nhân tế, kỳ vọng với cơ cấu.
+1. Đừng chết sớm: chết ngoại nhân, gas và ngộ độc, vắc-xin, sàng lọc, nguy cơ tâm lý và tự tử (12356 là hotline TQ), hậu quả sau cứu về, đồ dùng khẩn cấp gia đình, tín hiệu cần tra; đo mật độ xương và thuốc chống loãng xương, đo độ dày băng, máy mài góc, hỏi thẳng người bên cạnh về ý nghĩ tự tử; bài dài đồ khẩn cấp ở docs/.
+2. Đừng chết từ từ: thuốc rượu, vận động, ngủ, ăn uống, ngồi lâu, cách bỏ thuốc bỏ rượu cụ thể, ngủ trưa, thức khuya bù, bút sổ số năm ca đêm, máy hút mùi khi nấu ăn, bốc hỏa quanh tuổi mãn kinh; bài dài nhịp sinh học ở docs/.
+3. Đừng lãng phí sức lực: ngủ, ngắt, đa nhiệm vụ, nợ nhân tế, kỳ vọng với cơ cấu, đau bụng kinh đừng chịu đựng.
 4. Đừng lãng phí thời gian: việc không lợi, chi phí chìm, trì hoãn, hội nghị, thông cần.
-5. Đừng lãng phí tiền: định đọc, xổ số, lãi tức, bảo hiểm, phí cơ kim, tiêu dùng trả trước, con nạp tiền, tài sản nước ngoài đường hợp pháp, sáu mục cuối nói bảo hiểm.
-6. Danh sách nên tránh: thứ nhìn hiệu quả chi phí cao nhưng thật không cao, gồm cả "ý chí lực dùng hết".
+5. Đừng lãng phí tiền: định đọc, xổ số, lãi tức, bảo hiểm, phí cơ kim, tiêu dùng trả trước, con nạp tiền, tài sản nước ngoài đường hợp pháp, sáu mục cuối nói bảo hiểm; rồi đến đừng mua tiền ảo và người không đi làm cho ai tự đóng bảo hiểm hưu trí.
+6. Danh sách nên tránh: thứ nhìn hiệu quả chi phí cao nhưng thật không cao, gồm cả "ý chí lực dùng hết", học tư thế bê vác phòng đau lưng, bổ sung canxi sau gãy xương.
 7. Sống khi không có tiền: cứu trợ, trợ cấp, tìm việc, ở ăn, y liệu, thiếu lương duy quyền, tránh hố (đa số chính sách TQ).
-8. Đừng tự chuốc họa vào thân: tai nạn giao thông, bị lừa chỉ phó, bị chỉ tố, tự thú, hành vi mạng, sính lễ, bảo lãnh, hiệu hạn kiện tụng, mất tín, báo cảnh lưu trình, lấy chứng, bạo hành gia đình (gần như toàn luật TQ).
-9. Làn ranh đỏ pháp luật người thường dễ vi phạm: tin đồn, truyền bá sắc tình, việc tay trái rửa tiền, ném đồ trên cao, đưa nuôi con, cờ bạc (gần như toàn luật TQ).
-10. Yêu và cưới có đáng không: chọn bạn, triền quấn, yêu xa, đăng ký, ba bút sổ, chi phí rời; bài dài ở docs/.
-11. Làn ranh đỏ dân lập trình: phần mềm ngoài, trùn dữ liệu, xóa kho, mang mã nguồn, nhận đơn, cạnh nghiệp, nguồn mở, lưu án.
-12. Khởi nghiệp và làm ăn: vốn, bảo lãnh, chủ thể, giấy phép, thuế, hóa đơn, hợp đồng, dùng người, ranh đỏ tri thức, rời trường.
-13. Tình huống khẩn cấp: tim ngừng, đột quỵ, chảy máu, bỏng, động kinh, đám cháy, chết đuối, lạc, động đất, dã ngoại; mấy mục cuối nói cứu người có sổ; bài dài "gặp người lạ bị nạn" ở docs/.
-14. Tài khoản và an toàn thông tin: hai lần nghiệm, mật mã, mất máy, đạo tẩu, quyền hạn App, quyền tra xóa.
+8. Đừng tự chuốc họa vào thân: tai nạn giao thông, bị lừa chỉ phó, bị chỉ tố, tự thú, hành vi mạng, sính lễ, bảo lãnh, hiệu hạn kiện tụng, mất tín, báo cảnh lưu trình, lấy chứng, bạo hành gia đình; vay AB, khóa cửa và đèn cảm ứng chống trộm (gần như toàn luật TQ).
+9. Làn ranh đỏ pháp luật người thường dễ vi phạm: tin đồn, truyền bá sắc tình, việc tay trái rửa tiền, ném đồ trên cao, đưa nuôi con, cờ bạc; quyền tác giả (dịch truyện, chia sẻ tài nguyên, đồng nhân), mang dùi cui và dao găm phòng thân (gần như toàn luật TQ).
+10. Yêu và cưới có đáng không: chọn bạn, triền quấn, yêu xa, đăng ký, ba bút sổ, chi phí rời, trị liệu cặp đôi; bài dài ở docs/.
+11. Làn ranh đỏ dân lập trình: phần mềm ngoài, trùn dữ liệu, xóa kho, mang mã nguồn, nhận đơn, cạnh nghiệp, nguồn mở, lưu án, tool chặn quảng cáo, trạm trung chuyển AI.
+12. Khởi nghiệp và làm ăn: vốn, bảo lãnh, chủ thể, giấy phép, thuế, hóa đơn, hợp đồng, dùng người, ranh đỏ tri thức, rời trường, trò lừa vận hành hộ cửa hàng và đào tạo mở cửa hàng.
+13. Tình huống khẩn cấp: tim ngừng, đột quỵ, chảy máu, bỏng, động kinh, đám cháy, chết đuối, lạc, động đất, dã ngoại; mấy mục cuối nói cứu người có sổ; nghẹn và hồi sức tim phổi cho em bé dưới 1 tuổi; bài dài "gặp người lạ bị nạn" ở docs/.
+14. Tài khoản và an toàn thông tin: hai lần nghiệm, mật mã, mất máy, đạo tẩu, quyền hạn App, quyền tra xóa, trạm trung chuyển AI.
 15. Thuê nhà và mua nhà: tiền cọc, lui thoái, giám quản tư kim, mua bán không phá thuê, đất cơ sở (luật TQ).
 16. Sống sau khi mắc bệnh mạn tính: tuân thuốc, phục tra, ký ước bác sĩ gia đình, sàng lọc chứng phát hợp, sỏi thận, gút; bài dài ở docs/.
-17. Nhà có người già: giám hộ ý định, di chúc, trò lừa dưỡng lão, bảo hiểm hộ lý dài hạn, loét do nằm.
+17. Nhà có người già: giám hộ ý định, di chúc, trò lừa dưỡng lão, bảo hiểm hộ lý dài hạn, loét do nằm, đục thủy tinh thể.
 18. Nuôi con có đáng không: trợ cấp, phép sản, bảo hộ ba kỳ, bút sổ thời gian và tiền (chính sách TQ).
-19. Đang làm, nghỉ việc và tai nạn lao động: phí tăng ca, phép năm, N/2N, nhận định tai nạn lao động (luật TQ); bài dài ở docs/.
-20. Chăm trẻ sơ sinh: ngủ an toàn, vắc-xin, sữa mẹ và thức phụ, làn ranh đi khám, không lắc, đậu phộng phòng dị ứng.
+19. Đang làm, nghỉ việc và tai nạn lao động: phí tăng ca, phép năm, N/2N, nhận định tai nạn lao động, giấy nghỉ việc, thuế tiền bồi thường, chuyển hưu trí và bảo hiểm y tế khi đổi thành phố (luật TQ); bài dài ở docs/.
+20. Chăm trẻ sơ sinh: ngủ an toàn, vắc-xin, sữa mẹ và thức phụ, làn ranh đi khám, không lắc, đậu phộng phòng dị ứng, vàng da sơ sinh, vitamin B12 cho mẹ ăn chay.
 21. Đi nước ngoài: cấp nhắc nhở an toàn, 12308 (hotline TQ), bảo hộ lãnh sự, bảo hiểm, lừa chiêu mộ, chứng kiện mất.
 22. Thư giãn thế nào: an toàn chỗ giải trí, vận động, chánh niệm, hô hấp, giao tế, đất xanh.
 23. Học kỹ năng gì thì đáng: đọc sách hay đi làm, tỷ suất hồi báo giáo dục, chứng sơn trại, trợ cấp bồi huấn, cách học, chức xưng.
-24. Đi khám bệnh: chẩn liệu phân cấp, chuyển chẩn, báo tiêu, phân chẩn cấp cứu, giám định thương tật (hệ thống TQ).
+24. Đi khám bệnh: chẩn liệu phân cấp, chuyển chẩn, báo tiêu, phân chẩn cấp cứu, giám định thương tật, giá trọn gói trồng răng (hệ thống TQ).
 25. Người thân qua đời: báo cảnh, chứng minh tử vong, táng tán, tiêu hộ khẩu, tích kim, quyền tin tức người chết (thủ tục TQ).
 26. Làm website hay nền tảng: chi phó kết toán, giấy phép ICP, kiểm nghiệm nền tảng, trị nội dung, dữ liệu xuất cảnh (pháp quy TQ); bài dài giấy phép ở docs/.
 27. Mang thai và sinh con: acid folic, khám thai, sàng lọc, tín hiệu đi viện, bảo hiểm sinh dục, giấy xuất sinh; bài dài ở docs/.
-28. Đừng vì ngoại hình phá hỏng sức khỏe: kiêng cữ cực đoan, y mỹ, thuốc giảm cân, steroid, thể tượng.
+28. Đừng vì ngoại hình phá hỏng sức khỏe: kiêng cữ cực đoan, y mỹ, thuốc giảm cân, steroid, thể tượng, niềng răng.
 29. Sau khi gặp cú sốc lớn: cửa sổ tim mạch mất thân, chẩn đoán bệnh nặng, thất nghiệp, ly hôn, không quyết định không đảo ngược.
-30. Con cái tuổi đi học: cấp chứng theo giờ, khi dễ, ngoài trời phòng cận thị, trầm cảm, ngủ và tác nghiệp.
+30. Con cái tuổi đi học: cấp chứng theo giờ, khi dễ, ngoài trời phòng cận thị, trầm cảm, ngủ và tác nghiệp, quản con không đánh mắng, khóa học cho cha mẹ, trường cai nghiện mạng.
 31. Sau tuổi mười tám: mười hai con đường, đi lính, cơ tầng, chức nghiệp, học lịch, nước ngoài làm (pháp quy TQ).
 32. Du học nước ngoài: thân phận thị thực, làm thêm, bảo hiểm, chứng nhận hồi quốc (Mỹ Gia Anh Úc + TQ).
 33. Sống sau khi khuyết tật: phản xạ tự chủ, phục hồi, sáu hạng đãi ngộ, việc làm học tập, tâm lý, giám hộ (chính sách TQ).
-34. Thuốc sẵn trong nhà: paracetamol, hạ sốt trẻ em, ibuprofen, thuốc cảm hỗn hợp, omeprazol, kháng sinh, tiêu chảy, thuốc giảm đau quá dụng.
+34. Thuốc sẵn trong nhà: paracetamol, hạ sốt trẻ em, ibuprofen, thuốc cảm hỗn hợp, omeprazol, kháng sinh, tiêu chảy, thuốc giảm đau quá dụng, dọn thuốc hết hạn, không uống rượu khi dùng cephalosporin và metronidazol.
 
 ## Quy tắc viết
 - **Mục viết cho người đọc, không phải trả lời người hỏi** (bản gốc 2026-09-21 người dùng bắt: câu hỏi của người dùng chỉ quyết định viết chủ đề gì, bản thân câu hỏi không vào chính văn — người đọc tay không có câu hỏi đó). Sau khi hạ bút đem tiêu đề đọc riêng một lần, qua ba cửa: ① có phải một câu khuyến nghị động từ mở đầu; ② không xem lượt đối thoại này đọc hiểu được không (xuất hiện mở đầu kiểu "hỏi sai rồi" "thật ra không phải vậy" là tín hiệu); ③ đang cho động tác, hay đang bình một cách nói. Đầu đuôi Nói dễ hiểu và Ghi chú cùng qua.
@@ -126,6 +128,18 @@ Mỗi phần tóm lược một dòng (chi tiết số mục và thảo luận t
 - Toàn văn theo số loại tử suất, số loại tinh lực/thời gian, số loại tiền chia quy mô, không quy đổi xuyên quy mô.
 - Viết lời thường: chính văn không dùng viết tắt kiểu ACM, thống nhất viết "tử suất tổng"; viết tắt thống kê phải dùng (HR, RR, CI, RCT…) trong README "Đọc hiểu con số (bảng thuật ngữ)" giải thích, thuật ngữ mới trước thêm vào bảng thuật ngữ rồi dùng; số điều luật để cột Nguồn, chính văn trước nói làm thế nào.
 - Một mục không quá 10 dòng; giải thích dài để docs/ file riêng.
+
+## Đồng bộ với bản gốc
+
+Mốc đã đồng bộ tới đâu là `git merge-base HEAD upstream/main`. Mỗi đợt kết thúc bằng `git merge -s ours <commit gốc>`, nên mốc tự nhảy. Lần đầu trên máy mới thì chạy `git remote add upstream https://github.com/eternity4719/HowToLiveBetter && git fetch upstream`.
+
+1. Xem việc: `node tools/sync-worklist.mjs --all --to <commit gốc>`. Ghim `<commit gốc>` cho cả đợt, đừng dùng `upstream/main` giữa chừng.
+2. Có dòng `DỒN SỐ` (bản gốc xóa hay gộp mục) thì làm commit đó trước: `node tools/renumber.mjs <phần>:<mục> ...`, vá nội dung theo diff, rồi kiểm `node tools/check-sync.mjs --all <commit đó>`.
+3. Từng phần: `SYNC_FROM=<mốc> SYNC_TO=<commit gốc> tools/sync-worker.sh <cli> NN`, rồi `review`, `take`, `sync-stats`, mỗi phần một commit. Người dịch chạy song song mỗi người một worktree: `tools/sync-worker.sh prep NN` tạo worktree và in prompt; mỗi worktree chỉ sửa đúng file của phần mình. `check-sync --frozen HEAD` chặn việc viết lại câu bản gốc không đổi. Trích tới mục mới của phần chưa làm được `check-refs-pending.mjs` tha, hết đợt phải về 0.
+4. Bài dài: vá theo diff, kiểm bằng `node tools/check-sync-doc.mjs`. Bài mới gắn link bốn chỗ như quy tắc "Kết cấu mục lục".
+5. Chốt: `node tools/check-sync.mjs --all <commit gốc>` exit 0, `check-refs.mjs --check` đạt, rồi `git merge -s ours <commit gốc>`.
+
+Không đem sang fork: `docs/核实记录/` (chỉ ghi trỏ đường trong `docs/ghi-chep-kiem-chung/`), liên hệ cá nhân và sản phẩm phái sinh của tác giả gốc trong README. Bản VN không tự thêm hay xóa mục; quy tắc viết mục mới của bản gốc chỉ dùng để hiểu vì sao bản gốc đổi.
 
 ## Cách làm việc
 - Một lần có thể đổi xuyên nhiều phần, không nhất thiết xong một phần mới dừng; phạm vi đổi trong báo cáo viết rõ theo phần.
