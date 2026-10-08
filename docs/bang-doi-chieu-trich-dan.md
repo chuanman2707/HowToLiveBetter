@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 869 trích dẫn.
+Tổng cộng 873 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1034,9 +1034,13 @@ Tổng cộng 869 trích dẫn.
 | Mở đầu phần | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | … tính cần uống đủ theo chỉ định ra sao, xem … |
 | Mở đầu phần | phần 28, mục 6 | Muốn ăn thuốc giảm cân thì tới bệnh viện lấy đơn, đừng mua ở cửa hàng mạng không cần đơn đã giao hàng | …trên mạng phải qua xét duyệt đơn trước, xem … |
 | mục 2 | phần 20, mục 8 | Em bé chưa đủ 3 tháng sốt tới 38 °C là đi thẳng viện, không theo dõi ở nhà | …i mà bị sốt thì đưa thẳng đến viện, bạn xem … |
+| mục 3 | phần 3, mục 25 | Đau bụng kinh thì uống thuốc giảm đau như ibuprofen, đừng cố chịu; đau đến lỡ việc đi làm đi học, hoặc uống thuốc ba tháng vẫn không hết, thì đi khám phụ khoa | …ào và khi nào cần đi khám phụ khoa, bạn xem … |
 | mục 4 | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | …ổi thì không được cho dùng mật ong, bạn xem … |
 | mục 4 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | … sốt nữa thì sẽ bị trùng hoạt chất, bạn xem … |
 | mục 5 | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | …u thấp để phòng ngừa tiền sản giật, bạn xem … |
+| mục 10 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … Nếu trẻ lỡ uống nhầm thuốc, bạn xem … |
+| mục 10 | mục 7 | Cảm thường đừng tìm bác sĩ đòi kháng sinh | …g nhà thì bạn cũng đừng tự lấy ra uống, xem … |
+| mục 11 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …ng paracetamol cũng đừng uống rượu, bạn xem … |
 
 ## docs/danh-muc-do-dung-khan-cap-gia-dinh
 
