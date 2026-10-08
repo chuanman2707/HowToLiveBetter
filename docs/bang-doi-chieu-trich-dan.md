@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 873 trích dẫn.
+Tổng cộng 928 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -239,22 +239,70 @@ Tổng cộng 873 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Tắt hết mọi gia hạn tự động, hết hạn thì tự gia hạn tay | … tắt hết mọi gia hạn tự động (… |
+| Mở đầu phần | mục 4 | Mỗi năm tính lại một lần gói điện thoại và băng rộng, phần không dùng thì hạ gói, nhà mạng không cho chuyển thì khiếu nại | …nh lại một lần gói điện thoại và băng rộng (… |
+| Mở đầu phần | mục 11 | Từ chối bảo hành kéo dài (gia hạn bảo hành) của đồ điện tử | … từ chối bảo hành kéo dài (… |
+| Mở đầu phần | mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … chọn thuốc trúng chọn đấu mua tập thể (… |
+| Mở đầu phần | mục 14 | Uống nước máy đun sôi, không quanh năm đặt nước bình cho máy nước uống, không quanh năm mua nước đóng chai | … uống nước máy đun sôi (… |
+| Mở đầu phần | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … phòng gym trả theo lần (… |
+| Mở đầu phần | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … đắt thì đặt thời gian suy nghĩ lại 24 giờ (… |
+| Mở đầu phần | mục 24 | Không tích trữ vì "giá gạch ngang" và đợt khuyến mãi lớn | … không tích trữ vì "giá gạch ngang" (… |
+| Mở đầu phần | mục 5 | Không mua xổ số | … không mua xổ số (… |
+| Mở đầu phần | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | … không tặng quà cho người phát sóng (… |
+| Mở đầu phần | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …không được cha mẹ thừa nhận có thể đòi trả (… |
+| Mở đầu phần | mục 10 | Dạy con nhớ một câu: ai bảo lấy điện thoại của cha mẹ đi thao tác, đi đọc mã xác minh, đều là kẻ lừa đảo | …o con đi đọc mã xác minh đều là kẻ lừa đảo (… |
+| Mở đầu phần | mục 33 | Chuỗi hạt, ngọc thạch, đồng hồ hiệu, đồ chơi thời thượng tính theo "tiền tiêu đi", không tính theo "tiền cất lại" | … chơi thời thượng tính theo "tiền tiêu đi" (… |
+| Mở đầu phần | mục 34 | Ngọc đá trang sức chỉ nhận báo cáo kiểm định có dấu CMA, rồi lên trang chính thức cơ quan cấp kiểm lại cơ quan đó | … sức chỉ nhận báo cáo kiểm định có dấu CMA (… |
+| Mở đầu phần | mục 35 | Hộp mù, rút thẻ loại bán ngẫu nhiên tính theo "khoản tiền này không quay về" | … hộp mù, rút thẻ loại bán ngẫu nhiên (… |
+| Mở đầu phần | mục 22 | Trả tiền trước phải ký hợp đồng giấy; nhà bán gặp rủi ro lớn phải ngừng thu, trước khi bỏ chạy bạn có quyền đòi lại số dư chưa tiêu | … trả tiền trước phải ký hợp đồng giấy (… |
+| Mở đầu phần | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | …hàng mạng tin quy tắc của sàn và điều luật (… |
+| Mở đầu phần | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … hàng mua trong livestream có vấn đề (… |
+| Mở đầu phần | mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | …i hoàn tiền còn đòi được mười lần giá hàng (… |
+| Mở đầu phần | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | …tra thông báo kiểm nghiệm rút mẫu quốc gia (… |
+| Mở đầu phần | mục 36 | Quan tâm thực phẩm cho thêm gì thì mua loại đóng gói sẵn: quầy hàng rời luật không bắt ghi bảng thành phần | …phẩm cho thêm gì thì mua loại đóng gói sẵn (… |
+| Mở đầu phần | mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | …m một lần quyết toán thuế thu nhập cá nhân (… |
+| Mở đầu phần | mục 3 | Quỹ nhà ở tích lũy không chỉ để mua nhà: thuê nhà, sửa nhà, phí quản lý đều rút được, từ ngày 20/9/2026 làm theo điều lệ mới | …ích lũy rút được cả tiền thuê nhà, sửa nhà (… |
+| Mở đầu phần | mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | …dùng chung gia đình trên app bảo hiểm y tế (… |
+| Mở đầu phần | mục 20 | Người có đóng thuế thu nhập cá nhân mà thuế suất từ 10% trở lên thì mở tài khoản hưu trí cá nhân, mỗi năm tối đa 12.000 nhân dân tệ được trừ trước thuế; người không đóng thuế hoặc thuế suất chỉ 3% mở là không đáng | … mở tài khoản hưu trí cá nhân (… |
+| Mở đầu phần | mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | … hưu trí công nhân viên theo mức thấp nhất (… |
+| Mở đầu phần | mục 6 | Thấy "lợi nhuận cao" "bảo đảm vốn" "chắc lãi" thì tránh ngay | …o" "bảo đảm vốn" "chắc lãi" thì tránh ngay (… |
+| Mở đầu phần | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | … lãi sang lãi suất quy năm rồi mới so sánh (… |
+| Mở đầu phần | mục 15 | Không mua bán cổ phiếu thường xuyên, lúc thị trường tăng giảm đột ngột càng phải ít động tay | … không mua bán cổ phiếu thường xuyên (… |
+| Mở đầu phần | mục 16 | Không vay tiền đầu tư, không đòn bẩy, không mua thứ mình không hiểu | … không vay tiền đầu tư (… |
+| Mở đầu phần | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | …dùng quỹ chỉ số gối rộng làm khoản dài hạn (… |
+| Mở đầu phần | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … cùng loại quỹ ưu tiên chọn phí thấp (… |
+| Mở đầu phần | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …iền vào một cổ phiếu, một sàn, một căn nhà (… |
+| Mở đầu phần | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | …đến 6 tháng sinh hoạt phí làm quỹ dự phòng (… |
+| Mở đầu phần | mục 28 | Trước khi trả nợ sớm khoản vay mua nhà, trước hết làm một bài so sánh, đừng làm theo cảm giác | …vay mua nhà, trước hết làm một bài so sánh (… |
+| Mở đầu phần | mục 37 | Cổ phiếu đang lỗ cũng phải bán theo luật đã đặt trước, không dựa vào mua thêm lúc xuống để san bằng giá vốn rồi gỡ lại | …ng lỗ cũng phải bán theo luật đã đặt trước (… |
+| Mở đầu phần | mục 38 | Muốn mua tài sản nước ngoài kiểu cổ phiếu Mỹ, đi qua quỹ QDII hoặc cổ phiếu thông Hồng Kông, đừng mở tài khoản ở sàn nước ngoài, cũng đừng lấy hạn mức đổi ngoại tệ hằng năm đi mua | …qua quỹ QDII hoặc cổ phiếu thông Hồng Kông (… |
+| Mở đầu phần | mục 45 | Đừng bỏ tiền mua Bitcoin, Tether và các loại tiền ảo tương tự, người khác rủ cùng đầu tư cũng đừng theo: giao dịch không được pháp luật bảo vệ, lỗ rồi kiện cũng không đòi lại được | …tcoin, Tether và các loại tiền ảo tương tự (… |
+| Mở đầu phần | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | … bảo hiểm ưu tiên mua loại tiêu dùng (… |
+| Mở đầu phần | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … mua đủ bảo hiểm bên thứ ba (… |
+| Mở đầu phần | mục 39 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … bảo hiểm cho tổn thất mình gánh không nổi (… |
+| Mở đầu phần | mục 40 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … hiểm nhân thọ định kỳ cho người kiếm tiền (… |
+| Mở đầu phần | mục 41 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … trong thời gian cân nhắc lại hủy đi (… |
+| Mở đầu phần | mục 42 | Trước khi ký ở quầy ngân hàng, nhìn rõ trong tay mình là tiền gửi hay bảo hiểm | …rõ trong tay mình là tiền gửi hay bảo hiểm (… |
+| Mở đầu phần | mục 43 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … đừng tìm "đại lý hủy bảo hiểm" (… |
+| Mở đầu phần | mục 44 | Trên đơn bảo hiểm ghi người thụ hưởng là người cụ thể, có biến cố nhớ đi lĩnh tiền: bảo hiểm nhân thọ 5 năm, bảo hiểm khác trong 2 năm phải đòi | … ghi người thụ hưởng là người cụ thể (… |
+| mục 7 | phần 7, mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …an thì đừng đụng đến vay nặng lãi, xem thêm … |
 | mục 8 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …5 Bộ luật dân sự đã được trích nguyên chữ ở … |
 | mục 9 | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | …nh bạn tặng quà, nạp tiền theo cảm xúc, xem … |
 | mục 10 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …có thể báo cảnh sát để chặn thanh toán theo … |
 | mục 10 | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …chiêu giả người quen, có cả AI đổi mặt, xem … |
 | mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …chiêu giả người quen, có cả AI đổi mặt, xem … |
+| mục 10 | phần 8, mục 45 | **Trỏ tới mục không tồn tại** | …iệc đọc mã xác minh hay quét khuôn mặt, xem … |
 | mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Bạn cần phân biệt rõ với … |
 | mục 12 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ạn đừng phán đoán theo cảm giác mà làm theo … |
 | mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …ả, và người đăng đã bị tạm giữ hình sự (xem … |
-| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …là đòn bẩy trá hình, lãi suất của chúng xem … |
+| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | …là đòn bẩy trá hình, lãi suất của chúng xem … |
 | mục 19 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua quỹ chỉ số gối rộng (xem … |
 | mục 20 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … khóa quỹ dự phòng vào đó (quỹ dự phòng xem … |
 | mục 20 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Cách chọn sản phẩm giống … |
 | mục 20 | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … Cách chọn sản phẩm giống … |
 | mục 20 | mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … quyết toán năm sau mới trừ (quyết toán xem … |
 | mục 22 | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … Vì vậy, bạn nên làm theo … |
-| mục 27 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …iêu dùng và trả tối thiểu thẻ tín dụng, xem … |
+| mục 27 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | …iêu dùng và trả tối thiểu thẻ tín dụng, xem … |
 | mục 29 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | …ỉ có kết quả kiểm tra rút mẫu tổng thể (xem … |
 | mục 29 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … Trả hàng bảy ngày không cần lý do xem … |
 | mục 31 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | … kiện số tiền nhỏ tính thế nào xem … |
@@ -288,6 +336,13 @@ Tổng cộng 873 trích dẫn.
 | mục 43 | mục 41 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
 | mục 44 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … việc lần lượt đi lĩnh tiền ở từng chỗ, xem … |
 | mục 44 | phần 29, mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …ấy cái chết để trả nợ là không đi được, xem … |
+| mục 45 | phần 9, mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | …gười khác là chuyện khác, có thể bị tù, xem … |
+| mục 45 | mục 6 | Thấy "lợi nhuận cao" "bảo đảm vốn" "chắc lãi" thì tránh ngay | … Cách nhận ra "đầu tư" hứa lợi cao, xem … |
+| mục 45 | mục 38 | Muốn mua tài sản nước ngoài kiểu cổ phiếu Mỹ, đi qua quỹ QDII hoặc cổ phiếu thông Hồng Kông, đừng mở tài khoản ở sàn nước ngoài, cũng đừng lấy hạn mức đổi ngoại tệ hằng năm đi mua | …ênh hợp pháp để mua tài sản nước ngoài, xem … |
+| mục 46 | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iểm hưu trí cư dân thành thị nông thôn, xem … |
+| mục 46 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …nhận trợ cấp bảo hiểm xã hội hay không, xem … |
+| mục 46 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Đứt đóng và đóng bù, xem … |
+| mục 46 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | …phố thì quan hệ hưu trí chuyển thế nào, xem … |
 
 ## 06-danh-sach-nen-tranh
 
@@ -393,10 +448,10 @@ Tổng cộng 873 trích dẫn.
 | mục 7 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … xét khó khăn kinh tế (viện trợ pháp lý xem … |
 | mục 10 | phần 24, mục 8 | Không mang tiền, không mang giấy tờ, nói không rõ mình là ai, cấp cứu cũng phải cứu trước | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
 | mục 10 | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | … LPR kỳ hạn một năm (không vay nặng lãi xem … |
-| mục 15 | phần 5, mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | … online quy thành lãi suất năm thế nào, xem … |
+| mục 15 | phần 5, mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | … online quy thành lãi suất năm thế nào, xem … |
 | mục 18 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …hông được chi trả (bảo hiểm y tế cư dân xem … |
 | mục 18 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | … Cách chuyển xem … |
-| mục 18 | phần 5, mục 46 | **Trỏ tới mục không tồn tại** | …ểm hưu trí công nhân viên, cách tính sổ xem … |
+| mục 18 | phần 5, mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | …ểm hưu trí công nhân viên, cách tính sổ xem … |
 | mục 20 | phần 5, mục 39 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
 | mục 20 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Trước hết đóng bảo hiểm y tế cư dân (… |
 | mục 21 | mục 4 | Không còn đường lui thì đến trạm cứu trợ, có lo ăn ở và vé xe về quê | … Trạm cứu trợ ở … |
