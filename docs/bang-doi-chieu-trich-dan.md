@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 791 trích dẫn.
+Tổng cộng 822 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -315,17 +315,48 @@ Tổng cộng 791 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … xin tiền bảo hiểm thất nghiệp qua mạng (… |
+| Mở đầu phần | mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | … được công nhận người khó khăn về việc làm (… |
+| Mở đầu phần | mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …ệc làm (mục 12), lĩnh trợ cấp đào tạo nghề (… |
+| Mở đầu phần | mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | … khiếu nại thanh tra lao động (… |
+| Mở đầu phần | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | …tra lao động (mục 2), xin viện trợ pháp lý (… |
+| Mở đầu phần | mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …trợ pháp lý (mục 3), phân biệt ai thuê bạn (… |
+| Mở đầu phần | mục 4 | Không còn đường lui thì đến trạm cứu trợ, có lo ăn ở và vé xe về quê | … đến trạm cứu trợ (… |
+| Mở đầu phần | mục 6 | Biến cố bất ngờ thì trước hết xin cứu trợ tạm thời | …trạm cứu trợ (mục 4), xin cứu trợ tạm thời (… |
+| Mở đầu phần | mục 7 | Thu nhập dưới vạch trợ cấp tối thiểu địa phương thì xin trợ cấp tối thiểu | …rợ tạm thời (mục 6), xin trợ cấp tối thiểu (… |
+| Mở đầu phần | mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …7), hai khoản trợ cấp cho người khuyết tật (… |
+| Mở đầu phần | mục 11 | Mất giấy căn cước thì làm lại ngay, cần gấp thì xin giấy căn cước tạm trước | …gười khuyết tật (mục 8), mất giấy căn cước (… |
+| Mở đầu phần | mục 21 | Thật sự không có chỗ ngủ, nơi mở cửa 24 giờ chỉ ứng cứu được một đêm, ưu tiên đến trạm cứu trợ | …t giấy căn cước (mục 11), không có chỗ ngủ (… |
+| Mở đầu phần | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … bảo hiểm y tế cư dân đừng để đứt (… |
+| Mở đầu phần | mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …ục 9), bệnh nặng thì đi theo bảo hiểm y tế (… |
+| Mở đầu phần | mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …c 10), bảo hiểm xã hội đứt đóng đừng hoảng (… |
+| Mở đầu phần | mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" (cam kết tái tục) | …g (mục 18), mua thêm bảo hiểm y tế một năm (… |
+| Mở đầu phần | mục 5 | Tìm việc thì trước hết dùng dịch vụ việc làm công miễn phí và chợ việc làm lẻ, không qua môi giới thu phí | … dịch vụ việc làm công và chợ việc làm lẻ (… |
+| Mở đầu phần | mục 14 | Xin việc đừng chỉ nộp hồ sơ, dùng phương pháp có hệ thống: học kỹ năng, đặt mục tiêu, nhờ người giúp | …m lẻ (mục 5), dùng phương pháp có hệ thống (… |
+| Mở đầu phần | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …4), không nộp tiền cọc, không giao giấy tờ (… |
+| Mở đầu phần | mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …từng ngồi tù, phá sản vẫn có đường làm lại (… |
+| Mở đầu phần | mục 16 | Khó khăn về nhà ở thì trước hết xếp hàng nhà ở công cộng cho thuê | … xếp hàng nhà ở công cộng cho thuê (… |
+| Mở đầu phần | mục 17 | Ép chi ở và ăn xuống thấp nhất: thuê chung theo tháng thay thuê theo ngày, tự nấu và nhà ăn trợ giá thay gọi đồ ăn | …ê (mục 16), ép chi ở và ăn xuống thấp nhất (… |
 | mục 1 | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … "tự nguyện xin nghỉ vì lý do cá nhân", xem … |
+| mục 1 | phần 19, mục 17 | **Trỏ tới mục không tồn tại** | …ấy chứng nhận nghỉ việc do công ty cấp, xem … |
 | mục 1 | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | …ng ty không trả bồi thường thì làm sao, xem … |
+| mục 2 | mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …ải quan hệ lao động và bạn phải ra tòa, xem … |
 | mục 7 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …cư dân có trợ cấp (bảo hiểm y tế cư dân xem … |
 | mục 7 | mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …đi khám được cứu trợ y tế (cứu trợ y tế xem … |
 | mục 7 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … xét khó khăn kinh tế (viện trợ pháp lý xem … |
 | mục 10 | phần 24, mục 8 | Không mang tiền, không mang giấy tờ, nói không rõ mình là ai, cấp cứu cũng phải cứu trước | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
 | mục 10 | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | … LPR kỳ hạn một năm (không vay nặng lãi xem … |
+| mục 15 | phần 5, mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | … online quy thành lãi suất năm thế nào, xem … |
 | mục 18 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …hông được chi trả (bảo hiểm y tế cư dân xem … |
+| mục 18 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | … Cách chuyển xem … |
+| mục 18 | phần 5, mục 46 | **Trỏ tới mục không tồn tại** | …ểm hưu trí công nhân viên, cách tính sổ xem … |
 | mục 20 | phần 5, mục 39 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
 | mục 20 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Trước hết đóng bảo hiểm y tế cư dân (… |
 | mục 21 | mục 4 | Không còn đường lui thì đến trạm cứu trợ, có lo ăn ở và vé xe về quê | … Trạm cứu trợ ở … |
+| mục 22 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | …Khoản nhỏ thì đi theo thủ tục kiện nhỏ, xem … |
+| mục 22 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hiệu khởi kiện là 3 năm, xem … |
+| mục 22 | mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …rường và việc nhà thầu chính trả trước, xem … |
+| mục 22 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | …g đủ tiền thì bạn xin viện trợ pháp lý, xem … |
 
 ## 08-dung-tu-chuoc-hoa-vao-than
 
