@@ -12,6 +12,20 @@ Năm việc đã viết ở chỗ khác, ở đây chỉ dẫn đường tới c
 
 Người hưởng lợi của đa số mục trong phần này là chính bạn và người nhà, thuộc hai bậc cao nhất. Chỗ nào dính tới người khác thì viết riêng trong ghi chú.
 
+Các mục của phần này chia theo chủ đề thành mấy khối dưới đây, số trong ngoặc là số mục.
+
+**Thân thể và phục hồi**: sau tổn thương tủy sống đột nhiên đau đầu dữ dội, ra mồ hôi, trước hết dìu ngồi thẳng, nới quần áo, đồng thời gọi cấp cứu (mục 1). Người ngồi xe lăn dài hạn, đệm ngồi đổi loại giảm áp (mục 5); đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" (mục 6). Phục hồi làm tại cơ cấu chính quy có khoa y học phục hồi (mục 16); thính lực xuống thì đi phối máy trợ thính (mục 17).
+
+**Đãi ngộ và trợ cấp**: thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được (mục 7). Con dưới 7 tuổi lại có khuyết tật hay cô độc chứng, đến liên hiệp hội khuyết tật cấp huyện xin cứu trợ phục hồi chức năng (mục 8). Cải tạo ramp, tay vịn và phòng tắm trong nhà, có thể xin trợ cấp lên chính phủ cấp huyện trở lên (mục 9). Thuế thu nhập cá nhân của người khuyết tật có thể giảm thu, giảm bao nhiêu gọi điện hỏi cục thuế tỉnh (mục 11).
+
+**Tìm việc và bảo vệ quyền lợi**: lúc tìm việc chủ động nói rõ mình có thẻ (mục 10). Vì khuyết tật bị từ chối chiêu, không cho chuyển chính thức, phát tiền ít, có thể kiện, nhưng trước tính rõ phí dụng quá trình (mục 20).
+
+**Đi học và đi lại**: chó dẫn đường đem vào trường sở công cộng và giao thông công cộng được (mục 12); người khuyết tật thi đại học có thể xin tiện nghi hợp lý (mục 13). Con khuyết tật xin nhập học, trường không được từ chối nhận (mục 14); mất chi dưới phải hay cả hai chi dưới cũng thi được bằng lái (mục 15).
+
+**Tâm lý và người chăm sóc**: mười năm đầu sau khi tàn tật là kỳ nguy cơ cao tự sát, đừng coi là chuyện "nghĩ thoáng chút" là xong (mục 2). Người dài hạn chăm sóc người khuyết tật trong nhà, thân thể mình phải có người dõi (mục 4).
+
+**Chướng ngại tinh thần và giám hộ**: nhập viện chướng ngại tinh thần lấy tự nguyện làm nguyên tắc, chỉ hai tình huống được không qua đồng ý của bản thân (mục 3). Nói một người lớn "quản không nổi việc mình", phải xin tòa án nhận định, người nhà nói không tính (mục 18). Người giám hộ của người lớn định theo thứ tự định pháp (mục 19).
+
 ### 1. Sau tổn thương tủy sống đột nhiên đau đầu dữ dội, ra mồ hôi, trước hết dìu ngồi thẳng, nới quần áo, đồng thời gọi cấp cứu (TQ: 120)
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=lon quy-mo=tu-vong -->
 - Chi phí: Không tốn tiền. Chỉ có ba động tác, vài chục giây là xong.

@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1093 trích dẫn.
+Tổng cộng 1113 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1217,6 +1217,26 @@ Tổng cộng 1093 trích dẫn.
 | Mở đầu phần | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …khoản trợ cấp người khuyết tật thế nào, xem … |
 | Mở đầu phần | phần 19, mục 14 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …à cấp thương tật quy ra bao nhiêu tiền, xem … |
 | Mở đầu phần | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …ho người mất năng lực mức nặng thế nào, xem … |
+| Mở đầu phần | mục 1 | Sau tổn thương tủy sống đột nhiên đau đầu dữ dội, ra mồ hôi, trước hết dìu ngồi thẳng, nới quần áo, đồng thời gọi cấp cứu (TQ: 120) | … thẳng, nới quần áo, đồng thời gọi cấp cứu (… |
+| Mở đầu phần | mục 5 | Người ngồi xe lăn dài hạn, đệm ngồi đổi loại giảm áp, mỗi ngày xem một lần xương ngồi và xương cụt | … xe lăn dài hạn, đệm ngồi đổi loại giảm áp (… |
+| Mở đầu phần | mục 6 | Đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" | … pháp và khí cụ "chữa được liệt, mù, điếc" (… |
+| Mở đầu phần | mục 16 | Phục hồi làm tại cơ cấu chính quy có khoa y học phục hồi, cường độ nghe người trị liệu, không phải càng mạnh càng tốt | …ại cơ cấu chính quy có khoa y học phục hồi (… |
+| Mở đầu phần | mục 17 | Thính lực xuống thì đi phối máy trợ thính, lý do phối nó là nghe được, không phải phòng đần | … thính lực xuống thì đi phối máy trợ thính (… |
+| Mở đầu phần | mục 7 | Thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được | …ấp huyện hỏi trọn một lần mấy thứ xin được (… |
+| Mở đầu phần | mục 8 | Con dưới 7 tuổi lại có khuyết tật hay cô độc chứng, đến liên hiệp hội khuyết tật cấp huyện xin cứu trợ phục hồi chức năng | …t cấp huyện xin cứu trợ phục hồi chức năng (… |
+| Mở đầu phần | mục 9 | Cải tạo ramp, tay vịn và phòng tắm trong nhà, có thể xin trợ cấp lên chính phủ cấp huyện trở lên | …in trợ cấp lên chính phủ cấp huyện trở lên (… |
+| Mở đầu phần | mục 11 | Thuế thu nhập cá nhân của người khuyết tật có thể giảm thu, giảm bao nhiêu gọi điện hỏi cục thuế tỉnh | … giảm bao nhiêu gọi điện hỏi cục thuế tỉnh (… |
+| Mở đầu phần | mục 10 | Lúc tìm việc chủ động nói rõ mình có thẻ, doanh nghiệp chiêu bạn được trừ đi một khoản tiền | … lúc tìm việc chủ động nói rõ mình có thẻ (… |
+| Mở đầu phần | mục 20 | Vì khuyết tật bị từ chối chiêu, không cho chuyển chính thức, phát tiền ít, có thể kiện, nhưng trước tính rõ phí dụng quá trình | …ện, nhưng trước tính rõ phí dụng quá trình (… |
+| Mở đầu phần | mục 12 | Chó dẫn đường đem vào trường sở công cộng và giao thông công cộng được, người mù miễn phí ngồi xe buýt trong thị | … sở công cộng và giao thông công cộng được (… |
+| Mở đầu phần | mục 13 | Người khuyết tật thi đại học có thể xin tiện nghi hợp lý, đề dùng chữ mù thời gian thi cộng một nửa | …ật thi đại học có thể xin tiện nghi hợp lý (… |
+| Mở đầu phần | mục 14 | Con khuyết tật xin nhập học, trường không được từ chối nhận; tới không được trường thì cục giáo dục an bài đưa dạy tới cửa | …n nhập học, trường không được từ chối nhận (… |
+| Mở đầu phần | mục 15 | Mất chi dưới phải hay cả hai chi dưới cũng thi được bằng lái, loại chuẩn lái gọi C5 | …hay cả hai chi dưới cũng thi được bằng lái (… |
+| Mở đầu phần | mục 2 | Mười năm đầu sau khi tàn tật là kỳ nguy cơ cao tự sát, đừng coi là chuyện "nghĩ thoáng chút" là xong | …g coi là chuyện "nghĩ thoáng chút" là xong (… |
+| Mở đầu phần | mục 4 | Người dài hạn chăm sóc người khuyết tật trong nhà, thân thể mình phải có người dõi | …trong nhà, thân thể mình phải có người dõi (… |
+| Mở đầu phần | mục 3 | Nhập viện chướng ngại tinh thần lấy tự nguyện làm nguyên tắc, chỉ hai tình huống được không qua đồng ý của bản thân | …h huống được không qua đồng ý của bản thân (… |
+| Mở đầu phần | mục 18 | Nói một người lớn "quản không nổi việc mình", phải xin tòa án nhận định, người nhà nói không tính | …tòa án nhận định, người nhà nói không tính (… |
+| Mở đầu phần | mục 19 | Người giám hộ của người lớn định theo thứ tự định pháp; người bị giám hộ làm đau người khác, do người giám hộ đền | …ộ của người lớn định theo thứ tự định pháp (… |
 | mục 2 | phần 29, mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …có người ngồi nói chuyện thì gọi 12356, xem … |
 | mục 2 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ng tích trữ thuốc ngủ và thuốc trừ sâu, xem … |
 | mục 2 | phần 29, mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | …ám ở khoa tâm thần hay tâm lý lâm sàng, xem … |
