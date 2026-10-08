@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 822 trích dẫn.
+Tổng cộng 869 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -77,6 +77,49 @@ Tổng cộng 822 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc lá càng sớm càng tốt (… |
+| Mở đầu phần | mục 2 | Đừng hút thuốc trong nhà và trong xe, cũng đừng để khách hút trong nhà | …c 1), đừng hút thuốc trong nhà và trong xe (… |
+| Mở đầu phần | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | …i thuốc đừng chỉ nhịn, trước hết lấy thuốc (… |
+| Mở đầu phần | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … lấy thuốc (mục 3), đặt một ngày cai thuốc (… |
+| Mở đầu phần | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …4), đi phòng khám cai thuốc hoặc gọi 12320 (… |
+| Mở đầu phần | mục 6 | Cai không được rồi mới cân nhắc thuốc lá điện tử, người vốn không hút thuốc đừng động vào | …ông được rồi mới cân nhắc thuốc lá điện tử (… |
+| Mở đầu phần | mục 8 | Không nhai trầu cau | …ốc lá điện tử (mục 6), không nhai trầu cau (… |
+| Mở đầu phần | mục 19 | Uống ít rượu hoặc không uống | … cau (mục 8), uống ít rượu hoặc không uống (… |
+| Mở đầu phần | mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …ại là run tay hồi hộp thì đừng tự mình cai (… |
+| Mở đầu phần | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … (mục 20), đếm xem một tuần uống bao nhiêu (… |
+| Mở đầu phần | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … không uống nước ngọt có đường (… |
+| Mở đầu phần | mục 18 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | …ngọt có đường (mục 7), ăn ít thịt chế biến (… |
+| Mở đầu phần | mục 28 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | …ến (mục 18), ăn ít thực phẩm siêu chế biến (… |
+| Mở đầu phần | mục 30 | Đồ nóng để bớt nguội một lát rồi hẵng uống, không uống trà, canh và cà phê còn phỏng | …đồ nóng để bớt nguội một lát rồi hẵng uống (… |
+| Mở đầu phần | mục 9 | Đổi muối ăn trong nhà sang muối ít natri (muối kali) | … đổi muối ăn trong nhà sang muối ít natri (… |
+| Mở đầu phần | mục 22 | Mỗi ngày ăn một nắm nhỏ hạt | …natri (mục 9), mỗi ngày ăn một nắm nhỏ hạt (… |
+| Mở đầu phần | mục 23 | Đổi một phần thịt đỏ sang cá và thịt gia cầm | …i một phần thịt đỏ sang cá và thịt gia cầm (… |
+| Mở đầu phần | mục 24 | Đổi một phần gạo trắng bột trắng sang ngũ cốc nguyên hạt | …ạo trắng bột trắng sang ngũ cốc nguyên hạt (… |
+| Mở đầu phần | mục 25 | Mỗi tuần uống trà ba lần trở lên | …(mục 24), mỗi tuần uống trà ba lần trở lên (… |
+| Mở đầu phần | mục 26 | Mỗi ngày uống ba đến bốn tách cà phê, không đường không kem phủ | … 25), mỗi ngày uống ba đến bốn tách cà phê (… |
+| Mở đầu phần | mục 27 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …(mục 26), mỗi ngày ăn đủ 5 phần rau củ quả (… |
+| Mở đầu phần | mục 33 | Mỗi tuần ăn ớt hơn bốn lần | …ủ quả (mục 27), mỗi tuần ăn ớt hơn bốn lần (… |
+| Mở đầu phần | mục 34 | Mỗi ngày uống một đến hai phần sữa hoặc sữa chua | …ày uống một đến hai phần sữa hoặc sữa chua (… |
+| Mở đầu phần | mục 35 | Không cần kiêng trứng, nhưng đừng mỗi ngày ba bốn quả | …c sữa chua (mục 34), không cần kiêng trứng (… |
+| Mở đầu phần | mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | …000 bước (… |
+| Mở đầu phần | mục 14 | Thường xuyên chơi các môn dùng vợt như quần vợt, cầu lông, bóng bàn | …ục 11), thường xuyên chơi các môn dùng vợt (… |
+| Mở đầu phần | mục 15 | Gom các hoạt động gắng sức rời rạc kiểu leo cầu thang, đi bộ nhanh cho đủ bốn năm phút mỗi ngày | …ục 14), gom các hoạt động gắng sức rời rạc (… |
+| Mở đầu phần | mục 16 | Mỗi tuần tập sức mạnh 30–60 phút | …ức rời rạc (mục 15), mỗi tuần tập sức mạnh (… |
+| Mở đầu phần | mục 17 | Đừng ngồi liền quá lâu, thỉnh thoảng đứng dậy cử động | … sức mạnh (mục 16), đừng ngồi liền quá lâu (… |
+| Mở đầu phần | mục 32 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …á lâu (mục 17), giữ BMI trong khoảng 20–25 (… |
+| Mở đầu phần | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … mỗi đêm ngủ khoảng 7 giờ (… |
+| Mở đầu phần | mục 37 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | …mục 13), giữ giấc ngủ trưa trong nửa tiếng (… |
+| Mở đầu phần | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …7), thức khuya thì đêm hôm sau ngủ bù ngay (… |
+| Mở đầu phần | mục 39 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | …ch càng cao, chuyển được ca thì chuyển sớm (… |
+| Mở đầu phần | mục 29 | Nấu ăn, sưởi ấm không đốt than và củi, đổi sang điện hoặc gas | … nấu ăn sưởi ấm không đốt than và củi (… |
+| Mở đầu phần | mục 40 | Mua dầu ăn đóng gói sẵn có mã SC, đừng mua dầu lạc tự ép rời của xưởng nhỏ | …, đừng mua dầu lạc tự ép rời của xưởng nhỏ (… |
+| Mở đầu phần | mục 41 | Nấu ăn dùng dầu thực vật thay mỡ heo và bơ, không cần vì sức khỏe mà đổi loại dầu, cũng đừng trông dầu hạt lanh bảo vệ tim | …c 40), dùng dầu thực vật thay mỡ heo và bơ (… |
+| Mở đầu phần | mục 42 | Mở máy hút mùi khi xào nấu, chiên rán, mở từ lúc bật bếp đến khi nấu xong | …và bơ (mục 41), mở máy hút mùi khi xào nấu (… |
+| Mở đầu phần | mục 10 | Đánh răng kỹ, mỗi ngày làm sạch kẽ răng một lần, mất răng thì trồng lại kịp thời | …răng kỹ, mỗi ngày làm sạch kẽ răng một lần (… |
+| Mở đầu phần | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | …n (mục 10), uống thuốc đều theo lời bác sĩ (… |
+| Mở đầu phần | mục 31 | Ban ngày ra ngoài phơi nắng chút, đừng cả ngày không thấy ánh sáng | …(mục 12), ban ngày ra ngoài phơi nắng chút (… |
+| Mở đầu phần | mục 36 | Có điều kiện thì ngâm bồn tắm, đừng chỉ tắm vòi sen | …út (mục 31), có điều kiện thì ngâm bồn tắm (… |
+| Mở đầu phần | mục 43 | Quanh tuổi mãn kinh mà bốc hỏa, đổ mồ hôi trộm làm ảnh hưởng sinh hoạt thì đi khám phụ khoa để đánh giá liệu pháp hormone, đừng gắng chịu, đừng tự mua thuốc, càng đừng dùng nó để phòng bệnh tim | …hám phụ khoa để đánh giá liệu pháp hormone (… |
 | mục 1 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … … |
 | mục 1 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … mục 3 (lấy thuốc cai thuốc), … |
 | mục 1 | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …cai thuốc), mục 4 (đặt một ngày cai thuốc), … |
@@ -87,6 +130,7 @@ Tổng cộng 822 trích dẫn.
 | mục 5 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Thuốc cần phối hợp xem … |
 | mục 6 | phần 22, mục 4 | Đừng ăn kẹo và đồ ăn vặt người lạ đưa, đồ uống rời khỏi tầm mắt đừng uống, đừng nhận đầu hút người khác đưa | …ổng hợp cũng chảy ra theo đường đó, bạn xem … |
 | mục 6 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Về thứ tự, bạn thử trước … |
+| mục 10 | phần 24, mục 12 | **Trỏ tới mục không tồn tại** | … trả khoản nào khi đi khám răng thì bạn xem … |
 | mục 13 | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Cách ngủ bù sau khi thức khuya thì xem … |
 | mục 16 | phần 1 | 01-dung-chet-som (cả phần) | … Những lợi ích đó viết ở … |
 | mục 19 | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
@@ -106,6 +150,9 @@ Tổng cộng 822 trích dẫn.
 | mục 39 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
 | mục 39 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … càng sớm càng tốt), huyết áp và mỡ máu xem … |
 | mục 39 | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉ định), còn sau ca đêm ngủ bù thế nào xem … |
+| mục 42 | mục 29 | Nấu ăn, sưởi ấm không đốt than và củi, đổi sang điện hoặc gas | …ề chuyện nấu ăn không đốt than củi, bạn xem … |
+| mục 43 | phần 1, mục 39 | **Trỏ tới mục không tồn tại** | … Về loãng xương, bạn xem … |
+| mục 43 | phần 1, mục 40 | **Trỏ tới mục không tồn tại** | …bạn xem phần 1, mục 39 (đo mật độ xương) và … |
 
 ## 03-dung-lang-phi-suc-luc
 
