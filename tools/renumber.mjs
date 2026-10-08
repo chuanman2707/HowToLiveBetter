@@ -47,10 +47,11 @@ const CROSS_FIELDS = /^- (Nói dễ hiểu|Lợi ích|Ghi chú|Chi phí|Nguồn)
 
 const manual = [];
 let changed = 0;
-// Đổi từng số trong một chuỗi NUMS; số trỏ vào mục bị xóa giữ nguyên và báo.
-const remapNums = (x, spec, where) => spec.replace(/\d+/g, s => {
+const pend = new Set(); // chuỗi trích trỏ vào mục bị xóa trên dòng đang xử lý, ghi ra khi dòng được ghi
+// Đổi từng số trong một chuỗi NUMS; số trỏ vào mục bị xóa giữ nguyên và ghi vào pend.
+const remapNums = (x, spec, ref) => spec.replace(/\d+/g, s => {
   const y = Number(s), n = map(x, y);
-  if (n === null) { manual.push(`${where}: trích phần ${x}, mục ${y} trỏ vào mục bị xóa`); return s; }
+  if (n === null) { pend.add(ref); return s; }
   return String(n);
 });
 
@@ -66,8 +67,7 @@ for (const [dir, f] of [...bookFiles.map(f => ['book', f]), ...docFiles.map(f =>
   const ds = del.get(x) ?? [];
   const out = [];
   let cur = 0, skipping = false;
-  for (const [i, line] of text.split(/\r?\n/).entries()) {
-    const where = `${dir}/${f}:${i + 1}`;
+  for (const line of text.split(/\r?\n/)) {
     const h = isDoc ? null : /^### (\d+)\. (.*)$/.exec(line);
     if (h) {
       cur = Number(h[1]);
@@ -78,23 +78,28 @@ for (const [dir, f] of [...bookFiles.map(f => ['book', f]), ...docFiles.map(f =>
       if (n !== cur) changed++;
       continue;
     }
+    // Tiêu đề không phải mục (vd. "## Giấy phép" cuối phần) kết thúc khối bị xóa: giữ nó và mọi dòng sau.
+    if (skipping && /^#{1,6} /.test(line)) skipping = false;
     if (skipping) continue;
     const inEntry = !isDoc && cur > 0;
     let l = line;
     if (inEntry ? CROSS_FIELDS.test(l) : l.trim()) {
-      l = l.replace(CROSS, (m0, a, px, b, spec) => `${a}${px}${b}${remapNums(Number(px), spec, where)}`);
+      l = l.replace(CROSS, (m0, a, px, b, spec) => `${a}${px}${b}${remapNums(Number(px), spec, m0)}`);
       const sameOk = !isDoc && ds.length && (!inEntry || FIELDS.test(l));
       if (sameOk) {
         // Trích cùng phần: chỉ trên phần chuỗi không thuộc trích chéo / cả phần
         const masked = [];
         const keep = s => { masked.push(s); return `\u0000${masked.length - 1}\u0000`; };
         let t = l.replace(new RegExp(CROSS.source, 'g'), keep).replace(WHOLE, keep);
-        t = t.replace(SAME, (m0, a, spec) => `${a}${remapNums(x, spec, where)}`);
+        t = t.replace(SAME, (m0, a, spec) => `${a}${remapNums(x, spec, m0)}`);
         l = t.replace(/\u0000(\d+)\u0000/g, (_, k) => masked[Number(k)]);
       }
     }
     if (l !== line) changed++;
+    const outLine = out.length + 1; // số dòng trong file sau khi sửa
     out.push(l);
+    for (const ref of pend) manual.push(`${dir}/${f}:${outLine}: trích ${ref} trỏ vào mục bị xóa`);
+    pend.clear();
   }
   const next = out.join(eol);
   if (next !== text && !DRY) writeFileSync(path, next, 'utf8');
