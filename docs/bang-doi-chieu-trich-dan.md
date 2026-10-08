@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1137 trích dẫn.
+Tổng cộng 1140 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -867,9 +867,12 @@ Tổng cộng 1137 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| mục 1 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … người khác thì bạn phải gánh những gì, xem … |
 | mục 5 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …ừa tự chuyển đi phải đi theo cách khác, xem … |
 | mục 5 | mục 1 | Email, thanh toán, tài khoản mạng xã hội đều bật xác minh hai bước; ưu tiên xác nhận bằng cửa sổ bật trên điện thoại, mã xác minh SMS chỉ đứng sau | …ho ai, mã xác minh không chuyển cho ai (xem … |
+| mục 9 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … khoản vay của chính họ là chuyện khác, xem … |
 | mục 9 | mục 8 | Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; bị từ chối có thể khởi kiện | …ửa, xóa thông tin cá nhân của mình, bạn xem … |
+| mục 10 | phần 11, mục 19 | **Trỏ tới mục không tồn tại** | …mở trạm trung chuyển có rủi ro hình sự, xem … |
 
 ## 15-thue-va-mua-nha
 
