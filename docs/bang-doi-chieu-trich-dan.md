@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1140 trích dẫn.
+Tổng cộng 1142 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1096,6 +1096,8 @@ Tổng cộng 1140 trích dẫn.
 | mục 5 | mục 4 | Đừng mua thuốc giảm cân, cà phê giảm cân, kẹo gầy và mơ enzyme hứa "gầy nhanh" | … Cách phán giống mục thuốc giảm cân (… |
 | mục 6 | mục 5 | Đừng dùng steroid đồng hóa ("kim tăng cơ" "thuốc uống") để lên cơ | … Steroid và hormone giới tính ở … |
 | mục 6 | mục 7 | Thuốc loại hormone giới tính chỉ dùng khi bác sĩ kê và định kỳ tái xét, đừng mua mạng, đừng tự tăng liều | … Steroid và hormone giới tính ở … |
+| mục 9 | phần 24, mục 12 | **Trỏ tới mục không tồn tại** | … hiểm y tế không chi trả cho chỉnh nha, xem … |
+| mục 9 | mục 2 | Trước khi tiêm kim, cấy chỉ, mở dao tra hai thứ: trên giấy phép cơ sở có "thẩm mỹ y khoa" không, người động tay có phải bác sĩ chủ chẩn không | … Cách tra xem … |
 
 ## 29-sau-khi-gap-cu-soc-lon
 
