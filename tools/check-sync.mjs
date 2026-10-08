@@ -78,6 +78,10 @@ if (SELF_TEST) {
     [vnNumbers('623.486.000.000 đồng'), [623486000000]],
     [vnNumbers('1.234,5 người'), [1234.5]],
     [zhNumbers('5 千克'), [5]],
+    [zhNumbers('400 余万元'), [4e6]],
+    [zhNumbers('30 多万人'), [3e5]],
+    [zhNumbers('20 余家'), [20]],
+    [vnNumbers('hơn 400 vạn nhân dân tệ'), [4e6]],
   ];
   let fail = 0;
   for (const [got, want] of cases) if (JSON.stringify(got) !== JSON.stringify(want.map(round))) { fail++; console.log(`SAI: được ${JSON.stringify(got)}, cần ${JSON.stringify(want)}`); }
@@ -139,8 +143,10 @@ function zhNumbers(s) {
   // Bỏ ngăn nghìn "," theo nhóm ba chữ số, mọi nhóm một lượt (623,486,000,000).
   const t = s.replace(/\d{1,3}(?:,\d{3})+(?!\d)/g, m => m.replace(/,/g, ''));
   // 万亿 đứng đầu để không bị 万 nuốt mất; 千 không tính khi là 千克/千米/千卡/千瓦/千焦/千帕/千赫.
+  // 余/多 (hơn) có thể đứng giữa số và đơn vị: "400 余万" = hơn 400 vạn, "30 多万" = hơn 30 vạn.
+  // Số đứng một mình với 余/多 ("20 余家") vẫn đọc là 20.
   const mult = { '万亿': 1e12, '万': 1e4, '亿': 1e8, '千': 1e3 };
-  return [...t.matchAll(/(\d*\.?\d+)\s*(万亿|万|亿|千(?![克米卡瓦焦帕赫]))?/g)].map(m => round(Number(m[1]) * (mult[m[2]] || 1)));
+  return [...t.matchAll(/(\d*\.?\d+)\s*(?:[余多]\s*)?(万亿|万|亿|千(?![克米卡瓦焦帕赫]))?/g)].map(m => round(Number(m[1]) * (mult[m[2]] || 1)));
 }
 function vnNumbers(s) {
   // Bỏ ngăn nghìn "." theo nhóm ba chữ số, mọi nhóm một lượt (623.486.000.000).
