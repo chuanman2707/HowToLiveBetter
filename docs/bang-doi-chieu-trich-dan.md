@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 762 trích dẫn.
+Tổng cộng 791 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -114,6 +114,31 @@ Tổng cộng 762 trích dẫn.
 | Mở đầu phần | mục 19 | Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy định, đừng coi như nhân vật: thứ đẩy việc tới trước là giấy tờ và thời hạn, không phải cảm xúc | … Riêng … |
 | Mở đầu phần | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Trong đó … |
 | Mở đầu phần | mục 22 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | … 15 (coi ý nghĩ bi quan như triệu chứng) và … |
+| Mở đầu phần | mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … tắt thông báo không cần thiết (… |
+| Mở đầu phần | mục 5 | Đổi email và tin nhắn sang xử lý theo đợt, vài lần cố định mỗi ngày | … đổi email và tin nhắn sang xử lý theo đợt (… |
+| Mở đầu phần | mục 6 | Làm việc cần suy nghĩ liên tục thì chặn cả những ngắt vài giây bên ngoài | … 5), chặn cả những ngắt vài giây bên ngoài (… |
+| Mở đầu phần | mục 7 | Mỗi lúc chỉ làm một việc, đừng vừa họp vừa trả lời tin nhắn | … Mỗi lúc chỉ làm một việc (… |
+| Mở đầu phần | mục 12 | Làm việc ở văn phòng mở thì dùng nút tai hoặc tìm phòng yên tĩnh để làm việc cần ghi nhớ | …c (mục 7), ở văn phòng mở thì dùng nút tai (… |
+| Mở đầu phần | mục 13 | Đừng chỉ biết tăng giờ làm việc mỗi tuần: qua khoảng 49 tiếng, mỗi tiếng làm thêm cho ra ngày càng ít sản phẩm | …, đừng chỉ biết tăng giờ làm việc mỗi tuần (… |
+| Mở đầu phần | mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … cố định giờ thức dậy (… |
+| Mở đầu phần | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … dậy (mục 2), ngủ đủ 7 đến 8 tiếng mỗi đêm (… |
+| Mở đầu phần | mục 4 | Sau hai giờ chiều không động vào caffeine | … sau hai giờ chiều không động vào caffeine (… |
+| Mở đầu phần | mục 8 | Một tiếng trước khi ngủ không nhìn màn hình phát sáng, muốn xem thì xem sách giấy hoặc màn hình mực điện tử | …rước khi ngủ không nhìn màn hình phát sáng (… |
+| Mở đầu phần | mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | …àn hình phát sáng (mục 8), đến giờ thì ngủ (… |
+| Mở đầu phần | mục 10 | Đêm khuya không quyết định việc lớn, không gửi tin nhắn quan trọng | …ục 9), đêm khuya không quyết định việc lớn (… |
+| Mở đầu phần | mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … (mục 10), chiều buồn ngủ thì chợp 10 phút (… |
+| Mở đầu phần | mục 14 | Phát hiện mình đang nghĩ đi nghĩ lại cùng một việc tồi tệ thì đổi sang việc phải động tay | …iệc tồi tệ thì đổi sang việc phải động tay (… |
+| Mở đầu phần | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … việc chắc chắn sẽ tệ hơn" như triệu chứng (… |
+| Mở đầu phần | mục 21 | Lúc thấy "mọi người đều nhìn thấy mình mất mặt", đem ước tính đó chia hai | …ấy mình mất mặt", đem ước tính đó chia hai (… |
+| Mở đầu phần | mục 22 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | …hác đòi tôi phải hoàn hảo" như triệu chứng (… |
+| Mở đầu phần | mục 17 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … lúc tức giận rời khỏi chỗ đó trước (… |
+| Mở đầu phần | mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …n suy sụp làm trước mấy việc đáng giá nhất (… |
+| Mở đầu phần | mục 23 | Lúc tức giận đừng dựa vào đập đồ, đấm bao cát, chạy một vòng để xả, trước hết cho cơ thể chậm lại | …o đập đồ, đấm bao cát, chạy một vòng để xả (… |
+| Mở đầu phần | mục 24 | Trong lòng đè một việc, có thể mấy ngày liền viết ra suy nghĩ và cảm giác, nhưng đừng trông nó chữa bệnh | …mấy ngày liền viết ra suy nghĩ và cảm giác (… |
+| Mở đầu phần | mục 16 | Giảm bớt những quan hệ khiến bạn hao mòn, học cách từ chối yêu cầu không muốn nhận | … học cách từ chối yêu cầu không muốn nhận (… |
+| Mở đầu phần | mục 19 | Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy định, đừng coi như nhân vật: thứ đẩy việc tới trước là giấy tờ và thời hạn, không phải cảm xúc | …ân viên quầy là người đi làm theo quy định (… |
+| Mở đầu phần | mục 20 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …hẳn app lướt động thái của người cùng tuổi (… |
+| Mở đầu phần | mục 25 | Đau bụng kinh thì uống thuốc giảm đau như ibuprofen, đừng cố chịu; đau đến lỡ việc đi làm đi học, hoặc uống thuốc ba tháng vẫn không hết, thì đi khám phụ khoa | …kinh thì uống thuốc giảm đau như ibuprofen (… |
 | mục 2 | phần 2, mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉnh thoảng thức khuya xong bù thế nào, xem … |
 | mục 3 | phần 2, mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | …ì nguy cơ chết thế nào được tính riêng, xem … |
 | mục 4 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | …ì đổi lại được thời lượng ngủ, cộng dồn với … |
@@ -143,6 +168,10 @@ Tổng cộng 762 trích dẫn.
 | mục 23 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
 | mục 23 | mục 17 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
 | mục 24 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …u thì bạn dừng lại, đổi sang gọi 12356, xem … |
+| mục 25 | phần 34, mục 3 | Người trên 60 tuổi, dạ dày từng chảy máu, đang ăn thuốc chống đông hay hormon, trước khi ăn loại giảm đau như ibuprofen hỏi bác sĩ trước | … Chi tiết xem … |
+| mục 25 | phần 34, mục 5 | Mang thai sau 20 tuần, đừng tự ăn loại giảm đau như ibuprofen | …, và sau 20 tuần thai thì đừng tự uống, xem … |
+| mục 25 | phần 34, mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …i sang paracetamol, mức tối đa mỗi ngày xem … |
+| mục 25 | phần 34, mục 9 | Thuốc giảm đau một tháng đừng ăn quá 15 ngày, thuốc giảm đau hỗn hợp đừng quá 10 ngày, nếu không đau đầu có thể là thuốc ăn ra | … Ngưỡng trong … |
 
 ## 04-dung-lang-phi-thoi-gian
 
