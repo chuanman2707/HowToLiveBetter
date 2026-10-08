@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1266 trích dẫn.
+Tổng cộng 1269 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1331,6 +1331,7 @@ Tổng cộng 1266 trích dẫn.
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …mở quán, lập công ty cùng đường rút lui xem … |
 | Mở đầu phần | phần 32 | 32-du-hoc-nuoc-ngoai (cả phần) | … Du học xem … |
 | Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Chế độ hỗ trợ sau khi mất việc xem … |
+| mục 1 | phần 23, mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … Mức phạt xem … |
 | mục 1 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
 | mục 1 | mục 12 | Giao đồ ăn, chạy xe gọi trên mạng, kéo hàng đồng thành, nền tảng theo đơn đóng phí bảo đảm tổn thương nghề cho bạn, mình không đóng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
 | mục 2 | mục 3 | Sau khi ứng chiêu từ chối phục binh dịch, trong hai năm không được xuất cảnh hay lên học phục học, còn vào không được công chức và doanh nghiệp nhà nước | …chỉ phạt người ứng chiêu rồi lại đổi ý, xem … |
@@ -1340,6 +1341,8 @@ Tổng cộng 1266 trích dẫn.
 | mục 10 | phần 23, mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ng chỉ "hàng nhái" không được công nhận xem … |
 | mục 10 | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … giá" là hai chuyện khác nhau, việc sau xem … |
 | mục 11 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …óng bù thế nào, số năm tích lũy ra sao, xem … |
+| mục 11 | phần 19, mục 19 | **Trỏ tới mục không tồn tại** | … hiểm y tế chuyển sang nơi mới thế nào, xem … |
+| mục 11 | phần 5, mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | …o, phải lĩnh bao nhiêu năm mới hòa vốn, xem … |
 | mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iệc làm linh hoạt cũng dẫn văn bản này, xem … |
 | mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …ch tham gia bảo hiểm việc làm linh hoạt xem … |
 | mục 14 | phần 21, mục 5 | "Tuyển dụng nước ngoài lương cao" nhất loạt coi là lừa đảo, bị lừa đi làm điện lừa về còn bị hạn chế xuất cảnh | … ở nước ngoài và khu lừa đảo viễn thông xem … |

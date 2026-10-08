@@ -14,7 +14,7 @@ Không cần làm hết: đây là đơn chọn lựa đã sắp theo hiệu qu�
 [![Tra cứu trực tuyến](https://img.shields.io/badge/tra-cuu-truc-tuyen-bam-day-mo-3451b2?style=flat-square)](https://chuanman2707.github.io/HowToLiveBetter/)
 [![Mục](https://img.shields.io/badge/muc-663%20muc-18794e?style=flat-square)](#mục-lục)
 [![Phân hạng chứng cứ](https://img.shields.io/badge/muc-chung-cu-A%20431%20%C2%B7%20B%20179%20%C2%B7%20C%2053-915930?style=flat-square)](#phân-hạng-chứng-cứ)
-[![Nguồn sơ cấp](https://img.shields.io/badge/nguon-so-cap-1645%20link%20nguon-565a5f?style=flat-square)](docs/ghi-chep-kiem-chung/)
+[![Nguồn sơ cấp](https://img.shields.io/badge/nguon-so-cap-1646%20link%20nguon-565a5f?style=flat-square)](docs/ghi-chep-kiem-chung/)
 [![Giấy phép](https://img.shields.io/badge/giay-phep-CC%20BY%204.0-565a5f?style=flat-square)](#giấy-phép)
 
 ### [Mở trang tra cứu trực tuyến](https://chuanman2707.github.io/HowToLiveBetter/) · [Cho AI trả lời theo sách (skill)](skills/life-decision-guide/README.md)
