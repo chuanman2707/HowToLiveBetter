@@ -85,9 +85,9 @@ Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở ch�
 - Nguồn: Holt-Lunstad J, Smith TB, Baker M, Harris T, Stephenson D (2015). Loneliness and social isolation as risk factors for mortality: a meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237. <https://doi.org/10.1177/1745691614568352>
 - Ghi chú: Tranh cãi. Các số này đều là tương quan rút ra từ quan sát nhóm người, không phải thử nghiệm chia nhóm có đối chứng, nên không tách được đâu là nhân, đâu là quả. Người vốn đã yếu sức thì dễ sống một mình và ít giao tiếp hơn. Các tác giả coi quan hệ xã hội là yếu tố sức khỏe cùng tầm với hút thuốc và béo phì, nhưng chưa có thử nghiệm ngẫu nhiên nào chứng minh "tăng giao tiếp có thể giảm tử vong". Mục này không mâu thuẫn với "giảm bớt những quan hệ hao mòn bạn" ở phần 3, mục 16: mục đó cắt những quan hệ làm bạn hao mòn, còn mục này giữ lại mấy mối quan hệ giúp bạn hồi lại tinh lực
 
-### 10. Nhà ở gần chỗ xanh thì dùng nó nhiều, đi bộ, đi dạo, ngồi đều tính
+### 10. Chọn chỗ ở thì tính cả mảng xanh xung quanh vào, nhưng đừng trông vào chuyện "đi công viên nhiều" để sống lâu
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=nho quy-mo=tu-vong -->
-- Chi phí: Không tốn tiền, tiện đường thì làm luôn.
+- Chi phí: Không tốn tiền. Lúc xem nhà, bạn tiện tay nhìn qua mảng xanh xung quanh.
 - Nói dễ hiểu: Trong vòng 500 m quanh nhà càng nhiều cây thì nguy cơ tử vong càng thấp, chỉ số thực vật tăng 0,1 thì thấp hơn khoảng 4%. Số này đo cây quanh nhà, không đo số lần bạn đi công viên. Vậy đừng hiểu là đi công viên sẽ sống lâu; chọn chỗ ở thì tính cả mảng xanh vào.
 - Lợi ích: Đây là kết quả gộp 9 nghiên cứu theo dõi nhóm người nhiều năm (phân tích gộp nghiên cứu đoàn hệ), trải trên 7 quốc gia, 8,32 triệu người. Các nghiên cứu xét mức cây xanh trong phạm vi 500 m quanh chỗ ở, đo bằng chỉ số thực vật chuẩn hóa (NDVI, một con số quy đổi từ độ xanh của mặt đất). Mức xanh cứ tăng 0,1 chỉ số thì tỷ số nguy cơ gộp của tổng tử vong là 0,96 (95% CI 0,94–0,97). Quy ra, khả năng tử vong trong cùng thời gian thấp hơn khoảng 4%, giá trị thật đại khái nằm trong đoạn thấp hơn 3% tới thấp hơn 6%. Trong 9 nghiên cứu, 7 nghiên cứu thấy càng xanh thì tử vong càng thấp, và chênh lệch không giống do tình cờ. Còn 2 nghiên cứu kia không thấy liên quan
 - Mức chứng cứ: A
