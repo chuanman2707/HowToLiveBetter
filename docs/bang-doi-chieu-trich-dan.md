@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1232 trích dẫn.
+Tổng cộng 1260 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -605,7 +605,7 @@ Tổng cộng 1232 trích dẫn.
 | Mở đầu phần | mục 30 | Nuôi chó phải dắt dây: không dây mà có chuyện là trách nhiệm không lỗi (có lỗi hay không đều phải đền), đền tới cùng | …hạm vô lăng (mục 7), nuôi chó phải dắt dây (… |
 | Mở đầu phần | mục 46 | Lắp khóa tốt cho cửa ra vào và cửa sổ, lắp một đèn cảm ứng ngoài cửa, ra khỏi nhà thì khóa cửa thật sự: chống trộm đột nhập nhờ mấy thứ này, chỉ lắp mỗi một chuông báo trộm thì không thấy có tác dụng | …30), lắp khóa tốt cho cửa ra vào và cửa sổ (… |
 | mục 3 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … cách chặn chi xem … |
-| mục 3 | phần 12, mục 24 | **Trỏ tới mục không tồn tại** | …thuê người vận hành hộ cửa hàng online, xem … |
+| mục 3 | phần 12, mục 24 | Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra | …thuê người vận hành hộ cửa hàng online, xem … |
 | mục 3 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …bắt bạn chuyển tiền, mà để bạn gánh nợ, xem … |
 | mục 4 | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | …để mặt và giọng mình không bị thu thập, xem … |
 | mục 4 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Đã lỡ chuyển tiền thì xem … |
@@ -827,9 +827,34 @@ Tổng cộng 1232 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … chỉ lấy số tiền lỗ được mà khởi nghiệp (… |
+| Mở đầu phần | mục 2 | Không ký bảo lãnh cá nhân cho khoản vay của công ty, vợ chồng càng không nên ký theo | …bảo lãnh cá nhân cho khoản vay của công ty (… |
+| Mở đầu phần | mục 3 | Trước khi khai trương chọn đúng chủ thể: hộ cá thể và thành viên hợp danh phải trả đến cùng, công ty TNHH mới "hữu hạn" | … trước khi khai trương chọn đúng chủ thể (… |
+| Mở đầu phần | mục 4 | Không làm cổ đông đứng tên hộ, không giữ hộ cổ phần cho người khác | … Không làm cổ đông đứng tên hộ (… |
+| Mở đầu phần | mục 5 | Trước khi nhận nhượng quyền, tra hồ sơ lưu trữ của Bộ Thương mại, lấy tài liệu công bố bằng giấy, ghi "thời gian suy nghĩ lại" vào hợp đồng | …quyền, tra hồ sơ lưu trữ của Bộ Thương mại (… |
+| Mở đầu phần | mục 24 | Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra | …đóng thêm tiền không và doanh số từ đâu ra (… |
+| Mở đầu phần | mục 6 | Trước khi đăng ký chốt tên gọi, địa điểm kinh doanh, ngành nghề và vốn điều lệ: đủ giấy tờ lĩnh giấy phép ngay tại chỗ | …điểm kinh doanh, ngành nghề và vốn điều lệ (… |
+| Mở đầu phần | mục 7 | Nghề cần giấy phép thì giấy chưa cấp không khai trương | …y phép thì giấy chưa cấp không khai trương (… |
+| Mở đầu phần | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | …c phẩm trước hết xem mình rơi vào nhóm nào (… |
+| Mở đầu phần | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | …g thành phần thiếu một thứ cũng không được (… |
+| Mở đầu phần | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | …ẩm thường không được nói là chữa được bệnh (… |
+| Mở đầu phần | mục 11 | Nghề thực phẩm có vạch hình sự: bán thịt chết bệnh, hàng vượt chuẩn đã đủ tội; trộn chất độc hại thì không nhìn số tiền, khung khởi đầu đã là dưới 5 năm tù | … thịt chết bệnh, hàng vượt chuẩn đã đủ tội (… |
+| Mở đầu phần | mục 12 | Lĩnh giấy phép là bắt đầu có nghĩa vụ khai thuế, không có thu nhập cũng phải đúng kỳ khai một tờ toàn số không | …ũng phải đúng kỳ khai một tờ toàn số không (… |
+| Mở đầu phần | mục 13 | Hóa đơn chỉ xuất theo giao dịch thật, người nộp thuế quy mô nhỏ dùng hết mức miễn thuế | … Hóa đơn chỉ xuất theo giao dịch thật (… |
+| Mở đầu phần | mục 14 | Ai tự xưng cục thuế giục bạn nộp tiền, khai thuế đều là lừa đảo; việc thuế chỉ đi qua cổng thuế điện tử và 12366 | …iục bạn nộp tiền, khai thuế đều là lừa đảo (… |
+| Mở đầu phần | mục 15 | Thu tiền viết "định kim" chứ không viết "đính kim", tiền phạt vi phạm ghi rõ số, cho trả chậm thì thẩm như cho vay | … viết "định kim" chứ không viết "đính kim" (… |
+| Mở đầu phần | mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | …iấy, trong 30 ngày đăng ký bảo hiểm xã hội (… |
+| Mở đầu phần | mục 17 | Lương trả theo hợp đồng và luật; tăng lương, cho vay, thưởng đều đi qua giấy | … Lương trả theo hợp đồng và luật (… |
+| Mở đầu phần | mục 22 | Ở vị trí của mình làm theo quy trình; thiện ý ngoài quy trình trước hết nghĩ trách nhiệm về ai | … ở vị trí của mình làm theo quy trình (… |
+| Mở đầu phần | mục 18 | Bán trước làm sau: dùng đặt trước và đơn nhỏ kiểm xem có người mua không rồi mới bỏ tiền sản xuất | …ó người mua không rồi mới bỏ tiền sản xuất (… |
+| Mở đầu phần | mục 19 | Mẫu làm xong trước hết qua một vòng danh mục sản xuất hàng loạt rồi mới bàn mở xưởng | …ục sản xuất hàng loạt rồi mới bàn mở xưởng (… |
+| Mở đầu phần | mục 20 | Nhập mẻ nào giữ chứng từ và thông tin nhà cung cấp của mẻ đó, giá nhập thấp hơn hẳn giá thị trường thì không nhập: hàng giả do nhân viên nhập, người bị phán là chủ | …ứng từ và thông tin nhà cung cấp của mẻ đó (… |
+| Mở đầu phần | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | …h quảng bá hoặc tự làm hoặc mua quyền dùng (… |
+| Mở đầu phần | mục 23 | Lỗ thì rút lui theo đúng thủ tục: xóa đăng ký đơn giản được thì xóa, nợ nhiều hơn tài sản thì đi đường phá sản, đừng bỏ mặc | … lỗ thì rút lui theo đúng thủ tục (… |
 | mục 2 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …hung của giấy vay và giấy bảo lãnh, bạn xem … |
 | mục 2 | mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … tiền bảo lãnh nằm trong con số "lỗ được" ở … |
 | mục 4 | phần 8, mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | … người đại diện pháp luật treo tên, bạn xem … |
+| mục 5 | mục 24 | Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra | …h hộ" hay "đào tạo mở cửa hàng" thì bạn xem … |
 | mục 6 | mục 3 | Trước khi khai trương chọn đúng chủ thể: hộ cá thể và thành viên hợp danh phải trả đến cùng, công ty TNHH mới "hữu hạn" | …ệm của bạn, và trong 5 năm phải nộp đủ, xem … |
 | mục 6 | mục 7 | Nghề cần giấy phép thì giấy chưa cấp không khai trương | …ấy chưa cấp bạn không được khai trương, xem … |
 | mục 7 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | …án thịt rau tươi có cần giấy không, bạn xem … |
@@ -848,7 +873,10 @@ Tổng cộng 1232 trích dẫn.
 | mục 19 | mục 20 | Nhập mẻ nào giữ chứng từ và thông tin nhà cung cấp của mẻ đó, giá nhập thấp hơn hẳn giá thị trường thì không nhập: hàng giả do nhân viên nhập, người bị phán là chủ | …g nhãn hiệu và hình của người khác, bạn xem … |
 | mục 19 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | …g nhãn hiệu và hình của người khác, bạn xem … |
 | mục 20 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | … Dùng hình của người khác, bạn xem … |
+| mục 21 | phần 9, mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …, thu phí hội viên thì vạch hình sự bạn xem … |
 | mục 21 | mục 19 | Mẫu làm xong trước hết qua một vòng danh mục sản xuất hàng loạt rồi mới bàn mở xưởng | …hãn hiệu trước khi đổ vào sản xuất, bạn xem … |
+| mục 24 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … chống lừa đảo TQ) để yêu cầu chặn chi, xem … |
+| mục 24 | mục 5 | Trước khi nhận nhượng quyền, tra hồ sơ lưu trữ của Bộ Thương mại, lấy tài liệu công bố bằng giấy, ghi "thời gian suy nghĩ lại" vào hợp đồng | …a nhượng quyền để thu tiền thì bạn làm theo … |
 
 ## 13-tinh-huong-khan-cap
 
