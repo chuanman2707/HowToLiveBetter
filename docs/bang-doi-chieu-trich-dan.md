@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1050 trích dẫn.
+Tổng cộng 1051 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1007,6 +1007,7 @@ Tổng cộng 1050 trích dẫn.
 | Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | …inh con, nghỉ thai sản và tiền nuôi con xem … |
 | Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Con sinh ra chăm thế nào xem … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bệnh cấp xem … |
+| mục 1 | phần 20, mục 14 | **Trỏ tới mục không tồn tại** | … toàn còn phải bổ vitamin B12 mỗi ngày, xem … |
 | mục 3 | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | …gan B và globulin miễn dịch viêm gan B (xem … |
 | mục 3 | phần 1 | 01-dung-chet-som (cả phần) | … Phòng và xét nghiệm thường ngày xem … |
 | mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …u phơi nhiễm khi có hành vi nguy cơ cao xem … |
