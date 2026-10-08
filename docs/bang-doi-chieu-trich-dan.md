@@ -31,13 +31,59 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 928 trích dẫn.
+Tổng cộng 985 trích dẫn.
 
 ## 01-dung-chet-som
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Thắt dây an toàn, cả ghế trước lẫn ghế sau | … thắt dây an toàn (… |
+| Mở đầu phần | mục 2 | Đi xe máy, xe đạp điện phải đội mũ bảo hiểm và cài quai chặt | … đội mũ bảo hiểm và cài quai chặt (… |
+| Mở đầu phần | mục 9 | Lái xe không vượt tốc độ, không lái xe khi đã uống rượu | …vượt tốc độ, không lái xe khi đã uống rượu (… |
+| Mở đầu phần | mục 10 | Cho trẻ dưới 4 tuổi ngồi ghế an toàn, đừng bế trên tay | … cho trẻ dưới 4 tuổi ngồi ghế an toàn (… |
+| Mở đầu phần | mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … lắp máy báo khói (… |
+| Mở đầu phần | mục 4 | Ống mềm dẫn gas và bếp gas hết hạn thì thay, không tự sửa đường ống, người công ty gas đến nhà chào hàng có thể từ chối thẳng | …ng mềm dẫn gas và bếp gas hết hạn thì thay (… |
+| Mở đầu phần | mục 6 | Không đẩy xe đạp điện vào hành lang chung, không cho vào thang máy, không sạc trong nhà | … không đẩy xe đạp điện vào hành lang chung (… |
+| Mở đầu phần | mục 26 | Chuẩn bị đủ bình chữa cháy, chăn chữa cháy, mặt nạ thoát hiểm và túi sơ cứu, mỗi năm kiểm tra một lần | …chữa cháy, mặt nạ thoát hiểm và túi sơ cứu (… |
+| Mở đầu phần | mục 42 | Lắp tấm chắn bảo vệ, đeo kính bảo hộ cùng tấm che mặt rồi mới dùng máy mài góc, hai tay giữ chắc, đừng lắp lưỡi cưa gỗ để cắt gỗ | … cùng tấm che mặt rồi mới dùng máy mài góc (… |
+| Mở đầu phần | mục 11 | Nhà có trẻ nhỏ thì lắp chốt giới hạn cho cửa sổ và ban công, cửa lưới không tính là chắn | … lắp chốt giới hạn cho cửa sổ và ban công (… |
+| Mở đầu phần | mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | … trẻ em gần nước thì không rời mắt (… |
+| Mở đầu phần | mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …ên 60 tuổi tập thăng bằng và sức mạnh chân (… |
+| Mở đầu phần | mục 5 | Không hái, không mua, không ăn nấm rừng, mọi "mẹo dân gian phân biệt" đều không đúng | … Không hái, không mua, không ăn nấm rừng (… |
+| Mở đầu phần | mục 36 | Không nhặt, không tháo, không bán mảnh kim loại không rõ nguồn, thấy biển cảnh báo hình cỏ ba lá (ký hiệu phóng xạ) thì tránh xa | …áo, không bán mảnh kim loại không rõ nguồn (… |
+| Mở đầu phần | mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | …ặt băng ngoài trời, hãy khoan lỗ đo độ dày (… |
+| Mở đầu phần | mục 14 | Xét nghiệm năm chỉ số viêm gan B, không có kháng thể thì đi tiêm vaccine | … xét nghiệm năm chỉ số viêm gan B (… |
+| Mở đầu phần | mục 15 | Bị đinh, gai gỗ đâm hoặc vết thương dính đất thì đi xử lý trong ngày, tiện hỏi uốn ván có cần tiêm không | …ết thương dính đất thì đi xử lý trong ngày (… |
+| Mở đầu phần | mục 16 | Phụ nữ tiêm vaccine HPV, càng sớm càng tốt | … Phụ nữ tiêm vaccine HPV (… |
+| Mở đầu phần | mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … tiêm vaccine cúm mỗi năm (… |
+| Mở đầu phần | mục 21 | Sau 50 tuổi tiêm vaccine zona thần kinh (giời leo) | … tiêm vaccine zona thần kinh (… |
+| Mở đầu phần | mục 22 | Trên 65 tuổi tiêm vaccine phế cầu | … tiêm vaccine phế cầu (… |
+| Mở đầu phần | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | …yết áp, cao thì uống thuốc hạ về mức chuẩn (… |
+| Mở đầu phần | mục 8 | Sau 35 tuổi chỉ cần thừa cân thì đi xét nghiệm đường huyết lúc đói một lần, bình thường cũng cứ ba năm xét lại | … đi xét nghiệm đường huyết lúc đói một lần (… |
+| Mở đầu phần | mục 17 | Phụ nữ từ 40 tuổi tầm soát ung thư vú, cứ hai năm chụp nhũ ảnh một lần | … tầm soát ung thư vú (… |
+| Mở đầu phần | mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | … tầm soát ung thư cổ tử cung (… |
+| Mở đầu phần | mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | … Tầm soát ung thư đại trực tràng (… |
+| Mở đầu phần | mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | … xét nghiệm vi khuẩn Helicobacter pylori (… |
+| Mở đầu phần | mục 24 | Người hút thuốc nặng mỗi năm chụp CT lồng ngực liều thấp một lần | … chụp CT lồng ngực liều thấp (… |
+| Mở đầu phần | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … Đo mật độ xương bằng máy DXA (… |
+| Mở đầu phần | mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | … nhờ bác sĩ kê thuốc chống loãng xương (… |
+| Mở đầu phần | mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …nước tiểu có máu nhìn thấy bằng mắt thường (… |
+| Mở đầu phần | mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …ương có vấn đề, trước hết đi khám tim mạch (… |
+| Mở đầu phần | mục 29 | Giảm cân, bỏ thuốc, giữ huyết áp và đường huyết ổn định, chức năng cương dương khá lên theo | …thuốc, giữ huyết áp và đường huyết ổn định (… |
+| Mở đầu phần | mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …hệ tình dục dùng bao cao su suốt quá trình (… |
+| Mở đầu phần | mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | … đi xét nghiệm HIV một lần (… |
+| Mở đầu phần | mục 38 | Nam quan hệ đồng giới có hành vi tình dục nguy cơ cao, đến bệnh viện được chỉ định chữa AIDS hỏi thuốc dự phòng trước phơi nhiễm, uống đúng giờ giảm được trên bảy phần mười nguy cơ nhiễm | … hỏi thuốc dự phòng trước phơi nhiễm (… |
+| Mở đầu phần | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … không tích trữ thuốc ngủ và thuốc trừ sâu (… |
+| Mở đầu phần | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …nảy ra thì nói ngay cho một người bên cạnh (… |
+| Mở đầu phần | mục 37 | Khi đánh bạc đến mức vay tiền đánh tiếp, tâm trạng tụt dốc kéo dài, hãy gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà giữ | … khi đánh bạc đến mức vay tiền đánh tiếp (… |
+| Mở đầu phần | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Đừng lấy "cứu được rồi" làm điểm tựa (… |
+| Mở đầu phần | mục 34 | Đừng đánh cược "nằm vài ngày là khỏi" vào ngã từ trên cao: người vào ICU chấn thương phần lớn sống sót, cái giá tính bằng năm | …"nằm vài ngày là khỏi" vào ngã từ trên cao (… |
+| Mở đầu phần | mục 35 | Đừng lấy "thiếu một quả thận không sao" đổi tiền: quả còn lại phải làm việc thay hai quả, người bán thận sau đó 86% nói sức khỏe xấu đi | …ấy "thiếu một quả thận không sao" đổi tiền (… |
+| Mở đầu phần | mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …hông ổn "bạn có từng nghĩ đến tự tử không" (… |
 | mục 4 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Ngộ độc khí CO là chuyện khác, xem … |
+| mục 12 | mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | … Mùa đông ra chơi trên mặt băng thì xem … |
+| mục 13 | phần 17, mục 9 | **Trỏ tới mục không tồn tại** | …hể đã ảnh hưởng đến việc nhìn đường thì xem … |
+| mục 13 | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | …ng có chịu nổi một cú ngã hay không thì xem … |
 | mục 16 | mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | … Chi tiết xem … |
 | mục 25 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …t cục dài hạn sau khi tự tử chưa thành, xem … |
 | mục 25 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | …ười được cứu về sẽ phải mang gì sau đó, xem … |
@@ -57,6 +103,7 @@ Tổng cộng 928 trích dẫn.
 | mục 32 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … cạnh để lộ ý nghĩ này bạn làm được gì, xem … |
 | mục 32 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … tiện gây chết ra xa và đường dây 12356 xem … |
 | mục 32 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Di chứng sau khi được cứu xem … |
+| mục 32 | mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …có ý nghĩ này, bạn có thể hỏi thẳng họ, xem … |
 | mục 33 | phần 13, mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Xử trí hiện trường khi ngộ độc khí CO xem … |
 | mục 33 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … gây nôn trước, mang theo chai đi khám, xem … |
 | mục 33 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ông tích trữ thuốc trừ sâu và thuốc ngủ xem … |
@@ -72,6 +119,16 @@ Tổng cộng 928 trích dẫn.
 | mục 37 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ tự tử nảy ra sau đó làm sao, xem … |
 | mục 38 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | … Đã xảy ra hành vi nguy cơ thì cách cứu xem … |
 | mục 38 | mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …khác, nên bạn vẫn phải dùng bao cao su, xem … |
+| mục 39 | mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …cú ngã hay không, còn ngã ít đi thì dựa vào … |
+| mục 39 | mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | … Sau khi đo ra loãng xương thì làm gì, xem … |
+| mục 40 | phần 2, mục 43 | Quanh tuổi mãn kinh mà bốc hỏa, đổ mồ hôi trộm làm ảnh hưởng sinh hoạt thì đi khám phụ khoa để đánh giá liệu pháp hormone, đừng gắng chịu, đừng tự mua thuốc, càng đừng dùng nó để phòng bệnh tim | …rmone để chữa bốc hỏa và đổ mồ hôi đêm, xem … |
+| mục 40 | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … Cách tìm ra loãng xương thì xem … |
+| mục 41 | phần 13, mục 25 | Thấy người đuối nước: trước kêu người và gọi 110/120, đưa sào, ném đồ nổi — mình không xuống nước | … Cách làm xem … |
+| mục 42 | phần 19, mục 10 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | … về khẩu trang và nút bịt tai, xem … |
+| mục 42 | phần 13, mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … máu lớn, bạn ấn chặt vết thương trước, xem … |
+| mục 43 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … có thể báo 110 (tổng đài cảnh sát TQ), xem … |
+| mục 43 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … thuốc men lẫn thuốc trừ sâu cất ra xa, xem … |
+| mục 43 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …ến lúc ra tay thường chỉ vài chục phút, xem … |
 
 ## 02-dung-chet-tu-tu
 
@@ -151,8 +208,8 @@ Tổng cộng 928 trích dẫn.
 | mục 39 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … càng sớm càng tốt), huyết áp và mỡ máu xem … |
 | mục 39 | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉ định), còn sau ca đêm ngủ bù thế nào xem … |
 | mục 42 | mục 29 | Nấu ăn, sưởi ấm không đốt than và củi, đổi sang điện hoặc gas | …ề chuyện nấu ăn không đốt than củi, bạn xem … |
-| mục 43 | phần 1, mục 39 | **Trỏ tới mục không tồn tại** | … Về loãng xương, bạn xem … |
-| mục 43 | phần 1, mục 40 | **Trỏ tới mục không tồn tại** | …bạn xem phần 1, mục 39 (đo mật độ xương) và … |
+| mục 43 | phần 1, mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … Về loãng xương, bạn xem … |
+| mục 43 | phần 1, mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | …bạn xem phần 1, mục 39 (đo mật độ xương) và … |
 
 ## 03-dung-lang-phi-suc-luc
 
