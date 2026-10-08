@@ -12,7 +12,7 @@ Năm việc đã viết ở chỗ khác, ở đây chỉ dẫn đường tới c
 
 Người hưởng lợi của đa số mục trong phần này là chính bạn và người nhà, thuộc hai bậc cao nhất. Chỗ nào dính tới người khác thì viết riêng trong ghi chú.
 
-Các mục của phần này chia theo chủ đề thành mấy khối dưới đây, số trong ngoặc là số mục.
+Các mục trong phần này chia theo chủ đề thành mấy khối dưới đây, số trong ngoặc là số mục.
 
 **Thân thể và phục hồi**: sau tổn thương tủy sống đột nhiên đau đầu dữ dội, ra mồ hôi, trước hết dìu ngồi thẳng, nới quần áo, đồng thời gọi cấp cứu (mục 1). Người ngồi xe lăn dài hạn, đệm ngồi đổi loại giảm áp (mục 5); đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" (mục 6). Phục hồi làm tại cơ cấu chính quy có khoa y học phục hồi (mục 16); thính lực xuống thì đi phối máy trợ thính (mục 17).
 

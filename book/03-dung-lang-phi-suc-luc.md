@@ -4,7 +4,7 @@
 
 Phần này chỉ tính sổ sức lực và thời gian. Bạn nhìn vào bốn thứ: lượng chú ý bạn dùng được mỗi ngày, phản ứng nhanh hay chậm, lỗi nhiều hay ít, và sau khi bị ngắt thì mất bao lâu mới quay lại được. Mọi con số đều đo trực tiếp, đến từ thí nghiệm, hoặc từ ghi chép theo dõi một nhóm người (nghiên cứu đoàn hệ). Các số này không quy ra tuổi thọ, cũng không quy ra tử vong. Đa số mục của phần này có mức chứng cứ B. Lĩnh vực này vốn vậy, không có nghĩa lời khuyên này không đúng. Riêng mục 19 nói về kỳ vọng bạn nên có khi làm việc với cảnh sát, bác sĩ, nhân viên quầy. Mục đó trích quy định chứ không phải thí nghiệm, nên ghi mức C. Trong đó mục 15 (coi ý nghĩ bi quan như triệu chứng) và mục 22 (coi "người khác đòi tôi phải hoàn hảo" như triệu chứng) trích số liệu tử vong và nguy cơ tự sát. Quy mô của hai mục đó khác các mục còn lại của phần, nên không đem so chung.
 
-Các mục trong phần này chia thành mấy nhóm theo chủ đề dưới đây, số trong ngoặc là số mục.
+Các mục trong phần này chia theo chủ đề thành mấy khối dưới đây, số trong ngoặc là số mục.
 
 **Chú ý khi làm việc**: tắt thông báo không cần thiết (mục 1), đổi email và tin nhắn sang xử lý theo đợt (mục 5), chặn cả những ngắt vài giây bên ngoài (mục 6). Mỗi lúc chỉ làm một việc (mục 7), ở văn phòng mở thì dùng nút tai (mục 12), đừng chỉ biết tăng giờ làm việc mỗi tuần (mục 13).
 

@@ -4,7 +4,7 @@
 
 Phần này chỉ tính tiền và trách nhiệm pháp lý, không quy ra tuổi thọ. Bạn mở một cửa hàng hay lập một công ty, bước nào sẽ kéo tiền của bạn, tiền nhà và tiền của vợ hoặc chồng chìm theo? Luật quy định thế nào, và bạn có ngăn trước được không? Mục nào dễ làm mất sạch gia sản nhất, mà lại tránh được với ít công nhất, thì đứng ở trước. Vì vậy các mục liên quan tới việc ký giấy xếp trước, còn cách nào bạn phải tự tay làm thì xếp sau. Mục nào chỉ viết theo kinh nghiệm, không có tài liệu chống lưng, thì ghi mức C. Toàn bộ phần này nói về pháp luật và chế độ của Trung Quốc; người ở Việt Nam chỉ nên đọc tham khảo, các số và điều kiện chi tiết không áp dụng.
 
-Các mục của phần này chia thành mấy nhóm theo chủ đề dưới đây, số trong ngoặc là số mục.
+Các mục trong phần này chia theo chủ đề thành mấy khối dưới đây, số trong ngoặc là số mục.
 
 **Trước khi khai trương, đừng đem gia sản đặt cược**: chỉ lấy số tiền lỗ được mà khởi nghiệp (mục 1); không ký bảo lãnh cá nhân cho khoản vay của công ty (mục 2); trước khi khai trương chọn đúng chủ thể (mục 3). Không làm cổ đông đứng tên hộ (mục 4); trước khi nhận nhượng quyền, tra hồ sơ lưu trữ của Bộ Thương mại (mục 5). Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra (mục 24).
 

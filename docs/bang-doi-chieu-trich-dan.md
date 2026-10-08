@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1512 trích dẫn.
+Tổng cộng 1516 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -138,10 +138,10 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 2 | Đừng hút thuốc trong nhà và trong xe, cũng đừng để khách hút trong nhà | …c 1), đừng hút thuốc trong nhà và trong xe (… |
 | Mở đầu phần | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | …i thuốc đừng chỉ nhịn, trước hết lấy thuốc (… |
 | Mở đầu phần | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … lấy thuốc (mục 3), đặt một ngày cai thuốc (… |
-| Mở đầu phần | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …4), đi phòng khám cai thuốc hoặc gọi 12320 (… |
+| Mở đầu phần | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | … Đi phòng khám cai thuốc hoặc gọi 12320 (… |
 | Mở đầu phần | mục 6 | Cai không được rồi mới cân nhắc thuốc lá điện tử, người vốn không hút thuốc đừng động vào | …ông được rồi mới cân nhắc thuốc lá điện tử (… |
 | Mở đầu phần | mục 8 | Không nhai trầu cau | …ốc lá điện tử (mục 6), không nhai trầu cau (… |
-| Mở đầu phần | mục 19 | Uống ít rượu hoặc không uống | … cau (mục 8), uống ít rượu hoặc không uống (… |
+| Mở đầu phần | mục 19 | Uống ít rượu hoặc không uống | … Uống ít rượu hoặc không uống (… |
 | Mở đầu phần | mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …ại là run tay hồi hộp thì đừng tự mình cai (… |
 | Mở đầu phần | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … (mục 20), đếm xem một tuần uống bao nhiêu (… |
 | Mở đầu phần | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … không uống nước ngọt có đường (… |
@@ -154,14 +154,14 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 24 | Đổi một phần gạo trắng bột trắng sang ngũ cốc nguyên hạt | …ạo trắng bột trắng sang ngũ cốc nguyên hạt (… |
 | Mở đầu phần | mục 25 | Mỗi tuần uống trà ba lần trở lên | …(mục 24), mỗi tuần uống trà ba lần trở lên (… |
 | Mở đầu phần | mục 26 | Mỗi ngày uống ba đến bốn tách cà phê, không đường không kem phủ | … 25), mỗi ngày uống ba đến bốn tách cà phê (… |
-| Mở đầu phần | mục 27 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …(mục 26), mỗi ngày ăn đủ 5 phần rau củ quả (… |
+| Mở đầu phần | mục 27 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | … Mỗi ngày ăn đủ 5 phần rau củ quả (… |
 | Mở đầu phần | mục 33 | Mỗi tuần ăn ớt hơn bốn lần | …ủ quả (mục 27), mỗi tuần ăn ớt hơn bốn lần (… |
 | Mở đầu phần | mục 34 | Mỗi ngày uống một đến hai phần sữa hoặc sữa chua | …ày uống một đến hai phần sữa hoặc sữa chua (… |
 | Mở đầu phần | mục 35 | Không cần kiêng trứng, nhưng đừng mỗi ngày ba bốn quả | …c sữa chua (mục 34), không cần kiêng trứng (… |
 | Mở đầu phần | mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | …000 bước (… |
 | Mở đầu phần | mục 14 | Thường xuyên chơi các môn dùng vợt như quần vợt, cầu lông, bóng bàn | …ục 11), thường xuyên chơi các môn dùng vợt (… |
 | Mở đầu phần | mục 15 | Gom các hoạt động gắng sức rời rạc kiểu leo cầu thang, đi bộ nhanh cho đủ bốn năm phút mỗi ngày | …ục 14), gom các hoạt động gắng sức rời rạc (… |
-| Mở đầu phần | mục 16 | Mỗi tuần tập sức mạnh 30–60 phút | …ức rời rạc (mục 15), mỗi tuần tập sức mạnh (… |
+| Mở đầu phần | mục 16 | Mỗi tuần tập sức mạnh 30–60 phút | … Mỗi tuần tập sức mạnh (… |
 | Mở đầu phần | mục 17 | Đừng ngồi liền quá lâu, thỉnh thoảng đứng dậy cử động | … sức mạnh (mục 16), đừng ngồi liền quá lâu (… |
 | Mở đầu phần | mục 32 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …á lâu (mục 17), giữ BMI trong khoảng 20–25 (… |
 | Mở đầu phần | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … mỗi đêm ngủ khoảng 7 giờ (… |
@@ -175,7 +175,7 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 10 | Đánh răng kỹ, mỗi ngày làm sạch kẽ răng một lần, mất răng thì trồng lại kịp thời | …răng kỹ, mỗi ngày làm sạch kẽ răng một lần (… |
 | Mở đầu phần | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | …n (mục 10), uống thuốc đều theo lời bác sĩ (… |
 | Mở đầu phần | mục 31 | Ban ngày ra ngoài phơi nắng chút, đừng cả ngày không thấy ánh sáng | …(mục 12), ban ngày ra ngoài phơi nắng chút (… |
-| Mở đầu phần | mục 36 | Có điều kiện thì ngâm bồn tắm, đừng chỉ tắm vòi sen | …út (mục 31), có điều kiện thì ngâm bồn tắm (… |
+| Mở đầu phần | mục 36 | Có điều kiện thì ngâm bồn tắm, đừng chỉ tắm vòi sen | … Có điều kiện thì ngâm bồn tắm (… |
 | Mở đầu phần | mục 43 | Quanh tuổi mãn kinh mà bốc hỏa, đổ mồ hôi trộm làm ảnh hưởng sinh hoạt thì đi khám phụ khoa để đánh giá liệu pháp hormone, đừng gắng chịu, đừng tự mua thuốc, càng đừng dùng nó để phòng bệnh tim | …hám phụ khoa để đánh giá liệu pháp hormone (… |
 | mục 1 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … … |
 | mục 1 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … mục 3 (lấy thuốc cai thuốc), … |
@@ -300,7 +300,7 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 4 | Mỗi năm tính lại một lần gói điện thoại và băng rộng, phần không dùng thì hạ gói, nhà mạng không cho chuyển thì khiếu nại | …nh lại một lần gói điện thoại và băng rộng (… |
 | Mở đầu phần | mục 11 | Từ chối bảo hành kéo dài (gia hạn bảo hành) của đồ điện tử | … từ chối bảo hành kéo dài (… |
 | Mở đầu phần | mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … chọn thuốc trúng chọn đấu mua tập thể (… |
-| Mở đầu phần | mục 14 | Uống nước máy đun sôi, không quanh năm đặt nước bình cho máy nước uống, không quanh năm mua nước đóng chai | … uống nước máy đun sôi (… |
+| Mở đầu phần | mục 14 | Uống nước máy đun sôi, không quanh năm đặt nước bình cho máy nước uống, không quanh năm mua nước đóng chai | … Uống nước máy đun sôi (… |
 | Mở đầu phần | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … phòng gym trả theo lần (… |
 | Mở đầu phần | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … đắt thì đặt thời gian suy nghĩ lại 24 giờ (… |
 | Mở đầu phần | mục 24 | Không tích trữ vì "giá gạch ngang" và đợt khuyến mãi lớn | … không tích trữ vì "giá gạch ngang" (… |
@@ -313,7 +313,7 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 35 | Hộp mù, rút thẻ loại bán ngẫu nhiên tính theo "khoản tiền này không quay về" | … hộp mù, rút thẻ loại bán ngẫu nhiên (… |
 | Mở đầu phần | mục 22 | Trả tiền trước phải ký hợp đồng giấy; nhà bán gặp rủi ro lớn phải ngừng thu, trước khi bỏ chạy bạn có quyền đòi lại số dư chưa tiêu | … trả tiền trước phải ký hợp đồng giấy (… |
 | Mở đầu phần | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | …hàng mạng tin quy tắc của sàn và điều luật (… |
-| Mở đầu phần | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … hàng mua trong livestream có vấn đề (… |
+| Mở đầu phần | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … Hàng mua trong livestream có vấn đề (… |
 | Mở đầu phần | mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | …i hoàn tiền còn đòi được mười lần giá hàng (… |
 | Mở đầu phần | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | …tra thông báo kiểm nghiệm rút mẫu quốc gia (… |
 | Mở đầu phần | mục 36 | Quan tâm thực phẩm cho thêm gì thì mua loại đóng gói sẵn: quầy hàng rời luật không bắt ghi bảng thành phần | …phẩm cho thêm gì thì mua loại đóng gói sẵn (… |
@@ -324,7 +324,7 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | … hưu trí công nhân viên theo mức thấp nhất (… |
 | Mở đầu phần | mục 6 | Thấy "lợi nhuận cao" "bảo đảm vốn" "chắc lãi" thì tránh ngay | …o" "bảo đảm vốn" "chắc lãi" thì tránh ngay (… |
 | Mở đầu phần | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | … lãi sang lãi suất quy năm rồi mới so sánh (… |
-| Mở đầu phần | mục 15 | Không mua bán cổ phiếu thường xuyên, lúc thị trường tăng giảm đột ngột càng phải ít động tay | … không mua bán cổ phiếu thường xuyên (… |
+| Mở đầu phần | mục 15 | Không mua bán cổ phiếu thường xuyên, lúc thị trường tăng giảm đột ngột càng phải ít động tay | … Không mua bán cổ phiếu thường xuyên (… |
 | Mở đầu phần | mục 16 | Không vay tiền đầu tư, không đòn bẩy, không mua thứ mình không hiểu | … không vay tiền đầu tư (… |
 | Mở đầu phần | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | …dùng quỹ chỉ số gối rộng làm khoản dài hạn (… |
 | Mở đầu phần | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … cùng loại quỹ ưu tiên chọn phí thấp (… |
@@ -340,7 +340,7 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 40 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … hiểm nhân thọ định kỳ cho người kiếm tiền (… |
 | Mở đầu phần | mục 41 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … trong thời gian cân nhắc lại hủy đi (… |
 | Mở đầu phần | mục 42 | Trước khi ký ở quầy ngân hàng, nhìn rõ trong tay mình là tiền gửi hay bảo hiểm | …rõ trong tay mình là tiền gửi hay bảo hiểm (… |
-| Mở đầu phần | mục 43 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … đừng tìm "đại lý hủy bảo hiểm" (… |
+| Mở đầu phần | mục 43 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … Đừng tìm "đại lý hủy bảo hiểm" (… |
 | Mở đầu phần | mục 44 | Trên đơn bảo hiểm ghi người thụ hưởng là người cụ thể, có biến cố nhớ đi lĩnh tiền: bảo hiểm nhân thọ 5 năm, bảo hiểm khác trong 2 năm phải đòi | … ghi người thụ hưởng là người cụ thể (… |
 | mục 7 | phần 7, mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …an thì đừng đụng đến vay nặng lãi, xem thêm … |
 | mục 8 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …5 Bộ luật dân sự đã được trích nguyên chữ ở … |
@@ -408,11 +408,11 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 1 | Đừng uống vitamin tổng hợp để sống lâu hay phòng bệnh tim mạch | … uống vitamin tổng hợp để sống lâu (… |
 | Mở đầu phần | mục 2 | Đừng uống dầu cá thường để phòng bệnh tim mạch | … uống dầu cá thường để phòng bệnh tim mạch (… |
 | Mở đầu phần | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | …), bổ sung vitamin D cho người không thiếu (… |
-| Mở đầu phần | mục 4 | Đừng uống viên chống oxy hóa để phòng ung thư (beta carotene, vitamin E, vitamin A) | … uống viên chống oxy hóa để phòng ung thư (… |
+| Mở đầu phần | mục 4 | Đừng uống viên chống oxy hóa để phòng ung thư (beta carotene, vitamin E, vitamin A) | … Uống viên chống oxy hóa để phòng ung thư (… |
 | Mở đầu phần | mục 5 | Đừng trông glucosamine (đường amin đạm) / chondroitin chữa viêm khớp gối | …hư (mục 4), chondroitin chữa viêm khớp gối (… |
 | Mở đầu phần | mục 6 | Đừng trông vitamin C phòng cảm | …viêm khớp gối (mục 5), vitamin C phòng cảm (… |
 | Mở đầu phần | mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …u nhiều tiền mua thực phẩm bảo vệ sức khỏe (… |
-| Mở đầu phần | mục 11 | Không có vấn đề đường ruột thì đừng uống men vi sinh dài hạn | … uống men vi sinh dài hạn (… |
+| Mở đầu phần | mục 11 | Không có vấn đề đường ruột thì đừng uống men vi sinh dài hạn | … Uống men vi sinh dài hạn (… |
 | Mở đầu phần | mục 13 | Đừng mua các sản phẩm giải độc, thanh lọc ruột, enzyme, nước kiềm | …ài hạn (mục 11), mua các sản phẩm giải độc (… |
 | Mở đầu phần | mục 30 | Đừng trông gãy xương rồi bổ sung thật nhiều canxi hay uống nước hầm xương là xương liền nhanh hơn | …3), gãy xương rồi bổ sung thật nhiều canxi (… |
 | Mở đầu phần | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | … PET-CT toàn thân và gói dấu ấn ung thư (… |
@@ -640,7 +640,7 @@ Tổng cộng 1512 trích dẫn.
 | mục 20 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …àm xong nghĩa vụ rồi khôi phục thế nào, xem … |
 | mục 20 | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | …sách, bị hạn chế tiêu dùng rồi làm sao, xem … |
 | mục 21 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …sách không làm hồ sơ tín dụng thay đổi, xem … |
-| mục 25 | phần 10, mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …nhà thì viết rõ là cho hay vay thế nào, xem … |
+| mục 25 | phần 10, mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …thế nào cho rõ là cho vay hay cho tặng, xem … |
 | mục 28 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … Có người mượn tên bạn để đi vay tiền, xem … |
 | mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bị cắn rồi xử lý thế nào, xem … |
 | mục 31 | phần 9, mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … bé gái được xác định thế nào, xem … |
@@ -690,19 +690,19 @@ Tổng cộng 1512 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | Mở đầu phần | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …tai họa, dịch bệnh, vụ án chưa rõ thật giả (… |
-| Mở đầu phần | mục 2 | Không đăng, không chuyển ảnh, biểu tượng cảm xúc và bình luận sỉ nhục anh hùng liệt sĩ, không đem quốc kỳ quốc ca ra đùa | … chuyển bình luận sỉ nhục anh hùng liệt sĩ (… |
+| Mở đầu phần | mục 2 | Không đăng, không chuyển ảnh, biểu tượng cảm xúc và bình luận sỉ nhục anh hùng liệt sĩ, không đem quốc kỳ quốc ca ra đùa | … xúc và bình luận sỉ nhục anh hùng liệt sĩ (… |
 | Mở đầu phần | mục 3 | Nội dung trên site nước ngoài xem xong thì đóng lại: không chụp màn hình, không chuyển tiếp, không mang vào nhóm, cũng không bình luận theo | …trên site nước ngoài xem xong thì đóng lại (… |
 | Mở đầu phần | mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … đừng phát video khiêu dâm vào nhóm (… |
 | Mở đầu phần | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | …n dùng thẻ của mình thu tiền thì không làm (… |
 | Mở đầu phần | mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | … bạn "đóng gói hồ sơ" đi vay thì không làm (… |
 | Mở đầu phần | mục 7 | Nhặt được thẻ ngân hàng không rút tiền; nhặt được điện thoại, ví thì liên hệ chủ hoặc giao công an, không bỏ túi | … nhặt được thẻ ngân hàng không rút tiền (… |
-| Mở đầu phần | mục 8 | Ưu đãi lĩnh bằng danh tính thật của mình; không mua số ảo đăng ký hàng loạt tài khoản phụ, không lợi lỗ hổng lĩnh lặp lại | … ưu đãi lĩnh bằng danh tính thật của mình (… |
+| Mở đầu phần | mục 8 | Ưu đãi lĩnh bằng danh tính thật của mình; không mua số ảo đăng ký hàng loạt tài khoản phụ, không lợi lỗ hổng lĩnh lặp lại | … Ưu đãi lĩnh bằng danh tính thật của mình (… |
 | Mở đầu phần | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | … không cho mượn căn cước (… |
 | Mở đầu phần | mục 21 | Đừng làm giả sự cố, đừng phóng đại tổn thất lừa đền bảo hiểm: đó là tội lừa đảo bảo hiểm, người giúp làm chứng, giúp sửa xe, giúp định giá đều tính chung | … đừng làm giả sự cố để lừa đền bảo hiểm (… |
 | Mở đầu phần | mục 9 | Từ ban công, cửa sổ không vứt bất cứ thứ gì ra ngoài: tàn thuốc, túi rác, chai rượu đều tính | … ban công, cửa sổ không vứt đồ ra ngoài (… |
 | Mở đầu phần | mục 10 | Không mua qua mạng súng giả, súng bi sắt, súng hơi; không mua "súng đồ chơi" không rõ nguồn | … không mua qua mạng súng giả (… |
 | Mở đầu phần | mục 11 | Mua drone trước hết đăng ký tên thật; sân bay, khu quân sự và không phận quản chế trong thành phố không bay; không phá giới hạn độ cao | … mua drone trước hết đăng ký tên thật (… |
-| Mở đầu phần | mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … không hưởng khấu, không mở sới thu tiền (… |
+| Mở đầu phần | mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … Không hưởng khấu, không mở sới thu tiền (… |
 | Mở đầu phần | mục 14 | Không ăn thịt thú rừng, không mua bán, không nuôi động vật được bảo vệ làm thú cưng | … không ăn thịt thú rừng (… |
 | Mở đầu phần | mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … đòi nợ không giữ người (… |
 | Mở đầu phần | mục 17 | Bị cảnh sát chặn lại hoặc dẫn đi thì phối hợp: không đẩy, không đánh, không giành máy ghi hình chấp pháp; uống rượu càng phải nhịn | … bị cảnh sát chặn lại thì phối hợp (… |
@@ -711,7 +711,7 @@ Tổng cộng 1512 trích dẫn.
 | Mở đầu phần | mục 12 | Không chụp lén người khác; không lắp camera trong phòng cho thuê, nhà nghỉ, khách sạn | … không chụp lén người khác (… |
 | Mở đầu phần | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … chưa đủ 14 tuổi thì không được quan hệ (… |
 | Mở đầu phần | mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | …hông nổi thì đăng ký với cơ quan dân chính (… |
-| Mở đầu phần | mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | … đừng bán nội tạng của chính mình (… |
+| Mở đầu phần | mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | … Đừng bán nội tạng của chính mình (… |
 | Mở đầu phần | mục 23 | Đừng mua dâm: mức mặc định là tạm giữ 10 đến 15 ngày, không phải phạt tiền là xong | … đừng mua dâm vì mặc định là tạm giữ (… |
 | Mở đầu phần | mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …phim và phim truyền hình, sách điện tử lậu (… |
 | Mở đầu phần | mục 25 | Viết truyện đồng nhân, làm tác phẩm phái sinh mà đem đi xuất bản hay bán lấy tiền thì trước hết xin phép dùng tác phẩm gốc, hoặc đổi tên và quan hệ nhân vật mượn về thành của mình | …g nhân đem bán lấy tiền thì xin phép trước (… |
@@ -1053,6 +1053,10 @@ Tổng cộng 1512 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 16 | Ở đơn vị lâu dài bị bắt nạt, sỉ nhục, làm khó, đừng cứng gánh: trước ghi lại giữ chứng cứ, rồi theo tính chất đi tố cáo, báo cảnh sát hoặc trọng tài | … Bốn mục từ … |
+| Mở đầu phần | mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Bốn mục từ … |
+| Mở đầu phần | mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | … Bốn mục từ … |
+| Mở đầu phần | mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Bốn mục từ … |
 | mục 1 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hạn trọng tài của tranh chấp xem … |
 | mục 3 | phần 12, mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | … hay không, nghĩa vụ phía dùng lao động xem … |
 | mục 3 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Bị giải trừ trái luật thì tính theo … |
