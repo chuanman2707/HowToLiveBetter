@@ -97,10 +97,10 @@ Mỗi phần tóm lược một dòng (chi tiết số mục và thảo luận t
 13. Tình huống khẩn cấp: tim ngừng, đột quỵ, chảy máu, bỏng, động kinh, đám cháy, chết đuối, lạc, động đất, dã ngoại; mấy mục cuối nói cứu người có sổ; bài dài "gặp người lạ bị nạn" ở docs/.
 14. Tài khoản và an toàn thông tin: hai lần nghiệm, mật mã, mất máy, đạo tẩu, quyền hạn App, quyền tra xóa.
 15. Thuê nhà và mua nhà: tiền cọc, lui thoái, giám quản tư kim, mua bán không phá thuê, đất cơ sở (luật TQ).
-16. Sống sau khi mắc bệnh mạn tính: tuân thuốc, phục tra, ký ước bác sĩ gia đình, sàng lọc chứng phát hợp, sỏi thận, gút.
+16. Sống sau khi mắc bệnh mạn tính: tuân thuốc, phục tra, ký ước bác sĩ gia đình, sàng lọc chứng phát hợp, sỏi thận, gút; bài dài ở docs/.
 17. Nhà có người già: giám hộ ý định, di chúc, trò lừa dưỡng lão, bảo hiểm hộ lý dài hạn, loét do nằm.
 18. Nuôi con có đáng không: trợ cấp, phép sản, bảo hộ ba kỳ, bút sổ thời gian và tiền (chính sách TQ).
-19. Đang làm, nghỉ việc và tai nạn lao động: phí tăng ca, phép năm, N/2N, nhận định tai nạn lao động (luật TQ).
+19. Đang làm, nghỉ việc và tai nạn lao động: phí tăng ca, phép năm, N/2N, nhận định tai nạn lao động (luật TQ); bài dài ở docs/.
 20. Chăm trẻ sơ sinh: ngủ an toàn, vắc-xin, sữa mẹ và thức phụ, làn ranh đi khám, không lắc, đậu phộng phòng dị ứng.
 21. Đi nước ngoài: cấp nhắc nhở an toàn, 12308 (hotline TQ), bảo hộ lãnh sự, bảo hiểm, lừa chiêu mộ, chứng kiện mất.
 22. Thư giãn thế nào: an toàn chỗ giải trí, vận động, chánh niệm, hô hấp, giao tế, đất xanh.
@@ -108,7 +108,7 @@ Mỗi phần tóm lược một dòng (chi tiết số mục và thảo luận t
 24. Đi khám bệnh: chẩn liệu phân cấp, chuyển chẩn, báo tiêu, phân chẩn cấp cứu, giám định thương tật (hệ thống TQ).
 25. Người thân qua đời: báo cảnh, chứng minh tử vong, táng tán, tiêu hộ khẩu, tích kim, quyền tin tức người chết (thủ tục TQ).
 26. Làm website hay nền tảng: chi phó kết toán, giấy phép ICP, kiểm nghiệm nền tảng, trị nội dung, dữ liệu xuất cảnh (pháp quy TQ); bài dài giấy phép ở docs/.
-27. Mang thai và sinh con: acid folic, khám thai, sàng lọc, tín hiệu đi viện, bảo hiểm sinh dục, giấy xuất sinh.
+27. Mang thai và sinh con: acid folic, khám thai, sàng lọc, tín hiệu đi viện, bảo hiểm sinh dục, giấy xuất sinh; bài dài ở docs/.
 28. Đừng vì ngoại hình phá hỏng sức khỏe: kiêng cữ cực đoan, y mỹ, thuốc giảm cân, steroid, thể tượng.
 29. Sau khi gặp cú sốc lớn: cửa sổ tim mạch mất thân, chẩn đoán bệnh nặng, thất nghiệp, ly hôn, không quyết định không đảo ngược.
 30. Con cái tuổi đi học: cấp chứng theo giờ, khi dễ, ngoài trời phòng cận thị, trầm cảm, ngủ và tác nghiệp.

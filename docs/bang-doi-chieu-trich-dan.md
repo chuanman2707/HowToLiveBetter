@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1322 trích dẫn.
+Tổng cộng 1512 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1490,6 +1490,48 @@ Tổng cộng 1322 trích dẫn.
 | mục 10 | mục 7 | Cảm thường đừng tìm bác sĩ đòi kháng sinh | …g nhà thì bạn cũng đừng tự lấy ra uống, xem … |
 | mục 11 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …ng paracetamol cũng đừng uống rượu, bạn xem … |
 
+## docs/bi-cat-giam-roi-lam-gi-truoc
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Bị cắt giảm rồi, làm gì  | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | … lương và vẫn chưa nghỉ việc, hãy xem thẳng … |
+| Bị cắt giảm rồi, làm gì  | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …việc, những việc bạn phải làm nằm rải rác ở … |
+| Bị cắt giảm rồi, làm gì  | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ng việc bạn phải làm nằm rải rác ở phần 19, … |
+| Ngay hôm đó: trước khi k | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … Xem … |
+| Ngay hôm đó: trước khi k | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … Xem … |
+| Ngay hôm đó: trước khi k | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Xem … |
+| Ngay hôm đó: trước khi k | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Xem … |
+| Ngay hôm đó: trước khi k | phần 11, mục 7 | Nghỉ việc không mang theo mã nguồn, danh sách khách hàng và tài liệu kỹ thuật, không đăng lên cloud cá nhân, không dùng lại ở chỗ làm sau | … Xem … |
+| Ngay hôm đó: trước khi k | phần 11, mục 6 | Nghỉ việc thì bàn giao sạch tài khoản và quyền hạn, không xóa kho dữ liệu, không để lại cửa sau, không đổi mật khẩu khóa hệ thống, kể cả khi công ty nợ bạn tiền | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 5 | Công ty đuổi bạn không báo trước 30 ngày, còn phải trả thêm một tháng lương | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | … Xem … |
+| Tuần đầu | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Tuần đầu | phần 7, mục 5 | Tìm việc thì trước hết dùng dịch vụ việc làm công miễn phí và chợ việc làm lẻ, không qua môi giới thu phí | … Xem … |
+| Tuần đầu | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Tuần đầu | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Tuần đầu | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Xem … |
+| Tuần đầu | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Tuần đầu | phần 29, mục 3 | Sau khi mất việc trước cố định sinh hoạt, bảo hiểm y tế và nhịp tìm việc, đừng cả ngày ở nhà | … Xem … |
+| Tháng đầu | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | … Xem … |
+| Tháng đầu | phần 7, mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | … Xem … |
+| Tháng đầu | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Xem … |
+| Tháng đầu | phần 7, mục 5 | Tìm việc thì trước hết dùng dịch vụ việc làm công miễn phí và chợ việc làm lẻ, không qua môi giới thu phí | … Xem … |
+| Tháng đầu | phần 7, mục 14 | Xin việc đừng chỉ nộp hồ sơ, dùng phương pháp có hệ thống: học kỹ năng, đặt mục tiêu, nhờ người giúp | … Xem … |
+| Tháng đầu | phần 7, mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | … Xem … |
+| Tháng đầu | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | … Xem … |
+| Tháng đầu | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | … Xem … |
+| Mấy tháng sau đó | phần 5, mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Xem … |
+| Mấy tháng sau đó | phần 29, mục 12 | Ba tháng đầu sau biến cố, đại quyết định không đảo lại được phàm là đều để sau | … Xem … |
+| Mấy tháng sau đó | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Xem … |
+| Mấy tháng sau đó | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Xem … |
+| Mấy tháng sau đó | phần 7, mục 7 | Thu nhập dưới vạch trợ cấp tối thiểu địa phương thì xin trợ cấp tối thiểu | … Xem … |
+| Mấy tháng sau đó | phần 29, mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | … Xem … |
+| Mấy tháng sau đó | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Xem … |
+
 ## docs/cuoi-co-dang-khong
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
@@ -1549,3 +1591,171 @@ Tổng cộng 1322 trích dẫn.
 | IX. Bài này không nói | phần 2, mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …Thức khuya rồi bù giấc về thế nào, ở … |
 | IX. Bài này không nói | phần 2, mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … ngủ bao lâu, tác tức quy luật hay không, ở … |
 | IX. Bài này không nói | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | …Sáng sớm gặp sáng và cố định giờ dậy, ở … |
+
+## docs/truoc-khi-doi-viec-doi-thanh-pho
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Trước khi đổi việc, đổi  | phần 2 | 02-dung-chet-tu-tu (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 4 | 04-dung-lang-phi-thoi-gian (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 5 | 05-dung-lang-phi-tien (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 15 | 15-thue-va-mua-nha (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi quyết định: sổ | phần 2, mục 39 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | … Xem … |
+| Trước khi quyết định: sổ | phần 3, mục 13 | Đừng chỉ biết tăng giờ làm việc mỗi tuần: qua khoảng 49 tiếng, mỗi tiếng làm thêm cho ra ngày càng ít sản phẩm | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 16 | Ở đơn vị lâu dài bị bắt nạt, sỉ nhục, làm khó, đừng cứng gánh: trước ghi lại giữ chứng cứ, rồi theo tính chất đi tố cáo, báo cảnh sát hoặc trọng tài | … Xem … |
+| Trước khi quyết định: sổ | phần 22, mục 9 | Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người | … Xem … |
+| Trước khi quyết định: sổ | phần 10, mục 6 | Yêu xa không kém yêu cùng thành phố, khúc khó thật sự là ba tháng đầu sau khi chuyển về chung | … Xem … |
+| Trước khi quyết định: sổ | phần 29, mục 12 | Ba tháng đầu sau biến cố, đại quyết định không đảo lại được phàm là đều để sau | … Xem … |
+| Trước khi quyết định: sổ | phần 3, mục 10 | Đêm khuya không quyết định việc lớn, không gửi tin nhắn quan trọng | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 3 | Quyết định có tiếp tục không thì chỉ nhìn đầu tư tương lai và hồi báo tương lai, đừng nhìn đã đổ vào bao nhiêu | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 2 | Trước khi bắt tay viết rõ điều kiện rút lui | … Xem … |
+| Trước khi quyết định: sổ | phần 5, mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Xem … |
+| Trước khi quyết định: sổ | phần 23, mục 12 | Đừng coi "trên mạng nói lương cao" là thiếu người, đi tra danh mục nghề khan hiếm và danh mục trợ cấp của địa phương | … Xem … |
+| Trước khi quyết định: sổ | phần 7, mục 17 | Ép chi ở và ăn xuống thấp nhất: thuê chung theo tháng thay thuê theo ngày, tự nấu và nhà ăn trợ giá thay gọi đồ ăn | … Xem … |
+| Trước khi quyết định: sổ | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | … Xem … |
+| Trước khi quyết định: sổ | phần 23, mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | …9, mục 1 (tiền tăng ca tính theo ba bậc) và … |
+| Trước khi nộp đơn nghỉ v | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Xem … |
+| Những ngày rời nơi làm c | phần 11, mục 6 | Nghỉ việc thì bàn giao sạch tài khoản và quyền hạn, không xóa kho dữ liệu, không để lại cửa sau, không đổi mật khẩu khóa hệ thống, kể cả khi công ty nợ bạn tiền | … Xem … |
+| Những ngày rời nơi làm c | phần 11, mục 7 | Nghỉ việc không mang theo mã nguồn, danh sách khách hàng và tài liệu kỹ thuật, không đăng lên cloud cá nhân, không dùng lại ở chỗ làm sau | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | … Xem … |
+| Những ngày rời nơi làm c | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Những ngày rời nơi làm c | phần 29, mục 3 | Sau khi mất việc trước cố định sinh hoạt, bảo hiểm y tế và nhịp tìm việc, đừng cả ngày ở nhà | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 8, mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 19, mục 3 | Thử việc có nóc pháp định, lương không được dưới 80%, và chỉ được hẹn một lần | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 19, mục 3 | Thử việc có nóc pháp định, lương không được dưới 80%, và chỉ được hẹn một lần | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 19, mục 3 | Thử việc có nóc pháp định, lương không được dưới 80%, và chỉ được hẹn một lần | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 11, mục 13 | Code viết trong giờ làm, bằng tài nguyên công ty thuộc về công ty; dự án mã nguồn mở của riêng mình làm bằng thời gian và thiết bị của mình, không trộn code công ty | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Tìm nhà ở thành phố mới | phần 22, mục 10 | Chọn chỗ ở thì tính cả mảng xanh xung quanh vào, nhưng đừng trông vào chuyện "đi công viên nhiều" để sống lâu | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 1 | Số tiền cọc, thời gian hoàn trả và các trường hợp bị trừ phải viết vào hợp đồng | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 6 | Trước khi ký hợp đồng đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp, mọi khoản tiền đều chuyển khoản và ghi chú mục đích | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 3 | Môi giới không được thu hộ trả hộ tiền thuê và tiền cọc, tiền đưa thẳng cho chủ nhà | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 4 | Thuê chung cư dài hạn thì tra trước tài khoản giám sát vốn của nó, đừng ham rẻ mà trả một năm một lần | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 8 | Đừng thuê phòng vách ngăn: đơn vị cho thuê nhỏ nhất là phòng theo thiết kế gốc, bếp, nhà vệ sinh, ban công không được dùng để ở | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 5 | Nhà bị bán trong thời hạn thuê thì hợp đồng thuê vẫn có hiệu lực, không phải dọn đi | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 2 | Bị cắt nước cắt điện, thay khóa, đến tận nhà đe dọa đuổi đi thì báo cảnh sát giữ chứng cứ trước: quy định cấm dùng những cách này ép bạn dọn đi | … Xem … |
+| Tìm nhà ở thành phố mới | phần 5, mục 3 | Quỹ nhà ở tích lũy không chỉ để mua nhà: thuê nhà, sửa nhà, phí quản lý đều rút được, từ ngày 20/9/2026 làm theo điều lệ mới | … Xem … |
+| Tìm nhà ở thành phố mới | phần 7, mục 16 | Khó khăn về nhà ở thì trước hết xếp hàng nhà ở công cộng cho thuê | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 7 | Mua nhà cũ mà để môi giới thu hộ tiền nhà thì phải đi qua tài khoản tiền gửi chuyên dụng cho vốn giao dịch mà môi giới mở tại ngân hàng | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 9 | Người hộ khẩu thành thị muốn dọn về nông thôn ở thì chỉ thuê nhà nông dân, đừng mua đất ở và nhà trên đất ở | … Xem … |
+| Sau khi chuyển tới nơi m | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Xem … |
+| Sau khi chuyển tới nơi m | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | … Xem … |
+| Sau khi chuyển tới nơi m | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | … Xem … |
+| Sau khi chuyển tới nơi m | phần 24, mục 4 | Trước khi khám ngoại tỉnh ngoại vùng, hỏi một câu ở địa phương trước: tính cần thiết về nguyên tắc phải bác sĩ phó chủ nhiệm trở lên đánh giá | … Xem … |
+| Sau khi chuyển tới nơi m | phần 24, mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Xem … |
+| Sau khi chuyển tới nơi m | phần 5, mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … Xem … |
+
+## docs/viec-can-lam-truoc-va-sau-khi-sinh-con
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Khi chuẩn bị mang thai | phần 27, mục 1 | Chuẩn bị mang thai đã bắt đầu mỗi ngày bổ 0,4 mg acid folic, uống tới khi đầu thai kỳ đủ 3 tháng | … Xem … |
+| Khi chuẩn bị mang thai | phần 27, mục 11 | Trước khi mang thai đã xác nhận trạng thái tham gia bảo hiểm sinh sản, vợ/chồng chưa đi làm cũng báo được chi phí y tế sinh con | … Xem … |
+| Khi chuẩn bị mang thai | phần 2, mục 2 | Đừng hút thuốc trong nhà và trong xe, cũng đừng để khách hút trong nhà | … Xem … |
+| Khi chuẩn bị mang thai | phần 5, mục 40 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 2 | Trước tuần thai 13 tới trung tâm y tế cộng đồng lập "Sổ sức khỏe mẹ và con", dùng hết định mức khám thai miễn phí | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 3 | Lần khám thai đầu đã xét nghiệm luôn ba bệnh AIDS, giang mai, viêm gan B, xét ra cũng có chặn lây mẹ-con miễn phí | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 4 | Cả thai kỳ một điếu thuốc một ngụm rượu cũng không, người nhà cũng đừng hút trong nhà | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 6 | Từ tuần thai 24 trở đi làm một lần sàng lọc đái tháo đường thai kỳ, đừng ngại phiền uống nước đường | … Xem … |
+| Sau khi có thai, trước k | phần 34, mục 5 | Mang thai sau 20 tuần, đừng tự ăn loại giảm đau như ibuprofen | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 9 | Muốn sinh không đau cứ nói thẳng, nó không tăng nguy cơ mổ lấy thai | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 10 | Không có chỉ định y học thì đừng tự đòi mổ lấy thai, cũng đừng vì chọn ngày mà mở dao | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 11 | Trước khi mang thai đã xác nhận trạng thái tham gia bảo hiểm sinh sản, vợ/chồng chưa đi làm cũng báo được chi phí y tế sinh con | … Xem … |
+| Sau khi có thai, trước k | phần 18, mục 2 | Nghỉ thai sản 98 ngày, trợ cấp sinh con do quỹ bảo hiểm sinh sản chi trả theo lương bình quân tháng năm trước của người lao động trong đơn vị | … Xem … |
+| Sau khi có thai, trước k | phần 18, mục 3 | Biết điều này: không được giảm lương hay đuổi việc vì mang thai, sinh con, cho con bú | … Xem … |
+| Sau khi có thai, trước k | phần 20, mục 11 | Đồ cồng kềnh theo thứ tự "mượn, mua đồ cũ, mua mới", đừng mua đủ một lần | … Xem … |
+| Sau khi có thai, trước k | phần 20, mục 10 | Tã không nhìn hãng, nhìn ba việc: có vừa người không, thay có thường xuyên không, có bị kiểm tra thông báo không | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 12 | Trước xuất viện làm xong "Giấy chứng sinh y khoa", tên nghĩ trước, đừng viết sai chữ | … Xem … |
+| Khi nhập viện sinh con | phần 27, mục 8 | Vỡ ối thì nằm phẳng tại chỗ, kê cao mông, gọi 120, đừng đi lại cũng đừng tắm | … Xem … |
+| Khi nhập viện sinh con | phần 20, mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | … Xem … |
+| Khi nhập viện sinh con | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Xem … |
+| Khi nhập viện sinh con | phần 20, mục 7 | Mũi vitamin K lúc sinh nhất định phải tiêm | … Xem … |
+| Khi nhập viện sinh con | phần 27, mục 13 | Xét nghiệm máu gót chân và sàng lọc thính lực trẻ sơ sinh đều đừng từ chối | … Xem … |
+| Trước khi xuất viện | phần 27, mục 12 | Trước xuất viện làm xong "Giấy chứng sinh y khoa", tên nghĩ trước, đừng viết sai chữ | … Xem … |
+| Trước khi xuất viện | phần 27, mục 14 | Lấy được giấy chứng sinh y khoa thì làm bảo hiểm y tế cư dân cho con, đừng đợi nhập hộ khẩu xong | … Xem … |
+| Trước khi xuất viện | phần 1, mục 10 | Cho trẻ dưới 4 tuổi ngồi ghế an toàn, đừng bế trên tay | … Xem … |
+| Tháng đầu sau khi con ra | phần 27, mục 15 | Trong một tháng sau khi con sinh đi phái xuất sở (đồn công an) báo đăng ký sinh | … Xem … |
+| Tháng đầu sau khi con ra | phần 18, mục 1 | Tính trước các khoản được nhận: trợ cấp nuôi con quốc gia 3.600 nhân dân tệ mỗi con mỗi năm, trả đến 3 tuổi | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 1 | Cho bé ngủ ngửa, ngủ trên mặt phẳng cứng, cùng phòng khác giường, trên giường không để đồ mềm nào | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 5 | Pha sữa công thức dùng nước trên 70 °C, pha xong để nguội mới cho uống, uống thừa đổ đi | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 8 | Em bé chưa đủ 3 tháng sốt tới 38 °C là đi thẳng viện, không theo dõi ở nhà | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 9 | Mệt mỏi bực mình đến đâu cũng không được lắc em bé | … Xem … |
+| Tháng đầu sau khi con ra | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Xem … |
+| Từ khi con đầy tháng đến | phần 27, mục 16 | Lần tái khám 42 ngày sau sinh đừng nhảy, nó đồng thời là sàng lọc trầm cảm sau sinh | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 3 | Tiêm đủ vaccine trong chương trình tiêm chủng quốc gia, miễn phí trọn quá trình, lỡ mũi thì chỉ bù những mũi chưa tiêm | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | … Xem … |
+| Từ khi con đầy tháng đến | phần 34, mục 4 | Con dưới 2 tuổi cảm, đừng tự mình mớm thuốc cảm hỗn hợp và thuốc ho | … Xem … |
+| Từ khi con đầy tháng đến | phần 1, mục 11 | Nhà có trẻ nhỏ thì lắp chốt giới hạn cho cửa sổ và ban công, cửa lưới không tính là chắn | … Xem … |
+| Từ khi con đầy tháng đến | phần 30, mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | … Xem … |
+| Từ khi con đầy tháng đến | phần 18, mục 3 | Biết điều này: không được giảm lương hay đuổi việc vì mang thai, sinh con, cho con bú | … Xem … |
+| Từ khi con đầy tháng đến | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | … Xem … |
+| Từ khi con đầy tháng đến | phần 5, mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … Xem … |
+
+## docs/vua-chan-doan-benh-man-tinh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Tuần được chẩn đoán | phần 29, mục 2 | Tuần bị báo chẩn đoán bệnh nặng, đừng một mình đi lấy báo cáo, quyết định ngoài trị liệu để sau | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | … Xem … |
+| Tuần được chẩn đoán | phần 2, mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … Xem … |
+| Tuần được chẩn đoán | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … Xem … |
+| Tuần được chẩn đoán | phần 5, mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 7 | Chẩn đoán tiểu đường thì đi kiểm tra đáy mắt một lần, sau đó kiểm tra theo khoảng cách bác sĩ cho; mỗi năm kiểm tra bàn chân một lần | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Tuần được chẩn đoán | phần 6, mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | … Xem … |
+| Tuần được chẩn đoán | phần 2, mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … Xem … |
+| Tuần được chẩn đoán | phần 2, mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Xem … |
+| Ba tháng đầu | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | … Xem … |
+| Ba tháng đầu | phần 24, mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Xem … |
+| Ba tháng đầu | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | … Xem … |
+| Ba tháng đầu | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | … Xem … |
+| Ba tháng đầu | phần 16, mục 6 | Trước khi ký bác sĩ gia đình ở cộng đồng, hỏi rõ cái nào vào bảo hiểm y tế, cái nào tự trả | … Xem … |
+| Ba tháng đầu | phần 2, mục 9 | Đổi muối ăn trong nhà sang muối ít natri (muối kali) | … Xem … |
+| Ba tháng đầu | phần 2, mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | … Xem … |
+| Ba tháng đầu | phần 2, mục 19 | Uống ít rượu hoặc không uống | … Xem … |
+| Ba tháng đầu | phần 2, mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | … Xem … |
+| Ba tháng đầu | phần 16, mục 4 | Đừng vì muốn thử bài thuốc dân gian, thực phẩm bảo vệ sức khỏe mà ngừng trị liệu chính quy | … Xem … |
+| Ba tháng đầu | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | … Xem … |
+| Ba tháng đầu | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Ba tháng đầu | phần 34, mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | … Xem … |
+| Ba tháng đầu | phần 34, mục 3 | Người trên 60 tuổi, dạ dày từng chảy máu, đang ăn thuốc chống đông hay hormon, trước khi ăn loại giảm đau như ibuprofen hỏi bác sĩ trước | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | … Xem … |
+| Khi bệnh đã ổn định | phần 5, mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 7 | Chẩn đoán tiểu đường thì đi kiểm tra đáy mắt một lần, sau đó kiểm tra theo khoảng cách bác sĩ cho; mỗi năm kiểm tra bàn chân một lần | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 8 | Từng mọc sỏi thận thì uống nước đến 2,5–3 lít mỗi ngày, muối hạ xuống dưới 6 gam | … Xem … |
+| Khi bệnh đã ổn định | phần 1, mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 1 | Bệnh thường khám ở cộng đồng trước, chuyển tuyến từng cấp lên trên, vạch khởi tuyến nằm viện tính nối tiếp | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 2 | Trong cùng một vùng quyết toán (nơi tham gia bảo hiểm y tế), cấp càng thấp tỷ lệ hoàn càng cao, chênh khoảng 10 điểm phần trăm | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 3 | Muốn lên bệnh viện lớn thì đi đường chuyển tuyến cơ sở hoặc trung tâm chuyển tuyến của bệnh viện, đừng tìm cò mồi số khám | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 4 | Trước khi khám ngoại tỉnh ngoại vùng, hỏi một câu ở địa phương trước: tính cần thiết về nguyên tắc phải bác sĩ phó chủ nhiệm trở lên đánh giá | … Xem … |
