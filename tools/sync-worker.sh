@@ -9,7 +9,8 @@
 #   tools/sync-worker.sh verify <NN>    # chạy lại kiểm chứng trong worktree
 #   tools/sync-worker.sh take <NN>      # kiểm chứng lần cuối, chép file về working tree chính, xóa worktree
 #   tools/sync-worker.sh drop <NN>      # bỏ worktree của phần
-#   tools/sync-worker.sh -n <cli|review> <NN>   # chỉ in prompt + lệnh, không chạy
+#   tools/sync-worker.sh prep <NN>      # chỉ tạo worktree và in prompt của phần, không chạy CLI (subagent tự làm từ đó)
+#   tools/sync-worker.sh -n <cli|review> <NN>   # chỉ in prompt, không chạy CLI, không tạo worktree
 #
 # Khoảng đồng bộ lấy từ biến môi trường:
 #   SYNC_FROM (mặc định merge-base của HEAD với upstream/main: commit gốc cuối cùng
@@ -31,8 +32,12 @@ DRY=0
 CLI=${1:-}
 CH=${2:-}
 FIX=${3:-}
-[ -n "$CLI" ] && [ -n "$CH" ] || { echo "cần: <claude|agy|grok|devin|review|verify|take|drop> <NN> [loi.txt]" >&2; exit 2; }
+[ -n "$CLI" ] && [ -n "$CH" ] || { echo "cần: <claude|agy|grok|devin|review|prep|verify|take|drop> <NN> [loi.txt]" >&2; exit 2; }
 [[ $CH =~ ^[0-9]{2}$ ]] || { echo "số phần phải đủ hai chữ số: 05, 22" >&2; exit 2; }
+if [ $DRY = 1 ]; then
+  case $CLI in claude|agy|grok|devin|review) ;; *) echo "-n chỉ dùng với <cli>|review" >&2; exit 2 ;; esac
+fi
+[ "$CLI" != prep ] || [ -z "$FIX" ] || { echo "prep không nhận file lỗi" >&2; exit 2; }
 
 git rev-parse -q --verify upstream/main >/dev/null || { echo "chưa có remote upstream: git remote add upstream https://github.com/eternity4719/HowToLiveBetter && git fetch upstream" >&2; exit 2; }
 SYNC_FROM=${SYNC_FROM:-$(git merge-base HEAD upstream/main | cut -c1-7)}
@@ -40,25 +45,35 @@ SYNC_TO=${SYNC_TO:-upstream/main}
 git rev-parse -q --verify "$SYNC_FROM^{commit}" >/dev/null || { echo "không thấy ref SYNC_FROM=$SYNC_FROM" >&2; exit 2; }
 git rev-parse -q --verify "$SYNC_TO^{commit}" >/dev/null || { echo "không thấy ref SYNC_TO=$SYNC_TO" >&2; exit 2; }
 
-FILE=$(ls "book/${CH}-"*.md 2>/dev/null | head -1)
+FILE=$(ls "book/${CH}-"*.md 2>/dev/null | head -1 || true)
 [ -n "$FILE" ] || { echo "không thấy book/${CH}-*.md" >&2; exit 2; }
-ZH=$(git -c core.quotepath=false ls-tree --name-only "$SYNC_TO" book/ | grep "^book/${CH}-" | head -1)
+ZH=$(git -c core.quotepath=false ls-tree --name-only "$SYNC_TO" book/ | grep "^book/${CH}-" | head -1 || true)
 [ -n "$ZH" ] || { echo "bản gốc ở $SYNC_TO không có phần $CH" >&2; exit 2; }
 
 WT_ROOT=${SYNC_WT_ROOT:-"$(cd .. && pwd)/.$(basename "$MAIN")-sync"}
 WT="$WT_ROOT/$CH"
-mkdir -p "$WT_ROOT/logs"
-
 refs_total() { (cd "$1" && node tools/check-refs.mjs --check 2>/dev/null | sed -n 's/.*cả \([0-9][0-9]*\) trích dẫn.*/\1/p'); }
+
+# tạo worktree của phần: dùng chung cho phát việc và prep
+make_wt() {
+  [ ! -d "$WT" ] || { echo "$WT đã tồn tại (việc dở); chạy 'drop $CH' trước nếu muốn làm lại từ đầu" >&2; return 2; }
+  for i in 1 2 3; do git worktree add -q --detach "$WT" HEAD && break; sleep "$i"; done
+  [ -d "$WT" ] || { echo "không tạo được worktree $WT" >&2; return 2; }
+}
 
 verify() {
   [ -d "$WT" ] || { echo "chưa có worktree $WT" >&2; return 2; }
-  local ok=1 other
+  local ok=1 other wl wh has_work=1
   echo "== kiểm chứng $FILE trong $WT ($SYNC_FROM..$SYNC_TO)"
   other=$(cd "$WT" && git -c core.quotepath=false status --porcelain | grep -v " ${FILE}\$" || true)
   [ -z "$other" ] || { echo "LỖI worker động vào file khác:"; echo "$other"; ok=0; }
+  wl=$(node tools/sync-worklist.mjs "$CH" --from "$SYNC_FROM" --to "$SYNC_TO" 2>/dev/null || true)
+  case "$wl" in *"không có việc"*) has_work=0 ;; esac
+  if [ $has_work = 1 ] && (cd "$WT" && git diff --quiet HEAD -- "$FILE"); then echo "LỖI chưa sửa gì trong $FILE"; ok=0; fi
+  wh=$(git -C "$WT" rev-parse HEAD)
+  if ! git merge-base --is-ancestor "$wh" HEAD; then echo "LỖI worker đã commit trong worktree"; ok=0; fi
   (cd "$WT" && node tools/check-sync.mjs "$CH" "$SYNC_TO" --since "$SYNC_FROM" --frozen HEAD) || ok=0
-  (cd "$WT" && node tools/check-plain.mjs | tail -1) || ok=0
+  (cd "$WT" && node tools/check-plain.mjs | { grep -v '^$' || true; }) || ok=0
   (cd "$WT" && node tools/check-refs-pending.mjs "$SYNC_TO") || ok=0
   [ $ok = 1 ] && { echo "KẾT QUẢ: ĐẠT"; return 0; }
   echo "KẾT QUẢ: KHÔNG ĐẠT"; return 1
@@ -84,11 +99,12 @@ P=$(git log --format=%H -n1 --grep='^Viết lại giọng chương 22' HEAD || t
 Đọc 3-4 mục bất kỳ trong đó trước khi làm, bám nhịp câu và mức thân mật của nó."
 
 WORKLIST=$(node tools/sync-worklist.mjs "$CH" --from "$SYNC_FROM" --to "$SYNC_TO")
-CHECKS="node tools/check-sync.mjs $CH $SYNC_TO --since $SYNC_FROM --frozen HEAD && node tools/check-plain.mjs && node tools/check-refs-pending.mjs $SYNC_TO"
+CHECKS="cd $WT && node tools/check-sync.mjs $CH $SYNC_TO --since $SYNC_FROM --frozen HEAD && node tools/check-plain.mjs && node tools/check-refs-pending.mjs $SYNC_TO"
 
 if [ "$CLI" = "review" ]; then
   read -r -d '' PROMPT <<EOF || true
-Review file $FILE trong thư mục hiện tại — bản vừa đồng bộ với bản gốc tiếng
+Thư mục làm việc (worktree riêng của phần này): $WT. Mọi lệnh chạy dạng "cd $WT && <lệnh>", mọi đường dẫn file là "$WT/<đường dẫn>".
+Review file $FILE trong worktree $WT — bản vừa đồng bộ với bản gốc tiếng
 Trung trong khoảng $SYNC_FROM..$SYNC_TO. KHÔNG sửa file, KHÔNG chạy git ngoài
 git show/diff/log.
 
@@ -122,7 +138,8 @@ EOF
 elif [ -n "$FIX" ]; then
   [ -f "$FIX" ] || { echo "không thấy file lỗi $FIX" >&2; exit 2; }
   read -r -d '' PROMPT <<EOF || true
-File $FILE trong thư mục hiện tại là bản đồng bộ đang dở, còn các lỗi dưới đây.
+Thư mục làm việc (worktree riêng của phần này): $WT. Mọi lệnh chạy dạng "cd $WT && <lệnh>", mọi đường dẫn file là "$WT/<đường dẫn>".
+File $FILE trong worktree $WT là bản đồng bộ đang dở, còn các lỗi dưới đây.
 Sửa đúng các chỗ được nêu, không viết lại phần khác, không động file nào khác
 ngoài $FILE, KHÔNG git add, KHÔNG git commit.
 
@@ -137,6 +154,7 @@ tới khi sạch.
 EOF
 else
   read -r -d '' PROMPT <<EOF || true
+Thư mục làm việc (worktree riêng của phần này): $WT. Mọi lệnh chạy dạng "cd $WT && <lệnh>", mọi đường dẫn file là "$WT/<đường dẫn>".
 Đọc ba file này trước khi làm:
 - CLAUDE.md — quy tắc dự án
 - $SPEC — giọng văn "người thầy trò chuyện" và danh mục không-được-động
@@ -155,7 +173,9 @@ Xem một commit cụ thể:          git show <hash> -- "$ZH"
 Cách làm từng loại:
 1. SỬA mục N: chỉ vá đúng câu bản gốc đổi. Câu bản gốc không đổi thì giữ nguyên
    câu tiếng Việt đang có, kể cả khi bạn muốn viết khác. Tiêu đề gốc đổi thì dịch
-   lại tiêu đề theo tiêu đề mới.
+   lại tiêu đề theo tiêu đề mới. Nếu bản gốc đổi dòng 来源, thẻ 成本标签 hay 证据等级
+   của mục, áp đúng quy tắc ở mục 2 cho dòng tương ứng (Nguồn chép nguyên văn, quy
+   đổi thẻ, giữ chữ cái Mức chứng cứ, 争议 → Tranh cãi).
 2. MỚI mục N: nối vào cuối phần, đúng số mục như gốc, đủ dòng thẻ và sáu field
    theo thứ tự Chi phí, Nói dễ hiểu, Lợi ích, Mức chứng cứ, Nguồn, Ghi chú.
    - Thẻ ngay dưới tiêu đề: <!-- nhan-chi-phi: tien=.. thoi-gian=.. y-chi=.. loi-ich=.. quy-mo=.. -->
@@ -203,12 +223,22 @@ case $CLI in
   grok)   CMD=(grok -p "$PROMPT" --always-approve) ;;
   devin)  CMD=(devin -p "$PROMPT" --permission-mode dangerous --respect-workspace-trust false) ;;
   review) CMD=(claude -p "$PROMPT" --model "$CLAUDE_MODEL" --dangerously-skip-permissions) ;;
+  prep) ;;  # chỉ tạo worktree và in prompt, không chạy CLI
   *) echo "cli không biết: $CLI" >&2; exit 2 ;;
 esac
 
 if [ $DRY = 1 ]; then
   echo "# chạy trong: $WT"
-  printf '%q ' "${CMD[@]}"; echo
+  echo "# lệnh: $CLI (prompt bên dưới)"
+  echo "---PROMPT---"
+  printf '%s\n' "$PROMPT"
+  exit 0
+fi
+
+if [ "$CLI" = prep ]; then
+  make_wt
+  echo "# worktree: $WT"
+  echo "# check-refs lúc phát việc: $(refs_total "$WT") trích dẫn"
   echo "---PROMPT---"
   printf '%s\n' "$PROMPT"
   exit 0
@@ -217,12 +247,11 @@ fi
 if [ "$CLI" = review ] || [ -n "$FIX" ]; then
   [ -d "$WT" ] || { echo "chưa có worktree $WT — phần này chưa được phát việc" >&2; exit 2; }
 else
-  [ ! -d "$WT" ] || { echo "$WT đã tồn tại (việc dở); chạy 'drop $CH' trước nếu muốn làm lại từ đầu" >&2; exit 2; }
-  for i in 1 2 3; do git worktree add -q --detach "$WT" HEAD && break; sleep "$i"; done
-  [ -d "$WT" ] || { echo "không tạo được worktree $WT" >&2; exit 2; }
+  make_wt
   echo "check-refs lúc phát việc: $(refs_total "$WT") trích dẫn"
 fi
 
+mkdir -p "$WT_ROOT/logs"
 LOG="$WT_ROOT/logs/$CH-$CLI-$(date +%Y%m%d-%H%M%S).log"
 echo "chạy $CLI cho phần $CH trong $WT, log: $LOG"
 (cd "$WT" && "${CMD[@]}") 2>&1 | tee "$LOG" || echo "CLI $CLI thoát với mã lỗi" | tee -a "$LOG"
