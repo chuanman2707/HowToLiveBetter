@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1113 trích dẫn.
+Tổng cộng 1137 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -725,6 +725,26 @@ Tổng cộng 1113 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Quen nhiều người hơn thay vì bám cứng một người: hai người hợp nhau hay không, trước khi gặp không đoán được | …nhiều người hơn thay vì bám cứng một người (… |
+| Mở đầu phần | mục 2 | Sau khi đối phương từ chối rõ ràng thì dừng lại, tiếp tục bám theo là vi phạm trị an, không phải "thành ý" | …hi đối phương từ chối rõ ràng thì dừng lại (… |
+| Mở đầu phần | mục 3 | Muốn biết đối phương có hứng thú không thì xem hành vi đừng xem "tín hiệu": ai chủ động, ai sắp xếp, ai theo tiếp | … không thì xem hành vi đừng xem "tín hiệu" (… |
+| Mở đầu phần | mục 5 | Muốn gần nhau hơn thì thay phiên trả lời một bộ câu hỏi đi từ nông đến sâu, đừng học chiêu nói chuyện | … trả lời một bộ câu hỏi đi từ nông đến sâu (… |
+| Mở đầu phần | mục 6 | Yêu xa không kém yêu cùng thành phố, khúc khó thật sự là ba tháng đầu sau khi chuyển về chung | … yêu xa không kém yêu cùng thành phố (… |
+| Mở đầu phần | mục 4 | Quan hệ tốt hay không chủ yếu xem cảm giác của chính bạn trong quan hệ này, không xem điều kiện của đối phương | …m cảm giác của chính bạn trong quan hệ này (… |
+| Mở đầu phần | mục 17 | Xem quan hệ tốt xấu là một khoản sức khỏe: cãi nhau đối việc không đối người, đừng chửi, đừng mỉa mai | …c không đối người, đừng chửi, đừng mỉa mai (… |
+| Mở đầu phần | mục 20 | Quan hệ kẹt trong cãi nhau lặp lại và chiến tranh lạnh thì hai người cùng đi trị liệu cặp đôi: chỉ ngồi chờ thì gần như không tự khá lên | …ạnh thì hai người cùng đi trị liệu cặp đôi (… |
+| Mở đầu phần | mục 7 | Xem số liệu đăng ký trước rồi hãy nghe bậc trên: tỷ lệ kết hôn, tỷ lệ ly hôn mỗi loại tính theo kiểu gì | …ố liệu đăng ký trước rồi hãy nghe bậc trên (… |
+| Mở đầu phần | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …g phải đánh giảm vì đó là số liệu quan sát (… |
+| Mở đầu phần | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …công", bàn rõ phân chia rồi hãy đi đăng ký (… |
+| Mở đầu phần | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … tính chi phí rút lui (… |
+| Mở đầu phần | mục 16 | Ghi riêng một khoản cho "cưới vì bậc trên", đừng trộn với khoản của mình | …vì bậc trên", đừng trộn với khoản của mình (… |
+| Mở đầu phần | mục 13 | Đăng ký kết hôn chỉ cần căn cước cộng một tờ khai có chữ ký, không cần sổ hộ khẩu, không thu tiền, cấp giấy ngay tại chỗ | …hỉ cần căn cước cộng một tờ khai có chữ ký (… |
+| Mở đầu phần | mục 14 | Trước khi cưới đi khám tiền hôn nhân một lần, có bệnh nặng phải khai thật cho đối phương trước khi đăng ký | …khai thật cho đối phương trước khi đăng ký (… |
+| Mở đầu phần | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | …quyết có cần thỏa thuận bằng văn bản không (… |
+| Mở đầu phần | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …yển khoản đã phải ghi rõ là cho hay là vay (… |
+| Mở đầu phần | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …g nhận sau, không tự động thành nợ của bạn (… |
+| Mở đầu phần | mục 18 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | … xong ủy quyền, giám hộ tự định và di chúc (… |
+| Mở đầu phần | mục 19 | Đừng cưới bằng cách giấu khuynh hướng tình dục, cũng đừng coi hôn nhân hình thức là cách nhẹ nhàng: về luật nó là một cuộc hôn nhân thật, muốn ra chỉ có đường ly hôn | …g coi hôn nhân hình thức là cách nhẹ nhàng (… |
 | mục 4 | mục 17 | Xem quan hệ tốt xấu là một khoản sức khỏe: cãi nhau đối việc không đối người, đừng chửi, đừng mỉa mai | … khỏe tốt xấu gắn với nhau thế nào, bạn xem … |
 | mục 12 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Nên cái hữu dụng hơn vẫn là bước ở … |
 | mục 12 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …c chung về giấy nợ và giấy bảo lãnh bạn xem … |
@@ -744,11 +764,15 @@ Tổng cộng 1113 trích dẫn.
 | mục 16 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … Còn khoản thời gian (mục 9), khoản tiền (… |
 | mục 16 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền (mục 10 đến 12) và chi phí rút lui (… |
 | mục 17 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …giao tiếp, mà là bạo hành gia đình, bạn xem … |
+| mục 17 | mục 20 | Quan hệ kẹt trong cãi nhau lặp lại và chiến tranh lạnh thì hai người cùng đi trị liệu cặp đôi: chỉ ngồi chờ thì gần như không tự khá lên | …hai người cùng đi trị liệu cặp đôi, bạn xem … |
 | mục 17 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …kỹ có nên đi không, chi phí rút lui bạn xem … |
 | mục 18 | phần 17, mục 2 | Lập di chúc đi, nhớ di chúc lập sau lật đổ di chúc lập trước, di chúc công chứng không còn ưu tiên | …p mấy bản di chúc thì lấy bản cuối, bạn xem … |
 | mục 18 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | … Giám hộ tự định làm thế nào, bạn xem … |
 | mục 19 | mục 18 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | …hân bảo vệ, tài sản phải viết rõ riêng, xem … |
 | mục 19 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … thời gian bình tĩnh 30 ngày hoặc kiện, xem … |
+| mục 20 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | … Nếu bạn đã bị đánh, trước hết xem … |
+| mục 20 | mục 17 | Xem quan hệ tốt xấu là một khoản sức khỏe: cãi nhau đối việc không đối người, đừng chửi, đừng mỉa mai | … Lúc cãi nhau nên nói thế nào, bạn xem … |
+| mục 20 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …n muốn nghĩ kỹ có nên rời đi không, bạn xem … |
 
 ## 11-lan-san-do-cua-dan-ky-thuat
 
