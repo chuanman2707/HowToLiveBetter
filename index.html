@@ -67,6 +67,9 @@ html.dark{
 }
 *{box-sizing:border-box}
 html{scroll-padding-top:calc(var(--nav-h) + 16px)}
+/* Cửa sổ bài dài mở thì body đặt overflow:hidden, thanh cuộn biến mất, trang rộng thêm 15px,
+   thẻ xuống dòng lại, cả trang giật một cái (bản gốc 2026-10-01). Giữ sẵn rãnh thanh cuộn */
+html{scrollbar-gutter:stable}
 body{margin:0;background:var(--bg);color:var(--t1);font:14px/1.7 var(--font);-webkit-font-smoothing:antialiased}
 a{color:var(--brand-1);text-decoration:none;transition:color .25s}
 a:hover{color:var(--brand-2);text-decoration:underline;text-underline-offset:2px}
@@ -76,7 +79,7 @@ mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
 /* Trích dẫn chéo kiểu "mục X" trong nội dung: bấm một cái là xem ngay mục đó viết gì, không phải tự lật */
 .xref{color:var(--brand-1);cursor:pointer;border-bottom:1px dashed currentColor}
 .xref:hover{color:var(--brand-2);border-bottom-style:solid}
-#xref-pop{position:absolute;z-index:60;width:min(430px,calc(100vw - 28px));background:var(--bg-elv);border:1px solid var(--divider);border-radius:10px;box-shadow:var(--shadow);padding:11px 13px;font-size:13.5px;line-height:1.75}
+#xref-pop{position:absolute;z-index:80;width:min(430px,calc(100vw - 28px));background:var(--bg-elv);border:1px solid var(--divider);border-radius:10px;box-shadow:var(--shadow);padding:11px 13px;font-size:13.5px;line-height:1.75}
 #xref-pop .xp-h{display:flex;align-items:flex-start;gap:8px;margin-bottom:7px}
 #xref-pop .xp-h b{flex:1;font-weight:600;line-height:1.5}
 #xref-pop .xp-h button{flex:none;border:1px solid var(--divider);background:var(--bg-soft);color:inherit;border-radius:6px;padding:2px 9px;font-size:12px;cursor:pointer;font-family:inherit;white-space:nowrap}
@@ -140,7 +143,7 @@ html.dark .switch .sun{display:none} html.dark .switch .moon{display:block}
 .toc-sub a{display:flex;gap:6px;padding:3px 0 3px 12px;margin-left:-1px;border-left:1px solid transparent;font-size:13px;line-height:20px;color:var(--t2);text-decoration:none;transition:color .2s}
 .toc-sub a:hover{color:var(--t1);text-decoration:none}
 .toc-sub a i{font-style:normal;flex:none;min-width:1.5em;color:var(--t3);font-variant-numeric:tabular-nums}
-.toc-sub a span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.toc-sub a span{display:-webkit-box;-webkit-line-clamp:2;line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .toc-sub a.on{color:var(--brand-1);border-left-color:var(--brand-1)}
 .toc-sub a.on i{color:var(--brand-1)}
 .toc-none{margin:0;padding:3px 0 3px 12px;font-size:13px;line-height:20px;color:var(--t3)}
@@ -519,7 +522,7 @@ function parseReadme(md){
     if (/^#{1,2} /.test(line)) { flush(); sec = null; continue; }
     if (!sec) continue;
     if ((m = /^### (\d+)\. (.+)$/.exec(line))) { flush(); entry = {sec:sec.n, n:m[1], title:m[2].trim(), cost:'', human:'', gain:'', grade:'', src:'', note:'', money:'', time:'', will:'', level:'', lens:'', tq:false}; continue; }
-    if ((m = /^<!--\s*nhan-chi-phi:\s*(.*?)\s*-->/.exec(line)) && entry){
+    if ((m = /^\x3c!--\s*nhan-chi-phi:\s*(.*?)\s*-->/.exec(line)) && entry){
       for (const kv of m[1].split(/\s+/)){ const [k,v] = kv.split('='); if(k==='tien') entry.money=v; if(k==='thoi-gian') entry.time=v; if(k==='y-chi') entry.will=v; if(k==='loi-ich') entry.level=v; if(k==='quy-mo') entry.lens=v; }
       continue;
     }
@@ -802,7 +805,7 @@ function spy(){
   clearTimeout(spyT);
   spyT = setTimeout(() => {
     const line = innerHeight * 0.3;        // vạch phán định lấy ở ba phần mười trên của viewport, gần vị trí người đọc
-    let hit = '', near = Infinity;
+    let hit = '';
     // Khi còn ở đầu trang đọc phần dẫn và bộ lọc, chưa có "mục đang xem", thanh địa chỉ
     // phải sạch. Không thì đứng trên cùng cũng bị ghi thành #e-1-1, refresh một cái là
     // cuộn tới tiêu đề phần 1, mất hết phần dẫn (2026-09-20 người dùng báo). Tiêu chí:
@@ -814,15 +817,27 @@ function spy(){
       history.replaceState(history.state, '', location.pathname + location.search);
       return;
     }
-    for (const c of CARDS){
-      // Không nhìn card.vis: đó là cờ render do CARD_IO duy trì, chậm hơn cuộn. Đo trực tiếp
-      // vị trí, cái nào cao 0 là đang bị bộ lọc giấu, bỏ qua luôn.
-      const r = c.el.getBoundingClientRect();
-      if (!r.height || r.bottom <= 0 || r.top >= innerHeight) continue;
-      if (r.top <= line && r.bottom > line){ hit = c.el.id; break; }   // ưu tiên cái cắt qua vạch phán định
-      const d = Math.abs(r.top - line);
-      if (d < near){ near = d; hit = c.el.id; }
+    // Chỉ nhìn tiêu đề: tiêu đề đầu tiên từ trên xuống không bị thanh đầu trang che là mục đang
+    // đọc. Bản gốc đã thử ba cách khác (vạch ba phần mười, phần lộ ra nhiều hơn, đường giữa còn
+    // trong màn hình) và đều có lúc sai (2026-10-05). Tiêu đề phần tính là tiêu đề mục 1 của phần
+    // đó, không thì lúc đọc đoạn mở đầu và khối dẫn đường sẽ sáng mục cuối của phần trước. Màn
+    // hình không có tiêu đề nào (một mục cao hơn một màn) thì lấy mục cuối có tiêu đề đã cuộn lên trên.
+    const top = Math.max(0, document.querySelector('header.nav').getBoundingClientRect().bottom);
+    const heads = [];                        // [mép trên tiêu đề, id mục]
+    for (const b of BLOCKS){
+      const r = b.el.getBoundingClientRect();
+      if (!r.height) continue;
+      const first = CARDS.find(c => c.el.closest('.sec-block') === b.el && c.el.getBoundingClientRect().height);
+      if (first) heads.push([r.top, first.el.id]);
     }
+    for (const c of CARDS){
+      // Không nhìn card.vis: đó là cờ render do CARD_IO duy trì, chậm hơn cuộn. Cao 0 là đang bị lọc giấu.
+      if (!c.el.getBoundingClientRect().height) continue;
+      heads.push([c.el.querySelector('.card-h').getBoundingClientRect().top, c.el.id]);
+    }
+    heads.sort((x, y) => x[0] - y[0]);
+    hit = heads.find(([t]) => t >= top && t < innerHeight)?.[1]
+      || heads.filter(([t]) => t < top).pop()?.[1] || '';
     if (hit === spyLast) return;
     spyLast = hit; tocSync(hit);
     history.replaceState(history.state, '', location.pathname + location.search + (hit ? '#' + hit : ''));
@@ -912,7 +927,11 @@ document.addEventListener('keydown', ev => {
   if (ev.key === 'Enter' && ev.target.classList?.contains('xref')) showXref(ev.target);
 });
 POP.querySelector('.xp-x').addEventListener('click', () => { POP.hidden = true; });
-POP.querySelector('.xp-go').addEventListener('click', () => { gotoItem(POP.dataset.go, POP.dataset.from); POP.hidden = true; });
+POP.querySelector('.xp-go').addEventListener('click', () => {
+  // Bấm từ trong cửa sổ bài dài thì phải đóng cửa sổ trước mới thấy mục vừa nhảy tới
+  if (!DM.mask.hidden) dmClose();
+  gotoItem(POP.dataset.go, POP.dataset.from); POP.hidden = true;
+});
 addEventListener('resize', () => { POP.hidden = true; });
 
 const COST_W = { money:{'0':0,'it':1,'nhieu':2}, time:{'it':0,'vua':1,'nhieu':2}, will:{'khong':0,'chut':1,'nhieu':2} };
@@ -1306,6 +1325,23 @@ function dmRender(md){
   flush();
   return { html: out.join('\n'), heads, title };
 }
+// Trích "phần X, mục Y" trong bài dài cũng phải bấm được (bản gốc 2026-10-01).
+// dmRender trả chuỗi HTML, nên render xong mới duyệt từng text node đưa cho xrefInto;
+// chữ trong link và code không động. Bài dài không có "phần này", "mục N" trần không
+// trỏ mục sách, nên CUR_SEC đặt rỗng: xrefKeys không ra key nào thì để nguyên chữ.
+function dmXrefs(root){
+  const saved = CUR_SEC; CUR_SEC = '';
+  const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT,
+    { acceptNode: n => n.parentElement.closest('a,code') ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  const nodes = [];
+  while (w.nextNode()) if (/(phần|mục)\s*\d/.test(w.currentNode.nodeValue)) nodes.push(w.currentNode);
+  for (const n of nodes){
+    const f = document.createDocumentFragment();
+    xrefInto(f, n.nodeValue, []);
+    n.replaceWith(f);
+  }
+  CUR_SEC = saved;
+}
 // Offset của tiêu đề so với khung cuộn. Không dùng offsetTop: nó đo khoảng cách tới
 // tổ tiên được định vị gần nhất, container không set position thì nó đo sang chỗ khác
 // (2026-09-21 mục lục bấm không nhảy là vì vậy).
@@ -1313,20 +1349,24 @@ function dmTopOf(el){
   return el.getBoundingClientRect().top - DM.doc.getBoundingClientRect().top + DM.doc.scrollTop;
 }
 function dmSpy(){
-  const top = DM.doc.scrollTop + 90; let cur = DM.heads[0];
+  // Vạch phán định lấy ba phần mười trên như spy của trang chính. Trước là 90px từ đỉnh:
+  // phần sau đã chiếm quá nửa màn mà mục lục vẫn sáng phần trước
+  const top = DM.doc.scrollTop + Math.max(90, DM.doc.clientHeight * 0.3); let cur = DM.heads[0];
   for (const h of DM.heads){ const el = document.getElementById(h.id); if (el && dmTopOf(el) <= top) cur = h; }
   for (const a of DM.toc.children) a.classList.toggle('on', !!cur && a.dataset.id === cur.id);
 }
 let dmSpyTick = false;
 DM.doc.addEventListener('scroll', () => {
+  POP.hidden = true;                       // khung nổi đặt theo tọa độ trang, bài dài cuộn là lệch khỏi trích
   if (dmSpyTick) return; dmSpyTick = true;
   requestAnimationFrame(() => { dmSpyTick = false; dmSpy(); });
 });
 function dmClose(){
   if (DM.mask.hidden) return;
   DM.mask.hidden = true;
+  POP.hidden = true;
   document.body.style.overflow = '';
-  DM.lastFocus?.focus?.();
+  DM.lastFocus?.focus?.({ preventScroll: true });   // không thì vừa "Nhảy tới" xong lại bị kéo về link cũ
   DM.lastFocus = null;
 }
 async function dmOpen(path, from){
@@ -1350,6 +1390,7 @@ async function dmOpen(path, from){
   const r = dmRender(md);
   if (r.title) DM.title.textContent = r.title;
   DM.doc.innerHTML = r.html;
+  dmXrefs(DM.doc);
   DM.heads = r.heads;
   for (const h of r.heads){
     const a = document.createElement('a');
@@ -1381,7 +1422,13 @@ document.addEventListener('click', ev => {
 });
 document.getElementById('dm-x').addEventListener('click', dmClose);
 DM.mask.addEventListener('click', ev => { if (ev.target === DM.mask) dmClose(); });
-document.addEventListener('keydown', ev => { if (ev.key === 'Escape' && !DM.mask.hidden){ ev.stopPropagation(); dmClose(); } }, true);
+// Esc đóng khung nổi trích dẫn trước, bấm lần nữa mới đóng cửa sổ bài dài
+document.addEventListener('keydown', ev => {
+  if (ev.key !== 'Escape' || DM.mask.hidden) return;
+  ev.stopPropagation();
+  if (!POP.hidden){ POP.hidden = true; return; }
+  dmClose();
+}, true);
 
 (async function init(){
   const status = document.getElementById('status');
