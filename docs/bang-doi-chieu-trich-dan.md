@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1309 trích dẫn.
+Tổng cộng 1321 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1331,9 +1331,16 @@ Tổng cộng 1309 trích dẫn.
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Cách nhận ra bệnh cấp và cách gọi xe nằm ở … |
 | Mở đầu phần | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Con cái sau khi cha mẹ qua đời xem … |
 | Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …Mục 1 tới … |
-| Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …Mục 1 tới … |
-| Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …Mục 1 tới … |
-| Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …h rõ về ngủ, bài tập, thể dục, xếp hạng) và … |
+| Mở đầu phần | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …Mục 1 tới … |
+| Mở đầu phần | mục 13 | Sau khi răng hàm vĩnh viễn mọc ra làm hàn rãnh gờ | … mục 8, mục 12 (khám khúc xạ có giãn đồng), … |
+| Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 16 | Quản con đừng ra tay đánh, cũng đừng quát mắng, mắng nó ngu: trẻ hay bị đánh mắng có nhiều vấn đề về hành vi và cảm xúc hơn | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 16 | Quản con đừng ra tay đánh, cũng đừng quát mắng, mắng nó ngu: trẻ hay bị đánh mắng có nhiều vấn đề về hành vi và cảm xúc hơn | … Trong đó … |
+| Mở đầu phần | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | …ục 16 (đừng ra tay đánh, đừng quát mắng) và … |
+| Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …ịnh rõ về ngủ, bài tập, thể dục, xếp hạng), … |
+| Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …xếp hạng), mục 11 (nghỉ học giữ chỗ học) và … |
 | mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … xem cách nhận ra bệnh cấp và cách gọi xe ở … |
 | mục 2 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …c trọng điểm của đợt khám thể học sinh (xem … |
 | mục 2 | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …hất 1 năm, và chỗ học vẫn được giữ lại (xem … |
@@ -1358,9 +1365,14 @@ Tổng cộng 1309 trích dẫn.
 | mục 14 | mục 10 | Ngủ, bài tập, thể dục và xếp hạng đều có quy định rõ, trường làm không tới có thể đề nghị | … Yêu cầu rõ về ngủ xem … |
 | mục 14 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … (ngủ, bài tập, thể dục), về ngoài trời xem … |
 | mục 14 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …ài trời 2 tiếng), về thời gian màn hình xem … |
+| mục 14 | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | …rường cai nghiện mạng quản lý khép kín, xem … |
 | mục 15 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …i không muốn sống, bạn gọi 12356 trước, xem … |
 | mục 15 | phần 6, mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | … Vì sao đừng đụng tới "chỉnh chuyển", xem … |
 | mục 15 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Bạn cũng có thể theo … |
+| mục 16 | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | … Cách quản thay thế là gì, bạn xem … |
+| mục 16 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …n và xin lệnh bảo vệ an toàn thân thể xem ở … |
+| mục 17 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … khoa tâm thần hoặc khoa tâm lý trẻ em, xem … |
+| mục 18 | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | … Con mê game thì trước hết bạn làm theo … |
 
 ## 31-nhung-con-duong-sau-tuoi-muoi-tam
 
