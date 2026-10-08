@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1269 trích dẫn.
+Tổng cộng 1275 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -822,6 +822,12 @@ Tổng cộng 1269 trích dẫn.
 | mục 10 | mục 9 | Không có ủy quyền bằng văn bản thì không test hệ thống của người khác; "xuất phát từ thiện ý" và "báo cáo sau khi làm" đều không phải lý do thoát tội | … Bạn có tư cách đi test hay không thì xem … |
 | mục 15 | mục 4 | Crawler chỉ cào trang công khai không cần đăng nhập, không né chống cào, không đụng thông tin cá nhân, dữ liệu cào được không đem bán | …cấp thông tin cá nhân cấu thành tội thì xem … |
 | mục 16 | phần 26, mục 4 | Máy chủ đặt trong nội địa thì phải đăng ký, nhà tiếp nhập bắt buộc tự phải cầm phép viễn thông gia tăng | …g cấp dịch vụ có đủ phép hay không, bạn xem … |
+| mục 17 | mục 19 | Không dựng "trạm trung chuyển AI" bán lại giá rẻ API mô hình lớn của nước ngoài: ở Thượng Hải đã có chủ trạm bị tạm giữ hình sự | …á rẻ API mô hình lớn của nước ngoài thì xem … |
+| mục 18 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | …đền tiền vì cạnh tranh không lành mạnh, xem … |
+| mục 19 | phần 26, mục 2 | Website thu tiền phần lớn phải có giấy phép, tự bán hàng mà không cho người khác vào mở cửa hàng thì không cần, khớp nối giao dịch là loại phép khác, miễn phí chỉ cần đăng ký | … xin giấy phép kinh doanh khi thu tiền, xem … |
+| mục 19 | phần 26, mục 10 | Thông tin người dùng đừng tiện tay để ngoài cảnh, xuất cảnh có điều kiện pháp định và nóc số người | …nước ngoài phải đủ điều kiện luật định, xem … |
+| mục 19 | phần 14, mục 10 | Đừng giao mã nguồn, khóa truy cập và tài liệu riêng tư cho "trạm trung chuyển AI" không rõ nguồn gốc, nhất là khi bạn để AI tự chạy lệnh | …trạm trung chuyển còn gặp rủi ro riêng, xem … |
+| mục 19 | mục 17 | Trước khi cung cấp dịch vụ AI tạo sinh cho công chúng phải làm đánh giá an ninh và đăng ký thuật toán theo đúng quy định; nội dung tạo ra phải gắn nhãn | …o sinh cho công chúng thì phải đăng ký, xem … |
 
 ## 12-khoi-nghiep-va-lam-an
 
@@ -989,7 +995,7 @@ Tổng cộng 1269 trích dẫn.
 | mục 5 | mục 1 | Email, thanh toán, tài khoản mạng xã hội đều bật xác minh hai bước; ưu tiên xác nhận bằng cửa sổ bật trên điện thoại, mã xác minh SMS chỉ đứng sau | …ho ai, mã xác minh không chuyển cho ai (xem … |
 | mục 9 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … khoản vay của chính họ là chuyện khác, xem … |
 | mục 9 | mục 8 | Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; bị từ chối có thể khởi kiện | …ửa, xóa thông tin cá nhân của mình, bạn xem … |
-| mục 10 | phần 11, mục 19 | **Trỏ tới mục không tồn tại** | …mở trạm trung chuyển có rủi ro hình sự, xem … |
+| mục 10 | phần 11, mục 19 | Không dựng "trạm trung chuyển AI" bán lại giá rẻ API mô hình lớn của nước ngoài: ở Thượng Hải đã có chủ trạm bị tạm giữ hình sự | …mở trạm trung chuyển có rủi ro hình sự, xem … |
 
 ## 15-thue-va-mua-nha
 
