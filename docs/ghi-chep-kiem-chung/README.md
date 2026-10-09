@@ -9,3 +9,5 @@ Mỗi file ghi quá trình đối chiếu nguồn của một phần hay một c
 Quy ước đặt tên: theo số phần hoặc chủ đề, ví dụ `01-dung-chet-som.md`, `trong-tai-lao-dong.md`. Một file một phần/chủ đề, không gộp.
 
 Khi sửa mục: nguồn mới thêm vào thì ghi lại lần kiểm chứng ở file tương ứng; đại lượng lợi ích nào số không đủ để máy móc áp ngưỡng, phải ghi rõ cứ cái gì mà định.
+
+Đợt đồng bộ với bản gốc tháng 10/2026 không kiểm lại nguồn. File [dong-bo-upstream-2026-10.md](dong-bo-upstream-2026-10.md) trỏ tới ghi chép kiểm chứng của bản gốc cho 38 mục mới.

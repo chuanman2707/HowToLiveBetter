@@ -1,6 +1,6 @@
 # Cưới có đáng không: tách một bút sổ rối thành năm bút sổ rõ
 
-Nhiều người muốn hỏi là một câu hỏi bao quát: cưới rốt cuộc lỗ hay lời. Trong câu hỏi này nhét mấy thứ: đối phương cho được ủng hộ tình cảm không, chia việc nhà được không, kiếm được tiền không, và có nên để ứng phó người lớn mà cưới không. Mấy thứ này quy đổi không vào nhau, để chung không trả lời được, nên bài này tách ra tính. Mỗi bút sổ chỉ dùng số trong thống kê chính thức hay tổng hợp phân tích (gom nhiều nghiên cứu lại tính), chỗ tính không ra nói thẳng tính không ra. Cuối cho một tờ danh sách tự điền, toàn văn không cho kết luận "nên cưới hay không".
+Nhiều người muốn hỏi là một câu hỏi bao quát: cưới rốt cuộc lỗ hay lời. Trong câu hỏi này nhét mấy thứ: đối phương cho được ủng hộ tình cảm không, chia việc nhà được không, kiếm được tiền không, và có nên để ứng phó người lớn mà cưới không. Mấy thứ này quy đổi không vào nhau, để chung không trả lời được, nên bài này tách ra tính. Mỗi bút sổ chỉ dùng số trong thống kê chính thức hay tổng hợp phân tích (gom nhiều nghiên cứu lại tính), chỗ tính không ra nói thẳng tính không ra. Cuối cho một tờ danh sách tự điền, toàn văn không cho kết luận "nên cưới hay không". Luật và thủ tục trong bài là của Trung Quốc.
 
 ## I. Trước tách câu hỏi ra
 
@@ -9,7 +9,7 @@ Trong "cưới có đáng không" ít nhất chứa năm bút sổ. Năm bút n�
 1. Tiền: một là thật sự phải moi ra như sính lễ, hôn lễ, nhà cưới, hai là tài sản pháp luật quy định về ai. Hạng trước không có thống kê chính thức, hạng sau có điều khoản văn rõ.
 2. Thời gian: việc nhà, chiếu khán người nhà, nhường bước cho công việc đối phương, mấy thứ này đều là lao động làm rồi không ai trả tiền, đơn vị là mỗi ngày bao nhiêu phút.
 3. Sức khỏe: người cưới rồi và người chưa cưới, tử suất chênh bao nhiêu. Bút sổ này chỉ nói được hai việc đồng thời xuất hiện, nói không ra khoảng chênh này do cưới mang lại.
-4. Nguy cơ pháp luật: tài sản chia thế nào, muốn rời phải đi bao lâu, những phó xuất nào có thể quay đầu đòi một khoản bồi thường. Bút sổ này xem điều văn pháp luật viết thế nào.
+4. Nguy cơ pháp luật: tài sản chia thế nào, muốn rời phải đi bao lâu, những phó xuất nào có thể quay đầu đòi một khoản bồi thường, và lúc bệnh nặng thì ai có thể quyết định thay bạn. Bút sổ này xem điều văn pháp luật viết thế nào.
 5. Chất lượng quan hệ: đối phương cho bạn ủng hộ tình cảm không, hai người cãi thành dạng gì. Bút sổ này chỉ dùng độ mạnh tương quan nghiên cứu tính ra để cân đo, đổi không ra tiền, cũng đổi không ra thời gian.
 
 Bút thứ năm khó thành con số nhất, nhưng gần nhất với thứ đa số người muốn hỏi.
@@ -42,7 +42,7 @@ Hai lần điều tra này đều chỉ chia theo giới tính, thành hương, 
 
 ### Bút sổ tiền: quy tắc mặc định, ước định văn bản và bồi thường việc nhà
 
-Mấy hạng sính lễ, hôn lễ, nhà cưới không có thống kê chính thức, bài này không viết số. Viết rõ được là quy tắc biên hôn nhân gia đình của Điển Dân sự định xuống. Điển Dân sự thi hành từ 1/1/2021.
+Mấy hạng sính lễ, hôn lễ, nhà cưới không có thống kê chính thức, bài này không viết số. Viết rõ được là quy tắc biên hôn nhân gia đình của Bộ luật Dân sự định xuống. Bộ luật Dân sự thi hành từ 1/1/2021.
 
 - Điều 1062: từ ngày cưới tới ngày ly hôn, bốn thứ đoạt được trong khoảng này đều tính tài sản cộng đồng hai người. Một là lương, tiền thưởng, thù lao lao vụ. Hai là lợi ích làm sinh ý và đầu tư. Ba là lợi ích quyền tri thức. Bốn là tài sản kế thừa được hay người khác tặng cho. Thứ tư có ngoại lệ: di chúc hay hợp đồng tặng viết rõ chỉ cho một người, không tính tài sản cộng đồng. Tài sản cộng đồng hai người có quyền xử lý ngang nhau.
 - Điều 1063: có bốn thứ tính tài sản cá nhân, lúc ly hôn không vào tài sản cộng đồng. Một là tài sản trước cưới đã có. Hai là bồi thường hay đền bù thân thể bị thương hại lấy được. Ba là tài sản di chúc hay hợp đồng tặng viết rõ chỉ về một phương. Bốn là đồ dùng sinh hoạt chuyên dụng một phương.
@@ -58,6 +58,19 @@ Bộ quy tắc này hai phía đều dùng được. Phương kiếm tiền nhi�
 - Điều 1079: một phương muốn ly, phương kia không đồng ý, có thể trước hòa giải, cũng có thể trực tiếp tới tòa khởi tố. Tới tòa, tòa cũng trước hòa giải. Tòa xác nhận tình cảm quả đã vỡ vụn, hòa giải cũng vô dụng, phải phán ly. Mấy tình huống dưới đây, hòa giải vô hiệu phải phán ly: trùng hôn hay cùng người khác ở chung, bạo lực gia đình hay ngược đãi vứt bỏ, thói xấu cờ bạc độc phẩm dạy mãi không sửa, vì tình cảm không hòa ly thân đủ hai năm. Còn một tình huống: lần đầu phán không cho ly, sau đó hai người lại ly thân đủ một năm, khởi tố lại phải phán ly.
 
 Trong 3,513 triệu đôi ly hôn năm 2024, có 891 nghìn đôi ly qua phán quyết hay hòa giải tòa. Kỳ lãnh tĩnh chỉ quản ly hôn đăng ký, đi tòa đánh kiện không thích dụng kỳ lãnh tĩnh.
+
+### Tư cách pháp lý: vợ hoặc chồng là thân nhân gần, lúc bệnh nặng có thể quyết định thay bạn
+
+Cưới xong, người kia về mặt luật là thân nhân gần của bạn. Điều 1045 Bộ luật Dân sự Trung Quốc liệt kê các thân nhân gần, và vợ hoặc chồng đứng đầu danh sách. Tư cách này dùng được trong mấy trường hợp sau.
+
+- Mổ: Điều 1219 Bộ luật Dân sự quy định, trước khi mổ, khám đặc biệt hay điều trị đặc biệt, bác sĩ phải nói rõ rủi ro với chính bệnh nhân và được chính bệnh nhân đồng ý rõ ràng. Nếu bệnh nhân hôn mê nên không giải thích được, hoặc không nên nói thẳng với bệnh nhân, bác sĩ phải giải thích với thân nhân gần, và thân nhân gần là người đồng ý. Khi bệnh nhân còn tỉnh, người ký là chính bệnh nhân, vợ hoặc chồng không ký thay được.
+- Cấp cứu: Điều 1220 Bộ luật Dân sự quy định, nếu bệnh nhân nguy kịch mà không hỏi được ý kiến của bệnh nhân hay thân nhân gần, bệnh viện có thể cứu ngay sau khi người phụ trách bệnh viện phê duyệt. Người nhà không có mặt thì luật vẫn cho phép bệnh viện cứu trước.
+- Lâu dài không tự quyết định được: khi người trưởng thành đã mất năng lực hành vi dân sự, Điều 28 Bộ luật Dân sự xếp người giám hộ theo thứ tự, vợ hoặc chồng đứng đầu, cha mẹ và con cái đứng thứ hai. Nếu bạn đã chỉ định người giám hộ bằng văn bản từ trước, Điều 33 Bộ luật Dân sự cho người được chỉ định đó làm giám hộ.
+- Thừa kế: theo Điều 1127 Bộ luật Dân sự, hàng thừa kế thứ nhất gồm vợ hoặc chồng, con cái và cha mẹ. Nếu bạn không lập di chúc, vợ hoặc chồng của bạn chia di sản cùng con cái và cha mẹ bạn.
+
+Lợi thế này có hai điểm cần trừ bớt. Thứ nhất, Điều 1219 Bộ luật Dân sự chỉ ghi "thân nhân gần" và không xếp thứ tự giữa các thân nhân gần. Cha mẹ và con cái đã trưởng thành cũng là thân nhân gần. Khi họ không cùng ý kiến thì nghe ai, luật không viết.
+
+Thứ hai, người yêu chưa đăng ký kết hôn cũng bù được phần lớn. Cách làm là nhân lúc hai người còn tỉnh táo, lập sẵn giấy ủy quyền bằng văn bản, thỏa thuận giám hộ tự định (chỉ định trước người giám hộ) và di chúc. Chi tiết xem phần 10, mục 18 (ủy quyền, giám hộ tự định và di chúc). Mục đó viết về cặp đồng giới, nhưng ba loại giấy này cặp khác giới chưa đăng ký cũng làm được. Có điều, người giám hộ tự định có ký thẳng được giấy đồng ý mổ hay không thì mỗi bệnh viện làm một kiểu. Nếu đã cưới, mấy tư cách trên có đủ ngay khi nhận giấy đăng ký kết hôn, bạn không phải làm từng thứ, và cũng đỡ bị bệnh viện hay người nhà bắt bẻ giấy tờ.
 
 ### Chất lượng quan hệ: đáng tính hơn "có cưới chưa" một bút
 
@@ -89,6 +102,7 @@ Trên pháp luật bảo hộ mình thế nào (hai phía đều thích dụng)
 - Có nên ký một phần ước định tài sản văn bản không. Phần ước định này chỉ quản tài sản trước cưới, chỉ quản sau cưới kiếm được, hay hai đầu đều quản.
 - Sau cưới việc nhà và chiếu khán ai làm nhiều hơn. Phương làm nhiều, có biết theo Điều 1088 có thể đòi một khoản bồi thường không. Hai người nguyện trước ước định sẵn cách bồi thường không.
 - Nợ: tiền sau cưới mượn dưới danh nghĩa cá nhân, khoản nào sẽ tính nợ cộng đồng hai người. Phương kia có biết khoản tiền này không.
+- Lúc bệnh nặng hay hôn mê, bạn muốn ai ký thay và quyết định thay. Nếu đã cưới, vợ hoặc chồng là thân nhân gần, nhưng cha mẹ bạn cũng là thân nhân gần và có thể không cùng ý kiến. Muốn chỉ định một người, bạn có thể làm giám hộ tự định bằng văn bản từ trước. Nếu không cưới, bạn phải tự làm giấy ủy quyền, giám hộ tự định và di chúc.
 
 Cột cưới vì người lớn riêng điền
 
@@ -114,7 +128,7 @@ Chỗ không có số chính thức, đừng cầm số dân gian điền. Chi p
 - 民政部 (2025). 2024 年民政事业发展统计公报（五（二）1 婚姻登记服务、注释 5）. <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html>（PDF：<https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>）
 - 国家统计局 (2024). 第三次全国时间利用调查公报（第一号、第二号、第三号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>；国家统计局社科文司负责人答记者问. <https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html>
 - 国家统计局 (2019). 2018 年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
-- 全国人民代表大会 (2020). 中华人民共和国民法典（第一千零六十二、一千零六十三、一千零六十五、一千零七十六、一千零七十七、一千零七十九、一千零八十八条）. 国家法律法规数据库 <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>；条文全文见最高人民法院公报转载 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>
+- 全国人民代表大会 (2020). 中华人民共和国民法典（第二十八、三十三、一千零四十五、一千零六十二、一千零六十三、一千零六十五、一千零七十六、一千零七十七、一千零七十九、一千零八十八、一千一百二十七、一千二百一十九、一千二百二十条）. 国家法律法规数据库 <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>；条文全文见最高人民法院公报转载 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>
 - 民政部 (2020). 关于贯彻落实《中华人民共和国民法典》中有关婚姻登记规定的通知（民发〔2020〕116 号）. <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>
 - Manzoli L, Villari P, Pirone GM, Boccia A (2007). Marital status and mortality in the elderly: a systematic review and meta-analysis. Soc Sci Med 64:77–94. <https://doi.org/10.1016/j.socscimed.2006.08.031>
 - Roelfs DJ, Shor E, Kalish R, Yogev T (2011). The rising relative risk of mortality for singles: meta-analysis and meta-regression. Am J Epidemiol 174(4):379–389. <https://doi.org/10.1093/aje/kwr111>

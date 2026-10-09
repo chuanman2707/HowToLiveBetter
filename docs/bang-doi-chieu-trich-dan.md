@@ -20,7 +20,7 @@ chữ trùng với tiêu đề mục đích ("trợ cấp y tế xem mục 11" c
 hoặc viết tường minh "xem mục 16 (giấy vay và bảo lãnh)").
 `node tools/check-refs.mjs --check` coi trích không anchor là fail — loại đó
 bị dồn lệch thì diff của bảng cũng không thấy gì, chỉ có anchor chặn được.
-Trích khoảng ("mục 11 đến 14") và trích cả phần ("phần 8") là ngoại lệ: trỏ
+Trích khoảng ("mục 11 đến 14", "mục 11 tới 14") và trích cả phần ("phần 8") là ngoại lệ: trỏ
 cả một khối, không ghép anchor từng mục được, chỉ trông vào diff.
 
 Anchor đủ hay không xét theo độ dài và khoảng cách, sau khi chuẩn hóa bỏ dấu:
@@ -31,13 +31,59 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 765 trích dẫn.
+Tổng cộng 1584 trích dẫn.
 
 ## 01-dung-chet-som
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Thắt dây an toàn, cả ghế trước lẫn ghế sau | … thắt dây an toàn (… |
+| Mở đầu phần | mục 2 | Đi xe máy, xe đạp điện phải đội mũ bảo hiểm và cài quai chặt | … đội mũ bảo hiểm và cài quai chặt (… |
+| Mở đầu phần | mục 9 | Lái xe không vượt tốc độ, không lái xe khi đã uống rượu | …vượt tốc độ, không lái xe khi đã uống rượu (… |
+| Mở đầu phần | mục 10 | Cho trẻ dưới 4 tuổi ngồi ghế an toàn, đừng bế trên tay | … cho trẻ dưới 4 tuổi ngồi ghế an toàn (… |
+| Mở đầu phần | mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … lắp máy báo khói (… |
+| Mở đầu phần | mục 4 | Ống mềm dẫn gas và bếp gas hết hạn thì thay, không tự sửa đường ống, người công ty gas đến nhà chào hàng có thể từ chối thẳng | …ng mềm dẫn gas và bếp gas hết hạn thì thay (… |
+| Mở đầu phần | mục 6 | Không đẩy xe đạp điện vào hành lang chung, không cho vào thang máy, không sạc trong nhà | … không đẩy xe đạp điện vào hành lang chung (… |
+| Mở đầu phần | mục 26 | Chuẩn bị đủ bình chữa cháy, chăn chữa cháy, mặt nạ thoát hiểm và túi sơ cứu, mỗi năm kiểm tra một lần | …chữa cháy, mặt nạ thoát hiểm và túi sơ cứu (… |
+| Mở đầu phần | mục 42 | Lắp tấm chắn bảo vệ, đeo kính bảo hộ cùng tấm che mặt rồi mới dùng máy mài góc, hai tay giữ chắc, đừng lắp lưỡi cưa gỗ để cắt gỗ | … cùng tấm che mặt rồi mới dùng máy mài góc (… |
+| Mở đầu phần | mục 11 | Nhà có trẻ nhỏ thì lắp chốt giới hạn cho cửa sổ và ban công, cửa lưới không tính là chắn | … lắp chốt giới hạn cho cửa sổ và ban công (… |
+| Mở đầu phần | mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | … trẻ em gần nước thì không rời mắt (… |
+| Mở đầu phần | mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …ên 60 tuổi tập thăng bằng và sức mạnh chân (… |
+| Mở đầu phần | mục 5 | Không hái, không mua, không ăn nấm rừng, mọi "mẹo dân gian phân biệt" đều không đúng | … Không hái, không mua, không ăn nấm rừng (… |
+| Mở đầu phần | mục 36 | Không nhặt, không tháo, không bán mảnh kim loại không rõ nguồn, thấy biển cảnh báo hình cỏ ba lá (ký hiệu phóng xạ) thì tránh xa | …áo, không bán mảnh kim loại không rõ nguồn (… |
+| Mở đầu phần | mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | …ặt băng ngoài trời, hãy khoan lỗ đo độ dày (… |
+| Mở đầu phần | mục 14 | Xét nghiệm năm chỉ số viêm gan B, không có kháng thể thì đi tiêm vaccine | … xét nghiệm năm chỉ số viêm gan B (… |
+| Mở đầu phần | mục 15 | Bị đinh, gai gỗ đâm hoặc vết thương dính đất thì đi xử lý trong ngày, tiện hỏi uốn ván có cần tiêm không | …ết thương dính đất thì đi xử lý trong ngày (… |
+| Mở đầu phần | mục 16 | Phụ nữ tiêm vaccine HPV, càng sớm càng tốt | … Phụ nữ tiêm vaccine HPV (… |
+| Mở đầu phần | mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … tiêm vaccine cúm mỗi năm (… |
+| Mở đầu phần | mục 21 | Sau 50 tuổi tiêm vaccine zona thần kinh (giời leo) | … tiêm vaccine zona thần kinh (… |
+| Mở đầu phần | mục 22 | Trên 65 tuổi tiêm vaccine phế cầu | … tiêm vaccine phế cầu (… |
+| Mở đầu phần | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | …yết áp, cao thì uống thuốc hạ về mức chuẩn (… |
+| Mở đầu phần | mục 8 | Sau 35 tuổi chỉ cần thừa cân thì đi xét nghiệm đường huyết lúc đói một lần, bình thường cũng cứ ba năm xét lại | … đi xét nghiệm đường huyết lúc đói một lần (… |
+| Mở đầu phần | mục 17 | Phụ nữ từ 40 tuổi tầm soát ung thư vú, cứ hai năm chụp nhũ ảnh một lần | … tầm soát ung thư vú (… |
+| Mở đầu phần | mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | … tầm soát ung thư cổ tử cung (… |
+| Mở đầu phần | mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | … Tầm soát ung thư đại trực tràng (… |
+| Mở đầu phần | mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | … xét nghiệm vi khuẩn Helicobacter pylori (… |
+| Mở đầu phần | mục 24 | Người hút thuốc nặng mỗi năm chụp CT lồng ngực liều thấp một lần | … chụp CT lồng ngực liều thấp (… |
+| Mở đầu phần | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … Đo mật độ xương bằng máy DXA (… |
+| Mở đầu phần | mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | … nhờ bác sĩ kê thuốc chống loãng xương (… |
+| Mở đầu phần | mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …nước tiểu có máu nhìn thấy bằng mắt thường (… |
+| Mở đầu phần | mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …ương có vấn đề, trước hết đi khám tim mạch (… |
+| Mở đầu phần | mục 29 | Giảm cân, bỏ thuốc, giữ huyết áp và đường huyết ổn định, chức năng cương dương khá lên theo | …thuốc, giữ huyết áp và đường huyết ổn định (… |
+| Mở đầu phần | mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …hệ tình dục dùng bao cao su suốt quá trình (… |
+| Mở đầu phần | mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | … đi xét nghiệm HIV một lần (… |
+| Mở đầu phần | mục 38 | Nam quan hệ đồng giới có hành vi tình dục nguy cơ cao, đến bệnh viện được chỉ định chữa AIDS hỏi thuốc dự phòng trước phơi nhiễm, uống đúng giờ giảm được trên bảy phần mười nguy cơ nhiễm | … hỏi thuốc dự phòng trước phơi nhiễm (… |
+| Mở đầu phần | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … không tích trữ thuốc ngủ và thuốc trừ sâu (… |
+| Mở đầu phần | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …nảy ra thì nói ngay cho một người bên cạnh (… |
+| Mở đầu phần | mục 37 | Khi đánh bạc đến mức vay tiền đánh tiếp, tâm trạng tụt dốc kéo dài, hãy gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà giữ | … khi đánh bạc đến mức vay tiền đánh tiếp (… |
+| Mở đầu phần | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Đừng lấy "cứu được rồi" làm điểm tựa (… |
+| Mở đầu phần | mục 34 | Đừng đánh cược "nằm vài ngày là khỏi" vào ngã từ trên cao: người vào ICU chấn thương phần lớn sống sót, cái giá tính bằng năm | …"nằm vài ngày là khỏi" vào ngã từ trên cao (… |
+| Mở đầu phần | mục 35 | Đừng lấy "thiếu một quả thận không sao" đổi tiền: quả còn lại phải làm việc thay hai quả, người bán thận sau đó 86% nói sức khỏe xấu đi | …ấy "thiếu một quả thận không sao" đổi tiền (… |
+| Mở đầu phần | mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …hông ổn "bạn có từng nghĩ đến tự tử không" (… |
 | mục 4 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Ngộ độc khí CO là chuyện khác, xem … |
+| mục 12 | mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | … Mùa đông ra chơi trên mặt băng thì xem … |
+| mục 13 | phần 17, mục 9 | Nếu đục thủy tinh thể của người già đã ảnh hưởng việc nhìn đường, đưa đi khoa mắt đánh giá để phẫu thuật; nếu cả hai mắt đều bị, đừng để mắt thứ hai chờ quá lâu | …hể đã ảnh hưởng đến việc nhìn đường thì xem … |
+| mục 13 | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | …ng có chịu nổi một cú ngã hay không thì xem … |
 | mục 16 | mục 18 | Phụ nữ trên 30 tuổi tầm soát ung thư cổ tử cung, ưu tiên xét nghiệm HPV | … Chi tiết xem … |
 | mục 25 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …t cục dài hạn sau khi tự tử chưa thành, xem … |
 | mục 25 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | …ười được cứu về sẽ phải mang gì sau đó, xem … |
@@ -48,17 +94,18 @@ Tổng cộng 765 trích dẫn.
 | mục 28 | mục 29 | Giảm cân, bỏ thuốc, giữ huyết áp và đường huyết ổn định, chức năng cương dương khá lên theo | … Cách cải thiện xem … |
 | mục 28 | mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …i ích cũng không ghi "nhỏ", vì tín hiệu như … |
 | mục 29 | phần 2, mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
-| mục 29 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …(bỏ thuốc, càng sớm càng tốt), giảm cân xem … |
+| mục 29 | phần 2, mục 32 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …(bỏ thuốc, càng sớm càng tốt), giảm cân xem … |
 | mục 29 | phần 28, mục 4 | Đừng mua thuốc giảm cân, cà phê giảm cân, kẹo gầy và mơ enzyme hứa "gầy nhanh" | … Cách nhận biết xem … |
 | mục 29 | mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … (giữ BMI trong khoảng 20–25), huyết áp xem … |
 | mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Đã phơi nhiễm rồi thì làm sao xem … |
 | mục 31 | phần 27 | 27-mang-thai-va-sinh-con (cả phần) | …a bệnh trong thai kỳ và chặn lây mẹ-con xem … |
-| mục 32 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ng, phơi nắng, ngủ đúng giờ, gọi 12356) xem … |
+| mục 32 | phần 3, mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …ng, phơi nắng, ngủ đúng giờ, gọi 12356) xem … |
 | mục 32 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … cạnh để lộ ý nghĩ này bạn làm được gì, xem … |
 | mục 32 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … tiện gây chết ra xa và đường dây 12356 xem … |
 | mục 32 | mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … Di chứng sau khi được cứu xem … |
+| mục 32 | mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …có ý nghĩ này, bạn có thể hỏi thẳng họ, xem … |
 | mục 33 | phần 13, mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Xử trí hiện trường khi ngộ độc khí CO xem … |
-| mục 33 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | … gây nôn trước, mang theo chai đi khám, xem … |
+| mục 33 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … gây nôn trước, mang theo chai đi khám, xem … |
 | mục 33 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ông tích trữ thuốc trừ sâu và thuốc ngủ xem … |
 | mục 34 | phần 17, mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …hứ đáng để mắt nhất là loét do nằm lâu, xem … |
 | mục 34 | phần 13, mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | …t khối tĩnh mạch sâu và thuyên tắc phổi xem … |
@@ -72,11 +119,64 @@ Tổng cộng 765 trích dẫn.
 | mục 37 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Ý nghĩ tự tử nảy ra sau đó làm sao, xem … |
 | mục 38 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | … Đã xảy ra hành vi nguy cơ thì cách cứu xem … |
 | mục 38 | mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | …khác, nên bạn vẫn phải dùng bao cao su, xem … |
+| mục 39 | mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | …cú ngã hay không, còn ngã ít đi thì dựa vào … |
+| mục 39 | mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | … Sau khi đo ra loãng xương thì làm gì, xem … |
+| mục 40 | phần 2, mục 43 | Quanh tuổi mãn kinh mà bốc hỏa, đổ mồ hôi trộm làm ảnh hưởng sinh hoạt thì đi khám phụ khoa để đánh giá liệu pháp hormone, đừng gắng chịu, đừng tự mua thuốc, càng đừng dùng nó để phòng bệnh tim | …rmone để chữa bốc hỏa và đổ mồ hôi đêm, xem … |
+| mục 40 | mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … Cách tìm ra loãng xương thì xem … |
+| mục 41 | phần 13, mục 25 | Thấy người đuối nước: trước kêu người và gọi 110/120, đưa sào, ném đồ nổi — mình không xuống nước | … Cách làm xem … |
+| mục 42 | phần 19, mục 10 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | … về khẩu trang và nút bịt tai, xem … |
+| mục 42 | phần 13, mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … máu lớn, bạn ấn chặt vết thương trước, xem … |
+| mục 43 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … có thể báo 110 (tổng đài cảnh sát TQ), xem … |
+| mục 43 | mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … thuốc men lẫn thuốc trừ sâu cất ra xa, xem … |
+| mục 43 | mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | …ến lúc ra tay thường chỉ vài chục phút, xem … |
 
 ## 02-dung-chet-tu-tu
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc lá càng sớm càng tốt (… |
+| Mở đầu phần | mục 2 | Đừng hút thuốc trong nhà và trong xe, cũng đừng để khách hút trong nhà | …c 1), đừng hút thuốc trong nhà và trong xe (… |
+| Mở đầu phần | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | …i thuốc đừng chỉ nhịn, trước hết lấy thuốc (… |
+| Mở đầu phần | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … lấy thuốc (mục 3), đặt một ngày cai thuốc (… |
+| Mở đầu phần | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | … Đi phòng khám cai thuốc hoặc gọi 12320 (… |
+| Mở đầu phần | mục 6 | Cai không được rồi mới cân nhắc thuốc lá điện tử, người vốn không hút thuốc đừng động vào | …ông được rồi mới cân nhắc thuốc lá điện tử (… |
+| Mở đầu phần | mục 8 | Không nhai trầu cau | …ốc lá điện tử (mục 6), không nhai trầu cau (… |
+| Mở đầu phần | mục 19 | Uống ít rượu hoặc không uống | … Uống ít rượu hoặc không uống (… |
+| Mở đầu phần | mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …ại là run tay hồi hộp thì đừng tự mình cai (… |
+| Mở đầu phần | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … (mục 20), đếm xem một tuần uống bao nhiêu (… |
+| Mở đầu phần | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … không uống nước ngọt có đường (… |
+| Mở đầu phần | mục 18 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | …ngọt có đường (mục 7), ăn ít thịt chế biến (… |
+| Mở đầu phần | mục 28 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | …ến (mục 18), ăn ít thực phẩm siêu chế biến (… |
+| Mở đầu phần | mục 30 | Đồ nóng để bớt nguội một lát rồi hẵng uống, không uống trà, canh và cà phê còn phỏng | …đồ nóng để bớt nguội một lát rồi hẵng uống (… |
+| Mở đầu phần | mục 9 | Đổi muối ăn trong nhà sang muối ít natri (muối kali) | … đổi muối ăn trong nhà sang muối ít natri (… |
+| Mở đầu phần | mục 22 | Mỗi ngày ăn một nắm nhỏ hạt | …natri (mục 9), mỗi ngày ăn một nắm nhỏ hạt (… |
+| Mở đầu phần | mục 23 | Đổi một phần thịt đỏ sang cá và thịt gia cầm | …i một phần thịt đỏ sang cá và thịt gia cầm (… |
+| Mở đầu phần | mục 24 | Đổi một phần gạo trắng bột trắng sang ngũ cốc nguyên hạt | …ạo trắng bột trắng sang ngũ cốc nguyên hạt (… |
+| Mở đầu phần | mục 25 | Mỗi tuần uống trà ba lần trở lên | …(mục 24), mỗi tuần uống trà ba lần trở lên (… |
+| Mở đầu phần | mục 26 | Mỗi ngày uống ba đến bốn tách cà phê, không đường không kem phủ | … 25), mỗi ngày uống ba đến bốn tách cà phê (… |
+| Mở đầu phần | mục 27 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | … Mỗi ngày ăn đủ 5 phần rau củ quả (… |
+| Mở đầu phần | mục 33 | Mỗi tuần ăn ớt hơn bốn lần | …ủ quả (mục 27), mỗi tuần ăn ớt hơn bốn lần (… |
+| Mở đầu phần | mục 34 | Mỗi ngày uống một đến hai phần sữa hoặc sữa chua | …ày uống một đến hai phần sữa hoặc sữa chua (… |
+| Mở đầu phần | mục 35 | Không cần kiêng trứng, nhưng đừng mỗi ngày ba bốn quả | …c sữa chua (mục 34), không cần kiêng trứng (… |
+| Mở đầu phần | mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | …000 bước (… |
+| Mở đầu phần | mục 14 | Thường xuyên chơi các môn dùng vợt như quần vợt, cầu lông, bóng bàn | …ục 11), thường xuyên chơi các môn dùng vợt (… |
+| Mở đầu phần | mục 15 | Gom các hoạt động gắng sức rời rạc kiểu leo cầu thang, đi bộ nhanh cho đủ bốn năm phút mỗi ngày | …ục 14), gom các hoạt động gắng sức rời rạc (… |
+| Mở đầu phần | mục 16 | Mỗi tuần tập sức mạnh 30–60 phút | … Mỗi tuần tập sức mạnh (… |
+| Mở đầu phần | mục 17 | Đừng ngồi liền quá lâu, thỉnh thoảng đứng dậy cử động | … sức mạnh (mục 16), đừng ngồi liền quá lâu (… |
+| Mở đầu phần | mục 32 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …á lâu (mục 17), giữ BMI trong khoảng 20–25 (… |
+| Mở đầu phần | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … mỗi đêm ngủ khoảng 7 giờ (… |
+| Mở đầu phần | mục 37 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | …mục 13), giữ giấc ngủ trưa trong nửa tiếng (… |
+| Mở đầu phần | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …7), thức khuya thì đêm hôm sau ngủ bù ngay (… |
+| Mở đầu phần | mục 39 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | …ch càng cao, chuyển được ca thì chuyển sớm (… |
+| Mở đầu phần | mục 29 | Nấu ăn, sưởi ấm không đốt than và củi, đổi sang điện hoặc gas | … nấu ăn sưởi ấm không đốt than và củi (… |
+| Mở đầu phần | mục 40 | Mua dầu ăn đóng gói sẵn có mã SC, đừng mua dầu lạc tự ép rời của xưởng nhỏ | …, đừng mua dầu lạc tự ép rời của xưởng nhỏ (… |
+| Mở đầu phần | mục 41 | Nấu ăn dùng dầu thực vật thay mỡ heo và bơ, không cần vì sức khỏe mà đổi loại dầu, cũng đừng trông dầu hạt lanh bảo vệ tim | …c 40), dùng dầu thực vật thay mỡ heo và bơ (… |
+| Mở đầu phần | mục 42 | Mở máy hút mùi khi xào nấu, chiên rán, mở từ lúc bật bếp đến khi nấu xong | …và bơ (mục 41), mở máy hút mùi khi xào nấu (… |
+| Mở đầu phần | mục 10 | Đánh răng kỹ, mỗi ngày làm sạch kẽ răng một lần, mất răng thì trồng lại kịp thời | …răng kỹ, mỗi ngày làm sạch kẽ răng một lần (… |
+| Mở đầu phần | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | …n (mục 10), uống thuốc đều theo lời bác sĩ (… |
+| Mở đầu phần | mục 31 | Ban ngày ra ngoài phơi nắng chút, đừng cả ngày không thấy ánh sáng | …(mục 12), ban ngày ra ngoài phơi nắng chút (… |
+| Mở đầu phần | mục 36 | Có điều kiện thì ngâm bồn tắm, đừng chỉ tắm vòi sen | … Có điều kiện thì ngâm bồn tắm (… |
+| Mở đầu phần | mục 43 | Quanh tuổi mãn kinh mà bốc hỏa, đổ mồ hôi trộm làm ảnh hưởng sinh hoạt thì đi khám phụ khoa để đánh giá liệu pháp hormone, đừng gắng chịu, đừng tự mua thuốc, càng đừng dùng nó để phòng bệnh tim | …hám phụ khoa để đánh giá liệu pháp hormone (… |
 | mục 1 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … … |
 | mục 1 | mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … mục 3 (lấy thuốc cai thuốc), … |
 | mục 1 | mục 5 | Đi phòng khám cai thuốc, hoặc gọi 12320 hỏi địa phương có dịch vụ cai thuốc không | …cai thuốc), mục 4 (đặt một ngày cai thuốc), … |
@@ -87,62 +187,95 @@ Tổng cộng 765 trích dẫn.
 | mục 5 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Thuốc cần phối hợp xem … |
 | mục 6 | phần 22, mục 4 | Đừng ăn kẹo và đồ ăn vặt người lạ đưa, đồ uống rời khỏi tầm mắt đừng uống, đừng nhận đầu hút người khác đưa | …ổng hợp cũng chảy ra theo đường đó, bạn xem … |
 | mục 6 | mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Về thứ tự, bạn thử trước … |
-| mục 11 | mục 14 | Mỗi tuần cộng đủ 150–300 phút vận động cường độ vừa, đi bộ nhanh là được | … Mục này và … |
-| mục 13 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Cách ngủ bù sau khi thức khuya thì xem … |
-| mục 14 | mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước | … Mục này và … |
-| mục 17 | phần 1 | 01-dung-chet-som (cả phần) | … Những lợi ích đó viết ở … |
-| mục 20 | mục 22 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
-| mục 20 | mục 21 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …nào cũng uống thì không được tự cố cai, xem … |
-| mục 21 | mục 20 | Uống ít rượu hoặc không uống | … tuần uống bao nhiêu thì tính là nhiều, xem … |
-| mục 21 | mục 22 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
-| mục 22 | mục 21 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | … Nếu đã có triệu chứng cai thì xem … |
-| mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | …hiều với nước ngọt có đường, thịt chế biến (… |
-| mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | …hiều với nước ngọt có đường, thịt chế biến (… |
-| mục 29 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Bạn nên làm được … |
-| mục 29 | mục 19 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … Bạn nên làm được … |
-| mục 33 | phần 6, mục 26 | Đừng trông ăn sáng hay nhịn ăn kiểu 16:8 giúp kiểm soát cân nặng, giờ ăn chọn kiểu bạn giữ được lâu dài | …8 đều không có lợi thêm, xem … |
-| mục 38 | phần 3, mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … Cách chợp mắt ngắn để tỉnh táo xem … |
-| mục 38 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … Đêm ngủ bao lâu xem … |
-| mục 39 | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … Việc cuối tuần cũng dậy đúng giờ xem … |
-| mục 39 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … này tự nó liên quan đến bệnh tim mạch, xem … |
-| mục 40 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
-| mục 40 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … càng sớm càng tốt), huyết áp và mỡ máu xem … |
-| mục 40 | mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉ định), còn sau ca đêm ngủ bù thế nào xem … |
+| mục 10 | phần 24, mục 12 | Trước khi trồng răng, hỏi rõ giá trọn gói gồm những hạng mục nào, ưu tiên tìm cơ sở cam kết tham gia chấn chỉnh giá, đừng tin quảng cáo giá rẻ | … trả khoản nào khi đi khám răng thì bạn xem … |
+| mục 13 | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | … Cách ngủ bù sau khi thức khuya thì xem … |
+| mục 16 | phần 1 | 01-dung-chet-som (cả phần) | … Những lợi ích đó viết ở … |
+| mục 19 | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
+| mục 19 | mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | …nào cũng uống thì không được tự cố cai, xem … |
+| mục 20 | mục 19 | Uống ít rượu hoặc không uống | … tuần uống bao nhiêu thì tính là nhiều, xem … |
+| mục 20 | mục 21 | Muốn uống ít rượu đi, trước hết đếm xem một tuần uống bao nhiêu, rồi nói với bác sĩ vài phút | … Muốn uống ít đi thì làm thế nào, xem … |
+| mục 21 | mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | … Nếu đã có triệu chứng cai thì xem … |
+| mục 28 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | …hiều với nước ngọt có đường, thịt chế biến (… |
+| mục 28 | mục 18 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | …hiều với nước ngọt có đường, thịt chế biến (… |
+| mục 28 | mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Bạn nên làm được … |
+| mục 28 | mục 18 | Ăn ít thịt chế biến (giăm bông, thịt ba chỉ xông khói, xúc xích, thịt hộp) | … Bạn nên làm được … |
+| mục 32 | phần 6, mục 26 | Đừng trông ăn sáng hay nhịn ăn kiểu 16:8 giúp kiểm soát cân nặng, giờ ăn chọn kiểu bạn giữ được lâu dài | …8 đều không có lợi thêm, xem … |
+| mục 37 | phần 3, mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … Cách chợp mắt ngắn để tỉnh táo xem … |
+| mục 37 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … Đêm ngủ bao lâu xem … |
+| mục 38 | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … Việc cuối tuần cũng dậy đúng giờ xem … |
+| mục 38 | mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … này tự nó liên quan đến bệnh tim mạch, xem … |
+| mục 39 | mục 1 | Bỏ thuốc lá, càng sớm càng tốt | … bỏ thuốc xem … |
+| mục 39 | mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … càng sớm càng tốt), huyết áp và mỡ máu xem … |
+| mục 39 | mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉ định), còn sau ca đêm ngủ bù thế nào xem … |
+| mục 42 | mục 29 | Nấu ăn, sưởi ấm không đốt than và củi, đổi sang điện hoặc gas | …ề chuyện nấu ăn không đốt than củi, bạn xem … |
+| mục 43 | phần 1, mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … Về loãng xương, bạn xem … |
+| mục 43 | phần 1, mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | …bạn xem phần 1, mục 39 (đo mật độ xương) và … |
 
 ## 03-dung-lang-phi-suc-luc
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | mục 20 | Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy định, đừng coi như nhân vật: thứ đẩy việc tới trước là giấy tờ và thời hạn, không phải cảm xúc | … Riêng … |
+| Mở đầu phần | mục 19 | Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy định, đừng coi như nhân vật: thứ đẩy việc tới trước là giấy tờ và thời hạn, không phải cảm xúc | … Riêng … |
 | Mở đầu phần | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Trong đó … |
-| Mở đầu phần | mục 23 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | … 15 (coi ý nghĩ bi quan như triệu chứng) và … |
-| mục 2 | phần 2, mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉnh thoảng thức khuya xong bù thế nào, xem … |
+| Mở đầu phần | mục 22 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | … 15 (coi ý nghĩ bi quan như triệu chứng) và … |
+| Mở đầu phần | mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … tắt thông báo không cần thiết (… |
+| Mở đầu phần | mục 5 | Đổi email và tin nhắn sang xử lý theo đợt, vài lần cố định mỗi ngày | … đổi email và tin nhắn sang xử lý theo đợt (… |
+| Mở đầu phần | mục 6 | Làm việc cần suy nghĩ liên tục thì chặn cả những ngắt vài giây bên ngoài | … 5), chặn cả những ngắt vài giây bên ngoài (… |
+| Mở đầu phần | mục 7 | Mỗi lúc chỉ làm một việc, đừng vừa họp vừa trả lời tin nhắn | … Mỗi lúc chỉ làm một việc (… |
+| Mở đầu phần | mục 12 | Làm việc ở văn phòng mở thì dùng nút tai hoặc tìm phòng yên tĩnh để làm việc cần ghi nhớ | …c (mục 7), ở văn phòng mở thì dùng nút tai (… |
+| Mở đầu phần | mục 13 | Đừng chỉ biết tăng giờ làm việc mỗi tuần: qua khoảng 49 tiếng, mỗi tiếng làm thêm cho ra ngày càng ít sản phẩm | …, đừng chỉ biết tăng giờ làm việc mỗi tuần (… |
+| Mở đầu phần | mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | … cố định giờ thức dậy (… |
+| Mở đầu phần | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … dậy (mục 2), ngủ đủ 7 đến 8 tiếng mỗi đêm (… |
+| Mở đầu phần | mục 4 | Sau hai giờ chiều không động vào caffeine | … sau hai giờ chiều không động vào caffeine (… |
+| Mở đầu phần | mục 8 | Một tiếng trước khi ngủ không nhìn màn hình phát sáng, muốn xem thì xem sách giấy hoặc màn hình mực điện tử | …rước khi ngủ không nhìn màn hình phát sáng (… |
+| Mở đầu phần | mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | …àn hình phát sáng (mục 8), đến giờ thì ngủ (… |
+| Mở đầu phần | mục 10 | Đêm khuya không quyết định việc lớn, không gửi tin nhắn quan trọng | …ục 9), đêm khuya không quyết định việc lớn (… |
+| Mở đầu phần | mục 11 | Chiều buồn ngủ thì chợp 10 phút, đừng ngủ nửa tiếng | … (mục 10), chiều buồn ngủ thì chợp 10 phút (… |
+| Mở đầu phần | mục 14 | Phát hiện mình đang nghĩ đi nghĩ lại cùng một việc tồi tệ thì đổi sang việc phải động tay | …iệc tồi tệ thì đổi sang việc phải động tay (… |
+| Mở đầu phần | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … việc chắc chắn sẽ tệ hơn" như triệu chứng (… |
+| Mở đầu phần | mục 21 | Lúc thấy "mọi người đều nhìn thấy mình mất mặt", đem ước tính đó chia hai | …ấy mình mất mặt", đem ước tính đó chia hai (… |
+| Mở đầu phần | mục 22 | Coi "người khác đòi tôi phải hoàn hảo" như triệu chứng, không coi là sự thật | …hác đòi tôi phải hoàn hảo" như triệu chứng (… |
+| Mở đầu phần | mục 17 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … lúc tức giận rời khỏi chỗ đó trước (… |
+| Mở đầu phần | mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …n suy sụp làm trước mấy việc đáng giá nhất (… |
+| Mở đầu phần | mục 23 | Lúc tức giận đừng dựa vào đập đồ, đấm bao cát, chạy một vòng để xả, trước hết cho cơ thể chậm lại | …o đập đồ, đấm bao cát, chạy một vòng để xả (… |
+| Mở đầu phần | mục 24 | Trong lòng đè một việc, có thể mấy ngày liền viết ra suy nghĩ và cảm giác, nhưng đừng trông nó chữa bệnh | …mấy ngày liền viết ra suy nghĩ và cảm giác (… |
+| Mở đầu phần | mục 16 | Giảm bớt những quan hệ khiến bạn hao mòn, học cách từ chối yêu cầu không muốn nhận | … học cách từ chối yêu cầu không muốn nhận (… |
+| Mở đầu phần | mục 19 | Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy định, đừng coi như nhân vật: thứ đẩy việc tới trước là giấy tờ và thời hạn, không phải cảm xúc | …ân viên quầy là người đi làm theo quy định (… |
+| Mở đầu phần | mục 20 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …hẳn app lướt động thái của người cùng tuổi (… |
+| Mở đầu phần | mục 25 | Đau bụng kinh thì uống thuốc giảm đau như ibuprofen, đừng cố chịu; đau đến lỡ việc đi làm đi học, hoặc uống thuốc ba tháng vẫn không hết, thì đi khám phụ khoa | …kinh thì uống thuốc giảm đau như ibuprofen (… |
+| mục 2 | phần 2, mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …hỉnh thoảng thức khuya xong bù thế nào, xem … |
+| mục 3 | phần 2, mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | …ì nguy cơ chết thế nào được tính riêng, xem … |
 | mục 4 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | …ì đổi lại được thời lượng ngủ, cộng dồn với … |
 | mục 6 | mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … Loại sau bạn phải phối hợp … |
 | mục 6 | mục 5 | Đổi email và tin nhắn sang xử lý theo đợt, vài lần cố định mỗi ngày | …ợp mục 1 (tắt thông báo không cần thiết) và … |
 | mục 9 | mục 3 | Ngủ đủ 7 đến 8 tiếng mỗi đêm, đừng coi 6 tiếng là đủ | … Cái giá của chính việc thức khuya, bạn xem … |
-| mục 11 | phần 2, mục 38 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | … và nguy cơ bệnh tim mạch vành cao hơn, xem … |
-| mục 18 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …sự có tổn thất thì bạn đi đường pháp lý của … |
-| mục 18 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …thất thì bạn đi đường pháp lý của phần 8 và … |
-| mục 19 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … thì bạn phải đi khám, gọi 12356 trước (xem … |
-| mục 20 | phần 8, mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ấy từ hai văn bản quy định của Bộ Công an ở … |
-| mục 20 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …ức theo bệnh tình, không theo ai đến trước (… |
-| mục 20 | phần 24, mục 12 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | … đường thư cảm ơn và đánh giá hài lòng, xem … |
-| mục 20 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …i lộ, và luật ghi rõ là bị xử nặng hơn, xem … |
-| mục 21 | phần 4, mục 15 | Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích | … Sổ thời gian màn hình tổng xem … |
-| mục 21 | phần 4, mục 16 | Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định | … Sổ thời gian màn hình tổng xem … |
-| mục 21 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …a vào mua sắm lấy lại cảm giác căn tính xem … |
-| mục 21 | phần 6, mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
-| mục 21 | mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
-| mục 23 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … đem phương tiện có thể gây chết ra xa, xem … |
-| mục 23 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
-| mục 23 | phần 30, mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Sàng lọc trầm cảm cho trẻ xem … |
-| mục 23 | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Nó giống kỳ vọng bi quan trong … |
-| mục 24 | phần 22, mục 9 | Muốn dịu lại ngay tại chỗ, dùng 5 phút "thở dài vòng": hít hai đoạn, thở kéo dài | … Cách dùng ngay tại chỗ xem … |
-| mục 24 | phần 22, mục 7 | Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
-| mục 24 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
-| mục 24 | mục 18 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
-| mục 25 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …u thì bạn dừng lại, đổi sang gọi 12356, xem … |
+| mục 11 | phần 2, mục 37 | Giữ giấc ngủ trưa trong nửa tiếng, đừng quá một tiếng; phải ngủ một hai tiếng mới chịu được thì đi kiểm tra nguyên nhân | … và nguy cơ bệnh tim mạch vành cao hơn, xem … |
+| mục 17 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | …sự có tổn thất thì bạn đi đường pháp lý của … |
+| mục 17 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …thất thì bạn đi đường pháp lý của phần 8 và … |
+| mục 18 | phần 22, mục 6 | Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ | …y bộ hiệu quả nhất, càng mạnh càng tốt, xem … |
+| mục 18 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … thì bạn phải đi khám, gọi 12356 trước (xem … |
+| mục 19 | phần 8, mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ấy từ hai văn bản quy định của Bộ Công an ở … |
+| mục 19 | phần 24, mục 7 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …ức theo bệnh tình, không theo ai đến trước (… |
+| mục 19 | phần 24, mục 11 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | … đường thư cảm ơn và đánh giá hài lòng, xem … |
+| mục 19 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …i lộ, và luật ghi rõ là bị xử nặng hơn, xem … |
+| mục 20 | phần 4, mục 15 | Đặt giới hạn cứng cho video ngắn và lướt màn hình không mục đích | … Sổ thời gian màn hình tổng xem … |
+| mục 20 | phần 4, mục 16 | Không xem TV và tin cuộn, thông tin cần thiết xem tập trung theo giờ cố định | … Sổ thời gian màn hình tổng xem … |
+| mục 20 | phần 6, mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …a vào mua sắm lấy lại cảm giác căn tính xem … |
+| mục 20 | phần 6, mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … Tiêu thêm tiền để "nhích lên một nấc" xem … |
+| mục 20 | mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … Lúc tâm trạng suy sụp làm gì trước, xem … |
+| mục 22 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … đem phương tiện có thể gây chết ra xa, xem … |
+| mục 22 | phần 8, mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …h lộ ra ý nghĩ này thì bạn làm được gì, xem … |
+| mục 22 | phần 30, mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Sàng lọc trầm cảm cho trẻ xem … |
+| mục 22 | mục 15 | Coi những ý nghĩ kiểu "mọi việc chắc chắn sẽ tệ hơn" như triệu chứng, không coi là sự thật | … Nó giống kỳ vọng bi quan trong … |
+| mục 23 | phần 22, mục 8 | Muốn dịu lại ngay tại chỗ, dùng 5 phút "thở dài vòng": hít hai đoạn, thở kéo dài | … Cách dùng ngay tại chỗ xem … |
+| mục 23 | phần 22, mục 6 | Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ | …hạn, nó hiệu quả với tâm trạng suy sụp, xem … |
+| mục 23 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ứ cần xử lý không phải cảm xúc của bạn, xem … |
+| mục 23 | mục 17 | Lúc tức giận rời khỏi chỗ đó trước, coi đối phương như thời tiết chứ không phải kẻ thù | … dùng ngay tại chỗ xem  (thở dài vòng), còn … |
+| mục 24 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …u thì bạn dừng lại, đổi sang gọi 12356, xem … |
+| mục 25 | phần 34, mục 3 | Người trên 60 tuổi, dạ dày từng chảy máu, đang ăn thuốc chống đông hay hormon, trước khi ăn loại giảm đau như ibuprofen hỏi bác sĩ trước | … Chi tiết xem … |
+| mục 25 | phần 34, mục 5 | Mang thai sau 20 tuần, đừng tự ăn loại giảm đau như ibuprofen | …, và sau 20 tuần thai thì đừng tự uống, xem … |
+| mục 25 | phần 34, mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …i sang paracetamol, mức tối đa mỗi ngày xem … |
+| mục 25 | phần 34, mục 9 | Thuốc giảm đau một tháng đừng ăn quá 15 ngày, thuốc giảm đau hỗn hợp đừng quá 10 ngày, nếu không đau đầu có thể là thuốc ăn ra | … Ngưỡng trong … |
 
 ## 04-dung-lang-phi-thoi-gian
 
@@ -155,30 +288,78 @@ Tổng cộng 765 trích dẫn.
 | mục 10 | phần 3, mục 1 | Tắt thông báo không cần thiết, lúc làm việc để điện thoại ngoài tầm nhìn | … tầm nhìn thì đã có người đo trực tiếp, xem … |
 | mục 11 | phần 2, mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | …êng việc cai thuốc thì cai thế nào, bạn xem … |
 | mục 12 | mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | …buộc động tác vào một bối cảnh cố định, xem … |
-| mục 13 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …sa sút hoặc lo âu rõ thì bạn làm trước theo … |
+| mục 13 | phần 3, mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …sa sút hoặc lo âu rõ thì bạn làm trước theo … |
 | mục 13 | mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … Phần kiểm soát kích thích nằm ở … |
-| mục 15 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …i bao nhiêu và tâm trạng đổi bao nhiêu, xem … |
+| mục 15 | phần 3, mục 20 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | …i bao nhiêu và tâm trạng đổi bao nhiêu, xem … |
 
 ## 05-dung-lang-phi-tien
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Tắt hết mọi gia hạn tự động, hết hạn thì tự gia hạn tay | … tắt hết mọi gia hạn tự động (… |
+| Mở đầu phần | mục 4 | Mỗi năm tính lại một lần gói điện thoại và băng rộng, phần không dùng thì hạ gói, nhà mạng không cho chuyển thì khiếu nại | …nh lại một lần gói điện thoại và băng rộng (… |
+| Mở đầu phần | mục 11 | Từ chối bảo hành kéo dài (gia hạn bảo hành) của đồ điện tử | … từ chối bảo hành kéo dài (… |
+| Mở đầu phần | mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … chọn thuốc trúng chọn đấu mua tập thể (… |
+| Mở đầu phần | mục 14 | Uống nước máy đun sôi, không quanh năm đặt nước bình cho máy nước uống, không quanh năm mua nước đóng chai | … Uống nước máy đun sôi (… |
+| Mở đầu phần | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … phòng gym trả theo lần (… |
+| Mở đầu phần | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … đắt thì đặt thời gian suy nghĩ lại 24 giờ (… |
+| Mở đầu phần | mục 24 | Không tích trữ vì "giá gạch ngang" và đợt khuyến mãi lớn | … không tích trữ vì "giá gạch ngang" (… |
+| Mở đầu phần | mục 5 | Không mua xổ số | … không mua xổ số (… |
+| Mở đầu phần | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | … không tặng quà cho người phát sóng (… |
+| Mở đầu phần | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …không được cha mẹ thừa nhận có thể đòi trả (… |
+| Mở đầu phần | mục 10 | Dạy con nhớ một câu: ai bảo lấy điện thoại của cha mẹ đi thao tác, đi đọc mã xác minh, đều là kẻ lừa đảo | …o con đi đọc mã xác minh đều là kẻ lừa đảo (… |
+| Mở đầu phần | mục 33 | Chuỗi hạt, ngọc thạch, đồng hồ hiệu, đồ chơi thời thượng tính theo "tiền tiêu đi", không tính theo "tiền cất lại" | … chơi thời thượng tính theo "tiền tiêu đi" (… |
+| Mở đầu phần | mục 34 | Ngọc đá trang sức chỉ nhận báo cáo kiểm định có dấu CMA, rồi lên trang chính thức cơ quan cấp kiểm lại cơ quan đó | … sức chỉ nhận báo cáo kiểm định có dấu CMA (… |
+| Mở đầu phần | mục 35 | Hộp mù, rút thẻ loại bán ngẫu nhiên tính theo "khoản tiền này không quay về" | … hộp mù, rút thẻ loại bán ngẫu nhiên (… |
+| Mở đầu phần | mục 22 | Trả tiền trước phải ký hợp đồng giấy; nhà bán gặp rủi ro lớn phải ngừng thu, trước khi bỏ chạy bạn có quyền đòi lại số dư chưa tiêu | … trả tiền trước phải ký hợp đồng giấy (… |
+| Mở đầu phần | mục 29 | Mua hàng mạng tin quy tắc của sàn và điều luật, không tin người phát sóng và "đánh giá tốt" | …hàng mạng tin quy tắc của sàn và điều luật (… |
+| Mở đầu phần | mục 30 | Hàng mua trong livestream có vấn đề, trước hết xin sàn cung cấp thông tin người bán và người dẫn hàng, sàn bắt buộc phải đưa | … Hàng mua trong livestream có vấn đề (… |
+| Mở đầu phần | mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | …i hoàn tiền còn đòi được mười lần giá hàng (… |
+| Mở đầu phần | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | …tra thông báo kiểm nghiệm rút mẫu quốc gia (… |
+| Mở đầu phần | mục 36 | Quan tâm thực phẩm cho thêm gì thì mua loại đóng gói sẵn: quầy hàng rời luật không bắt ghi bảng thành phần | …phẩm cho thêm gì thì mua loại đóng gói sẵn (… |
+| Mở đầu phần | mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | …m một lần quyết toán thuế thu nhập cá nhân (… |
+| Mở đầu phần | mục 3 | Quỹ nhà ở tích lũy không chỉ để mua nhà: thuê nhà, sửa nhà, phí quản lý đều rút được, từ ngày 20/9/2026 làm theo điều lệ mới | …ích lũy rút được cả tiền thuê nhà, sửa nhà (… |
+| Mở đầu phần | mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | …dùng chung gia đình trên app bảo hiểm y tế (… |
+| Mở đầu phần | mục 20 | Người có đóng thuế thu nhập cá nhân mà thuế suất từ 10% trở lên thì mở tài khoản hưu trí cá nhân, mỗi năm tối đa 12.000 nhân dân tệ được trừ trước thuế; người không đóng thuế hoặc thuế suất chỉ 3% mở là không đáng | … mở tài khoản hưu trí cá nhân (… |
+| Mở đầu phần | mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | … hưu trí công nhân viên theo mức thấp nhất (… |
+| Mở đầu phần | mục 6 | Thấy "lợi nhuận cao" "bảo đảm vốn" "chắc lãi" thì tránh ngay | …o" "bảo đảm vốn" "chắc lãi" thì tránh ngay (… |
+| Mở đầu phần | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | … lãi sang lãi suất quy năm rồi mới so sánh (… |
+| Mở đầu phần | mục 15 | Không mua bán cổ phiếu thường xuyên, lúc thị trường tăng giảm đột ngột càng phải ít động tay | … Không mua bán cổ phiếu thường xuyên (… |
+| Mở đầu phần | mục 16 | Không vay tiền đầu tư, không đòn bẩy, không mua thứ mình không hiểu | … không vay tiền đầu tư (… |
+| Mở đầu phần | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | …dùng quỹ chỉ số gối rộng làm khoản dài hạn (… |
+| Mở đầu phần | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … cùng loại quỹ ưu tiên chọn phí thấp (… |
+| Mở đầu phần | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …iền vào một cổ phiếu, một sàn, một căn nhà (… |
+| Mở đầu phần | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | …đến 6 tháng sinh hoạt phí làm quỹ dự phòng (… |
+| Mở đầu phần | mục 28 | Trước khi trả nợ sớm khoản vay mua nhà, trước hết làm một bài so sánh, đừng làm theo cảm giác | …vay mua nhà, trước hết làm một bài so sánh (… |
+| Mở đầu phần | mục 37 | Cổ phiếu đang lỗ cũng phải bán theo luật đã đặt trước, không dựa vào mua thêm lúc xuống để san bằng giá vốn rồi gỡ lại | …ng lỗ cũng phải bán theo luật đã đặt trước (… |
+| Mở đầu phần | mục 38 | Muốn mua tài sản nước ngoài kiểu cổ phiếu Mỹ, đi qua quỹ QDII hoặc cổ phiếu thông Hồng Kông, đừng mở tài khoản ở sàn nước ngoài, cũng đừng lấy hạn mức đổi ngoại tệ hằng năm đi mua | …qua quỹ QDII hoặc cổ phiếu thông Hồng Kông (… |
+| Mở đầu phần | mục 45 | Đừng bỏ tiền mua Bitcoin, Tether và các loại tiền ảo tương tự, người khác rủ cùng đầu tư cũng đừng theo: giao dịch không được pháp luật bảo vệ, lỗ rồi kiện cũng không đòi lại được | …tcoin, Tether và các loại tiền ảo tương tự (… |
+| Mở đầu phần | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | … bảo hiểm ưu tiên mua loại tiêu dùng (… |
+| Mở đầu phần | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … mua đủ bảo hiểm bên thứ ba (… |
+| Mở đầu phần | mục 39 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … bảo hiểm cho tổn thất mình gánh không nổi (… |
+| Mở đầu phần | mục 40 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … hiểm nhân thọ định kỳ cho người kiếm tiền (… |
+| Mở đầu phần | mục 41 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … trong thời gian cân nhắc lại hủy đi (… |
+| Mở đầu phần | mục 42 | Trước khi ký ở quầy ngân hàng, nhìn rõ trong tay mình là tiền gửi hay bảo hiểm | …rõ trong tay mình là tiền gửi hay bảo hiểm (… |
+| Mở đầu phần | mục 43 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | … Đừng tìm "đại lý hủy bảo hiểm" (… |
+| Mở đầu phần | mục 44 | Trên đơn bảo hiểm ghi người thụ hưởng là người cụ thể, có biến cố nhớ đi lĩnh tiền: bảo hiểm nhân thọ 5 năm, bảo hiểm khác trong 2 năm phải đòi | … ghi người thụ hưởng là người cụ thể (… |
+| mục 7 | phần 7, mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …an thì đừng đụng đến vay nặng lãi, xem thêm … |
 | mục 8 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …5 Bộ luật dân sự đã được trích nguyên chữ ở … |
 | mục 9 | mục 8 | Không tặng quà cho người phát sóng, không nạp tiền game, không đặt mua theo cảm xúc | …nh bạn tặng quà, nạp tiền theo cảm xúc, xem … |
 | mục 10 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …có thể báo cảnh sát để chặn thanh toán theo … |
 | mục 10 | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …chiêu giả người quen, có cả AI đổi mặt, xem … |
 | mục 10 | phần 8, mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …chiêu giả người quen, có cả AI đổi mặt, xem … |
+| mục 10 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …iệc đọc mã xác minh hay quét khuôn mặt, xem … |
 | mục 10 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | … Bạn cần phân biệt rõ với … |
 | mục 12 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …ạn đừng phán đoán theo cảm giác mà làm theo … |
 | mục 14 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …ả, và người đăng đã bị tạm giữ hình sự (xem … |
-| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …là đòn bẩy trá hình, lãi suất của chúng xem … |
+| mục 16 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | …là đòn bẩy trá hình, lãi suất của chúng xem … |
 | mục 19 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua quỹ chỉ số gối rộng (xem … |
 | mục 20 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … khóa quỹ dự phòng vào đó (quỹ dự phòng xem … |
 | mục 20 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Cách chọn sản phẩm giống … |
 | mục 20 | mục 18 | Cùng loại quỹ ưu tiên chọn phí thấp | … Cách chọn sản phẩm giống … |
 | mục 20 | mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … quyết toán năm sau mới trừ (quyết toán xem … |
 | mục 22 | mục 21 | Phòng gym trả theo lần hoặc chu kỳ ngắn, trừ khi đã có hơn một năm đi đều | … Vì vậy, bạn nên làm theo … |
-| mục 27 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng | …iêu dùng và trả tối thiểu thẻ tín dụng, xem … |
+| mục 27 | mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | …iêu dùng và trả tối thiểu thẻ tín dụng, xem … |
 | mục 29 | mục 32 | Trước khi mua đồ lớn, tra thông báo kiểm nghiệm rút mẫu quốc gia, chứng nhận 3C và nhãn hiệu suất năng lượng | …ỉ có kết quả kiểm tra rút mẫu tổng thể (xem … |
 | mục 29 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … Trả hàng bảy ngày không cần lý do xem … |
 | mục 31 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | … kiện số tiền nhỏ tính thế nào xem … |
@@ -194,30 +375,66 @@ Tổng cộng 765 trích dẫn.
 | mục 35 | mục 9 | Con dùng điện thoại nạp tiền tặng quà, khoản lớn của trẻ từ tám tuổi không được cha mẹ thừa nhận có thể đòi trả | …nạp tiền, tặng quà thì đòi lại thế nào, xem … |
 | mục 35 | mục 23 | Mua đồ đắt không cần thiết thì đặt thời gian suy nghĩ lại 24 giờ, mua mạng tận dụng trả hàng bảy ngày không cần lý do | … lại 24 giờ cho đồ đắt không cần thiết, xem … |
 | mục 36 | phần 12, mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | …đóng gói sẵn thì phải ghi nhãn thế nào, xem … |
-| mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên | … Mục này nói chuyện "bán hay không", còn … |
+| mục 37 | mục 15 | Không mua bán cổ phiếu thường xuyên, lúc thị trường tăng giảm đột ngột càng phải ít động tay | … Mục này nói chuyện "bán hay không", còn … |
 | mục 37 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …bạn dồn vào mã cổ phiếu này nhiều thêm, xem … |
-| mục 38 | mục 15 | Không mua bán cổ phiếu thường xuyên | …m đổi gần 18 lần, còn tài khoản hộ Mỹ trong … |
-| mục 39 | phần 21, mục 6 | Rút tiền mặt ở nước ngoài một năm không quá 10 vạn tệ, tính gộp tất cả thẻ đứng tên mình | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
-| mục 39 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng làm theo cách ở … |
-| mục 39 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …theo cách ở mục 17 (quỹ chỉ số gối rộng) và … |
-| mục 40 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" (cam kết tái tục) | … Bảo hiểm y tế một năm xem … |
-| mục 40 | phần 21, mục 4 | Mua một phần bảo hiểm có y tế nước ngoài và chuyển viện y tế, đừng chỉ mua bảo hiểm trễ chuyến bay | … Người ra nước ngoài xem … |
-| mục 40 | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Người có xe xem … |
-| mục 40 | mục 41 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Nhà có người sống nhờ thu nhập của bạn xem … |
-| mục 40 | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … cân nhắc theo cách này, vẫn phải đóng, xem … |
-| mục 40 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Tổn thất nhỏ thì dựa vào đâu để gánh, xem … |
-| mục 41 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" (cam kết tái tục) | …ật và bảo đảm tái tục nên hiểu thế nào, xem … |
-| mục 42 | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | … nên thời gian cân nhắc đáng dùng nhất, xem … |
-| mục 43 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Nếu đã ký rồi thì hủy trong 15 ngày theo … |
-| mục 43 | mục 44 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | …Thấy mình bị lừa thì khiếu nại thế nào, xem … |
-| mục 44 | mục 42 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
-| mục 45 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … việc lần lượt đi lĩnh tiền ở từng chỗ, xem … |
-| mục 45 | phần 29, mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …ấy cái chết để trả nợ là không đi được, xem … |
+| mục 38 | phần 21, mục 6 | Rút tiền mặt ở nước ngoài một năm không quá 10 vạn tệ, tính gộp tất cả thẻ đứng tên mình | …tiền mặt ở nước ngoài có hạn mức riêng, xem … |
+| mục 38 | mục 17 | Dùng quỹ chỉ số gối rộng thay quỹ quản lý chủ động làm khoản dài hạn (phần tiền giữ yên dài hạn) | … Mua QDII cũng làm theo cách ở … |
+| mục 38 | mục 19 | Đừng dồn tiền vào một cổ phiếu, một sàn, một căn nhà | …theo cách ở mục 17 (quỹ chỉ số gối rộng) và … |
+| mục 39 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" (cam kết tái tục) | … Bảo hiểm y tế một năm xem … |
+| mục 39 | phần 21, mục 4 | Mua một phần bảo hiểm có y tế nước ngoài và chuyển viện y tế, đừng chỉ mua bảo hiểm trễ chuyến bay | … Người ra nước ngoài xem … |
+| mục 39 | mục 26 | Mua đủ bảo hiểm bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất cả nước và không cao, phần vượt do nhà bạn tự gánh | … Người có xe xem … |
+| mục 39 | mục 40 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Nhà có người sống nhờ thu nhập của bạn xem … |
+| mục 39 | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … cân nhắc theo cách này, vẫn phải đóng, xem … |
+| mục 39 | mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Tổn thất nhỏ thì dựa vào đâu để gánh, xem … |
+| mục 40 | phần 7, mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" (cam kết tái tục) | …ật và bảo đảm tái tục nên hiểu thế nào, xem … |
+| mục 41 | mục 25 | Bảo hiểm ưu tiên mua loại tiêu dùng, coi phần "hoàn trả" "chia lãi" là không bảo đảm | … nên thời gian cân nhắc đáng dùng nhất, xem … |
+| mục 42 | mục 41 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Nếu đã ký rồi thì hủy trong 15 ngày theo … |
+| mục 42 | mục 43 | Muốn hủy bảo hiểm thì tự tìm công ty bảo hiểm làm, đừng tìm "đại lý hủy bảo hiểm", thấy bị lừa thì gọi 12378 khiếu nại | …Thấy mình bị lừa thì khiếu nại thế nào, xem … |
+| mục 43 | mục 41 | Ký bảo hiểm nhân thân trên một năm mà hối hận, trong thời gian cân nhắc lại hủy đi, phí về gần như đủ | … Tự hủy trong thời gian cân nhắc, xem … |
+| mục 44 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … việc lần lượt đi lĩnh tiền ở từng chỗ, xem … |
+| mục 44 | phần 29, mục 13 | Đừng lấy cái chết làm cách trả nợ: bảo hiểm sinh thọ trong hai năm không bồi, tai nạn lao động không nhận, nợ vẫn trừ từ di sản trước | …ấy cái chết để trả nợ là không đi được, xem … |
+| mục 45 | phần 9, mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | …gười khác là chuyện khác, có thể bị tù, xem … |
+| mục 45 | mục 6 | Thấy "lợi nhuận cao" "bảo đảm vốn" "chắc lãi" thì tránh ngay | … Cách nhận ra "đầu tư" hứa lợi cao, xem … |
+| mục 45 | mục 38 | Muốn mua tài sản nước ngoài kiểu cổ phiếu Mỹ, đi qua quỹ QDII hoặc cổ phiếu thông Hồng Kông, đừng mở tài khoản ở sàn nước ngoài, cũng đừng lấy hạn mức đổi ngoại tệ hằng năm đi mua | …ênh hợp pháp để mua tài sản nước ngoài, xem … |
+| mục 46 | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iểm hưu trí cư dân thành thị nông thôn, xem … |
+| mục 46 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …nhận trợ cấp bảo hiểm xã hội hay không, xem … |
+| mục 46 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Đứt đóng và đóng bù, xem … |
+| mục 46 | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | …phố thì quan hệ hưu trí chuyển thế nào, xem … |
 
 ## 06-danh-sach-nen-tranh
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Đừng uống vitamin tổng hợp để sống lâu hay phòng bệnh tim mạch | … uống vitamin tổng hợp để sống lâu (… |
+| Mở đầu phần | mục 2 | Đừng uống dầu cá thường để phòng bệnh tim mạch | … uống dầu cá thường để phòng bệnh tim mạch (… |
+| Mở đầu phần | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | …), bổ sung vitamin D cho người không thiếu (… |
+| Mở đầu phần | mục 4 | Đừng uống viên chống oxy hóa để phòng ung thư (beta carotene, vitamin E, vitamin A) | … Uống viên chống oxy hóa để phòng ung thư (… |
+| Mở đầu phần | mục 5 | Đừng trông glucosamine (đường amin đạm) / chondroitin chữa viêm khớp gối | …hư (mục 4), chondroitin chữa viêm khớp gối (… |
+| Mở đầu phần | mục 6 | Đừng trông vitamin C phòng cảm | …viêm khớp gối (mục 5), vitamin C phòng cảm (… |
+| Mở đầu phần | mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …u nhiều tiền mua thực phẩm bảo vệ sức khỏe (… |
+| Mở đầu phần | mục 11 | Không có vấn đề đường ruột thì đừng uống men vi sinh dài hạn | … Uống men vi sinh dài hạn (… |
+| Mở đầu phần | mục 13 | Đừng mua các sản phẩm giải độc, thanh lọc ruột, enzyme, nước kiềm | …ài hạn (mục 11), mua các sản phẩm giải độc (… |
+| Mở đầu phần | mục 30 | Đừng trông gãy xương rồi bổ sung thật nhiều canxi hay uống nước hầm xương là xương liền nhanh hơn | …3), gãy xương rồi bổ sung thật nhiều canxi (… |
+| Mở đầu phần | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | … PET-CT toàn thân và gói dấu ấn ung thư (… |
+| Mở đầu phần | mục 18 | Đừng trông gói khám sức khỏe tổng quát phòng bệnh, làm mấy sàng lọc có chứng cứ theo tuổi và giới | …g thư (mục 7), gói khám sức khỏe tổng quát (… |
+| Mở đầu phần | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …ừng đau mà bắt đầu uống thuốc hạ acid uric (… |
+| Mở đầu phần | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …g chưa từng đau mà đi cắt túi mật dự phòng (… |
+| Mở đầu phần | mục 21 | Đừng kiêng canxi để phòng sỏi thận | … Đừng kiêng canxi để phòng sỏi thận (… |
+| Mở đầu phần | mục 8 | Đừng trông vòng đeo tay/đồng hồ định lượng vận động giúp giảm cân | …/đồng hồ định lượng vận động giúp giảm cân (… |
+| Mở đầu phần | mục 9 | Đừng trả thêm tiền mua thực phẩm hữu cơ để "khỏe hơn" | …mục 8), trả thêm tiền mua thực phẩm hữu cơ (… |
+| Mở đầu phần | mục 12 | Đừng ép mình tắm nước lạnh để "tăng miễn dịch" | … ép mình tắm nước lạnh để "tăng miễn dịch" (… |
+| Mở đầu phần | mục 14 | Đừng ép mình uống nước để đủ "8 cốc mỗi ngày" | …g ép mình uống nước để đủ "8 cốc mỗi ngày" (… |
+| Mở đầu phần | mục 16 | Đừng mua kính chống ánh sáng xanh để "bảo vệ thị lực", cũng đừng tin "nhìn màn hình vài tháng là hỏng mắt", nhưng mắt đau căng đỏ phải xem là cấp cứu | …ày" (mục 14), mua kính chống ánh sáng xanh (… |
+| Mở đầu phần | mục 17 | Đừng coi hiến máu như bảo vệ sức khỏe: "giải độc, hạ mỡ máu, phòng nhồi máu cơ tim" không có thử nghiệm chia nhóm ngẫu nhiên chống đỡ, hiến thường xuyên thì thật sự thiếu sắt | …(mục 16), coi hiến máu như bảo vệ sức khỏe (… |
+| Mở đầu phần | mục 26 | Đừng trông ăn sáng hay nhịn ăn kiểu 16:8 giúp kiểm soát cân nặng, giờ ăn chọn kiểu bạn giữ được lâu dài | …8 giúp kiểm soát cân nặng (… |
+| Mở đầu phần | mục 29 | Đừng trông học "tư thế bê vác đúng" hay đi học lớp bê vác là phòng được đau thắt lưng, thứ cần giảm là sức nặng và số lần bê, ngày thường nên tập luyện nhiều | …học lớp bê vác là phòng được đau thắt lưng (… |
+| Mở đầu phần | mục 15 | Đừng tiêu tiền xem bói, bài tarot, cung hoàng đạo để quyết định việc | … tiêu tiền xem bói (… |
+| Mở đầu phần | mục 22 | Đừng mua pha lê, chuỗi hạt, tỳ hưu mấy loại đồ để "đổi vận" "chiêu tài" "dưỡng người" | … mua pha lê, chuỗi hạt, tỳ hưu (… |
+| Mở đầu phần | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … mua sắm cải thiện tâm trạng (… |
+| Mở đầu phần | mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | …i quanh" mà tiêu thêm tiền đổi nhà, đổi xe (… |
+| Mở đầu phần | mục 25 | Đừng tin "ý chí như cơ bắp, dùng một lát là hết" | … ý chí như cơ bắp (… |
+| Mở đầu phần | mục 27 | Đừng tin "thủ dâm hại thân" "kiêng tình dục mới tốt lên", thứ thật sự cần xem là có lỡ ngủ nghỉ, công việc và quan hệ không | … chí như cơ bắp (mục 25), thủ dâm hại thân (… |
+| Mở đầu phần | mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | …n (mục 27), chỉnh chuyển xu hướng tính dục (… |
 | mục 5 | phần 2 | 02-dung-chet-tu-tu (cả phần) | …ho viêm khớp gối là giảm cân và tập cơ, xem … |
 | mục 7 | phần 1 | 01-dung-chet-som (cả phần) | …g ngực liều thấp cho người nguy cơ cao, xem … |
 | mục 8 | phần 2 | 02-dung-chet-tu-tu (cả phần) | … Riêng việc vận động thì có hiệu quả, xem … |
@@ -238,7 +455,7 @@ Tổng cộng 765 trích dẫn.
 | mục 10 | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
 | mục 10 | phần 17, mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …oét do nằm và bảo hiểm chăm sóc dài hạn xem … |
 | mục 10 | phần 17, mục 5 | Đừng đụng các kiểu "đầu tư hưu trí" bắt người già nộp tiền trước: làm thẻ, mua giường, mua căn hộ dưỡng lão, dưỡng lão lưu trú, mua sản phẩm cho người già đều là cùng một kiểu huy động vốn trái phép | …rước, và loại thay thế thuốc đang uống, xem … |
-| mục 16 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …ứ không dùng tròng chống ánh sáng xanh, xem … |
+| mục 16 | phần 19, mục 10 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …ứ không dùng tròng chống ánh sáng xanh, xem … |
 | mục 16 | phần 13, mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | …ên ngay hôm đó bạn phải đi cấp cứu mắt, xem … |
 | mục 16 | phần 30, mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …ẻ em, thiếu niên phòng cận thị thế nào, xem … |
 | mục 16 | phần 30, mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …ẻ em, thiếu niên phòng cận thị thế nào, xem … |
@@ -251,6 +468,7 @@ Tổng cộng 765 trích dẫn.
 | mục 18 | phần 1, mục 19 | Từ 45 đến 50 tuổi bắt đầu tầm soát ung thư đại trực tràng, làm xét nghiệm miễn dịch hóa phân tìm máu ẩn hoặc nội soi đại tràng | … Vú, cổ tử cung, đại trực tràng xem … |
 | mục 18 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | …uẩn Helicobacter pylori và CT liều thấp xem … |
 | mục 18 | phần 1, mục 24 | Người hút thuốc nặng mỗi năm chụp CT lồng ngực liều thấp một lần | …uẩn Helicobacter pylori và CT liều thấp xem … |
+| mục 18 | phần 1, mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | … nữ từ 65 tuổi trở lên, đo mật độ xương xem … |
 | mục 18 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | …có hành vi nguy cơ cao thì đi kiểm tra, xem … |
 | mục 18 | mục 7 | Đừng tự làm "PET-CT toàn thân" hay "gói dấu ấn ung thư" khi không có triệu chứng | …à dấu ấn ung thư và chụp ảnh toàn thân, xem … |
 | mục 18 | mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …i mật mà chưa từng đau thì làm thế nào, xem … |
@@ -266,42 +484,129 @@ Tổng cộng 765 trích dẫn.
 | mục 23 | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | …ật khi tâm trạng xấu xem nửa sau phần 22 và … |
 | mục 23 | mục 24 | Đừng vì "nhích lên một bậc trong đám người quanh" mà tiêu thêm tiền đổi nhà, đổi xe, đổi giới | … thêm vì "muốn hơn người khác một bậc", xem … |
 | mục 24 | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Chỗ ở nên xếp theo tiêu chí nào, xem … |
-| mục 24 | phần 3, mục 21 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | … cứ so mình với người hơn trên mạng thì xem … |
+| mục 24 | phần 3, mục 20 | Đừng coi "người khác sống thế nào" là bài buộc đọc mỗi ngày: đặt giới hạn hoặc tắt hẳn app lướt động thái của người cùng tuổi | … cứ so mình với người hơn trên mạng thì xem … |
 | mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | … lợi ích được định "vừa" theo cách tính của … |
 | mục 24 | mục 23 | Đừng trông mua sắm cải thiện tâm trạng hay cảm giác thân phận | …uốn điều chỉnh cảm xúc bằng mua sắm thì xem … |
 | mục 25 | phần 4, mục 10 | Để đồ cần dùng tới tay, xo đồ không muốn đụng ra xa, đừng trông vào nhịn ngay lúc đó | … hộ là đổi môi trường và đổi cách viết, xem … |
 | mục 25 | phần 4, mục 1 | Viết "định làm" thành "mấy giờ, ở đâu, gặp gì thì làm gì" | …4, mục 10 (dọn đồ không muốn đụng ra xa) và … |
 | mục 25 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | …, bạn xử theo mấy mục giấc ngủ và giờ làm ở … |
 | mục 26 | phần 1, mục 23 | Xét nghiệm vi khuẩn Helicobacter pylori, dương tính thì điều trị tiệt trừ | … Cần kiểm tra thì xem … |
-| mục 26 | phần 2, mục 28 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …chứng cứ thật là ăn gì và ăn bao nhiêu, xem … |
-| mục 26 | phần 2, mục 29 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | … mục 28 (mỗi ngày ăn đủ 5 phần rau củ quả), … |
-| mục 26 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …, mục 29 (ăn ít thực phẩm siêu chế biến) và … |
+| mục 26 | phần 2, mục 27 | Mỗi ngày ăn đủ 5 phần (khoảng 400 g) rau củ quả | …chứng cứ thật là ăn gì và ăn bao nhiêu, xem … |
+| mục 26 | phần 2, mục 28 | Ăn ít thực phẩm siêu chế biến (khoai tây chiên lát, mì gói, bánh ngọt, đồ ăn liền) | … mục 27 (mỗi ngày ăn đủ 5 phần rau củ quả), … |
+| mục 26 | phần 2, mục 32 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | …, mục 28 (ăn ít thực phẩm siêu chế biến) và … |
 | mục 26 | phần 28, mục 1 | Đừng dùng kiêng cữ cực đoan, nhịn ăn hoặc gây nôn để kiểm soát cân, muốn giảm thì giảm từ phía vận động | … ăn cực đoan và gây nôn là chuyện khác, xem … |
 | mục 26 | mục 20 | Đừng vì khám thấy sỏi túi mật nhưng chưa từng đau mà đi cắt túi mật dự phòng | …i mật mà chưa từng đau thì làm thế nào, xem … |
 | mục 27 | phần 3, mục 9 | Đến giờ thì ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm | … Thức khuya xem … |
 | mục 27 | phần 1, mục 28 | Chức năng cương dương có vấn đề, trước hết đi khám tim mạch, đừng xem nó chỉ là "chuyện ấy" | …àm mình có vấn đề cương dương, hãy làm theo … |
 | mục 27 | phần 9, mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … của việc đăng vào nhóm, bán tài nguyên xem … |
 | mục 28 | phần 30, mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | … Khi con nói ra, cả nhà nên làm gì, xem … |
+| mục 29 | phần 2, mục 16 | Mỗi tuần tập sức mạnh 30–60 phút | … Cách tập xem … |
+| mục 29 | phần 2, mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | …ục 16 (mỗi tuần tập sức mạnh 30–60 phút) và … |
+| mục 30 | phần 1, mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | …gãy xương, cần thuốc chống loãng xương, xem … |
+| mục 30 | phần 13, mục 41 | Nghi gãy xương thì đừng động bộ phận đó nữa, đỡ yên, chườm lạnh trong 20 phút, đừng tự bẻ chỉnh | … Vừa ngã, nghi gãy xương thì làm gì, xem … |
+| mục 30 | mục 3 | Đừng bổ sung vitamin D cho người không thiếu để sống lâu | … D mà bổ sung lâu dài thì không có lợi, xem … |
+| mục 30 | mục 21 | Đừng kiêng canxi để phòng sỏi thận | …i trong ba bữa ăn vẫn ăn đủ như thường, xem … |
 
 ## 07-song-khi-khong-co-tien
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … xin tiền bảo hiểm thất nghiệp qua mạng (… |
+| Mở đầu phần | mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | … được công nhận người khó khăn về việc làm (… |
+| Mở đầu phần | mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …ệc làm (mục 12), lĩnh trợ cấp đào tạo nghề (… |
+| Mở đầu phần | mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | … khiếu nại thanh tra lao động (… |
+| Mở đầu phần | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | …tra lao động (mục 2), xin viện trợ pháp lý (… |
+| Mở đầu phần | mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …trợ pháp lý (mục 3), phân biệt ai thuê bạn (… |
+| Mở đầu phần | mục 4 | Không còn đường lui thì đến trạm cứu trợ, có lo ăn ở và vé xe về quê | … đến trạm cứu trợ (… |
+| Mở đầu phần | mục 6 | Biến cố bất ngờ thì trước hết xin cứu trợ tạm thời | …trạm cứu trợ (mục 4), xin cứu trợ tạm thời (… |
+| Mở đầu phần | mục 7 | Thu nhập dưới vạch trợ cấp tối thiểu địa phương thì xin trợ cấp tối thiểu | …rợ tạm thời (mục 6), xin trợ cấp tối thiểu (… |
+| Mở đầu phần | mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …7), hai khoản trợ cấp cho người khuyết tật (… |
+| Mở đầu phần | mục 11 | Mất giấy căn cước thì làm lại ngay, cần gấp thì xin giấy căn cước tạm trước | …gười khuyết tật (mục 8), mất giấy căn cước (… |
+| Mở đầu phần | mục 21 | Thật sự không có chỗ ngủ, nơi mở cửa 24 giờ chỉ ứng cứu được một đêm, ưu tiên đến trạm cứu trợ | …t giấy căn cước (mục 11), không có chỗ ngủ (… |
+| Mở đầu phần | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … bảo hiểm y tế cư dân đừng để đứt (… |
+| Mở đầu phần | mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …ục 9), bệnh nặng thì đi theo bảo hiểm y tế (… |
+| Mở đầu phần | mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …c 10), bảo hiểm xã hội đứt đóng đừng hoảng (… |
+| Mở đầu phần | mục 20 | Trước khi bệnh nặng, ngoài bảo hiểm y tế cơ bản hãy mua thêm một gói bảo hiểm y tế một năm hoặc bảo hiểm bệnh hiểm nghèo, nhìn rõ bốn chữ "bảo đảm tái bảo hiểm" (cam kết tái tục) | …g (mục 18), mua thêm bảo hiểm y tế một năm (… |
+| Mở đầu phần | mục 5 | Tìm việc thì trước hết dùng dịch vụ việc làm công miễn phí và chợ việc làm lẻ, không qua môi giới thu phí | … dịch vụ việc làm công và chợ việc làm lẻ (… |
+| Mở đầu phần | mục 14 | Xin việc đừng chỉ nộp hồ sơ, dùng phương pháp có hệ thống: học kỹ năng, đặt mục tiêu, nhờ người giúp | …m lẻ (mục 5), dùng phương pháp có hệ thống (… |
+| Mở đầu phần | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | …4), không nộp tiền cọc, không giao giấy tờ (… |
+| Mở đầu phần | mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …từng ngồi tù, phá sản vẫn có đường làm lại (… |
+| Mở đầu phần | mục 16 | Khó khăn về nhà ở thì trước hết xếp hàng nhà ở công cộng cho thuê | … xếp hàng nhà ở công cộng cho thuê (… |
+| Mở đầu phần | mục 17 | Ép chi ở và ăn xuống thấp nhất: thuê chung theo tháng thay thuê theo ngày, tự nấu và nhà ăn trợ giá thay gọi đồ ăn | …ê (mục 16), ép chi ở và ăn xuống thấp nhất (… |
+| mục 1 | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … "tự nguyện xin nghỉ vì lý do cá nhân", xem … |
+| mục 1 | phần 19, mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | …ấy chứng nhận nghỉ việc do công ty cấp, xem … |
+| mục 1 | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | …ng ty không trả bồi thường thì làm sao, xem … |
+| mục 2 | mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …ải quan hệ lao động và bạn phải ra tòa, xem … |
 | mục 7 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …cư dân có trợ cấp (bảo hiểm y tế cư dân xem … |
 | mục 7 | mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …đi khám được cứu trợ y tế (cứu trợ y tế xem … |
 | mục 7 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … xét khó khăn kinh tế (viện trợ pháp lý xem … |
-| mục 10 | phần 24, mục 9 | Không mang tiền, không mang giấy tờ, nói không rõ mình là ai, cấp cứu cũng phải cứu trước | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
+| mục 10 | phần 24, mục 8 | Không mang tiền, không mang giấy tờ, nói không rõ mình là ai, cấp cứu cũng phải cứu trước | …ạn đó do quỹ cứu trợ khẩn cấp bệnh trả, xem … |
 | mục 10 | mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | … LPR kỳ hạn một năm (không vay nặng lãi xem … |
+| mục 15 | phần 5, mục 7 | Không dùng trả tối thiểu thẻ tín dụng, không vì tiêu dùng mà mở trả góp hay vay tiêu dùng; không vay không được thì trước hết đổi tiền lãi sang lãi suất quy năm rồi mới so sánh | … online quy thành lãi suất năm thế nào, xem … |
 | mục 18 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | …hông được chi trả (bảo hiểm y tế cư dân xem … |
-| mục 20 | phần 5, mục 40 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
+| mục 18 | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Cách chuyển xem … |
+| mục 18 | phần 5, mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | …ểm hưu trí công nhân viên, cách tính sổ xem … |
+| mục 20 | phần 5, mục 39 | Chỉ mua bảo hiểm cho tổn thất mình gánh không nổi, tổn thất gánh được để quỹ dự phòng lo | … Thiệt hại nào đáng dùng bảo hiểm đỡ, xem … |
 | mục 20 | mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Trước hết đóng bảo hiểm y tế cư dân (… |
 | mục 21 | mục 4 | Không còn đường lui thì đến trạm cứu trợ, có lo ăn ở và vé xe về quê | … Trạm cứu trợ ở … |
+| mục 22 | phần 8, mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | …Khoản nhỏ thì đi theo thủ tục kiện nhỏ, xem … |
+| mục 22 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hiệu khởi kiện là 3 năm, xem … |
+| mục 22 | mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …rường và việc nhà thầu chính trả trước, xem … |
+| mục 22 | mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | …g đủ tiền thì bạn xin viện trợ pháp lý, xem … |
 
 ## 08-dung-tu-chuoc-hoa-vao-than
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …ện bị lừa thì gọi ngay để yêu cầu chặn chi (… |
+| Mở đầu phần | mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …ặn chi (mục 2), nhớ quy tắc cứng chống lừa (… |
+| Mở đầu phần | mục 4 | Thấy mặt trong video, nghe giọng qua điện thoại đều chưa tính là kiểm chứng; liên quan chuyển tiền thì cúp trước, gọi lại bằng số cũ trong danh bạ của mình | …ấy mặt trong video chưa tính là kiểm chứng (… |
+| Mở đầu phần | mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | …ông cho mượn thẻ ngân hàng, SIM điện thoại (… |
+| Mở đầu phần | mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | … năm tra miễn phí hai lần báo cáo tín dụng (… |
+| Mở đầu phần | mục 22 | Mua hàng mạng, giao dịch đồ cũ bị lừa: khiếu nại nền tảng trước, báo cảnh sát sau, rồi tính xem có đáng kiện không | … 9), mua hàng mạng, giao dịch đồ cũ bị lừa (… |
+| Mở đầu phần | mục 27 | Sửa chữa tận nhà, kiểm định xe, sửa nhà: hỏi giá trước rồi mới cho làm, nhìn suốt bên cạnh | …ục 22), sửa chữa tận nhà thì hỏi giá trước (… |
+| Mở đầu phần | mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | … Xuất nhập cảnh không mang đồ hộ người lạ (… |
+| Mở đầu phần | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …9), bị nhờ "giúp quét mặt" chính là vay AB (… |
+| Mở đầu phần | mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | … trước khi ký phải đọc hết tờ giấy (… |
+| Mở đầu phần | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …7), cho vay mượn tiền phải viết rõ giấy nợ (… |
+| Mở đầu phần | mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | …giấy nợ (mục 18), bảo vệ quyền có thời hạn (… |
+| Mở đầu phần | mục 20 | Bị kiện, bị thi hành án thì khai thật tài sản, trả được bao nhiêu trả bấy nhiêu; đừng chuyển nhà và tiền cho người thân hay công ty | … 19), bị thi hành án thì khai thật tài sản (… |
+| Mở đầu phần | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | … Bị đưa vào danh sách mất tín nhiệm (… |
+| Mở đầu phần | mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | …ệm (mục 21), đừng làm "pháp nhân treo tên" (… |
+| Mở đầu phần | mục 44 | Người nhà đánh bạc mắc nợ, đừng vội trả thay: nợ bạc luật không bảo vệ, tiền vay để đánh bạc cũng không tính nợ chung vợ chồng | …o tên" (mục 28), người nhà đánh bạc mắc nợ (… |
+| Mở đầu phần | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … có xung đột thì báo cảnh sát trước (… |
+| Mở đầu phần | mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | …m hại không tránh được thì có thể đánh trả (… |
+| Mở đầu phần | mục 12 | Kết thù với ai — bị nợ lương, bị đuổi việc, bị chơi xỏ tiền — đi đường khiếu nại, trọng tài, khởi kiện, đừng đi tìm người tính sổ | …t thù với ai thì đừng đi tìm người tính sổ (… |
+| Mở đầu phần | mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết thì từ mười năm tù, cao nhất là tử hình | … Đừng ra tay với người không liên quan (… |
+| Mở đầu phần | mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | …g liên quan (mục 13), nảy ra ý "cùng chết" (… |
+| Mở đầu phần | mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | …gười thân nói "ai cũng đừng hòng sống yên" (… |
+| Mở đầu phần | mục 38 | Đường "mua bảo hiểm cho người trước rồi ra tay" luật bít từ đầu: tiền một xu không lấy được, tội tính cố ý giết người cộng lừa đảo bảo hiểm, phạt tổng hợp nhiều tội | …ho người trước rồi ra tay" luật bít từ đầu (… |
+| Mở đầu phần | mục 23 | Cho tặng số tiền lớn trong yêu đương và trong hôn nhân: nghĩ kỹ trước khi giao; giao xong nguyên tắc đòi không lại | …ặng số tiền lớn thì nghĩ kỹ trước khi giao (… |
+| Mở đầu phần | mục 24 | Sính lễ (tiền hỏi cưới) đi qua chuyển khoản và ghi chú, giữ lịch sử chat; lấy hôn nhân đòi tiền có thể đòi lại | …giao (mục 23), sính lễ đi qua chuyển khoản (… |
+| Mở đầu phần | mục 25 | Tài sản trước cưới không đáng sợ; thêm tên vào nhà và tiền cha mẹ bỏ ra thì viết rõ trước | …khoản (mục 24), viết rõ tài sản trước cưới (… |
+| Mở đầu phần | mục 26 | Trước khi cưới kiểm tình trạng hôn nhân của bên kia; lấy cái cớ cưới để lừa tiền bị truy cứu tội lừa đảo | … cưới kiểm tình trạng hôn nhân của bên kia (… |
+| Mở đầu phần | mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …ị bạo hành gia đình thì báo cảnh sát trước (… |
+| Mở đầu phần | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | … bị triệu hồi thì trước hết mời luật sư (… |
+| Mở đầu phần | mục 6 | Có chuyện thì chủ động ra trình bày: tự thú nhiều nhất giảm được bốn phần mười hình phạt, tội nhẹ thì còn giảm được nhiều hơn, thậm chí được miễn phạt, đường "trốn qua thời hiệu truy cứu" đã bị bít | …ục 5), có chuyện thì chủ động ra trình bày (… |
+| Mở đầu phần | mục 33 | Bị người bịa đặt tình tiết tố cáo, có thể yêu cầu truy cứu: đủ phạt trị an thì tạm giữ từ 5 ngày, đủ tội thì tù dưới 3 năm | …(mục 6), bị người bịa đặt tình tiết tố cáo (… |
+| Mở đầu phần | mục 34 | Chứng cứ không đủ vốn phải phán vô tội, khẩu cung ép ra phải loại; phán rồi còn có khiếu nại và xét xử lại | … Chứng cứ không đủ vốn phải phán vô tội (… |
+| Mở đầu phần | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …n vô tội (mục 34), xin bồi thường nhà nước (… |
+| Mở đầu phần | mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …35), báo án phải đòi ngay biên nhận thụ lý (… |
+| Mở đầu phần | mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | …ý (mục 39), đừng đưa tiền cho người làm án (… |
+| Mở đầu phần | mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | …c nói chuyện có thể quay mặt thì mở ghi âm (… |
+| Mở đầu phần | mục 42 | Có chuyện tại hiện trường, chụp toàn cảnh trước, rồi chụp vị trí tương đối, cuối cùng chụp hư hỏng và vết thương; ảnh gốc video gốc đừng xóa | … 41), tại hiện trường chụp toàn cảnh trước (… |
+| Mở đầu phần | mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | … trên mạng không chửi người, không bịa tin (… |
+| Mở đầu phần | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | …c 16), bị bạo lực mạng thì mở bảo vệ trước (… |
+| Mở đầu phần | mục 31 | Bên kia uống đến mơ hồ, ngủ mất, hoặc có thể chưa đủ 14 tuổi thì đừng phát sinh quan hệ | … uống đến mơ hồ thì đừng phát sinh quan hệ (… |
+| Mở đầu phần | mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …hat sex ra đòi tiền thì báo cảnh sát thẳng (… |
+| Mở đầu phần | mục 36 | Mình là nạn nhân đi đòi đền: đi đường 12315 (tổng đài tiêu dùng TQ), khởi kiện hoặc mời luật sư; đừng một mình đi gặp bên kia, đừng buộc "trả tiền" và "tôi không phơi bày" thành một câu | …i đòi đền thì đừng một mình đi gặp bên kia (… |
+| Mở đầu phần | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | … có tai nạn giao thông thì đừng chạy (… |
+| Mở đầu phần | mục 7 | Uống rượu là không chạm vô lăng, kể cả xe điện và "chỉ dời xe một chút" | …y (mục 1), uống rượu là không chạm vô lăng (… |
+| Mở đầu phần | mục 30 | Nuôi chó phải dắt dây: không dây mà có chuyện là trách nhiệm không lỗi (có lỗi hay không đều phải đền), đền tới cùng | …hạm vô lăng (mục 7), nuôi chó phải dắt dây (… |
+| Mở đầu phần | mục 46 | Lắp khóa tốt cho cửa ra vào và cửa sổ, lắp một đèn cảm ứng ngoài cửa, ra khỏi nhà thì khóa cửa thật sự: chống trộm đột nhập nhờ mấy thứ này, chỉ lắp mỗi một chuông báo trộm thì không thấy có tác dụng | …30), lắp khóa tốt cho cửa ra vào và cửa sổ (… |
 | mục 3 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … cách chặn chi xem … |
+| mục 3 | phần 12, mục 24 | Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra | …thuê người vận hành hộ cửa hàng online, xem … |
+| mục 3 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …bắt bạn chuyển tiền, mà để bạn gánh nợ, xem … |
 | mục 4 | phần 14 | 14-tai-khoan-va-an-toan-thong-tin (cả phần) | …để mặt và giọng mình không bị thu thập, xem … |
 | mục 4 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Đã lỡ chuyển tiền thì xem … |
 | mục 5 | mục 33 | Bị người bịa đặt tình tiết tố cáo, có thể yêu cầu truy cứu: đủ phạt trị an thì tạm giữ từ 5 ngày, đủ tội thì tù dưới 3 năm | … Ba mục mở rộng xem … |
@@ -309,18 +614,25 @@ Tổng cộng 765 trích dẫn.
 | mục 5 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …phải tuyên vô tội và khiếu nại xét xử lại), … |
 | mục 6 | mục 1 | Có tai nạn giao thông thì trước hết dừng xe, cứu người, báo cảnh sát, đừng chạy | … Làm thế nào thì xem … |
 | mục 6 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | …rước và khai thật không mâu thuẫn nhau, xem … |
+| mục 8 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …ên thật thì mức phạt giống như mục này, xem … |
+| mục 9 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … để vay tiền, bạn càng nên tra một lần, xem … |
+| mục 10 | phần 9, mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | …nh thường, bị kiểm tra ra cũng bị phạt, xem … |
 | mục 11 | phần 13, mục 37 | Bắt gặp một đám đánh nhau: lùi ra đi, đừng lên can, đừng đứng xem, đừng nhặt hung khí dưới đất; muốn báo thì lùi tới khoảng an toàn gọi 110 | …ữa người lạ thì rủi ro phải tính riêng, xem … |
 | mục 11 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … mặc định vẫn là lùi ra và báo cảnh sát như … |
 | mục 11 | mục 5 | Bị buộc tội hoặc bị triệu hồi, trước hết mời luật sư, không dàn xếp riêng, không xóa hồ sơ | … chính thức hỏi, bạn mời luật sư trước, xem … |
 | mục 11 | mục 35 | Bị giam giữ rồi hủy vụ, không truy tố hoặc phán vô tội, đi xin bồi thường nhà nước, tính tiền theo ngày | …ng nhà nước, tính theo số ngày bị giam, xem … |
 | mục 12 | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …hế nào, xin trọng tài lao động thế nào, xem … |
+| mục 12 | phần 7, mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | …hân mà bị nợ tiền thì cũng phải ra tòa, xem … |
 | mục 12 | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | …ể khiếu nại thế nào, trọng tài thế nào, xem … |
 | mục 12 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Vạch đỏ khi đòi nợ xem … |
 | mục 13 | mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | … Nếu ý nghĩ đã đi tới bước này, bạn xem … |
 | mục 14 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Nếu muốn tự làm hại mình, xem … |
-| mục 14 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …Lúc tinh thần suy sụp trước hết làm gì, xem … |
+| mục 14 | phần 3, mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | …Lúc tinh thần suy sụp trước hết làm gì, xem … |
+| mục 15 | phần 1, mục 43 | Hỏi thẳng người bên cạnh đang có tâm trạng không ổn "bạn có từng nghĩ đến tự tử không", hỏi vậy không làm họ nghĩ đến nhiều hơn | …ỏi như vậy không làm họ muốn chết thêm, xem … |
 | mục 16 | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | … Bị bạo lực mạng rồi xử lý thế nào, xem … |
+| mục 17 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …giúp quét mặt, ký tên để làm khoản vay, xem … |
 | mục 18 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …y thị trường TQ) không được tòa bảo vệ, xem … |
+| mục 18 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | …ảo lãnh mà thực tế bạn ký hợp đồng vay, xem … |
 | mục 19 | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | … nghỉ đi theo đường trọng tài lao động, xem … |
 | mục 19 | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | … nghỉ đi theo đường trọng tài lao động, xem … |
 | mục 19 | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Giấy nợ và bảo lãnh xem … |
@@ -328,6 +640,8 @@ Tổng cộng 765 trích dẫn.
 | mục 20 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …àm xong nghĩa vụ rồi khôi phục thế nào, xem … |
 | mục 20 | mục 21 | Bị hạn chế tiêu dùng hoặc bị đưa vào danh sách mất tín nhiệm, trước hết tra rõ bị nạp theo mục nào, sửa được thì xin sửa | …sách, bị hạn chế tiêu dùng rồi làm sao, xem … |
 | mục 21 | phần 7, mục 19 | Đã từng ngồi tù, từng phá sản, từng lên danh sách mất tín nhiệm, luật đều có đường làm lại, hãy đi hết thủ tục trước | …sách không làm hồ sơ tín dụng thay đổi, xem … |
+| mục 25 | phần 10, mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …thế nào cho rõ là cho vay hay cho tặng, xem … |
+| mục 28 | mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … Có người mượn tên bạn để đi vay tiền, xem … |
 | mục 30 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bị cắn rồi xử lý thế nào, xem … |
 | mục 31 | phần 9, mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … bé gái được xác định thế nào, xem … |
 | mục 31 | phần 13, mục 42 | Sau khi bị xâm hại tình dục: trước tới chỗ an toàn gọi 110; trước khi khám thương đừng tắm, đừng giặt áo, đừng dọn phòng, trong 72 giờ đi viện | … Nếu bạn là bên bị hại, làm gì trước xem … |
@@ -351,7 +665,7 @@ Tổng cộng 765 trích dẫn.
 | mục 38 | mục 15 | Người thân nói "ai cũng đừng hòng sống yên" "dẫn con đi chung", đừng coi là lời giận: thân nhân gần có thể đưa thẳng đi khám, công an nhận báo cũng phải quản | … muốn hại người nhà thì xử như cấp cứu, xem … |
 | mục 39 | mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … Quy trình chặn chi sau khi bị lừa, xem … |
 | mục 39 | mục 37 | Bị bạo lực mạng: mở bảo vệ trước, giữ chứng trước, rồi chọn một trong ba đường nền tảng, lệnh cấm, báo cảnh sát | … Bị bạo lực mạng xem … |
-| mục 40 | phần 24, mục 12 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | …ng bệnh viện thuộc một bộ quy tắc khác, xem … |
+| mục 40 | phần 24, mục 11 | Cảm ơn bác sĩ đã cứu bạn thì đi đường thư cảm ơn, cờ biển và đánh giá mức hài lòng, đừng đi phong bì: quy tắc cấm là tiền của, không phải lòng biết ơn | …ng bệnh viện thuộc một bộ quy tắc khác, xem … |
 | mục 40 | mục 39 | Báo án phải đòi ngay biên nhận thụ lý; không lập án phải có thông báo văn bản: trong 7 ngày xin xem xét lại, lại 7 ngày xin phúc xét, viện kiểm sát có thể báo công an lập án | …ật sự gặp người đòi lợi, bạn đi theo kênh ở … |
 | mục 41 | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Tư liệu nên lưu trước khi nghỉ việc xem … |
 | mục 41 | mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …dính tranh chấp về riêng tư và danh dự, xem … |
@@ -361,26 +675,63 @@ Tổng cộng 765 trích dẫn.
 | mục 44 | phần 10, mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …ệu lực, việc xác định nợ chung vợ chồng xem … |
 | mục 44 | phần 9, mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … Chủ nợ đến chặn người, giữ người thì xem … |
 | mục 44 | phần 1, mục 37 | Khi đánh bạc đến mức vay tiền đánh tiếp, tâm trạng tụt dốc kéo dài, hãy gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà giữ | …đó đã đánh bạc đến mức không muốn sống, xem … |
+| mục 45 | phần 9, mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | …n có thể tự mình phải chịu trách nhiệm, xem … |
+| mục 45 | phần 14, mục 9 | Quét mặt không bắt buộc phải đồng ý: còn cách khác thì không được chỉ cho bạn quét mặt, bạn không đồng ý thì phải đưa cách khác | …cầu cách khác, nhưng đó là chuyện khác, xem … |
+| mục 45 | mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …ng bảo lãnh với tư cách người bảo lãnh, xem … |
+| mục 45 | mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | …mấy khoản vay thì tra báo cáo tín dụng, xem … |
+| mục 45 | mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | …ặt và xác nhận điện tử cũng tính là ký, xem … |
+| mục 45 | mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | …iêu cùng kiểu mượn tên bạn để làm việc, xem … |
+| mục 45 | mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | …n thoại và tài khoản không cho ai mượn, xem … |
+| mục 46 | mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | …ở thì bạn lùi ra và báo cảnh sát trước, xem … |
+| mục 46 | mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | … Hết đường lùi thì xem … |
 
 ## 09-lan-san-do-phap-luat-de-vi-pham
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …tai họa, dịch bệnh, vụ án chưa rõ thật giả (… |
+| Mở đầu phần | mục 2 | Không đăng, không chuyển ảnh, biểu tượng cảm xúc và bình luận sỉ nhục anh hùng liệt sĩ, không đem quốc kỳ quốc ca ra đùa | … xúc và bình luận sỉ nhục anh hùng liệt sĩ (… |
+| Mở đầu phần | mục 3 | Nội dung trên site nước ngoài xem xong thì đóng lại: không chụp màn hình, không chuyển tiếp, không mang vào nhóm, cũng không bình luận theo | …trên site nước ngoài xem xong thì đóng lại (… |
+| Mở đầu phần | mục 4 | Video khiêu dâm tự xem thì phần mình; đừng phát vào nhóm, đừng bán "tài nguyên", đừng lập nhóm | … đừng phát video khiêu dâm vào nhóm (… |
+| Mở đầu phần | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | …n dùng thẻ của mình thu tiền thì không làm (… |
+| Mở đầu phần | mục 6 | Ai rủ bạn "đóng gói hồ sơ" đi vay, chia bạn hoa hồng theo số tiền vay: cái nào cũng không làm | … bạn "đóng gói hồ sơ" đi vay thì không làm (… |
+| Mở đầu phần | mục 7 | Nhặt được thẻ ngân hàng không rút tiền; nhặt được điện thoại, ví thì liên hệ chủ hoặc giao công an, không bỏ túi | … nhặt được thẻ ngân hàng không rút tiền (… |
+| Mở đầu phần | mục 8 | Ưu đãi lĩnh bằng danh tính thật của mình; không mua số ảo đăng ký hàng loạt tài khoản phụ, không lợi lỗ hổng lĩnh lặp lại | … Ưu đãi lĩnh bằng danh tính thật của mình (… |
+| Mở đầu phần | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | … không cho mượn căn cước (… |
+| Mở đầu phần | mục 21 | Đừng làm giả sự cố, đừng phóng đại tổn thất lừa đền bảo hiểm: đó là tội lừa đảo bảo hiểm, người giúp làm chứng, giúp sửa xe, giúp định giá đều tính chung | … đừng làm giả sự cố để lừa đền bảo hiểm (… |
+| Mở đầu phần | mục 9 | Từ ban công, cửa sổ không vứt bất cứ thứ gì ra ngoài: tàn thuốc, túi rác, chai rượu đều tính | … ban công, cửa sổ không vứt đồ ra ngoài (… |
+| Mở đầu phần | mục 10 | Không mua qua mạng súng giả, súng bi sắt, súng hơi; không mua "súng đồ chơi" không rõ nguồn | … không mua qua mạng súng giả (… |
+| Mở đầu phần | mục 11 | Mua drone trước hết đăng ký tên thật; sân bay, khu quân sự và không phận quản chế trong thành phố không bay; không phá giới hạn độ cao | … mua drone trước hết đăng ký tên thật (… |
+| Mở đầu phần | mục 13 | Mạt chược, bài được chơi, nhưng không hưởng khấu, không làm cái, không mở sới thu tiền, không chơi đánh bạc mạng | … Không hưởng khấu, không mở sới thu tiền (… |
+| Mở đầu phần | mục 14 | Không ăn thịt thú rừng, không mua bán, không nuôi động vật được bảo vệ làm thú cưng | … không ăn thịt thú rừng (… |
+| Mở đầu phần | mục 15 | Đòi nợ không giữ người, không nhốt người, không theo tận nhà ở lì không cho đi | … đòi nợ không giữ người (… |
+| Mở đầu phần | mục 17 | Bị cảnh sát chặn lại hoặc dẫn đi thì phối hợp: không đẩy, không đánh, không giành máy ghi hình chấp pháp; uống rượu càng phải nhịn | … bị cảnh sát chặn lại thì phối hợp (… |
+| Mở đầu phần | mục 19 | Trước khi ra tay đánh người tính kỹ khoản này: tạm giữ, đền tiền, ngồi tù | …ớc khi ra tay đánh người tính kỹ khoản này (… |
+| Mở đầu phần | mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | …cui rút, thiết bị sốc điện mang theo người (… |
+| Mở đầu phần | mục 12 | Không chụp lén người khác; không lắp camera trong phòng cho thuê, nhà nghỉ, khách sạn | … không chụp lén người khác (… |
+| Mở đầu phần | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | … chưa đủ 14 tuổi thì không được quan hệ (… |
+| Mở đầu phần | mục 20 | Con sinh ra nuôi không nổi chỉ có một lối ra hợp pháp là đăng ký với cơ quan dân chính: thu tiền giao con cho người có thể phán theo tội buôn bán trẻ em, bỏ mặc không nuôi là tội bỏ rơi | …hông nổi thì đăng ký với cơ quan dân chính (… |
+| Mở đầu phần | mục 22 | Đừng bán nội tạng của chính mình, cũng đừng giúp người tìm nguồn hiến: bán thận tay đến hơn 2 vạn, cùng quả đó bán lại 20 vạn; tiền bị tịch thu còn phạt gấp 10 đến 20 lần số giao dịch | … Đừng bán nội tạng của chính mình (… |
+| Mở đầu phần | mục 23 | Đừng mua dâm: mức mặc định là tạm giữ 10 đến 15 ngày, không phải phạt tiền là xong | … đừng mua dâm vì mặc định là tạm giữ (… |
+| Mở đầu phần | mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …phim và phim truyền hình, sách điện tử lậu (… |
+| Mở đầu phần | mục 25 | Viết truyện đồng nhân, làm tác phẩm phái sinh mà đem đi xuất bản hay bán lấy tiền thì trước hết xin phép dùng tác phẩm gốc, hoặc đổi tên và quan hệ nhân vật mượn về thành của mình | …g nhân đem bán lấy tiền thì xin phép trước (… |
 | mục 3 | phần 11, mục 11 | Không bán công cụ vượt tường, tài khoản VPN, không dựng node loại đó thay người | …êng công cụ vượt tường bị phạt thế nào, xem … |
 | mục 3 | mục 1 | Không chuyển tiếp trong nhóm tin tai họa, dịch bệnh, vụ án chưa rõ thật giả; không chỉnh ảnh, không dùng AI dựng cảnh hiện trường | …hắc thật giả thì càng đừng chuyển theo, xem … |
 | mục 5 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … điểm" (chuyển tiền hộ để ăn hoa hồng), xem … |
+| mục 5 | phần 5, mục 45 | Đừng bỏ tiền mua Bitcoin, Tether và các loại tiền ảo tương tự, người khác rủ cùng đầu tư cũng đừng theo: giao dịch không được pháp luật bảo vệ, lỗ rồi kiện cũng không đòi lại được | …ảo mà lỗ thì vì sao không đòi lại được, xem … |
 | mục 6 | phần 8, mục 9 | Mỗi năm tra miễn phí hai lần báo cáo tín dụng của mình, xem có khoản vay hay thẻ nào không phải mình làm không | …hác mạo danh vay thì phát hiện thế nào, xem … |
 | mục 6 | mục 5 | "Việc làm thêm" đòi bạn dùng thẻ của mình thu tiền, rút tiền mặt, chuyển khoản: dù cho hoa hồng bao nhiêu cũng không làm | … tiền, chuyển khoản thay người khác thì xem … |
 | mục 8 | phần 11, mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Tự viết script, bán script, xem … |
 | mục 8 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … bán thẻ, bán tài khoản, xem … |
 | mục 8 | mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | …oản, xem  (không cho mượn thẻ ngân hàng) và … |
+| mục 10 | mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | … và dao thuộc diện quản chế theo người, xem … |
 | mục 15 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | … Viết giấy nợ thế nào, xem … |
 | mục 16 | phần 8, mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | … hậu quả của hai việc đó, xem … |
 | mục 16 | phần 8, mục 8 | Không cho bất cứ ai mượn thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán; "chạy điểm" (chuyển tiền hộ ăn hoa hồng) không phải việc làm thêm | … hậu quả của hai việc đó, xem … |
 | mục 19 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | …anh giới phòng vệ chính đáng ở đâu, bạn xem … |
 | mục 19 | phần 8, mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | …ả khi ra tay với người khác để xả giận, xem … |
 | mục 19 | phần 8, mục 12 | Kết thù với ai — bị nợ lương, bị đuổi việc, bị chơi xỏ tiền — đi đường khiếu nại, trọng tài, khởi kiện, đừng đi tìm người tính sổ | …ả khi ra tay với người khác để xả giận, xem … |
-| mục 19 | phần 8, mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết là tử hình | …ả khi ra tay với người khác để xả giận, xem … |
+| mục 19 | phần 8, mục 13 | Hận đến đâu cũng đừng ra tay với người không liên quan: lái xe đâm vào đám đông, hành hung nơi công cộng định tội dùng phương thức nguy hiểm gây hại an toàn công cộng, khởi hình ba năm, có người chết thì từ mười năm tù, cao nhất là tử hình | …ả khi ra tay với người khác để xả giận, xem … |
 | mục 19 | phần 8, mục 14 | Nảy ra ý "kéo kẻ nện chung" "cùng chết", xử như cấp cứu: rời khỏi hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356 (đường dây tâm lý TQ) | …ả khi ra tay với người khác để xả giận, xem … |
 | mục 20 | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … kỳ và sau sinh phải đi bệnh viện ngay, xem … |
 | mục 20 | phần 27, mục 16 | Lần tái khám 42 ngày sau sinh đừng nhảy, nó đồng thời là sàng lọc trầm cảm sau sinh | …ồng thời là sàng lọc trầm cảm sau sinh, xem … |
@@ -397,40 +748,72 @@ Tổng cộng 765 trích dẫn.
 | mục 23 | phần 13, mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …tình dục dùng bao cao su suốt quá trình) và … |
 | mục 23 | phần 22 | 22-thu-gian-the-nao (cả phần) | …ên chú ý ở chính khu vui chơi giải trí, xem … |
 | mục 23 | mục 18 | Đối phương chưa đủ 14 tuổi thì không được quan hệ, "cô ấy đồng ý" không phải lý do | …ử thẳng theo tội hiếp dâm và phạt nặng, xem … |
+| mục 24 | phần 12, mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | … của người khác in lên hàng hóa để bán, xem … |
+| mục 24 | phần 26, mục 9 | Nhận thông báo xâm quyền phải xử kịp, chuyển tuyên bố xong 15 ngày không có gì thì phục hồi | …yền của người có quyền thì làm thế nào, xem … |
+| mục 24 | mục 25 | Viết truyện đồng nhân, làm tác phẩm phái sinh mà đem đi xuất bản hay bán lấy tiền thì trước hết xin phép dùng tác phẩm gốc, hoặc đổi tên và quan hệ nhân vật mượn về thành của mình | …ác khi viết đồng nhân rồi đem xuất bản, xem … |
+| mục 25 | mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …g lại, chia sẻ tác phẩm của người khác, xem … |
+| mục 26 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Khi gặp chuyện thật, trước hết xem … |
+| mục 26 | phần 8, mục 11 | Xâm hại không tránh được thì có thể đánh trả, nhưng chỉ đánh người đang ra tay; hắn dừng là bạn dừng | … Khi không còn đường lùi, xem … |
+| mục 26 | phần 13, mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ị người chặn đòi tiền ở nơi hoang vắng, xem … |
 
 ## 10-yeu-va-cuoi-co-dang-khong
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| mục 4 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | … … |
+| Mở đầu phần | mục 1 | Quen nhiều người hơn thay vì bám cứng một người: hai người hợp nhau hay không, trước khi gặp không đoán được | …nhiều người hơn thay vì bám cứng một người (… |
+| Mở đầu phần | mục 2 | Sau khi đối phương từ chối rõ ràng thì dừng lại, tiếp tục bám theo là vi phạm trị an, không phải "thành ý" | …hi đối phương từ chối rõ ràng thì dừng lại (… |
+| Mở đầu phần | mục 3 | Muốn biết đối phương có hứng thú không thì xem hành vi đừng xem "tín hiệu": ai chủ động, ai sắp xếp, ai theo tiếp | … không thì xem hành vi đừng xem "tín hiệu" (… |
+| Mở đầu phần | mục 5 | Muốn gần nhau hơn thì thay phiên trả lời một bộ câu hỏi đi từ nông đến sâu, đừng học chiêu nói chuyện | … trả lời một bộ câu hỏi đi từ nông đến sâu (… |
+| Mở đầu phần | mục 6 | Yêu xa không kém yêu cùng thành phố, khúc khó thật sự là ba tháng đầu sau khi chuyển về chung | … yêu xa không kém yêu cùng thành phố (… |
+| Mở đầu phần | mục 4 | Quan hệ tốt hay không chủ yếu xem cảm giác của chính bạn trong quan hệ này, không xem điều kiện của đối phương | …m cảm giác của chính bạn trong quan hệ này (… |
+| Mở đầu phần | mục 17 | Xem quan hệ tốt xấu là một khoản sức khỏe: cãi nhau đối việc không đối người, đừng chửi, đừng mỉa mai | …c không đối người, đừng chửi, đừng mỉa mai (… |
+| Mở đầu phần | mục 20 | Quan hệ kẹt trong cãi nhau lặp lại và chiến tranh lạnh thì hai người cùng đi trị liệu cặp đôi: chỉ ngồi chờ thì gần như không tự khá lên | …ạnh thì hai người cùng đi trị liệu cặp đôi (… |
+| Mở đầu phần | mục 7 | Xem số liệu đăng ký trước rồi hãy nghe bậc trên: tỷ lệ kết hôn, tỷ lệ ly hôn mỗi loại tính theo kiểu gì | …ố liệu đăng ký trước rồi hãy nghe bậc trên (… |
+| Mở đầu phần | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …g phải đánh giảm vì đó là số liệu quan sát (… |
+| Mở đầu phần | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …công", bàn rõ phân chia rồi hãy đi đăng ký (… |
+| Mở đầu phần | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … tính chi phí rút lui (… |
+| Mở đầu phần | mục 16 | Ghi riêng một khoản cho "cưới vì bậc trên", đừng trộn với khoản của mình | …vì bậc trên", đừng trộn với khoản của mình (… |
+| Mở đầu phần | mục 13 | Đăng ký kết hôn chỉ cần căn cước cộng một tờ khai có chữ ký, không cần sổ hộ khẩu, không thu tiền, cấp giấy ngay tại chỗ | …hỉ cần căn cước cộng một tờ khai có chữ ký (… |
+| Mở đầu phần | mục 14 | Trước khi cưới đi khám tiền hôn nhân một lần, có bệnh nặng phải khai thật cho đối phương trước khi đăng ký | …khai thật cho đối phương trước khi đăng ký (… |
+| Mở đầu phần | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | …quyết có cần thỏa thuận bằng văn bản không (… |
+| Mở đầu phần | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | …yển khoản đã phải ghi rõ là cho hay là vay (… |
+| Mở đầu phần | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | …g nhận sau, không tự động thành nợ của bạn (… |
+| Mở đầu phần | mục 18 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | … xong ủy quyền, giám hộ tự định và di chúc (… |
+| Mở đầu phần | mục 19 | Đừng cưới bằng cách giấu khuynh hướng tình dục, cũng đừng coi hôn nhân hình thức là cách nhẹ nhàng: về luật nó là một cuộc hôn nhân thật, muốn ra chỉ có đường ly hôn | …g coi hôn nhân hình thức là cách nhẹ nhàng (… |
+| mục 4 | mục 17 | Xem quan hệ tốt xấu là một khoản sức khỏe: cãi nhau đối việc không đối người, đừng chửi, đừng mỉa mai | … khỏe tốt xấu gắn với nhau thế nào, bạn xem … |
 | mục 12 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Nên cái hữu dụng hơn vẫn là bước ở … |
 | mục 12 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …c chung về giấy nợ và giấy bảo lãnh bạn xem … |
-| mục 13 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ình tĩnh 30 ngày của đăng ký ly hôn bạn xem … |
-| mục 17 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …ộc hôn nhân này lợi ích nào là của bạn, các … |
-| mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …i ích nào là của bạn, các mục 8 (sức khỏe), … |
-| mục 17 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
-| mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
-| mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
-| mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …oản thời gian), mục 10 đến 12 (khoản tiền), … |
-| mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …khoản tiền), mục 15 (chất lượng quan hệ) và … |
-| mục 17 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …động chuyển thành lợi ích sức khỏe của bạn (… |
-| mục 17 | mục 15 | Giá trị cảm xúc đừng chỉ hỏi "có hay không", phải nhìn chất lượng quan hệ | …hỏe của bạn (mục 8) hay chất lượng quan hệ (… |
-| mục 17 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | … Còn khoản thời gian (… |
-| mục 17 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | … Còn khoản thời gian (mục 9), khoản tiền (… |
-| mục 17 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Còn khoản thời gian (mục 9), khoản tiền (… |
-| mục 17 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … Còn khoản thời gian (mục 9), khoản tiền (… |
-| mục 17 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền (mục 10 đến 12) và chi phí rút lui (… |
-| mục 18 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …giao tiếp, mà là bạo hành gia đình, bạn xem … |
-| mục 18 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …kỹ có nên đi không, chi phí rút lui bạn xem … |
-| mục 19 | phần 17, mục 2 | Lập di chúc đi, nhớ di chúc lập sau lật đổ di chúc lập trước, di chúc công chứng không còn ưu tiên | …p mấy bản di chúc thì lấy bản cuối, bạn xem … |
-| mục 19 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | … Giám hộ tự định làm thế nào, bạn xem … |
-| mục 20 | mục 19 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | …hân bảo vệ, tài sản phải viết rõ riêng, xem … |
-| mục 20 | mục 16 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … thời gian bình tĩnh 30 ngày hoặc kiện, xem … |
+| mục 13 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ình tĩnh 30 ngày của đăng ký ly hôn bạn xem … |
+| mục 16 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …ộc hôn nhân này lợi ích nào là của bạn, các … |
+| mục 16 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | …i ích nào là của bạn, các mục 8 (sức khỏe), … |
+| mục 16 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
+| mục 16 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
+| mục 16 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … mục 8 (sức khỏe), mục 9 (khoản thời gian), … |
+| mục 16 | mục 4 | Quan hệ tốt hay không chủ yếu xem cảm giác của chính bạn trong quan hệ này, không xem điều kiện của đối phương | …oản thời gian), mục 10 đến 12 (khoản tiền), … |
+| mục 16 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền), mục 4 (cảm giác của chính bạn) và … |
+| mục 16 | mục 8 | Tính cả lợi ích sức khỏe vào, nhưng phải đánh giảm vì đó là số liệu quan sát | …động chuyển thành lợi ích sức khỏe của bạn (… |
+| mục 16 | mục 4 | Quan hệ tốt hay không chủ yếu xem cảm giác của chính bạn trong quan hệ này, không xem điều kiện của đối phương | …hỏe của bạn (mục 8) hay chất lượng quan hệ (… |
+| mục 16 | mục 9 | Khoản thời gian tính theo "việc không được trả công", bàn rõ phân chia rồi hãy đi đăng ký | … Còn khoản thời gian (… |
+| mục 16 | mục 10 | Khoản tiền trước hết xem quy tắc mặc định của pháp luật, rồi mới quyết có cần thỏa thuận bằng văn bản không | … Còn khoản thời gian (mục 9), khoản tiền (… |
+| mục 16 | mục 11 | Bố mẹ góp tiền mua nhà, ngay lúc chuyển khoản đã phải ghi rõ là cho hay là vay | … Còn khoản thời gian (mục 9), khoản tiền (… |
+| mục 16 | mục 12 | Khoản tiền lớn vợ hoặc chồng một mình đi vay, bạn không ký cũng không công nhận sau, không tự động thành nợ của bạn | … Còn khoản thời gian (mục 9), khoản tiền (… |
+| mục 16 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …ản tiền (mục 10 đến 12) và chi phí rút lui (… |
+| mục 17 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …giao tiếp, mà là bạo hành gia đình, bạn xem … |
+| mục 17 | mục 20 | Quan hệ kẹt trong cãi nhau lặp lại và chiến tranh lạnh thì hai người cùng đi trị liệu cặp đôi: chỉ ngồi chờ thì gần như không tự khá lên | …hai người cùng đi trị liệu cặp đôi, bạn xem … |
+| mục 17 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …kỹ có nên đi không, chi phí rút lui bạn xem … |
+| mục 18 | phần 17, mục 2 | Lập di chúc đi, nhớ di chúc lập sau lật đổ di chúc lập trước, di chúc công chứng không còn ưu tiên | …p mấy bản di chúc thì lấy bản cuối, bạn xem … |
+| mục 18 | phần 17, mục 1 | Trong lúc người già còn tỉnh táo, chỉ định người giám hộ tương lai bằng văn bản | … Giám hộ tự định làm thế nào, bạn xem … |
+| mục 19 | mục 18 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | …hân bảo vệ, tài sản phải viết rõ riêng, xem … |
+| mục 19 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | … thời gian bình tĩnh 30 ngày hoặc kiện, xem … |
+| mục 20 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | … Nếu bạn đã bị đánh, trước hết xem … |
+| mục 20 | mục 17 | Xem quan hệ tốt xấu là một khoản sức khỏe: cãi nhau đối việc không đối người, đừng chửi, đừng mỉa mai | … Lúc cãi nhau nên nói thế nào, bạn xem … |
+| mục 20 | mục 15 | Tính chi phí rút lui: ly hôn thỏa thuận có thời gian bình tĩnh 30 ngày, ly hôn qua kiện có điều kiện luật định | …n muốn nghĩ kỹ có nên rời đi không, bạn xem … |
 
 ## 11-lan-san-do-cua-dan-ky-thuat
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Trước khi làm hỏi một câu: hãng, nền tảng hay công ty có đi báo án không; bị truy cứu thì tìm ngay luật sư hình sự | … … |
 | mục 2 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Nhưng vụ săn vé ở … |
 | mục 4 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | …y dữ liệu trong hệ thống thì mức phán giống … |
 | mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ại, đừng tự tay làm (trọng tài lao động xem … |
@@ -439,14 +822,46 @@ Tổng cộng 765 trích dẫn.
 | mục 9 | mục 10 | Lỗ hổng báo theo đúng quy định; trước khi vá không công khai chi tiết, không phát công cụ khai thác, không giao cho phía nước ngoài | … Phát hiện lỗ hổng xong xử lý thế nào, xem … |
 | mục 10 | mục 9 | Không có ủy quyền bằng văn bản thì không test hệ thống của người khác; "xuất phát từ thiện ý" và "báo cáo sau khi làm" đều không phải lý do thoát tội | … Bạn có tư cách đi test hay không thì xem … |
 | mục 15 | mục 4 | Crawler chỉ cào trang công khai không cần đăng nhập, không né chống cào, không đụng thông tin cá nhân, dữ liệu cào được không đem bán | …cấp thông tin cá nhân cấu thành tội thì xem … |
+| mục 16 | phần 26, mục 4 | Máy chủ đặt trong nội địa thì phải đăng ký, nhà tiếp nhập bắt buộc tự phải cầm phép viễn thông gia tăng | …g cấp dịch vụ có đủ phép hay không, bạn xem … |
+| mục 17 | mục 19 | Không dựng "trạm trung chuyển AI" bán lại giá rẻ API mô hình lớn của nước ngoài: ở Thượng Hải đã có chủ trạm bị tạm giữ hình sự | …á rẻ API mô hình lớn của nước ngoài thì xem … |
+| mục 18 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | …đền tiền vì cạnh tranh không lành mạnh, xem … |
+| mục 19 | phần 26, mục 2 | Website thu tiền phần lớn phải có giấy phép, tự bán hàng mà không cho người khác vào mở cửa hàng thì không cần, khớp nối giao dịch là loại phép khác, miễn phí chỉ cần đăng ký | … xin giấy phép kinh doanh khi thu tiền, xem … |
+| mục 19 | phần 26, mục 10 | Thông tin người dùng đừng tiện tay để ngoài cảnh, xuất cảnh có điều kiện pháp định và nóc số người | …nước ngoài phải đủ điều kiện luật định, xem … |
+| mục 19 | phần 14, mục 10 | Đừng giao mã nguồn, khóa truy cập và tài liệu riêng tư cho "trạm trung chuyển AI" không rõ nguồn gốc, nhất là khi bạn để AI tự chạy lệnh | …trạm trung chuyển còn gặp rủi ro riêng, xem … |
+| mục 19 | mục 17 | Trước khi cung cấp dịch vụ AI tạo sinh cho công chúng phải làm đánh giá an ninh và đăng ký thuật toán theo đúng quy định; nội dung tạo ra phải gắn nhãn | …o sinh cho công chúng thì phải đăng ký, xem … |
 
 ## 12-khoi-nghiep-va-lam-an
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … chỉ lấy số tiền lỗ được mà khởi nghiệp (… |
+| Mở đầu phần | mục 2 | Không ký bảo lãnh cá nhân cho khoản vay của công ty, vợ chồng càng không nên ký theo | …bảo lãnh cá nhân cho khoản vay của công ty (… |
+| Mở đầu phần | mục 3 | Trước khi khai trương chọn đúng chủ thể: hộ cá thể và thành viên hợp danh phải trả đến cùng, công ty TNHH mới "hữu hạn" | … trước khi khai trương chọn đúng chủ thể (… |
+| Mở đầu phần | mục 4 | Không làm cổ đông đứng tên hộ, không giữ hộ cổ phần cho người khác | … Không làm cổ đông đứng tên hộ (… |
+| Mở đầu phần | mục 5 | Trước khi nhận nhượng quyền, tra hồ sơ lưu trữ của Bộ Thương mại, lấy tài liệu công bố bằng giấy, ghi "thời gian suy nghĩ lại" vào hợp đồng | …quyền, tra hồ sơ lưu trữ của Bộ Thương mại (… |
+| Mở đầu phần | mục 24 | Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra | …đóng thêm tiền không và doanh số từ đâu ra (… |
+| Mở đầu phần | mục 6 | Trước khi đăng ký chốt tên gọi, địa điểm kinh doanh, ngành nghề và vốn điều lệ: đủ giấy tờ lĩnh giấy phép ngay tại chỗ | …điểm kinh doanh, ngành nghề và vốn điều lệ (… |
+| Mở đầu phần | mục 7 | Nghề cần giấy phép thì giấy chưa cấp không khai trương | …y phép thì giấy chưa cấp không khai trương (… |
+| Mở đầu phần | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | …c phẩm trước hết xem mình rơi vào nhóm nào (… |
+| Mở đầu phần | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | …g thành phần thiếu một thứ cũng không được (… |
+| Mở đầu phần | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | …ẩm thường không được nói là chữa được bệnh (… |
+| Mở đầu phần | mục 11 | Nghề thực phẩm có vạch hình sự: bán thịt chết bệnh, hàng vượt chuẩn đã đủ tội; trộn chất độc hại thì không nhìn số tiền, khung khởi đầu đã là dưới 5 năm tù | … thịt chết bệnh, hàng vượt chuẩn đã đủ tội (… |
+| Mở đầu phần | mục 12 | Lĩnh giấy phép là bắt đầu có nghĩa vụ khai thuế, không có thu nhập cũng phải đúng kỳ khai một tờ toàn số không | …ũng phải đúng kỳ khai một tờ toàn số không (… |
+| Mở đầu phần | mục 13 | Hóa đơn chỉ xuất theo giao dịch thật, người nộp thuế quy mô nhỏ dùng hết mức miễn thuế | … Hóa đơn chỉ xuất theo giao dịch thật (… |
+| Mở đầu phần | mục 14 | Ai tự xưng cục thuế giục bạn nộp tiền, khai thuế đều là lừa đảo; việc thuế chỉ đi qua cổng thuế điện tử và 12366 | …iục bạn nộp tiền, khai thuế đều là lừa đảo (… |
+| Mở đầu phần | mục 15 | Thu tiền viết "định kim" chứ không viết "đính kim", tiền phạt vi phạm ghi rõ số, cho trả chậm thì thẩm như cho vay | … viết "định kim" chứ không viết "đính kim" (… |
+| Mở đầu phần | mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | …iấy, trong 30 ngày đăng ký bảo hiểm xã hội (… |
+| Mở đầu phần | mục 17 | Lương trả theo hợp đồng và luật; tăng lương, cho vay, thưởng đều đi qua giấy | … Lương trả theo hợp đồng và luật (… |
+| Mở đầu phần | mục 22 | Ở vị trí của mình làm theo quy trình; thiện ý ngoài quy trình trước hết nghĩ trách nhiệm về ai | … ở vị trí của mình làm theo quy trình (… |
+| Mở đầu phần | mục 18 | Bán trước làm sau: dùng đặt trước và đơn nhỏ kiểm xem có người mua không rồi mới bỏ tiền sản xuất | …ó người mua không rồi mới bỏ tiền sản xuất (… |
+| Mở đầu phần | mục 19 | Mẫu làm xong trước hết qua một vòng danh mục sản xuất hàng loạt rồi mới bàn mở xưởng | …ục sản xuất hàng loạt rồi mới bàn mở xưởng (… |
+| Mở đầu phần | mục 20 | Nhập mẻ nào giữ chứng từ và thông tin nhà cung cấp của mẻ đó, giá nhập thấp hơn hẳn giá thị trường thì không nhập: hàng giả do nhân viên nhập, người bị phán là chủ | …ứng từ và thông tin nhà cung cấp của mẻ đó (… |
+| Mở đầu phần | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | …h quảng bá hoặc tự làm hoặc mua quyền dùng (… |
+| Mở đầu phần | mục 23 | Lỗ thì rút lui theo đúng thủ tục: xóa đăng ký đơn giản được thì xóa, nợ nhiều hơn tài sản thì đi đường phá sản, đừng bỏ mặc | … lỗ thì rút lui theo đúng thủ tục (… |
 | mục 2 | phần 8, mục 18 | Cho vay mượn tiền phải viết rõ giấy nợ; đứng bảo lãnh cho người trước hết nghĩ kỹ mình có bằng lòng trả thay không | …hung của giấy vay và giấy bảo lãnh, bạn xem … |
 | mục 2 | mục 1 | Chỉ lấy số tiền lỗ được mà khởi nghiệp, không đụng gia sản, không vay để khai trương | … tiền bảo lãnh nằm trong con số "lỗ được" ở … |
 | mục 4 | phần 8, mục 28 | Đừng làm "pháp nhân treo tên", đừng cho mượn căn cước đi đăng ký công ty | … người đại diện pháp luật treo tên, bạn xem … |
+| mục 5 | mục 24 | Trước khi bỏ tiền thuê người vận hành hộ cửa hàng online, đăng ký lớp đào tạo mở cửa hàng hoặc làm "không có nguồn hàng", hỏi rõ về sau còn phải đóng thêm tiền không và doanh số từ đâu ra | …h hộ" hay "đào tạo mở cửa hàng" thì bạn xem … |
 | mục 6 | mục 3 | Trước khi khai trương chọn đúng chủ thể: hộ cá thể và thành viên hợp danh phải trả đến cùng, công ty TNHH mới "hữu hạn" | …ệm của bạn, và trong 5 năm phải nộp đủ, xem … |
 | mục 6 | mục 7 | Nghề cần giấy phép thì giấy chưa cấp không khai trương | …ấy chưa cấp bạn không được khai trương, xem … |
 | mục 7 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | …án thịt rau tươi có cần giấy không, bạn xem … |
@@ -456,6 +871,9 @@ Tổng cộng 765 trích dẫn.
 | mục 9 | phần 5, mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | …000 (xem … |
 | mục 10 | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …a nhận ra loại lời nói này thế nào, bạn xem … |
 | mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Bạn làm theo cả bộ ở … |
+| mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … … |
+| mục 11 | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … … |
+| mục 11 | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … … |
 | mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Ranh giới với … |
 | mục 11 | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … Ranh giới với … |
 | mục 11 | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … Ranh giới với … |
@@ -465,7 +883,10 @@ Tổng cộng 765 trích dẫn.
 | mục 19 | mục 20 | Nhập mẻ nào giữ chứng từ và thông tin nhà cung cấp của mẻ đó, giá nhập thấp hơn hẳn giá thị trường thì không nhập: hàng giả do nhân viên nhập, người bị phán là chủ | …g nhãn hiệu và hình của người khác, bạn xem … |
 | mục 19 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | …g nhãn hiệu và hình của người khác, bạn xem … |
 | mục 20 | mục 21 | Hình trên hàng, bao bì, nhãn treo và ảnh quảng bá hoặc tự làm hoặc mua quyền dùng; đổi màu, thêm biểu tượng không tính là "đã sửa" | … Dùng hình của người khác, bạn xem … |
+| mục 21 | phần 9, mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | …, thu phí hội viên thì vạch hình sự bạn xem … |
 | mục 21 | mục 19 | Mẫu làm xong trước hết qua một vòng danh mục sản xuất hàng loạt rồi mới bàn mở xưởng | …hãn hiệu trước khi đổ vào sản xuất, bạn xem … |
+| mục 24 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … chống lừa đảo TQ) để yêu cầu chặn chi, xem … |
+| mục 24 | mục 5 | Trước khi nhận nhượng quyền, tra hồ sơ lưu trữ của Bộ Thương mại, lấy tài liệu công bố bằng giấy, ghi "thời gian suy nghĩ lại" vào hợp đồng | …a nhượng quyền để thu tiền thì bạn làm theo … |
 
 ## 13-tinh-huong-khan-cap
 
@@ -474,6 +895,51 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | phần 8, mục 3 | Nhớ quy tắc cứng chống lừa: cuộc gọi không tin vội, thông tin không tiết lộ, link không bấm, chuyển tiền kiểm nhiều lần; bảy loại lừa đảo thường gặp nhất đều cùng một khuôn | …lừa và bảy loại lừa đảo thường gặp nhất xem … |
 | Mở đầu phần | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …iêng tư hay video chat sex ra đòi tiền, xem … |
 | Mở đầu phần | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | … chống lừa đảo TQ) để yêu cầu chặn chi, xem … |
+| Mở đầu phần | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … có người ngã xuống không thở (… |
+| Mở đầu phần | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …gười già té ngã thì đừng vội dìu người lên (… |
+| Mở đầu phần | mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … có người nghẹn không nói được (… |
+| Mở đầu phần | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | …é dưới 1 tuổi nghẹn mà khóc không ra tiếng (… |
+| Mở đầu phần | mục 44 | Em bé dưới 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sức tim phổi cho em bé, ấn 30 cái thổi 2 hơi | … thường thì làm hồi sức tim phổi cho em bé (… |
+| Mở đầu phần | mục 3 | Đột nhiên méo miệng, một bên cánh tay mất lực, nói không rõ lời — gọi ngay 120, đừng chờ, đừng tự lái xe đi | … nhiên méo miệng, một bên cánh tay mất lực (… |
+| Mở đầu phần | mục 4 | Đột nhiên trời đất quay cuồng không đứng vững, nhìn đồ vật thành đôi, một mắt tối đi, hoặc ngón tay chạm không trúng chóp mũi mình — cũng gọi 120 theo đột quỵ | … nhiên trời đất quay cuồng không đứng vững (… |
+| Mở đầu phần | mục 5 | Một mắt đột nhiên tối đi như rèm kéo xuống, dù vài phút tự khỏi, cũng phải đi cấp cứu trong ngày theo hướng đột quỵ | …một mắt đột nhiên tối đi như rèm kéo xuống (… |
+| Mở đầu phần | mục 6 | Một mắt vừa căng vừa đau, đỏ, nhìn đèn có một vòng cầu vồng, còn đau đầu buồn nôn muốn ói — trong ngày đi cấp cứu mắt | … một mắt vừa căng vừa đau (… |
+| Mở đầu phần | mục 7 | Ngực đau như bị đè, tức, thắt chặt quá 15 phút không đỡ — gọi 120, đừng tự gồng cũng đừng tự lái xe | … Ngực đau như bị đè (… |
+| Mở đầu phần | mục 8 | Đột nhiên đau dữ như bị xé toạc, từ ngực lan ra lưng, lan xuống eo — gọi 120 và nói rõ "đau đang di chuyển" | … đột nhiên đau dữ như bị xé toạc (… |
+| Mở đầu phần | mục 9 | Đột nhiên một trận "đau đầu đau nhất đời", trong một giờ đã đau tới đỉnh — đi cấp cứu ngay chụp CT sọ não | … một trận đau đầu đau nhất đời (… |
+| Mở đầu phần | mục 10 | Người già va đầu xong vài tuần đến vài tháng sau mà đi không vững, chậm chạp, buồn ngủ hoặc yếu một bên người thì đi chụp CT sọ não | …ài tuần đến vài tháng sau mà đi không vững (… |
+| Mở đầu phần | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … Một chân đột nhiên sưng lên (… |
+| Mở đầu phần | mục 15 | Đột nhiên nổi mẩn toàn thân, không thở nổi hoặc chóng mặt — xử lý theo sốc phản vệ, gọi ngay 120 và nói rõ | …, không thở nổi thì xử lý theo sốc phản vệ (… |
+| Mở đầu phần | mục 16 | Có người co giật ngã xuống: dọn chỗ xung quanh, để họ nằm nghiêng, xem đồng hồ tính giờ, đừng nhét gì vào miệng | … có người co giật ngã xuống (… |
+| Mở đầu phần | mục 17 | Người tiểu đường đột nhiên run, ra mồ hôi lạnh, nói không rõ — trước cho 15 gram đường, sau 15 phút đo lại | … người tiểu đường đột nhiên run (… |
+| Mở đầu phần | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … thì trước hết dùng tay ấn chặt vết thương (… |
+| Mở đầu phần | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … bị chó, mèo cắn hoặc cào rách da (… |
+| Mở đầu phần | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | … bỏng thì lập tức xả nước mát chảy 20 phút (… |
+| Mở đầu phần | mục 40 | Dao, thanh sắt, thủy tinh cắm vào người: ấn quanh vật lạ cầm máu, đừng rút nó ra | …thủy tinh cắm vào người thì đừng rút nó ra (… |
+| Mở đầu phần | mục 41 | Nghi gãy xương thì đừng động bộ phận đó nữa, đỡ yên, chườm lạnh trong 20 phút, đừng tự bẻ chỉnh | …ghi gãy xương thì đừng động bộ phận đó nữa (… |
+| Mở đầu phần | mục 18 | Có người bị điện giật: ngắt điện trước, rồi dùng gậy gỗ khô loại đó gạt nguồn điện ra, đừng trực tiếp đưa tay kéo | … có người bị điện giật thì ngắt điện trước (… |
+| Mở đầu phần | mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … máy báo khí CO kêu (… |
+| Mở đầu phần | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | …hầm chất tẩy rửa, thuốc trừ sâu, thuốc men (… |
+| Mở đầu phần | mục 21 | Hóa chất axit kiềm bắn lên người: lập tức cởi áo quần dính hóa chất, xả nhiều nước chảy, mắt phải mở mi mắt xả, xả đủ giờ rồi mới đi | … hóa chất axit kiềm bắn lên người (… |
+| Mở đầu phần | mục 22 | Trời nóng mà chóng mặt, buồn nôn, không ra mồ hôi hoặc lơ mơ ý thức — lập tức đưa vào chỗ râm, cởi áo tát nước hạ nhiệt; người mê man không cho uống nước, gọi 120 | … Trời nóng mà chóng mặt, không ra mồ hôi (… |
+| Mở đầu phần | mục 23 | Người say nắng chỉ cần tỉnh thì uống nước muối loãng mát hoặc nước thể thao ít một nhiều lần, đừng rót mạnh, đừng uống rượu và nước nhiều đường | … chỉ cần tỉnh thì uống nước muối loãng mát (… |
+| Mở đầu phần | mục 24 | Cháy thì bò sát đất, sờ cửa rồi mới mở, cửa nóng thì đừng mở; đi cầu thang bộ không đi thang máy, ra rồi đừng quay lại | … cháy thì bò sát đất (… |
+| Mở đầu phần | mục 25 | Thấy người đuối nước: trước kêu người và gọi 110/120, đưa sào, ném đồ nổi — mình không xuống nước | … người đuối nước thì mình không xuống nước (… |
+| Mở đầu phần | mục 30 | Động đất thì trước xem mình ở nhà kiểu gì: tòa nhà đạt phòng chấn thì trốn tại chỗ, nhà cũ sẽ sập mà cửa cách vài bước thì ra ngoài | … động đất thì trước xem mình ở nhà kiểu gì (… |
+| Mở đầu phần | mục 27 | Trong hoang mạc, sa mạc, vùng không người mà lạc hoặc xe hỏng: ở lại chỗ cũ hoặc cạnh xe, báo vị trí trước, rồi che nắng giữ ấm, tiết kiệm nước, không đi lung tung | …người mà lạc hoặc xe hỏng thì ở lại chỗ cũ (… |
+| Mở đầu phần | mục 28 | Rung, nói nhảm, đi lảo đảo là hạ thân nhiệt — thay áo ướt, bọc lại, ấm thân trước, uống nước nóng ngọt không uống rượu | …ung, nói nhảm, đi lảo đảo là hạ thân nhiệt (… |
+| Mở đầu phần | mục 29 | Bị rắn cắn: ngồi xuống đừng động, tháo nhẫn đồng hồ, mau đưa tới viện tiêm huyết thanh chống độc rắn — không rạch, không hút, không buộc chết | … bị rắn cắn thì không rạch, không hút (… |
+| Mở đầu phần | mục 31 | Gặp gấu, lợn rừng, đàn chó hoang: đừng chạy, xoay người lùi chậm ra | … Gặp gấu, lợn rừng, đàn chó hoang (… |
+| Mở đầu phần | mục 32 | Ngoài trời gặp dông: chui vào xe mui cứng hoặc công trình, tránh lưng núi, cây độc lập, mặt nước và kim loại | …oài trời gặp dông thì chui vào xe mui cứng (… |
+| Mở đầu phần | mục 33 | Lên cao nguyên thì lên chậm theo độ cao nơi ngủ (đêm đó ngủ ở cao bao nhiêu), triệu chứng nặng thêm thì xuống, đừng gồng | … lên cao nguyên thì lên chậm (… |
+| Mở đầu phần | mục 34 | Bị ve cắn dính: dùng nhíp đầu nhọn sát da kẹp kéo ra chắc tay, đừng bôi dầu đừng đốt lửa | …h thì dùng nhíp đầu nhọn sát da kẹp kéo ra (… |
+| Mở đầu phần | mục 35 | Nước ngoài trời một mực đun sôi mới uống, sôi bùng một phút là đủ, đừng vì độ cao mà nấu thêm | … nước ngoài trời một mực đun sôi mới uống (… |
+| Mở đầu phần | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | … nơi hoang vắng bị người lạ đòi tiền tài (… |
+| Mở đầu phần | mục 37 | Bắt gặp một đám đánh nhau: lùi ra đi, đừng lên can, đừng đứng xem, đừng nhặt hung khí dưới đất; muốn báo thì lùi tới khoảng an toàn gọi 110 | … bắt gặp một đám đánh nhau (… |
+| Mở đầu phần | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … cứu người mà bị thương, tốn tiền (… |
+| Mở đầu phần | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | …HIV thì trong 72 giờ đi lấy thuốc dự phòng (… |
+| Mở đầu phần | mục 42 | Sau khi bị xâm hại tình dục: trước tới chỗ an toàn gọi 110; trước khi khám thương đừng tắm, đừng giặt áo, đừng dọn phòng, trong 72 giờ đi viện | … sau khi bị xâm hại tình dục (… |
+| mục 1 | mục 44 | Em bé dưới 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sức tim phổi cho em bé, ấn 30 cái thổi 2 hơi | …thì cách làm khác và bạn phải thổi hơi, xem … |
 | mục 2 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Không thở thì bạn ấn ngực theo … |
 | mục 2 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Cách phòng té ngã xem … |
 | mục 2 | phần 8, mục 16 | Trên mạng không chửi người, không bịa tin, không chia sẻ chuyện chưa kiểm; bị bạo lực mạng thì giữ chứng trước rồi báo cảnh sát | …ì giữ chứng cứ và báo cảnh sát thế nào, xem … |
@@ -489,38 +955,52 @@ Tổng cộng 765 trích dẫn.
 | mục 19 | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Cách lắp máy báo xem … |
 | mục 20 | mục 19 | Máy báo khí CO kêu, hoặc cả nhà cùng đau đầu buồn nôn — đưa người ra ngoài trước rồi mới gọi điện | … Khí CO xem … |
 | mục 20 | mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …khí CO kêu), bỏng lửa và bỏng nước nóng xem … |
-| mục 21 | phần 19, mục 10 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | …hộ và khám sức khỏe trước khi nhận việc xem … |
-| mục 21 | phần 19, mục 11 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …hộ và khám sức khỏe trước khi nhận việc xem … |
-| mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
+| mục 20 | mục 21 | Hóa chất axit kiềm bắn lên người: lập tức cởi áo quần dính hóa chất, xả nhiều nước chảy, mắt phải mở mi mắt xả, xả đủ giờ rồi mới đi | …ời thì cởi quần áo thế nào, xả bao lâu, xem … |
+| mục 21 | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | …hộ và khám sức khỏe trước khi nhận việc xem … |
+| mục 21 | phần 19, mục 10 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …hộ và khám sức khỏe trước khi nhận việc xem … |
+| mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
+| mục 23 | mục 22 | Trời nóng mà chóng mặt, buồn nôn, không ra mồ hôi hoặc lơ mơ ý thức — lập tức đưa vào chỗ râm, cởi áo tát nước hạ nhiệt; người mê man không cho uống nước, gọi 120 | … … |
 | mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ần lớn là con nhà mình, cách phòng ngừa xem … |
+| mục 25 | phần 1, mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | … Mặt băng thì phòng thế nào, bạn xem … |
+| mục 26 | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | … tuổi thì bạn không ấn bụng mà ấn ngực, xem … |
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Chó cắn xử lý theo … |
 | mục 31 | mục 13 | Bị chó, mèo cắn hoặc cào rách da: trước hết xả nước xà phòng và nước chảy thay nhau 15 phút, trong ngày đi tiêm vaccine | … Bị chó cắn thì xử lý theo … |
 | mục 36 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | …ền thì ngược lại, một xu cũng đừng đưa, xem … |
+| mục 36 | phần 9, mục 26 | Đừng vì phòng thân mà mua dùi cui rút, thiết bị sốc điện, dao găm, bình xịt hơi cay mang theo người, để trong xe cũng tính là mang theo | …, vì cứ mang ra khỏi nhà là đã bị phạt, xem … |
 | mục 37 | phần 8, mục 10 | Có xung đột thì báo cảnh sát trước, không ra tay; kẻ ra tay trước gần như chắc chắn thiệt | … Chính bạn bị cuốn vào xung đột thì xem … |
 | mục 37 | mục 36 | Nơi hoang vắng bị người lạ đòi tiền tài: đưa tiền cho họ, đừng động tay, nhớ đặc điểm, thoát thân rồi báo cảnh sát | …ớc, không ra tay), bị người lạ đòi tiền xem … |
 | mục 37 | mục 39 | Cứu người mà bị thương, tốn tiền: trước tìm người gây hại và bảo hiểm y tế, rồi đi đăng ký xác nhận hành vi nghĩa cử | … chuyện tiền khi cứu người mà bị thương xem … |
 | mục 38 | phần 1, mục 30 | Quan hệ tình dục dùng bao cao su suốt quá trình, không dùng chung kim tiêm với ai | … phòng ngừa hằng ngày và xét nghiệm thì xem … |
 | mục 38 | phần 1, mục 31 | Đã có hành vi nguy cơ thì đi xét nghiệm HIV một lần, trung tâm kiểm soát bệnh tật xét miễn phí, kết quả được bảo mật | … phòng ngừa hằng ngày và xét nghiệm thì xem … |
-| mục 39 | phần 19, mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | … và cách quy đổi cấp thương tật ra tiền xem … |
-| mục 39 | phần 19, mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … và cách quy đổi cấp thương tật ra tiền xem … |
+| mục 39 | phần 19, mục 14 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | … và cách quy đổi cấp thương tật ra tiền xem … |
+| mục 39 | phần 19, mục 15 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … và cách quy đổi cấp thương tật ra tiền xem … |
 | mục 39 | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Cách xin viện trợ pháp lý xem … |
-| mục 40 | phần 24, mục 8 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …cứu ngay, đừng xếp hàng ở quầy đăng ký (xem … |
+| mục 40 | phần 24, mục 7 | Thương bệnh nặng đi thẳng tới bàn phân loại cấp cứu, đừng xếp hàng cửa đăng ký | …cứu ngay, đừng xếp hàng ở quầy đăng ký (xem … |
 | mục 40 | mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | … ấn và cách lên garô khi chảy máu nhiều xem … |
-| mục 41 | phần 24, mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …g tật, có nên làm thẻ khuyết tật không, xem … |
-| mục 41 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …g tật, có nên làm thẻ khuyết tật không, xem … |
+| mục 41 | phần 2, mục 1 | Bỏ thuốc lá, càng sớm càng tốt | …Xương chưa liền thì bạn đừng hút thuốc, xem … |
+| mục 41 | phần 6, mục 30 | Đừng trông gãy xương rồi bổ sung thật nhiều canxi hay uống nước hầm xương là xương liền nhanh hơn | …ay uống canh xương để xương liền nhanh, xem … |
+| mục 41 | phần 24, mục 9 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …g tật, có nên làm thẻ khuyết tật không, xem … |
+| mục 41 | phần 24, mục 10 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …g tật, có nên làm thẻ khuyết tật không, xem … |
 | mục 41 | mục 2 | Người già té ngã, có người ngã xuống: trước hết ngồi xổm gọi họ, gọi 120, đừng vội dìu người lên; với người lạ thì đi qua cũng hợp pháp, đã dừng lại thì đừng động tay bê người | …i già té ngã nghi gãy xương thì cấm bê, xem … |
 | mục 41 | mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | … chân sưng lên thì đề phòng huyết khối, xem … |
 | mục 42 | mục 38 | Có thể đã phơi nhiễm HIV thì trong 72 giờ đi lấy thuốc dự phòng, càng sớm càng tốt | … tệ, có uống hay không do bác sĩ quyết, xem … |
 | mục 42 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Cách ghi âm xem … |
 | mục 42 | phần 8, mục 32 | Sau phát sinh quan hệ, chat sex, bên kia lấy báo cảnh sát, phát ảnh, báo đơn vị bạn ra đòi tiền: một xu không đưa, một dòng không xóa, báo cảnh sát thẳng | … sát để ép bạn thì đó cũng là phạm tội, xem … |
+| mục 43 | mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | …tuổi và người lớn thì đổi sang ấn bụng, xem … |
+| mục 43 | mục 44 | Em bé dưới 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sức tim phổi cho em bé, ấn 30 cái thổi 2 hơi | … Bé mất phản ứng rồi thì làm thế nào, xem … |
+| mục 44 | mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Cách này khác … |
+| mục 44 | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | …iệng bé, chỉ lấy dị vật nhìn thấy được, xem … |
 
 ## 14-tai-khoan-va-an-toan-thong-tin
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| mục 1 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … người khác thì bạn phải gánh những gì, xem … |
 | mục 5 | phần 8, mục 2 | Phát hiện bị lừa, gọi ngay 110 (cảnh sát TQ) hoặc 96110 (đường dây chống lừa đảo TQ) yêu cầu chặn chi, đừng tự tra trước | …ừa tự chuyển đi phải đi theo cách khác, xem … |
 | mục 5 | mục 1 | Email, thanh toán, tài khoản mạng xã hội đều bật xác minh hai bước; ưu tiên xác nhận bằng cửa sổ bật trên điện thoại, mã xác minh SMS chỉ đứng sau | …ho ai, mã xác minh không chuyển cho ai (xem … |
+| mục 9 | phần 8, mục 45 | Người quen nhờ bạn "giúp quét mặt, làm người chứng kiến" để làm khoản vay, hoặc bảo bạn đọc mã xác nhận, thì đừng đồng ý: đây gọi là vay AB, người đi vay là bạn, không phải người bảo lãnh | … khoản vay của chính họ là chuyện khác, xem … |
 | mục 9 | mục 8 | Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; bị từ chối có thể khởi kiện | …ửa, xóa thông tin cá nhân của mình, bạn xem … |
+| mục 10 | phần 11, mục 19 | Không dựng "trạm trung chuyển AI" bán lại giá rẻ API mô hình lớn của nước ngoài: ở Thượng Hải đã có chủ trạm bị tạm giữ hình sự | …mở trạm trung chuyển có rủi ro hình sự, xem … |
 
 ## 15-thue-va-mua-nha
 
@@ -538,12 +1018,14 @@ Tổng cộng 765 trích dẫn.
 | mục 8 | phần 1, mục 27 | Nước tiểu có máu nhìn thấy bằng mắt thường, dù không đau, dù hôm sau đã sạch, cũng phải đi khám một lần | …mà không đau thì còn thứ khác cần khám, xem … |
 | mục 9 | phần 6, mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | …c cao mà chưa từng phát là chuyện khác, xem … |
 | mục 9 | phần 2, mục 7 | Không uống nước ngọt có đường, đổi sang loại không đường cũng chưa tính là giải quyết | … Đồ uống có đường và rượu xem … |
-| mục 9 | phần 2, mục 20 | Uống ít rượu hoặc không uống | … Đồ uống có đường và rượu xem … |
+| mục 9 | phần 2, mục 19 | Uống ít rượu hoặc không uống | … Đồ uống có đường và rượu xem … |
 
 ## 17-nha-co-nguoi-gia
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 8 | Nhà có người nằm liệt lâu dài, coi loét do nằm lâu là kẻ thù số một: gắn nệm hơi điện, lật người đúng giờ, mỗi ngày nhìn một lượt chỗ xương lồi ra | …Loét do nằm lâu của người nằm liệt lâu dài (… |
+| Mở đầu phần | mục 9 | Nếu đục thủy tinh thể của người già đã ảnh hưởng việc nhìn đường, đưa đi khoa mắt đánh giá để phẫu thuật; nếu cả hai mắt đều bị, đừng để mắt thứ hai chờ quá lâu | …ài (mục 8) và phẫu thuật đục thủy tinh thể (… |
 | mục 3 | phần 8 | 08-dung-tu-chuoc-hoa-vao-than (cả phần) | … quy tắc chung chống lừa xem … |
 | mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … quy tắc chung chống lừa xem phần 8 và … |
 | mục 4 | phần 1 | 01-dung-chet-som (cả phần) | …ợt ngã trong nhà thì tiện tay làm luôn, xem … |
@@ -557,6 +1039,9 @@ Tổng cộng 765 trích dẫn.
 | mục 8 | phần 13, mục 11 | Một chân đột nhiên sưng lên, căng, ấn đau — đi khám sớm; thêm đột nhiên không thở nổi hoặc đau ngực thì gọi ngay 120 | …hì xử lý theo huyết khối tĩnh mạch sâu, xem … |
 | mục 8 | phần 1, mục 34 | Đừng đánh cược "nằm vài ngày là khỏi" vào ngã từ trên cao: người vào ICU chấn thương phần lớn sống sót, cái giá tính bằng năm | …u dài vì ngã hoặc chấn thương nặng, bạn xem … |
 | mục 8 | mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …mà bảo hiểm chăm sóc dài hạn hoàn được, xem … |
+| mục 9 | phần 1, mục 13 | Trên 60 tuổi tập thăng bằng và sức mạnh chân, cải tạo phòng tắm và cầu thang trong nhà | … Muốn ngã ít hơn thì còn phải dựa vào … |
+| mục 9 | phần 1, mục 39 | Phụ nữ từ 65 tuổi trở lên đi đo mật độ xương bằng máy DXA (tia X năng lượng kép) một lần, sau mãn kinh mà có yếu tố nguy cơ loãng xương thì không cần chờ đến 65 tuổi | …ng có chịu nổi một cú ngã hay không thì xem … |
+| mục 9 | phần 1, mục 40 | Nếu đã chẩn đoán loãng xương, hoặc từng gãy xương chỉ vì ngã nhẹ, thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng lấy bổ sung canxi thay thuốc | … Nếu đã chẩn đoán loãng xương thì xem … |
 
 ## 18-nuoi-con-co-dang-khong
 
@@ -573,30 +1058,37 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 16 | Ở đơn vị lâu dài bị bắt nạt, sỉ nhục, làm khó, đừng cứng gánh: trước ghi lại giữ chứng cứ, rồi theo tính chất đi tố cáo, báo cảnh sát hoặc trọng tài | … Phần này còn bốn mục, từ … |
+| Mở đầu phần | mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Phần này còn bốn mục, từ … |
+| Mở đầu phần | mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | … Phần này còn bốn mục, từ … |
+| Mở đầu phần | mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Phần này còn bốn mục, từ … |
 | mục 1 | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Thời hạn trọng tài của tranh chấp xem … |
 | mục 3 | phần 12, mục 16 | Người vào làm trong tháng đầu phải ký hợp đồng giấy, trong 30 ngày đăng ký bảo hiểm xã hội | … hay không, nghĩa vụ phía dùng lao động xem … |
 | mục 3 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Bị giải trừ trái luật thì tính theo … |
+| mục 4 | mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | …ải nộp thuế thu nhập cá nhân hay không, xem … |
 | mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …yết đàm phán hay đi trọng tài, đường đi xem … |
 | mục 8 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … đường bảo vệ quyền xem … |
 | mục 8 | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …ật của công ty, rủi ro của việc mang đi xem … |
-| mục 9 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …ĩnh được, nên đừng ký "tự nguyện xin nghỉ" (… |
-| mục 9 | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xin qua mạng thế nào xem … |
-| mục 9 | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | …ạn mới được yêu cầu hủy thỏa thuận này, xem … |
-| mục 9 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Tư liệu xin và cổng qua mạng xem … |
-| mục 9 | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …ờng và điều kiện hủy của cấm cạnh tranh xem … |
-| mục 9 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …iền bảo hiểm thất nghiệp cũng mất theo, xem … |
-| mục 10 | mục 12 | Bị thương khi đi làm, trên đường đi làm về bị đâm, việc đầu tiên là làm nhận định tai nạn lao động, đơn vị không báo thì bạn tự báo | …đi theo đường tai nạn lao động, đãi ngộ xem … |
-| mục 10 | mục 13 | Đừng tin "cố lết đến chỗ làm là tính tai nạn lao động": khó chịu đột ngột trước hết gọi 120, không phải vội đi chấm thẻ | …đi theo đường tai nạn lao động, đãi ngộ xem … |
-| mục 10 | mục 14 | Đơn vị không đóng bảo hiểm tai nạn lao động cho bạn, đãi ngộ tai nạn lao động vẫn có y, đơn vị trả đủ theo cùng chuẩn | …đi theo đường tai nạn lao động, đãi ngộ xem … |
-| mục 10 | mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …đi theo đường tai nạn lao động, đãi ngộ xem … |
-| mục 10 | mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | …đi theo đường tai nạn lao động, đãi ngộ xem … |
-| mục 11 | phần 13, mục 21 | Hóa chất axit kiềm bắn lên người: lập tức cởi áo quần dính hóa chất, xả nhiều nước chảy, mắt phải mở mi mắt xả, xả đủ giờ rồi mới đi | …ử lý tại chỗ khi hóa chất bắn lên người xem … |
-| mục 11 | mục 10 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Nên khám rời ca đặc biệt quan trọng (xem … |
-| mục 17 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | …ớc một, từ hôm nay ghi chép lại, ghi âm xem … |
-| mục 17 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …chịu không nổi thì trước hết gọi 12356, xem … |
-| mục 17 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …hay không đóng bảo hiểm xã hội thì làm theo … |
-| mục 17 | mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ý "tự nguyện xin nghỉ vì lý do cá nhân") và … |
-| mục 17 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường kinh tế tính thế nào thì xem … |
+| mục 8 | mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … đòi công ty giấy chứng nhận nghỉ việc, xem … |
+| mục 9 | mục 11 | Bị thương khi đi làm, trên đường đi làm về bị đâm, việc đầu tiên là làm nhận định tai nạn lao động, đơn vị không báo thì bạn tự báo | …đi theo đường tai nạn lao động, đãi ngộ xem … |
+| mục 9 | mục 12 | Đừng tin "cố lết đến chỗ làm là tính tai nạn lao động": khó chịu đột ngột trước hết gọi 120, không phải vội đi chấm thẻ | …đi theo đường tai nạn lao động, đãi ngộ xem … |
+| mục 9 | mục 13 | Đơn vị không đóng bảo hiểm tai nạn lao động cho bạn, đãi ngộ tai nạn lao động vẫn có y, đơn vị trả đủ theo cùng chuẩn | …đi theo đường tai nạn lao động, đãi ngộ xem … |
+| mục 9 | mục 14 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …đi theo đường tai nạn lao động, đãi ngộ xem … |
+| mục 9 | mục 15 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | …đi theo đường tai nạn lao động, đãi ngộ xem … |
+| mục 10 | phần 13, mục 21 | Hóa chất axit kiềm bắn lên người: lập tức cởi áo quần dính hóa chất, xả nhiều nước chảy, mắt phải mở mi mắt xả, xả đủ giờ rồi mới đi | …ử lý tại chỗ khi hóa chất bắn lên người xem … |
+| mục 10 | mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Nên khám rời ca đặc biệt quan trọng (xem … |
+| mục 16 | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | …ớc một, từ hôm nay ghi chép lại, ghi âm xem … |
+| mục 16 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …chịu không nổi thì trước hết gọi 12356, xem … |
+| mục 16 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …hay không đóng bảo hiểm xã hội thì làm theo … |
+| mục 16 | mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | …ý "tự nguyện xin nghỉ vì lý do cá nhân") và … |
+| mục 16 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường kinh tế tính thế nào thì xem … |
+| mục 17 | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | …Lĩnh tiền bảo hiểm thất nghiệp thế nào, xem … |
+| mục 17 | mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | …hải vậy thì bạn nói ngay tại chỗ, lý do xem … |
+| mục 18 | mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Bồi thường tính thế nào, xem … |
+| mục 18 | mục 5 | Công ty đuổi bạn không báo trước 30 ngày, còn phải trả thêm một tháng lương | …ào, xem mục 4 (bị sa thải trước tính rõ N), … |
+| mục 18 | mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | …h rõ N), mục 5 (không báo trước 30 ngày) và … |
+| mục 19 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …thế nào, tư cách nào đòi đóng liên tục, xem … |
+| mục 19 | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | … công ty mà tự đóng bảo hiểm xã hội thì xem … |
 
 ## 20-cham-tre-so-sinh
 
@@ -606,6 +1098,7 @@ Tổng cộng 765 trích dẫn.
 | mục 2 | phần 1 | 01-dung-chet-som (cả phần) | … Sàng lọc mà mẹ phải tự làm, bạn xem … |
 | mục 3 | mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Mũi viêm gan B đầu tiên, bạn xem … |
 | mục 4 | mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | …rứng, đậu phộng có nên tránh không, bạn xem … |
+| mục 4 | mục 14 | Mang thai hoặc cho con bú mà đang ăn chay thì mỗi ngày bổ sung vitamin B12; thức ăn phụ của bé phải có thức ăn động vật, nhất định ăn thuần chay thì hỏi bác sĩ trước | …chay, hoặc bạn muốn cho bé ăn chay, bạn xem … |
 | mục 9 | phần 3 | 03-dung-lang-phi-suc-luc (cả phần) | … Cảm xúc của bạn xử lý thế nào, bạn xem … |
 | mục 10 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Cách tra thông báo kiểm tra, bạn xem … |
 | mục 11 | phần 1 | 01-dung-chet-som (cả phần) | … chứng cứ của ghế an toàn xem … |
@@ -613,6 +1106,11 @@ Tổng cộng 765 trích dẫn.
 | mục 11 | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Bạn áp dụng quy tắc bình tĩnh 24 tiếng mà … |
 | mục 12 | phần 13, mục 26 | Có người nghẹn không nói được: đứng ra sau lưng làm 5 cái vỗ lưng cộng 5 cái thúc bụng, ngã xuống thì làm hồi sức tim phổi | … Bé bị nghẹn thì xử lý thế nào, bạn xem … |
 | mục 12 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | …tháng mới bắt đầu thêm thức ăn phụ, bạn xem … |
+| mục 13 | phần 27, mục 13 | Xét nghiệm máu gót chân và sàng lọc thính lực trẻ sơ sinh đều đừng từ chối | … Về sàng lọc trẻ sơ sinh, bạn xem … |
+| mục 13 | mục 3 | Tiêm đủ vaccine trong chương trình tiêm chủng quốc gia, miễn phí trọn quá trình, lỡ mũi thì chỉ bù những mũi chưa tiêm | …thì không làm lỡ việc tiêm vaccine, bạn xem … |
+| mục 14 | phần 16, mục 4 | Đừng vì muốn thử bài thuốc dân gian, thực phẩm bảo vệ sức khỏe mà ngừng trị liệu chính quy | …chối chỉ vì tin bài thuốc dân gian, bạn xem … |
+| mục 14 | phần 27, mục 1 | Chuẩn bị mang thai đã bắt đầu mỗi ngày bổ 0,4 mg acid folic, uống tới khi đầu thai kỳ đủ 3 tháng | … Về acid folic lúc mang thai, bạn xem … |
+| mục 14 | mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | … Cách thêm thức ăn phụ, bạn xem … |
 
 ## 21-du-lich-va-an-toan-nuoc-ngoai
 
@@ -627,22 +1125,69 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … suy sụp nên làm trước mấy việc gì, bạn xem … |
+| Mở đầu phần | phần 3, mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … suy sụp nên làm trước mấy việc gì, bạn xem … |
 | mục 4 | phần 8, mục 29 | Xuất nhập cảnh không mang đồ hộ người lạ, không nhận hộ bưu kiện không rõ nguồn | … Chuyện mang đồ hộ người khác, bạn xem … |
 | mục 4 | mục 3 | Trong chỗ có người đưa "đồ" thì đi ngay, chứa người dùng và cung cấp đều không phải "giúp bạn bè" | …viên thuốc hay đầu pod thì làm sao, bạn xem … |
-| mục 5 | phần 9, mục 16 | Không cho mượn căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ người khác đi đăng ký, mở thẻ, mua vé | … này với chuyện "không cho mượn căn cước" ở … |
-| mục 7 | phần 3, mục 19 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … ý "lúc tinh thần suy sụp động lên trước" ở … |
-| mục 10 | phần 3, mục 16 | Giảm bớt những quan hệ khiến bạn hao mòn, học cách từ chối yêu cầu không muốn nhận | … với "giảm bớt những quan hệ hao mòn bạn" ở … |
+| mục 6 | phần 3, mục 18 | Lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất: vận động, phơi nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356 | … ý "lúc tinh thần suy sụp động lên trước" ở … |
+| mục 9 | phần 3, mục 16 | Giảm bớt những quan hệ khiến bạn hao mòn, học cách từ chối yêu cầu không muốn nhận | … với "giảm bớt những quan hệ hao mòn bạn" ở … |
 
 ## 23-hoc-ky-nang-gi-dang
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …ày tính chuyện tiền bạc và thời gian, riêng … |
+| Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … … |
+| Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | … … |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | … … |
+| Mở đầu phần | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | … … |
+| Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … … |
+| Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | … … |
+| Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … … |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | … 1 nói trước xem luật gạch đi lựa chọn nào, … |
-| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học | …2 tính quan hệ giữa đi học và tuổi thọ, còn … |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | …2 tính quan hệ giữa đi học và tuổi thọ, còn … |
+| Mở đầu phần | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | … … |
 | Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … Còn nếu không đậu THPT thì … |
 | Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …HPT thì mục 5 chỉ ra con đường nào khác, và … |
+| Mở đầu phần | mục 7 | Nhớ vạch chuẩn trước: mỗi thêm một năm học, lợi tức tư trung bình toàn cầu (phần rơi vào thu nhập mình) khoảng 9% một năm | … … |
+| Mở đầu phần | mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | … … |
+| Mở đầu phần | mục 9 | Đào tạo ưu tiên đi kênh trợ cấp chính quyền, đừng vừa lên đã tự trả báo lớp thương mại | … … |
+| Mở đầu phần | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | … … |
+| Mở đầu phần | mục 11 | Trước khi học xác nhận kỹ năng này có đánh giá bậc không, bậc đổi ra tiền được không | … … |
+| Mở đầu phần | mục 12 | Đừng coi "trên mạng nói lương cao" là thiếu người, đi tra danh mục nghề khan hiếm và danh mục trợ cấp của địa phương | … … |
+| Mở đầu phần | mục 13 | Cùng tiền cùng thời gian, ưu tiên chọn hạng mục chu kỳ ngắn ra trường làm được ngay | … … |
+| Mở đầu phần | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … … |
+| Mở đầu phần | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | … … |
+| Mở đầu phần | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | … … |
+| Mở đầu phần | mục 17 | Mấy kiểu đề trộn nhau mà luyện, đừng một kiểu làm liền hai mươi câu | … … |
+| Mở đầu phần | mục 18 | Đừng theo "tôi kiểu hình ảnh, anh ta kiểu âm thanh" mà chọn cách học | … … |
+| Mở đầu phần | mục 19 | Nội dung phải thuộc ra đề tự kiểm theo cách sẽ dùng sau này, đừng thuộc nguyên văn một lần là xong | … … |
+| Mở đầu phần | mục 20 | Đánh giá chức danh trước phải rõ mình ở loạt nào, cấp nào, rồi theo tính chất đơn vị tìm kênh báo | … … |
+| Mở đầu phần | mục 21 | Chức danh sơ cấp, trung cấp kiểu kế toán lấy bằng thi toàn quốc, trước đối chiếu học vấn và thâm niên mà báo danh | … … |
+| Mở đầu phần | mục 22 | Đừng tìm môi giới đánh giá hộ, đừng mua luận văn viết hộ, đừng làm giả trên tài liệu: tra ra thu hồi chức danh, ghi hồ sơ tín nhiệm 3 năm | … … |
+| Mở đầu phần | mục 23 | Có chức danh không bằng tăng lương: hỏi trước đơn vị đánh giá bổ nhiệm theo tỷ lệ vị trí, hay đánh giá rồi chưa chắc bổ nhiệm | … … |
+| Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | …chưa đủ 16 tuổi không có lựa chọn "đi làm" (… |
+| Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …a "đi học có dùng không" vào cả sổ tử vong (… |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | …không", nhìn kết cấu học vấn cả nước trước (… |
+| Mở đầu phần | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …g nổi" tính theo chính sách một lượt trước (… |
+| Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … Không đậu THPT không bằng đường đứt (… |
+| Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …đưa "đi học hay đi làm" thành một bài toán (… |
+| Mở đầu phần | mục 7 | Nhớ vạch chuẩn trước: mỗi thêm một năm học, lợi tức tư trung bình toàn cầu (phần rơi vào thu nhập mình) khoảng 9% một năm | …n rơi vào thu nhập mình) khoảng 9% một năm (… |
+| Mở đầu phần | mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ày có trong danh mục tư cách nghề quốc gia (… |
+| Mở đầu phần | mục 9 | Đào tạo ưu tiên đi kênh trợ cấp chính quyền, đừng vừa lên đã tự trả báo lớp thương mại | … đừng vừa lên đã tự trả báo lớp thương mại (… |
+| Mở đầu phần | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | …ay không, có phải phán đoán tại chỗ không" (… |
+| Mở đầu phần | mục 11 | Trước khi học xác nhận kỹ năng này có đánh giá bậc không, bậc đổi ra tiền được không | …xác nhận kỹ năng này có đánh giá bậc không (… |
+| Mở đầu phần | mục 12 | Đừng coi "trên mạng nói lương cao" là thiếu người, đi tra danh mục nghề khan hiếm và danh mục trợ cấp của địa phương | …an hiếm và danh mục trợ cấp của địa phương (… |
+| Mở đầu phần | mục 13 | Cùng tiền cùng thời gian, ưu tiên chọn hạng mục chu kỳ ngắn ra trường làm được ngay | …ng mục chu kỳ ngắn ra trường làm được ngay (… |
+| Mở đầu phần | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | …ách tự kiểm một lần, đừng quay đầu đọc lại (… |
+| Mở đầu phần | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | …hời gian ra mấy ngày, đừng học hết một lần (… |
+| Mở đầu phần | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | …nhiều lần, viết tóm tắt làm cách học chính (… |
+| Mở đầu phần | mục 17 | Mấy kiểu đề trộn nhau mà luyện, đừng một kiểu làm liền hai mươi câu | …luyện, đừng một kiểu làm liền hai mươi câu (… |
+| Mở đầu phần | mục 18 | Đừng theo "tôi kiểu hình ảnh, anh ta kiểu âm thanh" mà chọn cách học | …nh, anh ta kiểu âm thanh" mà chọn cách học (… |
+| Mở đầu phần | mục 19 | Nội dung phải thuộc ra đề tự kiểm theo cách sẽ dùng sau này, đừng thuộc nguyên văn một lần là xong | …này, đừng thuộc nguyên văn một lần là xong (… |
+| Mở đầu phần | mục 20 | Đánh giá chức danh trước phải rõ mình ở loạt nào, cấp nào, rồi theo tính chất đơn vị tìm kênh báo | …ào, rồi theo tính chất đơn vị tìm kênh báo (… |
+| Mở đầu phần | mục 21 | Chức danh sơ cấp, trung cấp kiểu kế toán lấy bằng thi toàn quốc, trước đối chiếu học vấn và thâm niên mà báo danh | …đối chiếu học vấn và thâm niên mà báo danh (… |
+| Mở đầu phần | mục 22 | Đừng tìm môi giới đánh giá hộ, đừng mua luận văn viết hộ, đừng làm giả trên tài liệu: tra ra thu hồi chức danh, ghi hồ sơ tín nhiệm 3 năm | …ận văn viết hộ, đừng làm giả trên tài liệu (… |
+| Mở đầu phần | mục 23 | Có chức danh không bằng tăng lương: hỏi trước đơn vị đánh giá bổ nhiệm theo tỷ lệ vị trí, hay đánh giá rồi chưa chắc bổ nhiệm | …ị trí, hay đánh giá rồi chưa chắc bổ nhiệm (… |
 | mục 1 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …ghỉ phép năm hay chế độ tai nạn lao động mà … |
 | mục 1 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | …ổi chưa có bằng cấp thường đúng vào loại mà … |
 | mục 2 | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …c của mấy năm học thêm, còn học phí bạn xem … |
@@ -660,6 +1205,7 @@ Tổng cộng 765 trích dẫn.
 | mục 6 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | … Hai là khả năng chống bị thay thế, bạn xem … |
 | mục 9 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …p đào tạo nghề trong thời gian thất nghiệp (… |
 | mục 9 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …g tối đa 3 lần) và trợ cấp bảo hiểm xã hội (… |
+| mục 9 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … … |
 | mục 13 | phần 4 | 04-dung-lang-phi-thoi-gian (cả phần) | … Nguyên tắc về điều kiện rút lui mà … |
 | mục 14 | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | … Tự kiểm tra và … |
 | mục 15 | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … Phương pháp này kết hợp tốt nhất với … |
@@ -679,21 +1225,23 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Bạn lĩnh được chế độ gì thì xem … |
 | Mở đầu phần | phần 16 | 16-song-sau-khi-mac-benh-man-tinh (cả phần) | …nh mạn tính quản lý dài hạn thế nào thì xem … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Tại chỗ cấp cứu nên làm gì trước thì xem … |
+| mục 1 | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | …ộng đồng một lần kê được thuốc 12 tuần, xem … |
 | mục 4 | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | …bệnh nào quyết toán trực tiếp được, bạn xem … |
-| mục 5 | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | … Bạn xem … |
-| mục 6 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …tính thì bạn ghi vào cùng một quyển sổ, xem … |
-| mục 7 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …o chép là việc bạn nên làm thường ngày, xem … |
-| mục 8 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …và báo trước để bệnh viện chuẩn bị đón (xem … |
-| mục 9 | phần 7, mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …vẫn quá nặng thì đi đường cứu trợ y tế, xem … |
-| mục 10 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …i", để tính tiền bồi thường khuyết tật (xem … |
-| mục 10 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …c, và bộ đó lo chế độ tai nạn lao động (xem … |
-| mục 10 | mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …t tật thì phải làm thêm thẻ khuyết tật (xem … |
-| mục 10 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …bệnh án, hồ sơ mổ và phim ảnh khám lại (xem … |
-| mục 11 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | … sóc dài hạn thì lĩnh trợ cấp chăm sóc, xem … |
-| mục 11 | mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | … Ba thứ này không thay cho nhau được (xem … |
-| mục 12 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | … Việc sau, bạn xem … |
-| mục 12 | mục 7 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …yêu cầu phong tỏa bệnh án ngay tại chỗ (xem … |
-| mục 12 | mục 6 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Bạn cũng giữ lại bệnh án cùng phim ảnh (… |
+| mục 5 | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | …tính thì bạn ghi vào cùng một quyển sổ, xem … |
+| mục 6 | mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …o chép là việc bạn nên làm thường ngày, xem … |
+| mục 7 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …và báo trước để bệnh viện chuẩn bị đón (xem … |
+| mục 8 | phần 7, mục 10 | Mắc bệnh nặng thì trước hết đi theo bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám tỉnh khác, không đụng vào vay online | …vẫn quá nặng thì đi đường cứu trợ y tế, xem … |
+| mục 9 | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …i", để tính tiền bồi thường khuyết tật (xem … |
+| mục 9 | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …c, và bộ đó lo chế độ tai nạn lao động (xem … |
+| mục 9 | mục 10 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …t tật thì phải làm thêm thẻ khuyết tật (xem … |
+| mục 9 | mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | …bệnh án, hồ sơ mổ và phim ảnh khám lại (xem … |
+| mục 10 | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | … sóc dài hạn thì lĩnh trợ cấp chăm sóc, xem … |
+| mục 10 | mục 9 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | … Ba thứ này không thay cho nhau được (xem … |
+| mục 11 | phần 8, mục 40 | Đừng đưa tiền đưa thẻ cho người làm án, chấp pháp: hối lộ chính mình cũng bị phán; hối lộ người giám sát, chấp pháp, tư pháp còn bị phạt nặng | … Việc sau, bạn xem … |
+| mục 11 | mục 6 | Nghi ngờ việc khám chữa thì tại chỗ yêu cầu phong tỏa bệnh án, hai bên cùng có mặt, lập danh sách, mỗi bên giữ một bản | …yêu cầu phong tỏa bệnh án ngay tại chỗ (xem … |
+| mục 11 | mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Bạn cũng giữ lại bệnh án cùng phim ảnh (… |
+| mục 12 | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | …ng tài khoản cá nhân cho người nhà, bạn xem … |
+| mục 12 | phần 2, mục 10 | Đánh răng kỹ, mỗi ngày làm sạch kẽ răng một lần, mất răng thì trồng lại kịp thời | …nên trồng lại răng đã mất kịp thời, bạn xem … |
 
 ## 25-viec-phai-lam-khi-nguoi-than-qua-doi
 
@@ -701,6 +1249,16 @@ Tổng cộng 765 trích dẫn.
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …giám hộ ý định, di chúc, tài khoản, bạn xem … |
 | Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Ba khoản chế độ khi chết vì lao động xem … |
+| Mở đầu phần | mục 1 | Người mất ở nhà hay ngoài đường, trước phân rõ chết bình thường hay không bình thường: ngoài ý muốn, chết không rõ nguyên nhân, sống một mình lâu mới phát hiện, báo cảnh sát ngay, thi thể và hiện trường đừng động | … … |
+| Mở đầu phần | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | … … |
+| Mở đầu phần | mục 3 | Đưa đón, lưu giữ, hỏa táng thi thể chỉ đi nhà tang lễ, nhà xác bệnh viện không làm tang lễ, lưu giữ thường không quá 3 ngày | … … |
+| Mở đầu phần | mục 4 | Dị nghị nguyên nhân chết, trong 48 giờ đưa khám nghiệm tử thi, đồng thời phong tỏa bệnh án | … … |
+| Mở đầu phần | mục 5 | Xóa hộ khẩu có thời hạn pháp định: thành thị trước an táng, nông thôn trong một tháng | … … |
+| Mở đầu phần | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | … … |
+| Mở đầu phần | mục 7 | Gặp ép bán kèm, cộng giá ngoài bảng, tách một hạng thành mấy hạng thu tiền, ghi lại rồi khiếu nại | … … |
+| Mở đầu phần | mục 8 | Môi giới đại lý tang lễ, mua hộ đồ dùng, làm chủ trì vân vân, phải đăng ký với dân chính cấp huyện | … … |
+| Mở đầu phần | mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … … |
+| Mở đầu phần | mục 10 | Tài khoản và thông tin cá nhân của người chết, thân nhân gần có thể yêu cầu tra, sao chép, sửa, xóa | … … |
 | mục 1 | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | …ều trị thì cơ sở đó khai giấy chứng tử, xem … |
 | mục 3 | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | …ộc hạng mục cơ bản, đã có giá định sẵn, xem … |
 | mục 4 | phần 24 | 24-di-kham-benh (cả phần) | … Cách phong tỏa bệnh án xem … |
@@ -717,6 +1275,12 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … đăng ký thế nào, khai thuế thế nào thì xem … |
 | Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | … Riêng … |
 | mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 6 | Nội dung người dùng đăng bạn phải quản: cơ chế duyệt, cửa báo cáo, phát hiện vi phạm ngay dừng truyền và báo | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 7 | Cung cấp dịch vụ phát bố thông tin, tin nhắn tức thời, bắt buộc đòi người dùng cung cấp thông tin thân phận thật | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 8 | Không mở livestream cho người chưa đủ 16 tuổi, tặng thưởng theo tuổi chia bậc xử | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 9 | Nhận thông báo xâm quyền phải xử kịp, chuyển tuyên bố xong 15 ngày không có gì thì phục hồi | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 10 | Thông tin người dùng đừng tiện tay để ngoài cảnh, xuất cảnh có điều kiện pháp định và nóc số người | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 9 | phần 9, mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | … Về hai trường hợp này, xem … |
 | mục 11 | phần 11, mục 16 | Website, app phải đăng ký ICP trước khi lên kệ; theo yêu cầu bảo vệ cấp độ giữ log ít nhất 6 tháng | …hĩa vụ lưu log 6 tháng và bảo vệ cấp độ xem … |
 
 ## 27-mang-thai-va-sinh-con
@@ -726,6 +1290,7 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | …inh con, nghỉ thai sản và tiền nuôi con xem … |
 | Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Con sinh ra chăm thế nào xem … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Bệnh cấp xem … |
+| mục 1 | phần 20, mục 14 | Mang thai hoặc cho con bú mà đang ăn chay thì mỗi ngày bổ sung vitamin B12; thức ăn phụ của bé phải có thức ăn động vật, nhất định ăn thuần chay thì hỏi bác sĩ trước | … toàn còn phải bổ vitamin B12 mỗi ngày, xem … |
 | mục 3 | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | …gan B và globulin miễn dịch viêm gan B (xem … |
 | mục 3 | phần 1 | 01-dung-chet-som (cả phần) | … Phòng và xét nghiệm thường ngày xem … |
 | mục 3 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | …u phơi nhiễm khi có hành vi nguy cơ cao xem … |
@@ -740,11 +1305,13 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| mục 1 | phần 2, mục 33 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | … Còn quan hệ giữa BMI và tỷ lệ chết thì xem … |
+| mục 1 | phần 2, mục 32 | Giữ BMI trong khoảng 20–25, thừa cân thì giảm | … Còn quan hệ giữa BMI và tỷ lệ chết thì xem … |
 | mục 3 | mục 2 | Trước khi tiêm kim, cấy chỉ, mở dao tra hai thứ: trên giấy phép cơ sở có "thẩm mỹ y khoa" không, người động tay có phải bác sĩ chủ chẩn không | … Trước khi làm, bạn đối chiếu một lượt theo … |
 | mục 5 | mục 4 | Đừng mua thuốc giảm cân, cà phê giảm cân, kẹo gầy và mơ enzyme hứa "gầy nhanh" | … Cách phán giống mục thuốc giảm cân (… |
 | mục 6 | mục 5 | Đừng dùng steroid đồng hóa ("kim tăng cơ" "thuốc uống") để lên cơ | … Steroid và hormone giới tính ở … |
 | mục 6 | mục 7 | Thuốc loại hormone giới tính chỉ dùng khi bác sĩ kê và định kỳ tái xét, đừng mua mạng, đừng tự tăng liều | … Steroid và hormone giới tính ở … |
+| mục 9 | phần 24, mục 12 | Trước khi trồng răng, hỏi rõ giá trọn gói gồm những hạng mục nào, ưu tiên tìm cơ sở cam kết tham gia chấn chỉnh giá, đừng tin quảng cáo giá rẻ | … hiểm y tế không chi trả cho chỉnh nha, xem … |
+| mục 9 | mục 2 | Trước khi tiêm kim, cấy chỉ, mở dao tra hai thứ: trên giấy phép cơ sở có "thẩm mỹ y khoa" không, người động tay có phải bác sĩ chủ chẩn không | … Cách tra xem … |
 
 ## 29-sau-khi-gap-cu-soc-lon
 
@@ -775,7 +1342,7 @@ Tổng cộng 765 trích dẫn.
 | mục 5 | phần 17 | 17-nha-co-nguoi-gia (cả phần) | … Nhà có người già vừa mất vợ/chồng thì theo … |
 | mục 5 | mục 6 | Không có người thân cũng không bạn, đổi "người trông bạn" thành ba thứ: hàng xóm vào được cửa nhà, danh sách thăm viếng của cộng đồng, liên lạc khẩn cấp trong điện thoại | …o việc này cho cộng đồng và điện thoại, xem … |
 | mục 6 | phần 13, mục 1 | Có người ngã xuống không thở, lập tức ấn mạnh vào lồng ngực, nhờ người xung quanh gọi 120 (cấp cứu TQ) và tìm AED | … Vì sao "trong nhà có người" đáng giá, xem … |
-| mục 6 | phần 22, mục 10 | Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người | … mình là 1,32, cao khoảng ba phần mười, xem … |
+| mục 6 | phần 22, mục 9 | Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người | … mình là 1,32, cao khoảng ba phần mười, xem … |
 | mục 6 | phần 25 | 25-viec-phai-lam-khi-nguoi-than-qua-doi (cả phần) | …ng an, quỹ tích lũy nhà ở, mấy quầy ấy (xem … |
 | mục 6 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …, thất nghiệp, thất học" (phương án này xem … |
 | mục 6 | mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …p lại được, không phải chỉ gọi một lần (xem … |
@@ -798,7 +1365,7 @@ Tổng cộng 765 trích dẫn.
 | mục 13 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | … Lúc ý nghĩ đó hiện lên thì làm thế nào xem … |
 | mục 13 | phần 1, mục 32 | Ý nghĩ tự tử vừa nảy ra thì nói ngay cho một người bên cạnh, giao mấy chục phút đó cho họ | … Lúc ý nghĩ đó hiện lên thì làm thế nào xem … |
 | mục 13 | phần 1, mục 33 | Đừng lấy "cứu được rồi" làm điểm tựa: uống thuốc trừ sâu, hít khí than sau đó cấp cứu giữ được mạng, không giữ được phổi và não | … di chứng sau khi cứu về xem … |
-| mục 13 | phần 19, mục 16 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … Chuẩn ba khoản tiền chết vì lao động xem … |
+| mục 13 | phần 19, mục 15 | Ba khoản tiền chết vì lao động phải phân biệt: trợ cấp mai táng, trợ cấp nuôi dưỡng người thân, trợ cấp tử vong lao động một lần | … Chuẩn ba khoản tiền chết vì lao động xem … |
 | mục 13 | phần 25, mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … Thủ tục cụ thể về di sản và nợ xem … |
 | mục 13 | phần 1 | 01-dung-chet-som (cả phần) | … Các mục khác của phần này và … |
 | mục 13 | mục 4 | Người thân chết vì tự tử, tai nạn hay án mạng, đừng trông cứng gánh, chủ động đi tìm trợ giúp chuyên môn | … Giá sức khỏe của người nhà xem … |
@@ -807,16 +1374,35 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | …… |
+| Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | … … |
 | Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | …o thông, mũ bảo hiểm và vắc xin HPV bạn xem … |
 | Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Trẻ sơ sinh xem … |
 | Mở đầu phần | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Con bị lừa và nạp tiền game xem … |
 | Mở đầu phần | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …chưa thành niên đừng tự mình bước qua nằm ở … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Cách nhận ra bệnh cấp và cách gọi xe nằm ở … |
 | Mở đầu phần | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Con cái sau khi cha mẹ qua đời xem … |
-| Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …Mục 1 tới … |
-| Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …Mục 1 tới … |
-| Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …Mục 1 tới … |
-| Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …h rõ về ngủ, bài tập, thể dục, xếp hạng) và … |
+| Mở đầu phần | mục 1 | Con nói đau dữ đột ngột, lại ngày một nặng hơn, lập tức đi bệnh viện, đừng cho nó nhịn tới tan học | …… |
+| Mở đầu phần | mục 2 | Trị liệu đáng làm đừng vì "đợi thi xong" mà kéo sau, có cửa sổ đi theo tuổi xương, không đi theo lịch thi | …… |
+| Mở đầu phần | mục 3 | Con bị bắt nạt, ngay hôm đó báo lên trường và yêu cầu xử lý có văn bản, liên quan đánh người, cướp tiền, tung tin đồn trực tiếp báo cảnh sát | …… |
+| Mở đầu phần | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …… |
+| Mở đầu phần | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …… |
+| Mở đầu phần | mục 6 | Coi cận thị là tổn thương sẽ lưu lại: độ càng sâu, về sau bong võng mạc, biến tính hoàng điểm, glaucoma càng nhiều | …… |
+| Mở đầu phần | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …… |
+| Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …… |
+| Mở đầu phần | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …… |
+| Mở đầu phần | mục 13 | Sau khi răng hàm vĩnh viễn mọc ra làm hàn rãnh gờ | … mục 8, mục 12 (khám khúc xạ có giãn đồng), … |
+| Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 16 | Quản con đừng ra tay đánh, cũng đừng quát mắng, mắng nó ngu: trẻ hay bị đánh mắng có nhiều vấn đề về hành vi và cảm xúc hơn | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
+| Mở đầu phần | mục 16 | Quản con đừng ra tay đánh, cũng đừng quát mắng, mắng nó ngu: trẻ hay bị đánh mắng có nhiều vấn đề về hành vi và cảm xúc hơn | … Trong đó … |
+| Mở đầu phần | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | …ục 16 (đừng ra tay đánh, đừng quát mắng) và … |
+| Mở đầu phần | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | … … |
+| Mở đầu phần | mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | … … |
+| Mở đầu phần | mục 10 | Ngủ, bài tập, thể dục và xếp hạng đều có quy định rõ, trường làm không tới có thể đề nghị | … … |
+| Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …ịnh rõ về ngủ, bài tập, thể dục, xếp hạng), … |
+| Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …xếp hạng), mục 11 (nghỉ học giữ chỗ học) và … |
 | mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … xem cách nhận ra bệnh cấp và cách gọi xe ở … |
 | mục 2 | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …c trọng điểm của đợt khám thể học sinh (xem … |
 | mục 2 | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …hất 1 năm, và chỗ học vẫn được giữ lại (xem … |
@@ -841,9 +1427,14 @@ Tổng cộng 765 trích dẫn.
 | mục 14 | mục 10 | Ngủ, bài tập, thể dục và xếp hạng đều có quy định rõ, trường làm không tới có thể đề nghị | … Yêu cầu rõ về ngủ xem … |
 | mục 14 | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | … (ngủ, bài tập, thể dục), về ngoài trời xem … |
 | mục 14 | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …ài trời 2 tiếng), về thời gian màn hình xem … |
+| mục 14 | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | …rường cai nghiện mạng quản lý khép kín, xem … |
 | mục 15 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …i không muốn sống, bạn gọi 12356 trước, xem … |
 | mục 15 | phần 6, mục 28 | Đừng tiêu tiền làm "chỉnh chuyển xu hướng tính dục" "chữa đồng tính", cũng đừng gửi người nhà đi | … Vì sao đừng đụng tới "chỉnh chuyển", xem … |
 | mục 15 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … Bạn cũng có thể theo … |
+| mục 16 | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | … Cách quản thay thế là gì, bạn xem … |
+| mục 16 | phần 8, mục 43 | Bị bạo hành gia đình: báo cảnh sát trước để lưu hồ sơ xuất cảnh, rồi ra tòa xin lệnh bảo vệ an toàn thân thể; không cần ly hôn trước, cũng không thu phí | …n và xin lệnh bảo vệ an toàn thân thể xem ở … |
+| mục 17 | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | … khoa tâm thần hoặc khoa tâm lý trẻ em, xem … |
+| mục 18 | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | … Con mê game thì trước hết bạn làm theo … |
 
 ## 31-nhung-con-duong-sau-tuoi-muoi-tam
 
@@ -854,15 +1445,22 @@ Tổng cộng 765 trích dẫn.
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …mở quán, lập công ty cùng đường rút lui xem … |
 | Mở đầu phần | phần 32 | 32-du-hoc-nuoc-ngoai (cả phần) | … Du học xem … |
 | Mở đầu phần | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … Chế độ hỗ trợ sau khi mất việc xem … |
+| mục 1 | phần 23, mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … Mức phạt xem … |
 | mục 1 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
 | mục 1 | mục 12 | Giao đồ ăn, chạy xe gọi trên mạng, kéo hàng đồng thành, nền tảng theo đơn đóng phí bảo đảm tổn thương nghề cho bạn, mình không đóng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
+| mục 1 | phần 23, mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | …liên thông giáo dục nghề, bạn xem lối vào ở … |
+| mục 1 | phần 23, mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …lo nổi tiền học, bạn xem các khoản hỗ trợ ở … |
+| mục 1 | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …á nhân và chi phí đóng cửa rút lui, bạn xem … |
+| mục 1 | mục 16 | Không vào đơn vị tự làm, tiền khởi bước trước xem vay bảo đảm khởi nghiệp: cá nhân cao nhất 30 vạn, tài chính dán một nửa lãi | …ớc trả thay một phần lãi hay không, bạn xem … |
+| mục 1 | mục 13 | Ngày thi đại học điền nguyện vọng đã khóa được biên chế hai đường: sư phạm sinh công phí và y sinh định hướng, giá là 6 năm làm theo ước | …ện vọng thi đại học, cái giá phải trả ghi ở … |
+| mục 1 | mục 14 | Muốn ra nước ngoài làm thuê, trước tra công ty này có tư cách kinh doanh hợp tác lao vụ đối ngoại không: nó không được thu bạn đặt cọc | … Cách nhận biết công ty có tư cách xem … |
 | mục 2 | mục 3 | Sau khi ứng chiêu từ chối phục binh dịch, trong hai năm không được xuất cảnh hay lên học phục học, còn vào không được công chức và doanh nghiệp nhà nước | …chỉ phạt người ứng chiêu rồi lại đổi ý, xem … |
-| mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … Luật Binh dịch Điều 57 khoản 1 … |
-| mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … "có hành vi … |
 | mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … đăng ký binh dịch xem … |
 | mục 10 | phần 23, mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ng chỉ "hàng nhái" không được công nhận xem … |
 | mục 10 | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … giá" là hai chuyện khác nhau, việc sau xem … |
 | mục 11 | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | …óng bù thế nào, số năm tích lũy ra sao, xem … |
+| mục 11 | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … hiểm y tế chuyển sang nơi mới thế nào, xem … |
+| mục 11 | phần 5, mục 46 | Người không đi làm cho ai mà tự đóng bảo hiểm hưu trí công nhân viên, đóng theo mức thấp nhất, đóng đủ số năm trước là lời nhất; đừng coi đóng vào là lời ngay, đóng mức thấp nhất cũng phải lĩnh khoảng 10 năm mới hòa vốn | …o, phải lĩnh bao nhiêu năm mới hòa vốn, xem … |
 | mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …iệc làm linh hoạt cũng dẫn văn bản này, xem … |
 | mục 12 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …ch tham gia bảo hiểm việc làm linh hoạt xem … |
 | mục 14 | phần 21, mục 5 | "Tuyển dụng nước ngoài lương cao" nhất loạt coi là lừa đảo, bị lừa đi làm điện lừa về còn bị hạn chế xuất cảnh | … ở nước ngoài và khu lừa đảo viễn thông xem … |
@@ -888,11 +1486,31 @@ Tổng cộng 765 trích dẫn.
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | … Cách ngăn không cho tàn tật đã viết ở … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … ngăn không cho tàn tật đã viết ở phần 1 và … |
-| Mở đầu phần | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …ấp một tới cấp bốn đánh giá ra sao, bạn xem … |
-| Mở đầu phần | phần 24, mục 10 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …hương tật phải đợi tới lúc nào mới làm, xem … |
+| Mở đầu phần | phần 24, mục 10 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | …ấp một tới cấp bốn đánh giá ra sao, bạn xem … |
+| Mở đầu phần | phần 24, mục 9 | Giám định thương tật phải đợi sau khi trị liệu kết thúc mới làm, làm sớm cấp sẽ bị đánh thấp | …hương tật phải đợi tới lúc nào mới làm, xem … |
 | Mở đầu phần | phần 7, mục 8 | Có thẻ khuyết tật thì xin hai khoản trợ cấp cho người khuyết tật | …khoản trợ cấp người khuyết tật thế nào, xem … |
-| Mở đầu phần | phần 19, mục 15 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …à cấp thương tật quy ra bao nhiêu tiền, xem … |
+| Mở đầu phần | phần 19, mục 14 | Thương tình ổn định rồi đi giám định năng lực lao động, cấp thương tật quy thẳng ra tiền | …à cấp thương tật quy ra bao nhiêu tiền, xem … |
 | Mở đầu phần | phần 17, mục 7 | Người già trong nhà nằm liệt lâu dài hoặc mất khả năng mức nặng, đến cơ quan bảo hiểm y tế nơi tham gia bảo hiểm xin bảo hiểm chăm sóc dài hạn; nó không phải chỉ phát cho người già | …ho người mất năng lực mức nặng thế nào, xem … |
+| Mở đầu phần | mục 1 | Sau tổn thương tủy sống đột nhiên đau đầu dữ dội, ra mồ hôi, trước hết dìu ngồi thẳng, nới quần áo, đồng thời gọi cấp cứu (TQ: 120) | … thẳng, nới quần áo, đồng thời gọi cấp cứu (… |
+| Mở đầu phần | mục 5 | Người ngồi xe lăn dài hạn, đệm ngồi đổi loại giảm áp, mỗi ngày xem một lần xương ngồi và xương cụt | … xe lăn dài hạn, đệm ngồi đổi loại giảm áp (… |
+| Mở đầu phần | mục 6 | Đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" | … pháp và khí cụ "chữa được liệt, mù, điếc" (… |
+| Mở đầu phần | mục 16 | Phục hồi làm tại cơ cấu chính quy có khoa y học phục hồi, cường độ nghe người trị liệu, không phải càng mạnh càng tốt | …ại cơ cấu chính quy có khoa y học phục hồi (… |
+| Mở đầu phần | mục 17 | Thính lực xuống thì đi phối máy trợ thính, lý do phối nó là nghe được, không phải phòng đần | … thính lực xuống thì đi phối máy trợ thính (… |
+| Mở đầu phần | mục 7 | Thẻ khuyết tật làm xong rồi, đến liên hiệp hội khuyết tật cấp huyện hỏi trọn một lần mấy thứ xin được | …ấp huyện hỏi trọn một lần mấy thứ xin được (… |
+| Mở đầu phần | mục 8 | Con dưới 7 tuổi lại có khuyết tật hay cô độc chứng, đến liên hiệp hội khuyết tật cấp huyện xin cứu trợ phục hồi chức năng | …t cấp huyện xin cứu trợ phục hồi chức năng (… |
+| Mở đầu phần | mục 9 | Cải tạo ramp, tay vịn và phòng tắm trong nhà, có thể xin trợ cấp lên chính phủ cấp huyện trở lên | …in trợ cấp lên chính phủ cấp huyện trở lên (… |
+| Mở đầu phần | mục 11 | Thuế thu nhập cá nhân của người khuyết tật có thể giảm thu, giảm bao nhiêu gọi điện hỏi cục thuế tỉnh | … giảm bao nhiêu gọi điện hỏi cục thuế tỉnh (… |
+| Mở đầu phần | mục 10 | Lúc tìm việc chủ động nói rõ mình có thẻ, doanh nghiệp chiêu bạn được trừ đi một khoản tiền | … lúc tìm việc chủ động nói rõ mình có thẻ (… |
+| Mở đầu phần | mục 20 | Vì khuyết tật bị từ chối chiêu, không cho chuyển chính thức, phát tiền ít, có thể kiện, nhưng trước tính rõ phí dụng quá trình | …ện, nhưng trước tính rõ phí dụng quá trình (… |
+| Mở đầu phần | mục 12 | Chó dẫn đường đem vào trường sở công cộng và giao thông công cộng được, người mù miễn phí ngồi xe buýt trong thị | … sở công cộng và giao thông công cộng được (… |
+| Mở đầu phần | mục 13 | Người khuyết tật thi đại học có thể xin tiện nghi hợp lý, đề dùng chữ mù thời gian thi cộng một nửa | …ật thi đại học có thể xin tiện nghi hợp lý (… |
+| Mở đầu phần | mục 14 | Con khuyết tật xin nhập học, trường không được từ chối nhận; tới không được trường thì cục giáo dục an bài đưa dạy tới cửa | …n nhập học, trường không được từ chối nhận (… |
+| Mở đầu phần | mục 15 | Mất chi dưới phải hay cả hai chi dưới cũng thi được bằng lái, loại chuẩn lái gọi C5 | …hay cả hai chi dưới cũng thi được bằng lái (… |
+| Mở đầu phần | mục 2 | Mười năm đầu sau khi tàn tật là kỳ nguy cơ cao tự sát, đừng coi là chuyện "nghĩ thoáng chút" là xong | …g coi là chuyện "nghĩ thoáng chút" là xong (… |
+| Mở đầu phần | mục 4 | Người dài hạn chăm sóc người khuyết tật trong nhà, thân thể mình phải có người dõi | …trong nhà, thân thể mình phải có người dõi (… |
+| Mở đầu phần | mục 3 | Nhập viện chướng ngại tinh thần lấy tự nguyện làm nguyên tắc, chỉ hai tình huống được không qua đồng ý của bản thân | …h huống được không qua đồng ý của bản thân (… |
+| Mở đầu phần | mục 18 | Nói một người lớn "quản không nổi việc mình", phải xin tòa án nhận định, người nhà nói không tính | …tòa án nhận định, người nhà nói không tính (… |
+| Mở đầu phần | mục 19 | Người giám hộ của người lớn định theo thứ tự định pháp; người bị giám hộ làm đau người khác, do người giám hộ đền | …ộ của người lớn định theo thứ tự định pháp (… |
 | mục 2 | phần 29, mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | …có người ngồi nói chuyện thì gọi 12356, xem … |
 | mục 2 | phần 1, mục 25 | Khi trầm cảm hoặc có ý nghĩ tự tử hãy gọi 12356, trong nhà không tích trữ thuốc ngủ và thuốc trừ sâu | …ng tích trữ thuốc ngủ và thuốc trừ sâu, xem … |
 | mục 2 | phần 29, mục 8 | Ai đạo quá nửa năm còn đứng nguyên chỗ, ngày không sống nổi, đi treo số khoa tâm thần hay tâm lý lâm sàng | …ám ở khoa tâm thần hay tâm lý lâm sàng, xem … |
@@ -907,7 +1525,7 @@ Tổng cộng 765 trích dẫn.
 | mục 7 | mục 9 | Cải tạo ramp, tay vịn và phòng tắm trong nhà, có thể xin trợ cấp lên chính phủ cấp huyện trở lên | …ết bị không chướng ngại trong gia đình, xem … |
 | mục 7 | mục 10 | Lúc tìm việc chủ động nói rõ mình có thẻ, doanh nghiệp chiêu bạn được trừ đi một khoản tiền | …iệc làm theo tỷ lệ và dịch vụ việc làm, xem … |
 | mục 7 | mục 11 | Thuế thu nhập cá nhân của người khuyết tật có thể giảm thu, giảm bao nhiêu gọi điện hỏi cục thuế tỉnh | … Sáu là giảm thuế thu nhập cá nhân, xem … |
-| mục 7 | phần 24, mục 11 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | … Cách làm tấm thẻ thì xem … |
+| mục 7 | phần 24, mục 10 | Trị xong thật sự còn chướng ngại chức năng, đến liên hiệp hội người khuyết tật cấp huyện nơi hộ khẩu xin thẻ khuyết tật | … Cách làm tấm thẻ thì xem … |
 | mục 8 | mục 6 | Đừng mua liệu pháp và khí cụ "chữa được liệt, mù, điếc" | … Cơ sở hứa "bao khỏi" thì xử lý theo … |
 | mục 10 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …hăn việc làm và trợ cấp bảo hiểm xã hội xem … |
 | mục 10 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | … Trợ cấp đào tạo nghề xem … |
@@ -926,13 +1544,65 @@ Tổng cộng 765 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Mở đầu phần | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch 15 phút | …y rửa thì việc đầu tiên nên làm gì, bạn xem … |
+| Mở đầu phần | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | …y rửa thì việc đầu tiên nên làm gì, bạn xem … |
 | Mở đầu phần | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | … tính cần uống đủ theo chỉ định ra sao, xem … |
 | Mở đầu phần | phần 28, mục 6 | Muốn ăn thuốc giảm cân thì tới bệnh viện lấy đơn, đừng mua ở cửa hàng mạng không cần đơn đã giao hàng | …trên mạng phải qua xét duyệt đơn trước, xem … |
 | mục 2 | phần 20, mục 8 | Em bé chưa đủ 3 tháng sốt tới 38 °C là đi thẳng viện, không theo dõi ở nhà | …i mà bị sốt thì đưa thẳng đến viện, bạn xem … |
+| mục 3 | phần 3, mục 25 | Đau bụng kinh thì uống thuốc giảm đau như ibuprofen, đừng cố chịu; đau đến lỡ việc đi làm đi học, hoặc uống thuốc ba tháng vẫn không hết, thì đi khám phụ khoa | …ào và khi nào cần đi khám phụ khoa, bạn xem … |
 | mục 4 | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | …ổi thì không được cho dùng mật ong, bạn xem … |
 | mục 4 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | … sốt nữa thì sẽ bị trùng hoạt chất, bạn xem … |
 | mục 5 | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | …u thấp để phòng ngừa tiền sản giật, bạn xem … |
+| mục 10 | phần 13, mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … Nếu trẻ lỡ uống nhầm thuốc, bạn xem … |
+| mục 10 | mục 7 | Cảm thường đừng tìm bác sĩ đòi kháng sinh | …g nhà thì bạn cũng đừng tự lấy ra uống, xem … |
+| mục 11 | mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | …ng paracetamol cũng đừng uống rượu, bạn xem … |
+
+## docs/bi-cat-giam-roi-lam-gi-truoc
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Bị cắt giảm rồi, làm gì  | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | … lương và vẫn chưa nghỉ việc, hãy xem thẳng … |
+| Bị cắt giảm rồi, làm gì  | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …việc, những việc bạn phải làm nằm rải rác ở … |
+| Bị cắt giảm rồi, làm gì  | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ng việc bạn phải làm nằm rải rác ở phần 19, … |
+| Ngay hôm đó: trước khi k | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … Xem … |
+| Ngay hôm đó: trước khi k | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … Xem … |
+| Ngay hôm đó: trước khi k | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Xem … |
+| Ngay hôm đó: trước khi k | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Xem … |
+| Ngay hôm đó: trước khi k | phần 11, mục 7 | Nghỉ việc không mang theo mã nguồn, danh sách khách hàng và tài liệu kỹ thuật, không đăng lên cloud cá nhân, không dùng lại ở chỗ làm sau | … Xem … |
+| Ngay hôm đó: trước khi k | phần 11, mục 6 | Nghỉ việc thì bàn giao sạch tài khoản và quyền hạn, không xóa kho dữ liệu, không để lại cửa sau, không đổi mật khẩu khóa hệ thống, kể cả khi công ty nợ bạn tiền | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 4 | Bị sa thải trước tính rõ N: đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 5 | Công ty đuổi bạn không báo trước 30 ngày, còn phải trả thêm một tháng lương | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 6 | Công ty giải trừ trái luật, tiền bồi thường gấp đôi chuẩn bồi thường kinh tế | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | … Xem … |
+| Từ hôm đó đến vài ngày đ | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | … Xem … |
+| Tuần đầu | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Tuần đầu | phần 7, mục 5 | Tìm việc thì trước hết dùng dịch vụ việc làm công miễn phí và chợ việc làm lẻ, không qua môi giới thu phí | … Xem … |
+| Tuần đầu | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Tuần đầu | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Tuần đầu | phần 7, mục 3 | Không đủ tiền kiện thì xin viện trợ pháp lý, vụ đòi lương, tiền phụng dưỡng, tai nạn lao động vốn nằm trong phạm vi | … Xem … |
+| Tuần đầu | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Tuần đầu | phần 29, mục 3 | Sau khi mất việc trước cố định sinh hoạt, bảo hiểm y tế và nhịp tìm việc, đừng cả ngày ở nhà | … Xem … |
+| Tháng đầu | phần 7, mục 2 | Bị nợ lương thì trước hết khiếu nại thanh tra lao động, rồi xin trọng tài lao động, hai đường đều không thu phí, đa số vụ có kết quả trong vài tháng | … Xem … |
+| Tháng đầu | phần 7, mục 22 | Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng chưa có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hay cá nhân mới ra tòa | … Xem … |
+| Tháng đầu | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Xem … |
+| Tháng đầu | phần 7, mục 5 | Tìm việc thì trước hết dùng dịch vụ việc làm công miễn phí và chợ việc làm lẻ, không qua môi giới thu phí | … Xem … |
+| Tháng đầu | phần 7, mục 14 | Xin việc đừng chỉ nộp hồ sơ, dùng phương pháp có hệ thống: học kỹ năng, đặt mục tiêu, nhờ người giúp | … Xem … |
+| Tháng đầu | phần 7, mục 15 | Không nộp tiền cọc, không giao giấy tờ, không ký "vay học nghề", không vào đa cấp, không vay nặng lãi | … Xem … |
+| Tháng đầu | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | … Xem … |
+| Tháng đầu | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | … Xem … |
+| Mấy tháng sau đó | phần 5, mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Xem … |
+| Mấy tháng sau đó | phần 29, mục 12 | Ba tháng đầu sau biến cố, đại quyết định không đảo lại được phàm là đều để sau | … Xem … |
+| Mấy tháng sau đó | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Xem … |
+| Mấy tháng sau đó | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Xem … |
+| Mấy tháng sau đó | phần 7, mục 7 | Thu nhập dưới vạch trợ cấp tối thiểu địa phương thì xin trợ cấp tối thiểu | … Xem … |
+| Mấy tháng sau đó | phần 29, mục 11 | Muốn người ngồi nói chuyện gọi 12356, người chưa thành niên và thanh thiếu niên gọi 12355, muốn xem bác sĩ treo khám tâm lý | … Xem … |
+| Mấy tháng sau đó | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | … Xem … |
+
+## docs/cuoi-co-dang-khong
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Tư cách pháp lý: vợ hoặc | phần 10, mục 18 | Người yêu đồng giới nhân lúc hai người còn tỉnh táo, làm xong ủy quyền, giám hộ tự định và di chúc: về luật hai người không phải thân nhân gần, không làm thì không có quyền ký và quyền thừa kế | … Chi tiết xem … |
 
 ## docs/danh-muc-do-dung-khan-cap-gia-dinh
 
@@ -945,6 +1615,7 @@ Tổng cộng 765 trích dẫn.
 | II. Bộ ba phòng cháy | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ài Thoát hiểm Tránh nạn Đám cháy Kiến trúc, … |
 | II. Bộ ba phòng cháy | phần 13, mục 24 | Cháy thì bò sát đất, sờ cửa rồi mới mở, cửa nóng thì đừng mở; đi cầu thang bộ không đi thang máy, ra rồi đừng quay lại | …mở, đi cầu thang không ngồi thang máy), xem … |
 | II. Bộ ba phòng cháy | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Chuông báo khói xem … |
+| III. Trong túi cấp cứu đ | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … … |
 | III. Trong túi cấp cứu đ | phần 13, mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | …dùng được, vì sao "đừng nới ra xả máu", xem … |
 | III. Trong túi cấp cứu đ | phần 13, mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …làm một việc, xối nước máy mát 20 phút, xem … |
 | III. Trong túi cấp cứu đ | phần 13, mục 15 | Đột nhiên nổi mẩn toàn thân, không thở nổi hoặc chóng mặt — xử lý theo sốc phản vệ, gọi ngay 120 và nói rõ | …Nó là thuốc kê đơn, phải tìm bác sĩ kê, xem … |
@@ -975,15 +1646,188 @@ Tổng cộng 765 trích dẫn.
 | Ba điểm dễ nhầm | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … Mở công ty thế nào xem … |
 | II. Nghĩa vụ hàng ngày c | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …ược phạt bao nhiêu tiền, viết trong các mục … |
 | III. Chọn máy chủ: ba bậ | phần 26, mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 6 | Nội dung người dùng đăng bạn phải quản: cơ chế duyệt, cửa báo cáo, phát hiện vi phạm ngay dừng truyền và báo | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 7 | Cung cấp dịch vụ phát bố thông tin, tin nhắn tức thời, bắt buộc đòi người dùng cung cấp thông tin thân phận thật | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 8 | Không mở livestream cho người chưa đủ 16 tuổi, tặng thưởng theo tuổi chia bậc xử | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 9 | Nhận thông báo xâm quyền phải xử kịp, chuyển tuyên bố xong 15 ngày không có gì thì phục hồi | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 10 | Thông tin người dùng đừng tiện tay để ngoài cảnh, xuất cảnh có điều kiện pháp định và nóc số người | … Những nghĩa vụ nền tảng … |
 | IV. Ranh giới của tài li | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …điều khoản viết trên đây, lấy cột Nguồn của … |
 
 ## docs/nhip-dong-ho-sinh-hoc-va-ca-dem
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
-| Cơ thể nhận giờ thế nào, | phần 2, mục 40 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | …Đây là bản bài dài của … |
+| Cơ thể nhận giờ thế nào, | phần 2, mục 39 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | …Đây là bản bài dài của … |
 | II. Đồng hồ này dựa ánh  | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | …Đây cũng là lý do … |
-| IX. Bài này không nói | phần 2, mục 40 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | … cao bao nhiêu, theo số năm tính thế nào, ở … |
-| IX. Bài này không nói | phần 2, mục 39 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …Thức khuya rồi bù giấc về thế nào, ở … |
+| IX. Bài này không nói | phần 2, mục 39 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | … cao bao nhiêu, theo số năm tính thế nào, ở … |
+| IX. Bài này không nói | phần 2, mục 38 | Thức khuya thì đêm hôm sau ngủ bù ngay, đừng dồn tới cuối tuần | …Thức khuya rồi bù giấc về thế nào, ở … |
 | IX. Bài này không nói | phần 2, mục 13 | Mỗi đêm ngủ khoảng 7 giờ, giờ giấc cố định | … ngủ bao lâu, tác tức quy luật hay không, ở … |
 | IX. Bài này không nói | phần 3, mục 2 | Cố định giờ thức dậy, cuối tuần cũng vậy | …Sáng sớm gặp sáng và cố định giờ dậy, ở … |
+
+## docs/truoc-khi-doi-viec-doi-thanh-pho
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Trước khi đổi việc, đổi  | phần 2 | 02-dung-chet-tu-tu (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 4 | 04-dung-lang-phi-thoi-gian (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 5 | 05-dung-lang-phi-tien (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 11 | 11-lan-san-do-cua-dan-ky-thuat (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 15 | 15-thue-va-mua-nha (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi đổi việc, đổi  | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | …huyện đổi việc, đổi thành phố nằm rải rác ở … |
+| Trước khi quyết định: sổ | phần 2, mục 39 | Càng làm ca đêm lâu nguy cơ tim mạch càng cao, chuyển được ca thì chuyển sớm | … Xem … |
+| Trước khi quyết định: sổ | phần 3, mục 13 | Đừng chỉ biết tăng giờ làm việc mỗi tuần: qua khoảng 49 tiếng, mỗi tiếng làm thêm cho ra ngày càng ít sản phẩm | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 16 | Ở đơn vị lâu dài bị bắt nạt, sỉ nhục, làm khó, đừng cứng gánh: trước ghi lại giữ chứng cứ, rồi theo tính chất đi tố cáo, báo cảnh sát hoặc trọng tài | … Xem … |
+| Trước khi quyết định: sổ | phần 22, mục 9 | Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người | … Xem … |
+| Trước khi quyết định: sổ | phần 10, mục 6 | Yêu xa không kém yêu cùng thành phố, khúc khó thật sự là ba tháng đầu sau khi chuyển về chung | … Xem … |
+| Trước khi quyết định: sổ | phần 29, mục 12 | Ba tháng đầu sau biến cố, đại quyết định không đảo lại được phàm là đều để sau | … Xem … |
+| Trước khi quyết định: sổ | phần 3, mục 10 | Đêm khuya không quyết định việc lớn, không gửi tin nhắn quan trọng | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 18 | Chọn chỗ ở thì đặt thời gian đi làm lên trước, rút ngắn đường đi làm một chiều | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 3 | Quyết định có tiếp tục không thì chỉ nhìn đầu tư tương lai và hồi báo tương lai, đừng nhìn đã đổ vào bao nhiêu | … Xem … |
+| Trước khi quyết định: sổ | phần 4, mục 2 | Trước khi bắt tay viết rõ điều kiện rút lui | … Xem … |
+| Trước khi quyết định: sổ | phần 5, mục 27 | Trước hết gom đủ 3 đến 6 tháng sinh hoạt phí làm quỹ dự phòng, để chỗ rút ra bất cứ lúc nào | … Xem … |
+| Trước khi quyết định: sổ | phần 23, mục 12 | Đừng coi "trên mạng nói lương cao" là thiếu người, đi tra danh mục nghề khan hiếm và danh mục trợ cấp của địa phương | … Xem … |
+| Trước khi quyết định: sổ | phần 7, mục 17 | Ép chi ở và ăn xuống thấp nhất: thuê chung theo tháng thay thuê theo ngày, tự nấu và nhà ăn trợ giá thay gọi đồ ăn | … Xem … |
+| Trước khi quyết định: sổ | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | … Xem … |
+| Trước khi quyết định: sổ | phần 23, mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | … Xem … |
+| Trước khi quyết định: sổ | phần 19, mục 7 | Đừng ký "tự nguyện xin nghỉ vì lý do cá nhân", ký một cái là mất N | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 19, mục 2 | Nghỉ phép năm theo thâm niên cộng dồn 5, 10, 15 ngày, ngày phép chưa nghỉ được quy theo 300% lương ngày | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 19, mục 1 | Tiền tăng ca tính theo ba bậc 1,5 lần, 2 lần, 3 lần, không trả thì tố cáo thanh tra lao động, quá hạn không trả còn phải cộng thêm 50% đến 100% | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 8, mục 19 | Bảo vệ quyền có thời hạn: thời hiệu khởi kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn bên kia nói một câu "quá thời hiệu" là đủ | …9, mục 1 (tiền tăng ca tính theo ba bậc) và … |
+| Trước khi nộp đơn nghỉ v | phần 19, mục 8 | Trước khi nghỉ việc lưu trước phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn | … Xem … |
+| Trước khi nộp đơn nghỉ v | phần 8, mục 41 | Cuộc gọi và cuộc nói chuyện có thể quay mặt, cứ mở ghi âm: cuộc nói chuyện mình tham gia, không cần xin ý kiến bên kia trước | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 17 | Khi nghỉ việc, đòi công ty cấp một giấy chứng nhận nghỉ việc ghi rõ thời hạn hợp đồng, ngày nghỉ, vị trí công việc và số năm làm việc | … Xem … |
+| Những ngày rời nơi làm c | phần 11, mục 6 | Nghỉ việc thì bàn giao sạch tài khoản và quyền hạn, không xóa kho dữ liệu, không để lại cửa sau, không đổi mật khẩu khóa hệ thống, kể cả khi công ty nợ bạn tiền | … Xem … |
+| Những ngày rời nơi làm c | phần 11, mục 7 | Nghỉ việc không mang theo mã nguồn, danh sách khách hàng và tài liệu kỹ thuật, không đăng lên cloud cá nhân, không dùng lại ở chỗ làm sau | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | … Xem … |
+| Những ngày rời nơi làm c | phần 19, mục 18 | Nhận bồi thường nghỉ việc, trước hết xem thuế thu nhập cá nhân: phần trong 3 lần lương bình quân công nhân viên năm trước của địa phương được miễn thuế, phần vượt tính riêng, không gộp vào lương năm đó | … Xem … |
+| Những ngày rời nơi làm c | phần 7, mục 1 | Thất nghiệp thì trước hết xin tiền bảo hiểm thất nghiệp qua mạng | … Xem … |
+| Những ngày rời nơi làm c | phần 29, mục 3 | Sau khi mất việc trước cố định sinh hoạt, bảo hiểm y tế và nhịp tìm việc, đừng cả ngày ở nhà | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 8, mục 17 | Trước khi ký phải đọc hết tờ giấy; không ký thay người, không ký vào giấy trắng | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 19, mục 3 | Thử việc có nóc pháp định, lương không được dưới 80%, và chỉ được hẹn một lần | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 19, mục 3 | Thử việc có nóc pháp định, lương không được dưới 80%, và chỉ được hẹn một lần | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 19, mục 3 | Thử việc có nóc pháp định, lương không được dưới 80%, và chỉ được hẹn một lần | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 11, mục 13 | Code viết trong giờ làm, bằng tài nguyên công ty thuộc về công ty; dự án mã nguồn mở của riêng mình làm bằng thời gian và thiết bị của mình, không trộn code công ty | … Xem … |
+| Khi ký hợp đồng ở chỗ là | phần 11, mục 12 | Đã ký thỏa thuận cấm cạnh tranh, sau nghỉ việc công ty không trả bồi thường hàng tháng thì thúc giục bằng văn bản, đủ 3 tháng không trả có thể hủy; vị trí chưa từng tiếp xúc bí mật thương mại có thể xin xác nhận điều khoản không có hiệu lực | … Xem … |
+| Tìm nhà ở thành phố mới | phần 22, mục 10 | Chọn chỗ ở thì tính cả mảng xanh xung quanh vào, nhưng đừng trông vào chuyện "đi công viên nhiều" để sống lâu | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 1 | Số tiền cọc, thời gian hoàn trả và các trường hợp bị trừ phải viết vào hợp đồng | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 6 | Trước khi ký hợp đồng đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp, mọi khoản tiền đều chuyển khoản và ghi chú mục đích | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 3 | Môi giới không được thu hộ trả hộ tiền thuê và tiền cọc, tiền đưa thẳng cho chủ nhà | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 4 | Thuê chung cư dài hạn thì tra trước tài khoản giám sát vốn của nó, đừng ham rẻ mà trả một năm một lần | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 8 | Đừng thuê phòng vách ngăn: đơn vị cho thuê nhỏ nhất là phòng theo thiết kế gốc, bếp, nhà vệ sinh, ban công không được dùng để ở | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 5 | Nhà bị bán trong thời hạn thuê thì hợp đồng thuê vẫn có hiệu lực, không phải dọn đi | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 2 | Bị cắt nước cắt điện, thay khóa, đến tận nhà đe dọa đuổi đi thì báo cảnh sát giữ chứng cứ trước: quy định cấm dùng những cách này ép bạn dọn đi | … Xem … |
+| Tìm nhà ở thành phố mới | phần 5, mục 3 | Quỹ nhà ở tích lũy không chỉ để mua nhà: thuê nhà, sửa nhà, phí quản lý đều rút được, từ ngày 20/9/2026 làm theo điều lệ mới | … Xem … |
+| Tìm nhà ở thành phố mới | phần 7, mục 16 | Khó khăn về nhà ở thì trước hết xếp hàng nhà ở công cộng cho thuê | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 7 | Mua nhà cũ mà để môi giới thu hộ tiền nhà thì phải đi qua tài khoản tiền gửi chuyên dụng cho vốn giao dịch mà môi giới mở tại ngân hàng | … Xem … |
+| Tìm nhà ở thành phố mới | phần 15, mục 9 | Người hộ khẩu thành thị muốn dọn về nông thôn ở thì chỉ thuê nhà nông dân, đừng mua đất ở và nhà trên đất ở | … Xem … |
+| Sau khi chuyển tới nơi m | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 19, mục 19 | Khi đổi thành phố làm việc, chuyển quan hệ hưu trí và bảo hiểm y tế sang nơi tham gia mới, thời gian đóng nối tiếp cộng dồn, đừng làm thủ tục rút bảo hiểm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 7, mục 18 | Bảo hiểm xã hội đứt đóng đừng hoảng: hưu trí tính theo cộng dồn, bảo hiểm y tế bù theo quy tắc | … Xem … |
+| Sau khi chuyển tới nơi m | phần 31, mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | … Xem … |
+| Sau khi chuyển tới nơi m | phần 7, mục 9 | Bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm đừng để đứt, hộ khó khăn được miễn giảm | … Xem … |
+| Sau khi chuyển tới nơi m | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | … Xem … |
+| Sau khi chuyển tới nơi m | phần 24, mục 4 | Trước khi khám ngoại tỉnh ngoại vùng, hỏi một câu ở địa phương trước: tính cần thiết về nguyên tắc phải bác sĩ phó chủ nhiệm trở lên đánh giá | … Xem … |
+| Sau khi chuyển tới nơi m | phần 24, mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Xem … |
+| Sau khi chuyển tới nơi m | phần 5, mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … Xem … |
+
+## docs/viec-can-lam-truoc-va-sau-khi-sinh-con
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Khi chuẩn bị mang thai | phần 27, mục 1 | Chuẩn bị mang thai đã bắt đầu mỗi ngày bổ 0,4 mg acid folic, uống tới khi đầu thai kỳ đủ 3 tháng | … Xem … |
+| Khi chuẩn bị mang thai | phần 27, mục 11 | Trước khi mang thai đã xác nhận trạng thái tham gia bảo hiểm sinh sản, vợ/chồng chưa đi làm cũng báo được chi phí y tế sinh con | … Xem … |
+| Khi chuẩn bị mang thai | phần 2, mục 2 | Đừng hút thuốc trong nhà và trong xe, cũng đừng để khách hút trong nhà | … Xem … |
+| Khi chuẩn bị mang thai | phần 5, mục 40 | Nhà có người sống nhờ thu nhập của bạn, trước hết mua bảo hiểm nhân thọ định kỳ cho người kiếm tiền, đừng mua cho con trước | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 2 | Trước tuần thai 13 tới trung tâm y tế cộng đồng lập "Sổ sức khỏe mẹ và con", dùng hết định mức khám thai miễn phí | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 3 | Lần khám thai đầu đã xét nghiệm luôn ba bệnh AIDS, giang mai, viêm gan B, xét ra cũng có chặn lây mẹ-con miễn phí | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 4 | Cả thai kỳ một điếu thuốc một ngụm rượu cũng không, người nhà cũng đừng hút trong nhà | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 5 | Có yếu tố nguy cơ cao tiền sản giật, sau tuần thai 12 bắt đầu mỗi ngày một viên aspirin liều nhỏ | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 6 | Từ tuần thai 24 trở đi làm một lần sàng lọc đái tháo đường thai kỳ, đừng ngại phiền uống nước đường | … Xem … |
+| Sau khi có thai, trước k | phần 34, mục 5 | Mang thai sau 20 tuần, đừng tự ăn loại giảm đau như ibuprofen | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 9 | Muốn sinh không đau cứ nói thẳng, nó không tăng nguy cơ mổ lấy thai | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 10 | Không có chỉ định y học thì đừng tự đòi mổ lấy thai, cũng đừng vì chọn ngày mà mở dao | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 11 | Trước khi mang thai đã xác nhận trạng thái tham gia bảo hiểm sinh sản, vợ/chồng chưa đi làm cũng báo được chi phí y tế sinh con | … Xem … |
+| Sau khi có thai, trước k | phần 18, mục 2 | Nghỉ thai sản 98 ngày, trợ cấp sinh con do quỹ bảo hiểm sinh sản chi trả theo lương bình quân tháng năm trước của người lao động trong đơn vị | … Xem … |
+| Sau khi có thai, trước k | phần 18, mục 3 | Biết điều này: không được giảm lương hay đuổi việc vì mang thai, sinh con, cho con bú | … Xem … |
+| Sau khi có thai, trước k | phần 20, mục 11 | Đồ cồng kềnh theo thứ tự "mượn, mua đồ cũ, mua mới", đừng mua đủ một lần | … Xem … |
+| Sau khi có thai, trước k | phần 20, mục 10 | Tã không nhìn hãng, nhìn ba việc: có vừa người không, thay có thường xuyên không, có bị kiểm tra thông báo không | … Xem … |
+| Sau khi có thai, trước k | phần 27, mục 12 | Trước xuất viện làm xong "Giấy chứng sinh y khoa", tên nghĩ trước, đừng viết sai chữ | … Xem … |
+| Khi nhập viện sinh con | phần 27, mục 8 | Vỡ ối thì nằm phẳng tại chỗ, kê cao mông, gọi 120, đừng đi lại cũng đừng tắm | … Xem … |
+| Khi nhập viện sinh con | phần 20, mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | … Xem … |
+| Khi nhập viện sinh con | phần 20, mục 2 | Trong 24 tiếng sau sinh tiêm mũi vaccine viêm gan B đầu tiên | … Xem … |
+| Khi nhập viện sinh con | phần 20, mục 7 | Mũi vitamin K lúc sinh nhất định phải tiêm | … Xem … |
+| Khi nhập viện sinh con | phần 27, mục 13 | Xét nghiệm máu gót chân và sàng lọc thính lực trẻ sơ sinh đều đừng từ chối | … Xem … |
+| Trước khi xuất viện | phần 27, mục 12 | Trước xuất viện làm xong "Giấy chứng sinh y khoa", tên nghĩ trước, đừng viết sai chữ | … Xem … |
+| Trước khi xuất viện | phần 27, mục 14 | Lấy được giấy chứng sinh y khoa thì làm bảo hiểm y tế cư dân cho con, đừng đợi nhập hộ khẩu xong | … Xem … |
+| Trước khi xuất viện | phần 1, mục 10 | Cho trẻ dưới 4 tuổi ngồi ghế an toàn, đừng bế trên tay | … Xem … |
+| Tháng đầu sau khi con ra | phần 27, mục 15 | Trong một tháng sau khi con sinh đi phái xuất sở (đồn công an) báo đăng ký sinh | … Xem … |
+| Tháng đầu sau khi con ra | phần 18, mục 1 | Tính trước các khoản được nhận: trợ cấp nuôi con quốc gia 3.600 nhân dân tệ mỗi con mỗi năm, trả đến 3 tuổi | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 1 | Cho bé ngủ ngửa, ngủ trên mặt phẳng cứng, cùng phòng khác giường, trên giường không để đồ mềm nào | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 5 | Pha sữa công thức dùng nước trên 70 °C, pha xong để nguội mới cho uống, uống thừa đổ đi | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 8 | Em bé chưa đủ 3 tháng sốt tới 38 °C là đi thẳng viện, không theo dõi ở nhà | … Xem … |
+| Tháng đầu sau khi con ra | phần 20, mục 9 | Mệt mỏi bực mình đến đâu cũng không được lắc em bé | … Xem … |
+| Tháng đầu sau khi con ra | phần 27, mục 7 | Thuộc lòng danh sách "đi bệnh viện ngay" này, trong thai kỳ và trong một năm sau sinh đều tính | … Xem … |
+| Từ khi con đầy tháng đến | phần 27, mục 16 | Lần tái khám 42 ngày sau sinh đừng nhảy, nó đồng thời là sàng lọc trầm cảm sau sinh | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 3 | Tiêm đủ vaccine trong chương trình tiêm chủng quốc gia, miễn phí trọn quá trình, lỡ mũi thì chỉ bù những mũi chưa tiêm | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 4 | 6 tháng đầu chỉ cho bú sữa mẹ, nước cũng không cần cho uống, từ 6 tháng thêm thức ăn phụ và tiếp tục sữa mẹ | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 6 | Chưa đủ 1 tuổi không cho ăn mật ong | … Xem … |
+| Từ khi con đầy tháng đến | phần 20, mục 12 | Bé có chàm nặng hoặc dị ứng trứng, đừng tránh đậu phộng, theo chỉ dẫn bác sĩ thêm sớm, nhưng tuyệt đối không cho ăn nguyên hạt | … Xem … |
+| Từ khi con đầy tháng đến | phần 34, mục 4 | Con dưới 2 tuổi cảm, đừng tự mình mớm thuốc cảm hỗn hợp và thuốc ho | … Xem … |
+| Từ khi con đầy tháng đến | phần 1, mục 11 | Nhà có trẻ nhỏ thì lắp chốt giới hạn cho cửa sổ và ban công, cửa lưới không tính là chắn | … Xem … |
+| Từ khi con đầy tháng đến | phần 30, mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | … Xem … |
+| Từ khi con đầy tháng đến | phần 18, mục 3 | Biết điều này: không được giảm lương hay đuổi việc vì mang thai, sinh con, cho con bú | … Xem … |
+| Từ khi con đầy tháng đến | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | … Xem … |
+| Từ khi con đầy tháng đến | phần 5, mục 2 | Mỗi năm từ tháng 3 đến tháng 6 làm một lần quyết toán thuế thu nhập cá nhân, khoản khấu trừ chuyên mục nào nên điền thì điền | … Xem … |
+
+## docs/vua-chan-doan-benh-man-tinh
+
+| Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
+| --- | --- | --- | --- |
+| Tuần được chẩn đoán | phần 29, mục 2 | Tuần bị báo chẩn đoán bệnh nặng, đừng một mình đi lấy báo cáo, quyết định ngoài trị liệu để sau | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 1 | Uống thuốc đủ theo chỉ định bác sĩ, đừng thấy đỡ là ngừng | … Xem … |
+| Tuần được chẩn đoán | phần 2, mục 12 | Có tăng huyết áp, mỡ máu cao thì uống thuốc đều theo lời bác sĩ, đừng tự ý ngừng | … Xem … |
+| Tuần được chẩn đoán | phần 1, mục 7 | Đo huyết áp, cao thì uống thuốc hạ về mức chuẩn | … Xem … |
+| Tuần được chẩn đoán | phần 5, mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 7 | Chẩn đoán tiểu đường thì đi kiểm tra đáy mắt một lần, sau đó kiểm tra theo khoảng cách bác sĩ cho; mỗi năm kiểm tra bàn chân một lần | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Tuần được chẩn đoán | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Tuần được chẩn đoán | phần 6, mục 19 | Đừng vì khám thấy acid uric cao nhưng chưa từng đau mà bắt đầu uống thuốc hạ acid uric | … Xem … |
+| Tuần được chẩn đoán | phần 2, mục 4 | Đặt một ngày cai thuốc, đến ngày đó dừng hẳn một lần, đừng giảm dần trước | … Xem … |
+| Tuần được chẩn đoán | phần 2, mục 3 | Cai thuốc đừng chỉ nhịn, trước hết lấy thuốc: tỷ lệ thành công tăng hơn gấp đôi | … Xem … |
+| Ba tháng đầu | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | … Xem … |
+| Ba tháng đầu | phần 24, mục 5 | Mỗi lần khám xong, bệnh án, phiếu kiểm tra và phim ảnh tự lưu một bản | … Xem … |
+| Ba tháng đầu | phần 16, mục 2 | Đăng ký bệnh mạn tính đặc thù ngoại trú trước rồi đăng ký khám ngoại tỉnh, tăng huyết áp, tiểu đường, hóa trị xạ trị, lọc máu, chống đào thải được quyết toán trực tiếp ở tỉnh khác | … Xem … |
+| Ba tháng đầu | phần 5, mục 13 | Làm một lần liên kết dùng chung gia đình trên app bảo hiểm y tế, tiền trong tài khoản cá nhân bảo hiểm y tế công nhân viên cho vợ chồng, cha mẹ, con đi khám mua thuốc được | … Xem … |
+| Ba tháng đầu | phần 16, mục 6 | Trước khi ký bác sĩ gia đình ở cộng đồng, hỏi rõ cái nào vào bảo hiểm y tế, cái nào tự trả | … Xem … |
+| Ba tháng đầu | phần 2, mục 9 | Đổi muối ăn trong nhà sang muối ít natri (muối kali) | … Xem … |
+| Ba tháng đầu | phần 2, mục 11 | Mỗi ngày đi đủ 7.000–8.000 bước, hoặc mỗi tuần cộng dồn đi bộ nhanh 150–300 phút | … Xem … |
+| Ba tháng đầu | phần 2, mục 19 | Uống ít rượu hoặc không uống | … Xem … |
+| Ba tháng đầu | phần 2, mục 20 | Người ngày nào cũng uống rượu, ngừng lại là run tay hồi hộp, đừng tự mình cai gắng | … Xem … |
+| Ba tháng đầu | phần 16, mục 4 | Đừng vì muốn thử bài thuốc dân gian, thực phẩm bảo vệ sức khỏe mà ngừng trị liệu chính quy | … Xem … |
+| Ba tháng đầu | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | … Xem … |
+| Ba tháng đầu | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Ba tháng đầu | phần 34, mục 1 | Trước khi uống cùng lúc hai loại thuốc cảm hay thuốc giảm đau, nhìn bảng thành phần, paracetamol chỉ được chiếm một loại | … Xem … |
+| Ba tháng đầu | phần 34, mục 3 | Người trên 60 tuổi, dạ dày từng chảy máu, đang ăn thuốc chống đông hay hormon, trước khi ăn loại giảm đau như ibuprofen hỏi bác sĩ trước | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 5 | Bệnh mạn tính ổn định, ở trung tâm y tế cộng đồng một lần có thể kê đủ 12 tuần thuốc | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 3 | Tái khám theo đúng khoảng cách bác sĩ cho, ghi chỉ số mỗi lần vào cùng một quyển sổ | … Xem … |
+| Khi bệnh đã ổn định | phần 5, mục 12 | Ưu tiên thuốc generic đã qua đánh giá tương đồng và thuốc trúng chọn đấu mua tập thể | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 7 | Chẩn đoán tiểu đường thì đi kiểm tra đáy mắt một lần, sau đó kiểm tra theo khoảng cách bác sĩ cho; mỗi năm kiểm tra bàn chân một lần | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 9 | Chẩn đoán gút thì uống thuốc hạ acid uric dài hạn, ép acid uric máu xuống dưới 360 µmol/L và giữ luôn | … Xem … |
+| Khi bệnh đã ổn định | phần 16, mục 8 | Từng mọc sỏi thận thì uống nước đến 2,5–3 lít mỗi ngày, muối hạ xuống dưới 6 gam | … Xem … |
+| Khi bệnh đã ổn định | phần 1, mục 20 | Người có bệnh tim mạch và người già tiêm vaccine cúm mỗi năm | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 1 | Bệnh thường khám ở cộng đồng trước, chuyển tuyến từng cấp lên trên, vạch khởi tuyến nằm viện tính nối tiếp | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 2 | Trong cùng một vùng quyết toán (nơi tham gia bảo hiểm y tế), cấp càng thấp tỷ lệ hoàn càng cao, chênh khoảng 10 điểm phần trăm | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 3 | Muốn lên bệnh viện lớn thì đi đường chuyển tuyến cơ sở hoặc trung tâm chuyển tuyến của bệnh viện, đừng tìm cò mồi số khám | … Xem … |
+| Khi bệnh đã ổn định | phần 24, mục 4 | Trước khi khám ngoại tỉnh ngoại vùng, hỏi một câu ở địa phương trước: tính cần thiết về nguyên tắc phải bác sĩ phó chủ nhiệm trở lên đánh giá | … Xem … |

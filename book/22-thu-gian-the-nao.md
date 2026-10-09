@@ -2,7 +2,7 @@
 
 # 22. Thư giãn thế nào: chỗ giải trí và giảm áp lực
 
-Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở chỗ giải trí và cách tìm lối thoát an toàn, đo bằng tiền và tự do thân thể. Nửa sau nói cách giảm áp lực, đo bằng tinh lực và tổng tử vong. Con số của hai nửa không quy đổi sang nhau. Lúc tinh thần suy sụp nên làm trước mấy việc gì, bạn xem phần 3, mục 19 (lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất); phần này đưa cách làm cụ thể hơn.
+Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở chỗ giải trí và cách tìm lối thoát an toàn, đo bằng tiền và tự do thân thể. Nửa sau nói cách giảm áp lực, đo bằng tinh lực và tổng tử vong. Con số của hai nửa không quy đổi sang nhau. Lúc tinh thần suy sụp nên làm trước mấy việc gì, bạn xem phần 3, mục 18 (lúc tinh thần suy sụp làm trước mấy việc đáng giá nhất); phần này đưa cách làm cụ thể hơn.
 
 ### 1. Vào KTV, quán bar, escape room trước nhìn một cái lối thoát an toàn ở đâu, bị khóa bị chặn thì đổi chỗ khác
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=lon quy-mo=tu-vong -->
@@ -40,16 +40,7 @@ Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở ch�
 - Nguồn: 最高人民检察院 (2021). 江苏苏州吴江区：办案检察官揭秘披着潮流外衣的新型毒品. <https://www.spp.gov.cn/spp/zdgz/202110/t20211011_531831.shtml>；国家药监局、公安部、国家卫生健康委 (2023). 关于调整麻醉药品和精神药品目录的公告（2023 年第 120 号）. <https://yjj.sh.gov.cn/qtgzwj/20230911/3b612c94e35b4b63abba314c972a2593.html>（上海市药监局转载，原文页 nmpa.gov.cn 在本机返回 412）；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第八十四、八十五条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第三百五十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2007). 禁毒法（第三十三、三十八、四十七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2520706.html>（广东省人民政府转载）
 - Ghi chú: Chỉ tham khảo TQ: Không chỉ ở quán giải trí, ở cổng trường, tiệc bạn bè hay trên xe khách đường dài cũng vậy. Thứ được đưa là kẹo, đồ uống hay đầu pod thì cũng như nhau. Bị bỏ thuốc xong, người ta thường bị cướp, bị xâm hại tình dục hay bị tống tiền; phần này không có thống kê chính thức công khai, đây là phán đoán theo kinh nghiệm. Đồ uống chỉ cần rời tầm mắt là bạn đổi ly khác, việc đó đỡ phiền hơn nhiều so với truy cứu sau này. Trong chỗ chơi có người lấy ra bột không rõ, viên thuốc hay đầu pod thì làm sao, bạn xem mục 3 phần này (có người đưa "đồ" thì đi ngay). Chuyện mang đồ hộ người khác, bạn xem phần 8, mục 29 (xuất nhập cảnh không mang đồ hộ người lạ).
 
-### 5. Lên quán net dùng căn cước của mình, đừng mượn căn cước cũng đừng dùng căn cước người khác
-<!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=vua quy-mo=tu-do -->
-- Chi phí: Không tốn tiền.
-- Nói dễ hiểu: Quán net phải đối chiếu, ghi lại căn cước của người lên mạng và thông tin lên mạng, lưu ít nhất 60 ngày, không được sửa hay xóa. Công an có thể lấy ra xem bất cứ lúc nào. Bạn dùng căn cước của ai thì việc làm trên máy đó được ghi lên đầu người ấy.
-- Lợi ích: Nguyên văn điều lệ: "cơ sở kinh doanh dịch vụ truy cập internet phải đối chiếu, đăng ký giấy tờ hợp lệ như căn cước của người tiêu dùng lên mạng, và ghi lại thông tin truy cập liên quan. Thời gian lưu nội dung đăng ký và bản sao lưu hồ sơ không được ít hơn 60 ngày". Khi cơ quan quản lý văn hóa hay công an tra cứu theo luật, quán net phải cung cấp. Trong thời hạn lưu, quán không được sửa hay xóa. Vì vậy, bạn dùng căn cước của ai để lên mạng thì những việc làm trên máy đó trong khoảng thời gian ấy được ghi lên đầu người ấy (TQ)
-- Mức chứng cứ: A
-- Nguồn: 国务院 (2002). 互联网上网服务营业场所管理条例（国令第 363 号，第二十三条）. <http://www.gov.cn/gongbao/content/2002/content_61788.htm>
-- Ghi chú: Chỉ tham khảo TQ: Mục này với chuyện "không cho mượn căn cước" ở phần 9, mục 16 là cùng một việc. Quán net không được tiếp người vị thành niên, và phải treo biển cấm vị thành niên ở chỗ dễ thấy ngay lối vào. Quán ca múa giải trí cũng không tiếp người vị thành niên. Nếu bạn giúp một người vị thành niên "quẹt căn cước vào quán net", người bị phạt là quán net, nhưng hồ sơ lại nằm trên giấy tờ của bạn
-
-### 6. Trò kịch bản phá án, escape room đừng đi chỗ mở trong nhà dân hay dưới tầng hầm hai trở xuống
+### 5. Trò kịch bản phá án, escape room đừng đi chỗ mở trong nhà dân hay dưới tầng hầm hai trở xuống
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=vua quy-mo=tu-vong -->
 - Chi phí: Không tốn tiền, chỉ cần trước khi đặt chỗ hỏi một câu: địa chỉ ở tầng mấy.
 - Nói dễ hiểu: Theo thông báo của năm bộ, chỗ chơi kịch bản phá án không được mở trong nhà dân hay từ tầng hầm hai trở xuống. Những chỗ này tối, nhiều vách ngăn, đạo cụ dễ cháy, cửa thường phải giải đố mới mở, nên cháy thì khó chạy. Trước khi đặt, bạn xem tầng trên trang đánh giá.
@@ -58,16 +49,16 @@ Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở ch�
 - Nguồn: 文化和旅游部、公安部、住房和城乡建设部、应急管理部、市场监管总局 (2022). 关于加强剧本娱乐经营场所管理的通知. <https://www.gov.cn/zhengce/zhengceku/2022-06/27/content_5698021.htm>
 - Ghi chú: Chỉ tham khảo TQ: Đặc điểm của chỗ chơi loại này là tối, nhiều vách ngăn, đạo cụ dễ cháy, cửa thường phải "giải đố" mới mở được. Một khi cháy, người trong đó khó chạy ra hơn ở cửa hàng thường. Ngay trên trang đánh giá, trước khi đặt bạn đã thấy được tầng, cũng thấy được có phải nhà dân hay không. Chỗ nào không đúng quy định thì bạn đổi luôn chỗ khác
 
-### 7. Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ
+### 6. Tâm trạng kém thì đi bộ hoặc chạy, hiệu ứng chống trầm cảm (độ lớn hiệu ứng) tỷ lệ thuận với cường độ
 <!-- nhan-chi-phi: tien=0 thoi-gian=vua y-chi=nhieu loi-ich=lon quy-mo=tu-vong -->
 - Chi phí: Không tốn tiền, mỗi lần chừng nửa tiếng. Phần khó là lúc tâm trạng tệ nhất cũng là lúc bạn ít muốn nhúc nhích nhất, nên phải tự đẩy mình một chút.
 - Nói dễ hiểu: Lúc tâm trạng kém, đi bộ nhanh hoặc chạy chậm giúp rõ nhất, kế đến là yoga, tập tạ, thái cực hay khí công. Tập càng mạnh thì hiệu quả càng tốt, còn tập tạ và yoga là dễ theo lâu nhất. Chứng cứ mảng này còn yếu, nhưng chắc chắn vận động tốt hơn ngồi yên.
 - Lợi ích: Đây là kết quả gộp 218 thử nghiệm có đối chứng chia ngẫu nhiên hai nhóm. Các thử nghiệm này có 495 nhóm, 14.170 người tham gia đạt chuẩn lâm sàng trầm cảm nặng. Cách tính cho phép so các loại vận động với nhau (phân tích gộp mạng Bayesian). Bên đem ra so là chăm sóc thường quy và viên giả dược (đối chứng chủ động). Độ lớn hiệu ứng được tính bằng Hedges' g, số càng âm thì triệu chứng càng cải thiện nhiều. Đi bộ nhanh hoặc chạy chậm −0,62 (khoảng tin cậy 95% −0,80 tới −0,45, nghĩa là giá trị thật đại khái rơi trong đoạn đó). Yoga −0,55 (−0,73 tới −0,36). Tập tạ −0,49 (−0,69 tới −0,29). Hiếu khí hỗn hợp −0,43 (−0,61 tới −0,24). Thái cực hoặc khí công −0,42 (−0,65 tới −0,21). Nguyên văn nói "hiệu quả của vận động tỷ lệ thuận với cường độ được kê": cường độ càng cao thì hiệu quả càng tốt. Tập tạ và yoga được chấp nhận tốt nhất, nên dễ theo lâu nhất
 - Mức chứng cứ: A
 - Nguồn: Noetel M, Sanders T, Gallardo-Gómez D, et al. (2024). Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ, 384, e075847. <https://doi.org/10.1136/bmj-2023-075847>
-- Ghi chú: Tranh cãi. Chính các tác giả viết rõ rằng trong 218 nghiên cứu chỉ có 1 nghiên cứu làm đủ sạch, không dễ bị thiết kế kéo lệch. Theo cách chấm điểm thông dụng, đi bộ nhanh và chạy chậm chỉ đạt mức tin cậy "thấp", các loại còn lại là "rất thấp". Vận động cũng không giấu được người tham gia, vì ai cũng biết mình đang tập nên dễ thấy mình khá lên, và phần kỳ vọng đó không trừ ra được. Hướng kết luận vẫn dùng được: vận động tốt hơn không vận động, cường độ đừng quá thấp, và chọn loại bạn theo được. Mục này mở rộng ý "lúc tinh thần suy sụp động lên trước" ở phần 3, mục 19, và không thay được điều trị chuẩn sau khi đã có chẩn đoán
+- Ghi chú: Tranh cãi. Chính các tác giả viết rõ rằng trong 218 nghiên cứu chỉ có 1 nghiên cứu làm đủ sạch, không dễ bị thiết kế kéo lệch. Theo cách chấm điểm thông dụng, đi bộ nhanh và chạy chậm chỉ đạt mức tin cậy "thấp", các loại còn lại là "rất thấp". Vận động cũng không giấu được người tham gia, vì ai cũng biết mình đang tập nên dễ thấy mình khá lên, và phần kỳ vọng đó không trừ ra được. Hướng kết luận vẫn dùng được: vận động tốt hơn không vận động, cường độ đừng quá thấp, và chọn loại bạn theo được. Mục này mở rộng ý "lúc tinh thần suy sụp động lên trước" ở phần 3, mục 18, và không thay được điều trị chuẩn sau khi đã có chẩn đoán
 
-### 8. Lo lắng tới ảnh hưởng sinh hoạt, hiệu quả lớp giảm stress chánh niệm không kém thuốc chống lo thường dùng
+### 7. Lo lắng tới ảnh hưởng sinh hoạt, hiệu quả lớp giảm stress chánh niệm không kém thuốc chống lo thường dùng
 <!-- nhan-chi-phi: tien=it thoi-gian=nhieu y-chi=nhieu loi-ich=lon quy-mo=tu-vong -->
 - Chi phí: Đăng ký lớp tốn một ít tiền. Khóa học kéo dài 8 tuần, mỗi tuần lên lớp một buổi, ngoài ra bạn phải tự tập ở nhà mỗi ngày. Phần khó là giữ được việc tập hằng ngày suốt 8 tuần liền.
 - Nói dễ hiểu: Người đã được chẩn đoán rối loạn lo âu đi khóa chánh niệm 8 tuần thì đỡ gần bằng uống thuốc escitalopram. Gần 80% người uống thuốc gặp phản ứng có hại, có người bỏ dở; bên đi học khoảng 15%, không ai bỏ. Phải là khóa chuẩn 8 tuần, còn một app thiền bất kỳ thì không tính.
@@ -76,7 +67,7 @@ Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở ch�
 - Nguồn: Hoge EA, Bui E, Mete M, Dutton MA, Baker AW, Simon NM (2023). Mindfulness-based stress reduction vs escitalopram for the treatment of adults with anxiety disorders: a randomized clinical trial. JAMA Psychiatry, 80(1), 13-21. <https://doi.org/10.1001/jamapsychiatry.2022.3679>
 - Ghi chú: Thử nghiệm dùng khóa giảm stress chánh niệm 8 tuần đã chuẩn hóa (MBSR), nên một app thiền bất kỳ không thể coi là ngang hàng. Kết quả áp dụng cho người đã đạt chuẩn chẩn đoán rối loạn lo âu, và cần đi khám thì bạn vẫn phải đi khám. Nếu bạn vì ngại tác dụng phụ của thuốc mà cứ trì hoãn không chữa, đây là một lựa chọn có sức nặng chứng cứ tương đương
 
-### 9. Muốn dịu lại ngay tại chỗ, dùng 5 phút "thở dài vòng": hít hai đoạn, thở kéo dài
+### 8. Muốn dịu lại ngay tại chỗ, dùng 5 phút "thở dài vòng": hít hai đoạn, thở kéo dài
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=vua quy-mo=tu-vong -->
 - Chi phí: Không tốn tiền, mỗi ngày mất 5 phút.
 - Nói dễ hiểu: Tập thở 5 phút mỗi ngày trong một tháng giúp tâm trạng khá lên, nhịp thở chậm lại, hơn thiền chánh niệm cùng thời lượng. Tốt nhất là "thở dài vòng": hít mũi một hơi, hít bù một hơi nhỏ, rồi thở ra thật chậm bằng miệng. Mới có một thử nghiệm, người tập tự báo, nhưng không tốn tiền.
@@ -85,7 +76,7 @@ Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở ch�
 - Nguồn: Balban MY, Neri E, Kogon MM, et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine, 4(1), 100895. <https://doi.org/10.1016/j.xcrm.2022.100895>
 - Ghi chú: Cách làm: hít bằng mũi một hơi, hít bù thêm một hơi ngắn cho đầy phổi, rồi thở ra bằng miệng thật chậm và dài cho hết hơi, lặp lại trong 5 phút. Bằng chứng mới có một thử nghiệm này, làm tại nhà, kết quả tốt hay không do người tham gia tự điền bảng hỏi, số người cũng không nhiều. Hiệu quả chỉ hơn thiền một chút và không giải quyết được vấn đề. Nhưng nó không tốn tiền, chỉ mất 5 phút, ở đâu lúc nào cũng làm được, nên tính ra vẫn đáng
 
-### 10. Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người
+### 9. Coi "gặp người định kỳ" là khoản chi sức khỏe, đừng chỉ lúc tâm trạng kém mới tìm người
 <!-- nhan-chi-phi: tien=it thoi-gian=vua y-chi=chut loi-ich=lon quy-mo=tu-vong -->
 - Chi phí: Tốn một ít tiền, và phải dành thời gian để gặp. Phần khó là cả lúc tâm trạng đang tốt, bạn cũng phải chủ động hẹn người ta.
 - Nói dễ hiểu: Người ít qua lại với ai có nguy cơ tử vong cao hơn khoảng ba phần mười. Người thấy cô đơn cao hơn khoảng một phần tư, người sống một mình cao hơn khoảng ba phần mười, và ở người dưới 65 tuổi thì rõ hơn. Các số này rút ra từ quan sát, chưa chắc là nhân quả.
@@ -94,9 +85,9 @@ Nửa đầu phần này nói về những khoản tiền dễ bỏ oan ở ch�
 - Nguồn: Holt-Lunstad J, Smith TB, Baker M, Harris T, Stephenson D (2015). Loneliness and social isolation as risk factors for mortality: a meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237. <https://doi.org/10.1177/1745691614568352>
 - Ghi chú: Tranh cãi. Các số này đều là tương quan rút ra từ quan sát nhóm người, không phải thử nghiệm chia nhóm có đối chứng, nên không tách được đâu là nhân, đâu là quả. Người vốn đã yếu sức thì dễ sống một mình và ít giao tiếp hơn. Các tác giả coi quan hệ xã hội là yếu tố sức khỏe cùng tầm với hút thuốc và béo phì, nhưng chưa có thử nghiệm ngẫu nhiên nào chứng minh "tăng giao tiếp có thể giảm tử vong". Mục này không mâu thuẫn với "giảm bớt những quan hệ hao mòn bạn" ở phần 3, mục 16: mục đó cắt những quan hệ làm bạn hao mòn, còn mục này giữ lại mấy mối quan hệ giúp bạn hồi lại tinh lực
 
-### 11. Nhà ở gần chỗ xanh thì dùng nó nhiều, đi bộ, đi dạo, ngồi đều tính
+### 10. Chọn chỗ ở thì tính cả mảng xanh xung quanh vào, nhưng đừng trông vào chuyện "đi công viên nhiều" để sống lâu
 <!-- nhan-chi-phi: tien=0 thoi-gian=it y-chi=khong loi-ich=nho quy-mo=tu-vong -->
-- Chi phí: Không tốn tiền, tiện đường thì làm luôn.
+- Chi phí: Không tốn tiền. Lúc xem nhà, bạn tiện tay nhìn qua mảng xanh xung quanh.
 - Nói dễ hiểu: Trong vòng 500 m quanh nhà càng nhiều cây thì nguy cơ tử vong càng thấp, chỉ số thực vật tăng 0,1 thì thấp hơn khoảng 4%. Số này đo cây quanh nhà, không đo số lần bạn đi công viên. Vậy đừng hiểu là đi công viên sẽ sống lâu; chọn chỗ ở thì tính cả mảng xanh vào.
 - Lợi ích: Đây là kết quả gộp 9 nghiên cứu theo dõi nhóm người nhiều năm (phân tích gộp nghiên cứu đoàn hệ), trải trên 7 quốc gia, 8,32 triệu người. Các nghiên cứu xét mức cây xanh trong phạm vi 500 m quanh chỗ ở, đo bằng chỉ số thực vật chuẩn hóa (NDVI, một con số quy đổi từ độ xanh của mặt đất). Mức xanh cứ tăng 0,1 chỉ số thì tỷ số nguy cơ gộp của tổng tử vong là 0,96 (95% CI 0,94–0,97). Quy ra, khả năng tử vong trong cùng thời gian thấp hơn khoảng 4%, giá trị thật đại khái nằm trong đoạn thấp hơn 3% tới thấp hơn 6%. Trong 9 nghiên cứu, 7 nghiên cứu thấy càng xanh thì tử vong càng thấp, và chênh lệch không giống do tình cờ. Còn 2 nghiên cứu kia không thấy liên quan
 - Mức chứng cứ: A

@@ -61,7 +61,14 @@ for (const f of files) {
 // Một trích có thể viết "mục 3, 10 và 11" — tách ra nhiều số mục. Cũng nhận
 // viết khoảng "mục 11 đến 14", "mục 5 đến mục 10": bản TQ từng không khớp cả
 // cụm khoảng (coi như không quét), toàn sách có 5 chỗ viết kiểu đó.
-const RANGE = /^\s*(?:(?:mục|phần)\s+)?(\d+)\s*đến\s*(?:(?:mục|phần)\s+)?(\d+)\s*$/;
+// "tới" nhận ngang "đến": bản VN có 9 chỗ viết khoảng bằng "tới" ("Mục 1 tới
+// 6", "mục 5 tới 10"), trước 2026-10-09 chỉ số đầu vào bảng, phần còn lại của
+// khoảng không ai soi được.
+// "Mục"/"Phần" viết hoa đầu câu cũng là trích: trước 2026-10-09 regex phân
+// biệt hoa thường, khoảng 20 trích đứng đầu câu (đoạn mở đầu phần 23, 25, 30
+// và vài Ghi chú) nằm ngoài bảng, không bị kiểm anchor. Chữ hoa chỉ nhận ở
+// "m"/"p" đầu từ ([Mm]ục, [Pp]hần), không bật cờ i cho cả regex.
+const RANGE = /^\s*(?:(?:[Mm]ục|[Pp]hần)\s+)?(\d+)\s*(?:đến|tới)\s*(?:(?:[Mm]ục|[Pp]hần)\s+)?(\d+)\s*$/;
 // Trả về [số mục, có phải bung từ khoảng không]. Khoảng trỏ cả một khối mục
 // ("mấy mục về ..."), không gán anchor riêng cho từng mục trong khối được, nên
 // số bung ra miễn kiểm anchor — chúng vẫn vào bảng, bị dồn lệch thì nhìn diff
@@ -75,7 +82,7 @@ const nums = s => {
       if (b >= a && b - a <= 30) for (let i = a; i <= b; i++) out.push([i, true]);
       continue;
     }
-    const clean = part.trim().replace(/^(?:mục|phần)\s+/, '');
+    const clean = part.trim().replace(/^(?:[Mm]ục|[Pp]hần)\s+/, '');
     if (!clean) continue;
     const n = Number(clean);
     if (Number.isFinite(n)) out.push([n, false]);
@@ -83,23 +90,34 @@ const nums = s => {
   return out;
 };
 // Dạng viết của đoạn số mục: "3", "3, 10", "3, 10 và 11", "11 đến 14",
-// "5 đến mục 10". "phần"/"mục" không khớp khi không kèm số, nên "mục lục",
-// "mục tiêu" tự an toàn.
-const NUMS = '\\d+(?:\\s*(?:,|và)\\s*(?:mục\\s*)?\\d+|\\s*đến\\s*(?:(?:mục|phần)\\s*)?\\d+)*';
+// "5 đến mục 10", "1 tới mục 8". "phần"/"mục" không khớp khi không kèm số,
+// nên "mục lục", "mục tiêu" tự an toàn.
+const NUMS = '\\d+(?:\\s*(?:,|và)\\s*(?:[Mm]ục\\s*)?\\d+|\\s*(?:đến|tới)\\s*(?:(?:[Mm]ục|[Pp]hần)\\s*)?\\d+)*';
 // Lưu ý: sau `,`/`và` chỉ cho "mục" lặng lại, KHÔNG cho "phần" — nếu cho,
 // "phần 3, mục 4, phần 5, mục 6" sẽ bị CROSS gộp NUMS thành "4, phần 5,
 // mục 6", sinh row gán sai cho phần 3 và nuốt mất trích "phần 5, mục 6".
-// Sau "đến" mới cho cả hai ("mục 5 đến mục 10", "phần 5 đến phần 10").
+// Sau "đến"/"tới" mới cho cả hai ("mục 5 đến mục 10", "phần 5 đến phần 10").
 // Chéo phần: "phần X, mục Y" — cũng chấp nhận không phẩy "phần X mục Y".
-const CROSS = new RegExp(`phần\\s*(\\d+)\\s*,?\\s*mục\\s*(${NUMS})`, 'g');
+const CROSS = new RegExp(`[Pp]hần\\s*(\\d+)\\s*,?\\s*[Mm]ục\\s*(${NUMS})`, 'g');
 // Cả phần: "phần X", "phần 8, 9". Phải đứng SAU CROSS trong thứ tự strip: NUMS
 // cho phép "mục" lặng sau dấu phẩy nên "phần 7, mục 3" cũng khớp WHOLE; nếu
 // quét WHOLE trước sẽ nuốt cả trích chéo thành danh sách phần.
-const WHOLE = new RegExp(`phần\\s*(${NUMS})`, 'g');
+const WHOLE = new RegExp(`[Pp]hần\\s*(${NUMS})`, 'g');
 // Cùng phần: "mục N" (quét sau khi đã strip hai dạng trên).
-const SAME = new RegExp(`mục\\s*(${NUMS})`, 'g');
+const SAME = new RegExp(`[Mm]ục\\s*(${NUMS})`, 'g');
+// "mục N" của văn bản luật, không phải số mục trong sách: đứng sát sau "Điều
+// N" / "khoản N" ("Điều 57 khoản 1 mục 2"), hoặc sát trước "khoản …", "Điều
+// N", "của "<tên văn bản>"" ("Mục 3 Điều 200", "mục 2 khoản trước", "Mục 17
+// của "Ý kiến…""). Toàn sách có đúng 5 chỗ như vậy (08/34, 08/38, 09/20 ở
+// dạng hoa; 31/3 hai chỗ ở dạng thường, trước 2026-10-09 bị tính là trích
+// tới mục 2). "mục N của phần này" là trích thật nên "của" chỉ tính khi
+// theo sau là ngoặc kép hay 《.
+// Nhận vào chuỗi trước và sau chỗ khớp SAME (không gồm chính "mục N").
+const lawClause = (before, after) =>
+  /(?:Điều|khoản)\s*\d+\s*,?\s*$/.test(before) ||
+  /^\s*(?:khoản\s*(?:\d|trước|này|đó)|Điều\s*\d|của\s*["“《])/.test(after);
 // Chỉ đường tương đối bị cấm.
-const REL = /(mục\s+(?:ngay\s+)?(?:trên|dưới|trước|sau|kế|tiếp theo|cuối|đầu))/g;
+const REL = /([Mm]ục\s+(?:ngay\s+)?(?:trên|dưới|trước|sau|kế|tiếp theo|cuối|đầu))/g;
 
 const out = [];
 const problems = [];
@@ -167,7 +185,7 @@ for (const { f, dir, isDoc } of targets) {
   // từ khóa sau số mục. Lấy tới dấu câu đầu tiên sau trích (tối đa 40 ký tự).
   // Không dùng độ dài cố định: trích có chuỗi số dài ("xem phần 1, mục 7, 8,
   // 14, 17...") sẽ đẩy phần ghi chú ra khỏi cửa sổ.
-  const LEAD = `^(?:phần\\s*${NUMS}(?:\\s*,?\\s*mục\\s*${NUMS})?|mục\\s*${NUMS})`;
+  const LEAD = `^(?:[Pp]hần\\s*${NUMS}(?:\\s*,?\\s*[Mm]ục\\s*${NUMS})?|[Mm]ục\\s*${NUMS})`;
   const afterOf = (line, idx) => {
     const rest = line.slice(idx).replace(new RegExp(LEAD), '');
     const end = rest.search(/[.;!?]/);
@@ -235,10 +253,13 @@ for (const { f, dir, isDoc } of targets) {
     // hiệu kèm theo (《…》, "法", "号"), từng nuốt nhầm 12 trích thật một cách
     // âm thầm. Bản VN điều luật viết "Điều N", "mục N" gần như không va chạm
     // nên bỏ hẳn lớp đoán đó: trong mục chỉ quét dòng FIELDS, còn "mục N" vượt
-    // số mục của phần vẫn liệt kê để người xem quyết.
+    // số mục của phần vẫn liệt kê để người xem quyết. Ngoại lệ duy nhất là
+    // "mục N" dính liền "Điều"/"khoản" (xem lawClause): chỉ nhận dạng đó, vì
+    // một lớp đoán rộng hơn sẽ lại nuốt trích thật như bản TQ.
     if (inEntry && !FIELDS.test(line)) return;
     const stripped = noCross.replace(WHOLE, '');
     for (const m of stripped.matchAll(SAME)) {
+      if (lawClause(stripped.slice(0, m.index), stripped.slice(m.index + m[0].length))) continue;
       for (const [x, range] of nums(m[1])) {
         const title = self.titles.get(x);
         rows.push({ from: unit, range, ref: `mục ${x}`, title, line: i + 1, ctx: ctxOf(stripped, m.index), narrow: narrowOf(stripped, m.index), after: afterOf(stripped, m.index) });
@@ -325,7 +346,7 @@ const body = [
   'hoặc viết tường minh "xem mục 16 (giấy vay và bảo lãnh)").',
   '`node tools/check-refs.mjs --check` coi trích không anchor là fail — loại đó',
   'bị dồn lệch thì diff của bảng cũng không thấy gì, chỉ có anchor chặn được.',
-  'Trích khoảng ("mục 11 đến 14") và trích cả phần ("phần 8") là ngoại lệ: trỏ',
+  'Trích khoảng ("mục 11 đến 14", "mục 11 tới 14") và trích cả phần ("phần 8") là ngoại lệ: trỏ',
   'cả một khối, không ghép anchor từng mục được, chỉ trông vào diff.',
   '',
   'Anchor đủ hay không xét theo độ dài và khoảng cách, sau khi chuẩn hóa bỏ dấu:',
