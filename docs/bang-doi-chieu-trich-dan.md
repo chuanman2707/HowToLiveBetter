@@ -20,7 +20,7 @@ chữ trùng với tiêu đề mục đích ("trợ cấp y tế xem mục 11" c
 hoặc viết tường minh "xem mục 16 (giấy vay và bảo lãnh)").
 `node tools/check-refs.mjs --check` coi trích không anchor là fail — loại đó
 bị dồn lệch thì diff của bảng cũng không thấy gì, chỉ có anchor chặn được.
-Trích khoảng ("mục 11 đến 14") và trích cả phần ("phần 8") là ngoại lệ: trỏ
+Trích khoảng ("mục 11 đến 14", "mục 11 tới 14") và trích cả phần ("phần 8") là ngoại lệ: trỏ
 cả một khối, không ghép anchor từng mục được, chỉ trông vào diff.
 
 Anchor đủ hay không xét theo độ dài và khoảng cách, sau khi chuẩn hóa bỏ dấu:
@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1522 trích dẫn.
+Tổng cộng 1584 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -813,6 +813,7 @@ Tổng cộng 1522 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | mục 1 | Trước khi làm hỏi một câu: hãng, nền tảng hay công ty có đi báo án không; bị truy cứu thì tìm ngay luật sư hình sự | … … |
 | mục 2 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | … Nhưng vụ săn vé ở … |
 | mục 4 | mục 3 | Không viết, không bán script săn vé, săn sale, chạy đơn ảo, bào khuyến mãi, kể cả khi chỉ là "tự động bấm nút" | …y dữ liệu trong hệ thống thì mức phán giống … |
 | mục 6 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ại, đừng tự tay làm (trọng tài lao động xem … |
@@ -870,6 +871,9 @@ Tổng cộng 1522 trích dẫn.
 | mục 9 | phần 5, mục 31 | Mua phải thực phẩm không an toàn, ngoài hoàn tiền còn đòi được mười lần giá hàng, bồi thêm dưới một nghìn tính một nghìn | …000 (xem … |
 | mục 10 | phần 6, mục 10 | Đừng tiêu nhiều tiền mua thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ để "điều dưỡng cơ thể" | …a nhận ra loại lời nói này thế nào, bạn xem … |
 | mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Bạn làm theo cả bộ ở … |
+| mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … … |
+| mục 11 | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … … |
+| mục 11 | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … … |
 | mục 11 | mục 8 | Làm thực phẩm trước hết xem mình rơi vào nhóm nào: sản xuất và làm ăn uống phải xin phép, chỉ bán đồ đóng gói sẵn đổi sang khai báo, bán thịt rau tươi không cần giấy | … Ranh giới với … |
 | mục 11 | mục 9 | Cho vào bao bán là thực phẩm đóng gói sẵn: trên nhãn, ngày sản xuất, hạn dùng, bảng thành phần thiếu một thứ cũng không được | … Ranh giới với … |
 | mục 11 | mục 10 | Thực phẩm thường không được nói là chữa được bệnh: nhãn, tờ hướng dẫn, quảng cáo và lời nói trên livestream đều tính | … Ranh giới với … |
@@ -955,6 +959,7 @@ Tổng cộng 1522 trích dẫn.
 | mục 21 | phần 19, mục 9 | Trước khi vào ca có bụi, tiếng ồn, hóa chất, xem trước hợp đồng có ghi nguy hại không; ba lần khám sức khỏe nghề nghiệp đơn vị sắp xếp và trả tiền | …hộ và khám sức khỏe trước khi nhận việc xem … |
 | mục 21 | phần 19, mục 10 | Tổn thương do bụi, tiếng ồn, chất độc hóa học không lấy lại được: đồ bảo hộ đơn vị phải cấp, ca không có biện pháp phòng hộ có thể từ chối | …hộ và khám sức khỏe trước khi nhận việc xem … |
 | mục 21 | mục 20 | Uống nhầm chất tẩy rửa, thuốc trừ sâu, thuốc men: trước hết đừng gây nôn, mang theo chai đi viện ngay; bắn vào mắt hay da thì xả nhiều nước sạch ít nhất 15 phút | … Chất tẩy rửa trong nhà và uống nhầm xem … |
+| mục 23 | mục 22 | Trời nóng mà chóng mặt, buồn nôn, không ra mồ hôi hoặc lơ mơ ý thức — lập tức đưa vào chỗ râm, cởi áo tát nước hạ nhiệt; người mê man không cho uống nước, gọi 120 | … … |
 | mục 25 | phần 1, mục 12 | Trẻ em gần nước thì không rời mắt, chèo thuyền hay bơi ngoài tự nhiên phải mặc áo phao | …ần lớn là con nhà mình, cách phòng ngừa xem … |
 | mục 25 | phần 1, mục 41 | Trước khi bước lên mặt băng ngoài trời, hãy khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, băng trên sông và mép lỗ câu băng thì đừng tới | … Mặt băng thì phòng thế nào, bạn xem … |
 | mục 26 | mục 43 | Em bé dưới 1 tuổi nghẹn mà khóc không ra tiếng: cho nằm sấp vỗ lưng 5 cái, lật ngửa ấn ngực 5 cái, làm thay phiên nhau, đừng ấn bụng | … tuổi thì bạn không ấn bụng mà ấn ngực, xem … |
@@ -1131,10 +1136,35 @@ Tổng cộng 1522 trích dẫn.
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …ày tính chuyện tiền bạc và thời gian, riêng … |
+| Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … … |
+| Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | … … |
+| Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | … … |
+| Mở đầu phần | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | … … |
+| Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … … |
+| Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | … … |
+| Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … … |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | … 1 nói trước xem luật gạch đi lựa chọn nào, … |
 | Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | …2 tính quan hệ giữa đi học và tuổi thọ, còn … |
+| Mở đầu phần | mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | … … |
 | Mở đầu phần | mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | … Còn nếu không đậu THPT thì … |
 | Mở đầu phần | mục 6 | Đưa "đi học hay đi làm" thành một bài toán: ba năm lương kiếm sớm, đấu với chênh thu nhập mỗi năm của mấy chục năm sau | …HPT thì mục 5 chỉ ra con đường nào khác, và … |
+| Mở đầu phần | mục 7 | Nhớ vạch chuẩn trước: mỗi thêm một năm học, lợi tức tư trung bình toàn cầu (phần rơi vào thu nhập mình) khoảng 9% một năm | … … |
+| Mở đầu phần | mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | … … |
+| Mở đầu phần | mục 9 | Đào tạo ưu tiên đi kênh trợ cấp chính quyền, đừng vừa lên đã tự trả báo lớp thương mại | … … |
+| Mở đầu phần | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | … … |
+| Mở đầu phần | mục 11 | Trước khi học xác nhận kỹ năng này có đánh giá bậc không, bậc đổi ra tiền được không | … … |
+| Mở đầu phần | mục 12 | Đừng coi "trên mạng nói lương cao" là thiếu người, đi tra danh mục nghề khan hiếm và danh mục trợ cấp của địa phương | … … |
+| Mở đầu phần | mục 13 | Cùng tiền cùng thời gian, ưu tiên chọn hạng mục chu kỳ ngắn ra trường làm được ngay | … … |
+| Mở đầu phần | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … … |
+| Mở đầu phần | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | … … |
+| Mở đầu phần | mục 16 | Đừng coi gạch chân, đọc lại nhiều lần, viết tóm tắt làm cách học chính | … … |
+| Mở đầu phần | mục 17 | Mấy kiểu đề trộn nhau mà luyện, đừng một kiểu làm liền hai mươi câu | … … |
+| Mở đầu phần | mục 18 | Đừng theo "tôi kiểu hình ảnh, anh ta kiểu âm thanh" mà chọn cách học | … … |
+| Mở đầu phần | mục 19 | Nội dung phải thuộc ra đề tự kiểm theo cách sẽ dùng sau này, đừng thuộc nguyên văn một lần là xong | … … |
+| Mở đầu phần | mục 20 | Đánh giá chức danh trước phải rõ mình ở loạt nào, cấp nào, rồi theo tính chất đơn vị tìm kênh báo | … … |
+| Mở đầu phần | mục 21 | Chức danh sơ cấp, trung cấp kiểu kế toán lấy bằng thi toàn quốc, trước đối chiếu học vấn và thâm niên mà báo danh | … … |
+| Mở đầu phần | mục 22 | Đừng tìm môi giới đánh giá hộ, đừng mua luận văn viết hộ, đừng làm giả trên tài liệu: tra ra thu hồi chức danh, ghi hồ sơ tín nhiệm 3 năm | … … |
+| Mở đầu phần | mục 23 | Có chức danh không bằng tăng lương: hỏi trước đơn vị đánh giá bổ nhiệm theo tỷ lệ vị trí, hay đánh giá rồi chưa chắc bổ nhiệm | … … |
 | Mở đầu phần | mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | …chưa đủ 16 tuổi không có lựa chọn "đi làm" (… |
 | Mở đầu phần | mục 2 | Đưa "đi học có dùng không" vào cả sổ tử vong: mỗi thêm một năm học, nguy cơ chết người lớn giảm khoảng 1,9% | …a "đi học có dùng không" vào cả sổ tử vong (… |
 | Mở đầu phần | mục 3 | Trước khi phán "học vấn có mất giá không", nhìn kết cấu học vấn cả nước trước: mỗi 10 vạn người chỉ có 15.467 người có trình độ đại học (điều tra dân số 2020, điều tra mẫu 2025 suy ra khoảng 19%) | …không", nhìn kết cấu học vấn cả nước trước (… |
@@ -1175,6 +1205,7 @@ Tổng cộng 1522 trích dẫn.
 | mục 6 | mục 10 | Chọn kỹ năng ưu tiên nhìn "có phải động tay không, có phải phán đoán tại chỗ không", loại này khó bị tự động hóa thay nhất | … Hai là khả năng chống bị thay thế, bạn xem … |
 | mục 9 | phần 7, mục 13 | Trong thời gian thất nghiệp hãy lĩnh trợ cấp đào tạo nghề, trợ cấp tập sự việc làm và trợ cấp bảo hiểm xã hội, đừng tự trả tiền học lớp | …p đào tạo nghề trong thời gian thất nghiệp (… |
 | mục 9 | phần 7, mục 12 | Đăng ký thất nghiệp xong thì tranh thủ được công nhận người khó khăn về việc làm, lấy trợ cấp bảo hiểm xã hội hoặc vị trí việc làm công ích | …g tối đa 3 lần) và trợ cấp bảo hiểm xã hội (… |
+| mục 9 | phần 7 | 07-song-khi-khong-co-tien (cả phần) | … … |
 | mục 13 | phần 4 | 04-dung-lang-phi-thoi-gian (cả phần) | … Nguyên tắc về điều kiện rút lui mà … |
 | mục 14 | mục 15 | Dàn cùng thời gian ra mấy ngày, đừng học hết một lần | … Tự kiểm tra và … |
 | mục 15 | mục 14 | Học xong gấp sách tự kiểm một lần, đừng quay đầu đọc lại | … Phương pháp này kết hợp tốt nhất với … |
@@ -1218,6 +1249,16 @@ Tổng cộng 1522 trích dẫn.
 | --- | --- | --- | --- |
 | Mở đầu phần | phần 17 | 17-nha-co-nguoi-gia (cả phần) | …giám hộ ý định, di chúc, tài khoản, bạn xem … |
 | Mở đầu phần | phần 19 | 19-di-lam-nghi-viec-va-tai-nan-lao-dong (cả phần) | … Ba khoản chế độ khi chết vì lao động xem … |
+| Mở đầu phần | mục 1 | Người mất ở nhà hay ngoài đường, trước phân rõ chết bình thường hay không bình thường: ngoài ý muốn, chết không rõ nguyên nhân, sống một mình lâu mới phát hiện, báo cảnh sát ngay, thi thể và hiện trường đừng động | … … |
+| Mở đầu phần | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | … … |
+| Mở đầu phần | mục 3 | Đưa đón, lưu giữ, hỏa táng thi thể chỉ đi nhà tang lễ, nhà xác bệnh viện không làm tang lễ, lưu giữ thường không quá 3 ngày | … … |
+| Mở đầu phần | mục 4 | Dị nghị nguyên nhân chết, trong 48 giờ đưa khám nghiệm tử thi, đồng thời phong tỏa bệnh án | … … |
+| Mở đầu phần | mục 5 | Xóa hộ khẩu có thời hạn pháp định: thành thị trước an táng, nông thôn trong một tháng | … … |
+| Mở đầu phần | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | … … |
+| Mở đầu phần | mục 7 | Gặp ép bán kèm, cộng giá ngoài bảng, tách một hạng thành mấy hạng thu tiền, ghi lại rồi khiếu nại | … … |
+| Mở đầu phần | mục 8 | Môi giới đại lý tang lễ, mua hộ đồ dùng, làm chủ trì vân vân, phải đăng ký với dân chính cấp huyện | … … |
+| Mở đầu phần | mục 9 | Tiền nằm rải khắp nơi phải từng chỗ đi lĩnh: dư công tích kim, chế độ bảo hiểm xã hội, chế độ tai nạn lao động | … … |
+| Mở đầu phần | mục 10 | Tài khoản và thông tin cá nhân của người chết, thân nhân gần có thể yêu cầu tra, sao chép, sửa, xóa | … … |
 | mục 1 | mục 2 | Giấy chứng tử là chìa khóa của mọi việc phía sau: ai điều trị người đó khai, chết bình thường tại nhà tìm cơ sở y tế cộng đồng, trong một ngày ký phát | …ều trị thì cơ sở đó khai giấy chứng tử, xem … |
 | mục 3 | mục 6 | Dịch vụ tang lễ chia hạng mục cơ bản và không cơ bản, hạng mục cơ bản có danh mục, phí theo pháp định | …ộc hạng mục cơ bản, đã có giá định sẵn, xem … |
 | mục 4 | phần 24 | 24-di-kham-benh (cả phần) | … Cách phong tỏa bệnh án xem … |
@@ -1234,6 +1275,11 @@ Tổng cộng 1522 trích dẫn.
 | Mở đầu phần | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … đăng ký thế nào, khai thuế thế nào thì xem … |
 | Mở đầu phần | mục 11 | Chọn máy chủ trước xem ngừng máy chịu được không, rồi xem có người vận hành không, cuối cùng mới so giá | … Riêng … |
 | mục 4 | mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 6 | Nội dung người dùng đăng bạn phải quản: cơ chế duyệt, cửa báo cáo, phát hiện vi phạm ngay dừng truyền và báo | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 7 | Cung cấp dịch vụ phát bố thông tin, tin nhắn tức thời, bắt buộc đòi người dùng cung cấp thông tin thân phận thật | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 8 | Không mở livestream cho người chưa đủ 16 tuổi, tặng thưởng theo tuổi chia bậc xử | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 9 | Nhận thông báo xâm quyền phải xử kịp, chuyển tuyên bố xong 15 ngày không có gì thì phục hồi | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
+| mục 4 | mục 10 | Thông tin người dùng đừng tiện tay để ngoài cảnh, xuất cảnh có điều kiện pháp định và nóc số người | …a, tiền ở trong nội địa, nên các nghĩa vụ ở … |
 | mục 9 | phần 9, mục 24 | Dịch truyện tranh sang tiếng Trung, đăng lại phim và phim truyền hình, chia sẻ tài nguyên trên ổ đĩa mạng và sách điện tử lậu: không thu tiền cũng là xâm phạm quyền tác giả; chèn quảng cáo, thu phí hội viên thì có thể bị phán tù | … Về hai trường hợp này, xem … |
 | mục 11 | phần 11, mục 16 | Website, app phải đăng ký ICP trước khi lên kệ; theo yêu cầu bảo vệ cấp độ giữ log ít nhất 6 tháng | …hĩa vụ lưu log 6 tháng và bảo vệ cấp độ xem … |
 
@@ -1328,14 +1374,23 @@ Tổng cộng 1522 trích dẫn.
 
 | Nơi trích | Cú pháp | Mục trỏ tới | Ngữ cảnh |
 | --- | --- | --- | --- |
+| Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | …… |
+| Mở đầu phần | phần 18 | 18-nuoi-con-co-dang-khong (cả phần) | … … |
 | Mở đầu phần | phần 1 | 01-dung-chet-som (cả phần) | …o thông, mũ bảo hiểm và vắc xin HPV bạn xem … |
 | Mở đầu phần | phần 20 | 20-cham-tre-so-sinh (cả phần) | … Trẻ sơ sinh xem … |
 | Mở đầu phần | phần 5 | 05-dung-lang-phi-tien (cả phần) | … Con bị lừa và nạp tiền game xem … |
 | Mở đầu phần | phần 9 | 09-lan-san-do-phap-luat-de-vi-pham (cả phần) | …chưa thành niên đừng tự mình bước qua nằm ở … |
 | Mở đầu phần | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … Cách nhận ra bệnh cấp và cách gọi xe nằm ở … |
 | Mở đầu phần | phần 29 | 29-sau-khi-gap-cu-soc-lon (cả phần) | … Con cái sau khi cha mẹ qua đời xem … |
-| Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …Mục 1 tới … |
-| Mở đầu phần | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …Mục 1 tới … |
+| Mở đầu phần | mục 1 | Con nói đau dữ đột ngột, lại ngày một nặng hơn, lập tức đi bệnh viện, đừng cho nó nhịn tới tan học | …… |
+| Mở đầu phần | mục 2 | Trị liệu đáng làm đừng vì "đợi thi xong" mà kéo sau, có cửa sổ đi theo tuổi xương, không đi theo lịch thi | …… |
+| Mở đầu phần | mục 3 | Con bị bắt nạt, ngay hôm đó báo lên trường và yêu cầu xử lý có văn bản, liên quan đánh người, cướp tiền, tung tin đồn trực tiếp báo cảnh sát | …… |
+| Mở đầu phần | mục 4 | Cho con mỗi ngày ở ngoài trời đủ 2 tiếng, đây là cách phòng cận thị hiện có thử nghiệm rút quẻ đỡ duy nhất | …… |
+| Mở đầu phần | mục 5 | 0 tới 3 tuổi không cho màn hình, 3 tới 6 tuổi tận lực không cho, tiểu trung học sinh không phải dùng học mỗi ngày không quá 1 tiếng | …… |
+| Mở đầu phần | mục 6 | Coi cận thị là tổn thương sẽ lưu lại: độ càng sâu, về sau bong võng mạc, biến tính hoàng điểm, glaucoma càng nhiều | …… |
+| Mở đầu phần | mục 7 | Phiếu báo cáo lần khám thể học sinh mỗi năm phải tự xem một lần, hạng mục bất thường năm đó dẫn con đi bệnh viện tra | …… |
+| Mở đầu phần | mục 8 | Con 12 tới 18 tuổi làm một lần sàng lọc trầm cảm, đừng cầm bài đo tâm lý của trường làm chẩn đoán | …… |
+| Mở đầu phần | mục 12 | Tra ra thị lực kém, đi bệnh viện làm khám khúc xạ có giãn đồng, sau đó tái khám theo khoảng bác sĩ cho | …… |
 | Mở đầu phần | mục 13 | Sau khi răng hàm vĩnh viễn mọc ra làm hàn rãnh gờ | … mục 8, mục 12 (khám khúc xạ có giãn đồng), … |
 | Mở đầu phần | mục 15 | Con nói mình thích cùng giới, đừng mắng, đừng đuổi ra khỏi nhà, đừng gửi đi "chỉnh chuyển": thái độ trong nhà quan hệ nó tự tử hay không | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
 | Mở đầu phần | mục 16 | Quản con đừng ra tay đánh, cũng đừng quát mắng, mắng nó ngu: trẻ hay bị đánh mắng có nhiều vấn đề về hành vi và cảm xúc hơn | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
@@ -1343,6 +1398,9 @@ Tổng cộng 1522 trích dẫn.
 | Mở đầu phần | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | …c xạ có giãn đồng), mục 13 (hàn rãnh gờ) và … |
 | Mở đầu phần | mục 16 | Quản con đừng ra tay đánh, cũng đừng quát mắng, mắng nó ngu: trẻ hay bị đánh mắng có nhiều vấn đề về hành vi và cảm xúc hơn | … Trong đó … |
 | Mở đầu phần | mục 17 | Con khó quản, bạn hay không kìm được mà đánh mắng thì đi học một khóa học dành cho cha mẹ, dạy cách làm cụ thể | …ục 16 (đừng ra tay đánh, đừng quát mắng) và … |
+| Mở đầu phần | mục 18 | Đừng đưa con vào "trường cai nghiện mạng", "trại đặc huấn" quản lý khép kín: luật cấm dùng cách làm tổn hại thân thể và tinh thần để cai nghiện mạng, đã có đứa trẻ bị nhốt đến chết | … … |
+| Mở đầu phần | mục 9 | Không mua sản phẩm và dịch vụ tự xưng "chữa khỏi cận thị" "giảm độ" | … … |
+| Mở đầu phần | mục 10 | Ngủ, bài tập, thể dục và xếp hạng đều có quy định rõ, trường làm không tới có thể đề nghị | … … |
 | Mở đầu phần | mục 11 | Con gánh không nổi có thể nghỉ học, chỗ học trường phải giữ lại cho nó, dài nhất 1 năm | …ịnh rõ về ngủ, bài tập, thể dục, xếp hạng), … |
 | Mở đầu phần | mục 14 | Con mê game, trước xem ngủ, bài tập và ra ngoài hoạt động có bị ép mất không, đừng chỉ soi chơi bao lâu | …xếp hạng), mục 11 (nghỉ học giữ chỗ học) và … |
 | mục 1 | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … xem cách nhận ra bệnh cấp và cách gọi xe ở … |
@@ -1397,8 +1455,6 @@ Tổng cộng 1522 trích dẫn.
 | mục 1 | mục 13 | Ngày thi đại học điền nguyện vọng đã khóa được biên chế hai đường: sư phạm sinh công phí và y sinh định hướng, giá là 6 năm làm theo ước | …ện vọng thi đại học, cái giá phải trả ghi ở … |
 | mục 1 | mục 14 | Muốn ra nước ngoài làm thuê, trước tra công ty này có tư cách kinh doanh hợp tác lao vụ đối ngoại không: nó không được thu bạn đặt cọc | … Cách nhận biết công ty có tư cách xem … |
 | mục 2 | mục 3 | Sau khi ứng chiêu từ chối phục binh dịch, trong hai năm không được xuất cảnh hay lên học phục học, còn vào không được công chức và doanh nghiệp nhà nước | …chỉ phạt người ứng chiêu rồi lại đổi ý, xem … |
-| mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … Luật Binh dịch Điều 57 khoản 1 … |
-| mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … "có hành vi … |
 | mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … đăng ký binh dịch xem … |
 | mục 10 | phần 23, mục 8 | Trước khi bỏ tiền thi chứng chỉ, tra trước chứng này có trong danh mục tư cách nghề quốc gia hay danh sách cơ sở đánh giá đăng ký với Bộ Nhân lực không | …ng chỉ "hàng nhái" không được công nhận xem … |
 | mục 10 | phần 23 | 23-hoc-ky-nang-gi-dang (cả phần) | … giá" là hai chuyện khác nhau, việc sau xem … |
@@ -1559,6 +1615,7 @@ Tổng cộng 1522 trích dẫn.
 | II. Bộ ba phòng cháy | phần 7 | 07-song-khi-khong-co-tien (cả phần) | …ài Thoát hiểm Tránh nạn Đám cháy Kiến trúc, … |
 | II. Bộ ba phòng cháy | phần 13, mục 24 | Cháy thì bò sát đất, sờ cửa rồi mới mở, cửa nóng thì đừng mở; đi cầu thang bộ không đi thang máy, ra rồi đừng quay lại | …mở, đi cầu thang không ngồi thang máy), xem … |
 | II. Bộ ba phòng cháy | phần 1, mục 3 | Lắp máy báo khói; ai mùa đông đốt than hay dùng gas sưởi trong nhà thì lắp thêm máy báo khí CO | … Chuông báo khói xem … |
+| III. Trong túi cấp cứu đ | phần 13 | 13-tinh-huong-khan-cap (cả phần) | … … |
 | III. Trong túi cấp cứu đ | phần 13, mục 12 | Chảy máu nhiều thì trước hết dùng tay ấn chặt vết thương, tay chân ấn không cầm được thì lên garô, đồng thời gọi 120 | …dùng được, vì sao "đừng nới ra xả máu", xem … |
 | III. Trong túi cấp cứu đ | phần 13, mục 14 | Bị bỏng thì lập tức xả nước mát chảy 20 phút, đừng bôi kem đánh răng hay nước tương | …làm một việc, xối nước máy mát 20 phút, xem … |
 | III. Trong túi cấp cứu đ | phần 13, mục 15 | Đột nhiên nổi mẩn toàn thân, không thở nổi hoặc chóng mặt — xử lý theo sốc phản vệ, gọi ngay 120 và nói rõ | …Nó là thuốc kê đơn, phải tìm bác sĩ kê, xem … |
@@ -1589,6 +1646,11 @@ Tổng cộng 1522 trích dẫn.
 | Ba điểm dễ nhầm | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | … Mở công ty thế nào xem … |
 | II. Nghĩa vụ hàng ngày c | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …ược phạt bao nhiêu tiền, viết trong các mục … |
 | III. Chọn máy chủ: ba bậ | phần 26, mục 5 | Cho người dùng lên bán đồ, nền tảng phải kiểm nghiệm đăng ký, báo thông tin, lưu ba năm | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 6 | Nội dung người dùng đăng bạn phải quản: cơ chế duyệt, cửa báo cáo, phát hiện vi phạm ngay dừng truyền và báo | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 7 | Cung cấp dịch vụ phát bố thông tin, tin nhắn tức thời, bắt buộc đòi người dùng cung cấp thông tin thân phận thật | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 8 | Không mở livestream cho người chưa đủ 16 tuổi, tặng thưởng theo tuổi chia bậc xử | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 9 | Nhận thông báo xâm quyền phải xử kịp, chuyển tuyên bố xong 15 ngày không có gì thì phục hồi | … Những nghĩa vụ nền tảng … |
+| III. Chọn máy chủ: ba bậ | phần 26, mục 10 | Thông tin người dùng đừng tiện tay để ngoài cảnh, xuất cảnh có điều kiện pháp định và nóc số người | … Những nghĩa vụ nền tảng … |
 | IV. Ranh giới của tài li | phần 26 | 26-lam-mot-website-hoac-nen-tang (cả phần) | …điều khoản viết trên đây, lấy cột Nguồn của … |
 
 ## docs/nhip-dong-ho-sinh-hoc-va-ca-dem

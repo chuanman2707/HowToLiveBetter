@@ -71,9 +71,9 @@ Sau khi sửa phần 31, mục 1, không còn mục nào thiếu số hay trích
 
 **Báo nhầm**: 08/32, 09/7, 09/22, 11/15, 26/6. Bản VN viết khoảng tiền gọn ("3–10 vạn", "2 đến 20 vạn"), bộ đọc số hiểu số đầu không kèm đơn vị.
 
-## Lỗ hổng của check-refs (ngoài phạm vi lần này)
+## Lỗ hổng của check-refs
+
+Hai lỗ hổng dưới đây đã sửa trên nhánh `sua-check-refs-chu-hoa-toi`, ở cả `check-refs.mjs` và `renumber.mjs`. Tổng trích dẫn từ 1522 lên 1584: thêm 64 trích vốn bị bỏ sót, bớt 2 dòng ở 31/3 vốn là khoản luật ("Điều 57 khoản 1 mục 2", "hành vi mục 2 khoản trước") bị tính nhầm là trích tới mục 2. Mọi trích mới hiện ra đều đã có anchor.
 
 1. **Chữ hoa đầu câu không được quét.** CROSS, WHOLE, SAME khớp `mục`/`phần` phân biệt hoa thường. Trích đứng đầu câu ("Mục 22 (…)", "Phần 18 tính…") không vào bảng đối chiếu, không bị kiểm anchor, bị dồn lệch cũng không ai thấy. Chỗ đang dính: mở đầu phần 11, 12/11 (Nói dễ hiểu), 13/23 (Ghi chú), mở đầu phần 23 (sáu chỗ), 23/9 (Ghi chú, "Phần 7"), mở đầu phần 25 (hai chỗ), mở đầu phần 30 (sáu chỗ), `docs/danh-muc-do-dung-khan-cap-gia-dinh.md` dòng 53. Không đơn giản bật cờ `i`: ba chỗ "Mục N" là khoản của văn bản luật (08 dòng 326 và 362, 09 dòng 196), bật lên sẽ thành trích không anchor.
 2. **Khoảng viết bằng "tới" không được bung.** RANGE và NUMS chỉ nhận "đến". "mục 5 tới 10" chỉ vào bảng thành "mục 5", các mục 6 tới 10 mất. Chỗ đang dính: 26/4, mở đầu phần 23, 25, 30, `docs/lam-nen-tang-can-nhung-giay-phep-gi.md` dòng 64.
-
-Khi viết trích mới, hãy viết chữ thường ("xem mục 22 (…)") và dùng "đến" cho khoảng, cho tới khi check-refs được sửa.

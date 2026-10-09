@@ -10,7 +10,8 @@
 // - trong thân mục: trích chéo phần ở các field Chi phí/Nói dễ hiểu/Lợi ích/
 //   Ghi chú/Nguồn, trích cùng phần ("mục Y") chỉ ở bốn field đầu;
 // - đoạn mở đầu phần: mọi dòng; bài dài docs/: chỉ trích chéo phần.
-// Regex NUMS/CROSS/WHOLE/SAME chép từ check-refs.mjs, đổi bên đó thì đổi đây.
+// Regex NUMS/CROSS/WHOLE/SAME và hàm lawClause chép từ check-refs.mjs, đổi bên
+// đó thì đổi đây. Cả hai nhận "Mục"/"Phần" viết hoa và khoảng viết bằng "tới".
 // Chạy xong bắt buộc: node tools/check-refs.mjs --check, rồi soi diff
 // docs/bang-doi-chieu-trich-dan.md (sync-stats.mjs sinh lại).
 // Tách dòng bằng /\r?\n/, lý do xem đầu check-refs.mjs.
@@ -38,10 +39,14 @@ const map = (x, y) => {
   return y - ds.filter(d => d < y).length;
 };
 
-const NUMS = '\\d+(?:\\s*(?:,|và)\\s*(?:mục\\s*)?\\d+|\\s*đến\\s*(?:(?:mục|phần)\\s*)?\\d+)*';
-const CROSS = new RegExp(`(phần\\s*)(\\d+)(\\s*,?\\s*mục\\s*)(${NUMS})`, 'g');
-const WHOLE = new RegExp(`phần\\s*(${NUMS})`, 'g');
-const SAME = new RegExp(`(mục\\s*)(${NUMS})`, 'g');
+const NUMS = '\\d+(?:\\s*(?:,|và)\\s*(?:[Mm]ục\\s*)?\\d+|\\s*(?:đến|tới)\\s*(?:(?:[Mm]ục|[Pp]hần)\\s*)?\\d+)*';
+const CROSS = new RegExp(`([Pp]hần\\s*)(\\d+)(\\s*,?\\s*[Mm]ục\\s*)(${NUMS})`, 'g');
+const WHOLE = new RegExp(`[Pp]hần\\s*(${NUMS})`, 'g');
+const SAME = new RegExp(`([Mm]ục\\s*)(${NUMS})`, 'g');
+// "mục N" của văn bản luật ("Điều 57 khoản 1 mục 2", "Mục 3 Điều 200"): không đổi số.
+const lawClause = (before, after) =>
+  /(?:Điều|khoản)\s*\d+\s*,?\s*$/.test(before) ||
+  /^\s*(?:khoản\s*(?:\d|trước|này|đó)|Điều\s*\d|của\s*["“《])/.test(after);
 const FIELDS = /^- (Nói dễ hiểu|Lợi ích|Ghi chú|Chi phí):/;
 const CROSS_FIELDS = /^- (Nói dễ hiểu|Lợi ích|Ghi chú|Chi phí|Nguồn):/;
 
@@ -91,7 +96,8 @@ for (const [dir, f] of [...bookFiles.map(f => ['book', f]), ...docFiles.map(f =>
         const masked = [];
         const keep = s => { masked.push(s); return `\u0000${masked.length - 1}\u0000`; };
         let t = l.replace(new RegExp(CROSS.source, 'g'), keep).replace(WHOLE, keep);
-        t = t.replace(SAME, (m0, a, spec) => `${a}${remapNums(x, spec, m0)}`);
+        t = t.replace(SAME, (m0, a, spec, at, str) =>
+          lawClause(str.slice(0, at), str.slice(at + m0.length)) ? m0 : `${a}${remapNums(x, spec, m0)}`);
         l = t.replace(/\u0000(\d+)\u0000/g, (_, k) => masked[Number(k)]);
       }
     }
