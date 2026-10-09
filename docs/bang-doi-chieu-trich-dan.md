@@ -31,7 +31,7 @@ nhiên). Đợt siết này bắt nguồn từ sự cố 2026-09-20 của bản 
 một trích trôi sang mục mới, và một cụm nằm cách hai dấu phẩy tình cờ trùng
 chữ trong tiêu đề mới, `--check` khi đó báo đạt.
 
-Tổng cộng 1516 trích dẫn.
+Tổng cộng 1522 trích dẫn.
 
 ## 01-dung-chet-som
 
@@ -1390,6 +1390,12 @@ Tổng cộng 1516 trích dẫn.
 | mục 1 | phần 23, mục 1 | Chưa đủ 16 tuổi không có lựa chọn "đi làm": đơn vị thuê bạn bị phạt 5000 tệ mỗi tháng, chịu nhận toàn là chỗ thuê chui | … Mức phạt xem … |
 | mục 1 | mục 11 | Không vào đơn vị tức việc làm linh hoạt: dưỡng lão và y tế phải tự tham gia bảo hiểm nơi việc làm, hạn chế hộ tịch đã thả lỏng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
 | mục 1 | mục 12 | Giao đồ ăn, chạy xe gọi trên mạng, kéo hàng đồng thành, nền tảng theo đơn đóng phí bảo đảm tổn thương nghề cho bạn, mình không đóng | …gia bảo hiểm và bảo đảm tổn thương nghề xem … |
+| mục 1 | phần 23, mục 5 | Không đậu THPT không bằng đường đứt: trung cấp có tuyển xuyên suốt và thi riêng, vị trí kỹ năng tuyển dụng còn có thể hạ yêu cầu học vấn | …liên thông giáo dục nghề, bạn xem lối vào ở … |
+| mục 1 | phần 23, mục 4 | "Học không nổi" tính theo chính sách một lượt trước: học phí trung cấp đa số đã miễn, trợ cấp học tập 2300 tệ, vay sinh viên mỗi năm cao nhất 2 vạn | …lo nổi tiền học, bạn xem các khoản hỗ trợ ở … |
+| mục 1 | phần 12 | 12-khoi-nghiep-va-lam-an (cả phần) | …á nhân và chi phí đóng cửa rút lui, bạn xem … |
+| mục 1 | mục 16 | Không vào đơn vị tự làm, tiền khởi bước trước xem vay bảo đảm khởi nghiệp: cá nhân cao nhất 30 vạn, tài chính dán một nửa lãi | …ớc trả thay một phần lãi hay không, bạn xem … |
+| mục 1 | mục 13 | Ngày thi đại học điền nguyện vọng đã khóa được biên chế hai đường: sư phạm sinh công phí và y sinh định hướng, giá là 6 năm làm theo ước | …ện vọng thi đại học, cái giá phải trả ghi ở … |
+| mục 1 | mục 14 | Muốn ra nước ngoài làm thuê, trước tra công ty này có tư cách kinh doanh hợp tác lao vụ đối ngoại không: nó không được thu bạn đặt cọc | … Cách nhận biết công ty có tư cách xem … |
 | mục 2 | mục 3 | Sau khi ứng chiêu từ chối phục binh dịch, trong hai năm không được xuất cảnh hay lên học phục học, còn vào không được công chức và doanh nghiệp nhà nước | …chỉ phạt người ứng chiêu rồi lại đổi ý, xem … |
 | mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … Luật Binh dịch Điều 57 khoản 1 … |
 | mục 3 | mục 2 | Năm mười tám tuổi trước 31 tháng 10 phải làm đăng ký binh dịch; nghĩa vụ binh phục hiện dịch là hai năm | … "có hành vi … |
